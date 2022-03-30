@@ -14,5 +14,5 @@ jobs:
         with:
           java-version: '8'
           distribution: 'adopt'
-      - name: cron test
-        run : cron test print
+      - name: test
+        run : echo test print
