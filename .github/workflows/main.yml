@@ -1,0 +1,20 @@
+name: test
+
+on:
+  schedule :
+  - cron : '*/5 * * * *'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set Up JDK 8
+        uses: actions/setup-java@v2
+        with:
+          java-version: '8'
+          distribution: 'adopt'
+      - name: cron test
+        run : cron test print
