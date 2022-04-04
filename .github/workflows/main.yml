@@ -27,8 +27,8 @@ jobs:
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
           restore-keys: ${{ runner.os }}-m2    
       
-#       - name: run
-#         run: mvn compile exec:java -
+      - name: run
+        run: mvn compile exec:java -
       
       - name: file listing
         run: ls -al
