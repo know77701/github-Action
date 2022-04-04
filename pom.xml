@@ -5,7 +5,18 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>githubAction</name>
   <description>walletCrawler in github Action</description>
-  
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>exec-maven-plugin</artifactId>
+            <version>3.0.0</version>
+            <configuration>
+                <mainClass>com.wallet.UpbitHotWallet</mainClass>
+            </configuration>
+        </plugin>
+    </plugins>
+  </build>
   <dependencies>
   			<!-- json -->
 		<dependency>
