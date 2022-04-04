@@ -28,7 +28,7 @@ jobs:
 #         run: mvn -B package --file pom.xml
       
       - name: run
-        run: mvn compile exec:java
+        run: mvn compile exec:java -
       
       - name: file listing
         run: ls -al
