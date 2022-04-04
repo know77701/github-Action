@@ -26,11 +26,6 @@ jobs:
       
       - name: Build with Maven
         run: mvn -B package --file pom.xml
-      
-      - name: test
-        run: echo Testcode
         
-      - name: class file create
-        run: javac test.java
-      - name: java run
-        run: java test
+      - name: maven run
+        run: mvn exec:java -Dexec.mainClass=test.java
