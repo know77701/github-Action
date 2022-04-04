@@ -24,7 +24,7 @@ import org.quartz.JobExecutionException;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public class UpbitHotWallet {
+public class test {
 
  	private static final String url = "https://etherscan.io/address-tokenpage?m=normal&a=0x1938A448D105D26C40A52A1BFE99B8CA7A745AD0";
  	private static String fileName = getToday() + ".json";
