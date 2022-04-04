@@ -48,6 +48,7 @@
 	</dependency>
 </dependencies>
 <build>
+ <plugins>
     <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-compiler-plugin</artifactId>
@@ -60,5 +61,6 @@
 	    <showDeprecation>true</showDeprecation>
 	</configuration>
     </plugin>
+  </plugins>
 </build>
 </project>
