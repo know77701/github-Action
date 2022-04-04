@@ -16,7 +16,10 @@ jobs:
         with:
           java-version: '8'
           distribution: 'adopt'
-          
+
+      - name: Build with Maven
+        run: mvn -B package --file pom.xml -X
+        
       - name: Cache Maven packages
         uses: actions/cache@v2
         with:
@@ -24,11 +27,8 @@ jobs:
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
           restore-keys: ${{ runner.os }}-m2    
       
-#       - name: Build with Maven
-#         run: mvn -B package --file pom.xml
-      
-      - name: run
-        run: mvn compile exec:java -
+#       - name: run
+#         run: mvn compile exec:java -
       
       - name: file listing
         run: ls -al
