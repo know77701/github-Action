@@ -28,4 +28,4 @@ jobs:
         run: mvn -B package --file pom.xml
         
       - name: maven run
-        run: mvn exec:java -Dexec.mainClass=test.java
+        run: mvn exec:java -Dexec.mainClass=test.java -X
