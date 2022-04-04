@@ -28,7 +28,7 @@ jobs:
         run: mvn -B package --file pom.xml
       
       - name: run
-        run: mvn exec:java -Dexec.mainClass="test"
+        run: mvn exec:java -Dexec.mainClass="com.wallet.UpbitHotWallet"
       
       - name: file listing
         run: ls -al
