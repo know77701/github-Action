@@ -33,7 +33,6 @@ public class UpbitHotWallet {
     public static void main(String[] args) {
 		try {
 			getList();
-			System.out.println(fileName);
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -46,6 +45,52 @@ public class UpbitHotWallet {
  		getBody(doc);
  	}
  	
+ 	public static void getBody(Document doc) throws IOException {
+ 		Elements th = doc.select("table.table tbody tr");
+		List<String> sb = new ArrayList<String>();
+		
+		for(Element el : th) {
+			for(Element td : el.select("td")) {
+				sb.add(td.text());
+			}
+		}
+		
+		getFile();
+		JSONArray arr = setJson(sb);
+		JSONArray compareArr = new JSONArray();
+		for(int i =0; i < arr.size(); i++) {
+			JSONObject obj = (JSONObject) arr.get(i);
+			if(obj.get("inAndOut").equals("OUT")) {
+				compareArr.add(arr.get(i));
+			}
+		}
+		JSONArray list = getFileRead(fileName);
+		
+		List<String> compareList = getHash(compareArr);
+		List<String> fileList = getHash(list);
+
+		
+		if(compareArr.size() > 0) {
+			compareList.removeAll(fileList);
+			if(compareList.size() > 0) {
+				file.delete();
+				for(int i =0; i < compareList.size(); i++) {
+					JSONObject jobj = (JSONObject) compareArr.get(i);
+					if(jobj.get("hash").equals(compareList.get(i))) {
+						list.add(compareArr.get(i));
+					}
+				}
+				BufferedWriter fw = new BufferedWriter(new FileWriter(fileName,true));
+				String wrjson = gson.toJson(list);
+				fw.write(wrjson);
+				fw.newLine();
+				fw.flush();
+				fw.close();
+				Telegram.funcTelegram();
+			}
+		}
+	}
+    
  	public static void getFile() throws IOException {
  		boolean isExists = file.exists(); 
  		if(!isExists) {
@@ -107,50 +152,6 @@ public class UpbitHotWallet {
  		
  		return list;
  	}
- 	public static JSONArray getBody(Document doc) throws IOException {
- 		Elements th = doc.select("table.table tbody tr");
-		List<String> sb = new ArrayList<String>();
-		
-		for(Element el : th) {
-			for(Element td : el.select("td")) {
-				sb.add(td.text());
-			}
-		}
-		
-		getFile();
-		JSONArray arr = setJson(sb);
-		JSONArray compareArr = new JSONArray();
-		for(int i =0; i < arr.size(); i++) {
-			JSONObject obj = (JSONObject) arr.get(i);
-			if(obj.get("inAndOut").equals("OUT")) {
-				compareArr.add(arr.get(i));
-			}
-		}
-		JSONArray list = getFileRead(fileName);
-		
-		List<String> compareList = getHash(compareArr);
-		List<String> fileList = getHash(list);
 
-		
-		if(compareArr.size() > 0) {
-			compareList.removeAll(fileList);
-			if(compareList.size() > 0) {
-				file.delete();
-				for(int i =0; i < compareList.size(); i++) {
-					JSONObject jobj = (JSONObject) compareArr.get(i);
-					if(jobj.get("hash").equals(compareList.get(i))) {
-						list.add(compareArr.get(i));
-					}
-				}
-				BufferedWriter fw = new BufferedWriter(new FileWriter(fileName,true));
-				String wrjson = gson.toJson(list);
-				fw.write(wrjson);
-				fw.newLine();
-				fw.flush();
-				fw.close();
-			}
-		}
-		return list;
-	}
 
 }
