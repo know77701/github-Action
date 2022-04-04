@@ -7,7 +7,7 @@
   <description>walletCrawler in github Action</description>
   <properties>
 	<java-version>1.8</java-version>
-  </rpoperties>
+  </properties>
   <dependencies>
   			<!-- json -->
 		<dependency>
