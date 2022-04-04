@@ -28,7 +28,7 @@ jobs:
           restore-keys: ${{ runner.os }}-m2    
       
       - name: run
-        run: mvn compile exec:java -
+        run: mvn compile exec:java
       
       - name: file listing
         run: ls -al
