@@ -1,8 +1,8 @@
 name: test
 
-on:
-  schedule:
-    - cron: "0/1 * * * *"
+on: [push]
+#   schedule:
+#     - cron: "0/5 * * * *"
 
 
 jobs:
@@ -28,4 +28,9 @@ jobs:
         run: mvn -B package --file pom.xml
       
       - name: test
-        run : echo Testcode
+        run: echo Testcode
+        
+      - name: class file create
+        run: javac test.java
+      - name: java run
+        run: java test
