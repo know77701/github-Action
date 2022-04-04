@@ -86,7 +86,6 @@ public class UpbitHotWallet {
 				fw.newLine();
 				fw.flush();
 				fw.close();
-				Telegram.funcTelegram();
 			}
 		}
 	}
