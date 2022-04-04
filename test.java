@@ -1,7 +1,32 @@
+package walletCrawler.crawler;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.Reader;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 public class test {
 
-	private static final String url = "https://etherscan.io/address-tokenpage?m=normal&a=0x1938A448D105D26C40A52A1BFE99B8CA7A745AD0";
-	private static String fileName = "src/main/resources/" + getToday() + ".json";
+ 	private static final String url = "https://etherscan.io/address-tokenpage?m=normal&a=0x1938A448D105D26C40A52A1BFE99B8CA7A745AD0";
+ 	private static String fileName = "src/main/resources/" + getToday() + ".json";
 	private static File file = new File(fileName);
     private static Gson gson = new GsonBuilder().setPrettyPrinting().create();
 	
@@ -114,7 +139,7 @@ public class test {
 				for(int i =0; i < compareList.size(); i++) {
 					JSONObject jobj = (JSONObject) compareArr.get(i);
 					if(jobj.get("hash").equals(compareList.get(i))) {
-						list.add(compareArr.get(i));
+						list.add(compareArr.get(i));s
 					}
 				}
 				BufferedWriter fw = new BufferedWriter(new FileWriter(fileName,true));
@@ -123,7 +148,6 @@ public class test {
 				fw.newLine();
 				fw.flush();
 				fw.close();
-//				Telegram.funcTelegram();
 			}
 		}
 		return list;
