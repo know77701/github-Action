@@ -34,6 +34,8 @@ jobs:
         run: ls -al
         
       - name: Set current date as env variable
-        run: sudo git add 20220406.json
-             sudo git commit
-             usdo git push -u origin master
+        with:
+          script:
+            sudo git add 20220406.json
+            sudo git commit
+            sudo git push
