@@ -274,5 +274,29 @@
     "value": "1,522.092334806193104954",
     "hash": "0xec9cc206cc0da2672535b296f1710ca55fbbad11f9ec87a9319c2f09c6efc453",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,871.763926379308074868",
+    "hash": "0xa47869be2c9ad59a5e7b92c65e403ff10095c1c67dc1c16ab2fe02f147a195d4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,188.636073620691925132",
+    "hash": "0x7124993617ae4d44d230b31047f92affcc1baf89c3b4a062f782faee8f0d544e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,676.95847965",
+    "hash": "0xf4f958d58ec8a679557be7d4fe5bf18f7668132e22cb44172ea7f2884e1d334e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "466.3781",
+    "hash": "0x962b704041ed75d0d2f6bcd0d0978261ffd67d7fc8bbab78875d4ff929ab2461",
+    "token": "Immutable X (IMX)"
   }
 ]
