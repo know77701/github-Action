@@ -472,5 +472,17 @@
     "value": "108,978.238",
     "hash": "0xe4b4e8b67f27485bc8483531afc14d06d26015676d792e0d9f6c28f39d674b2b",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,991.63",
+    "hash": "0x3679328495f98af747019f610f6aff578b567f18e6d79ef419e794ebd546abe1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "972,412.628562976342195868",
+    "hash": "0x964af7c78d8f4fe7c5c6b4b64de822d302c748239a617437ea845808f08f342f",
+    "token": "1INCH Token (1INCH)"
   }
 ]
