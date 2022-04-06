@@ -52,5 +52,29 @@
     "value": "10,285",
     "hash": "0x37864e032f85b455a2ca21d4c17bc3a4adf1fc6f44a8a27e60aebc321c9c6cf9",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,382",
+    "hash": "0x3ba6d80c156a06bc3bd625229c571a062493bcc218eee5f832bfd39f5e24b740",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,760,840.711070488351178871",
+    "hash": "0x98ff54d8a7f716b6b76a2e0508c694c9db7025ea2c0780fdcf83f2b8039b9653",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "566,576.288929511648821129",
+    "hash": "0xbe64438503ac047bcbd7479fb7fa57bd420350597339124dd868f08239cfb392",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,417.9585595",
+    "hash": "0x5966e468ee3766c1d1d772c50a09c328e3fe656ce4cb6cfd27e95c1407b6a91b",
+    "token": "SAND (SAND)"
   }
 ]
