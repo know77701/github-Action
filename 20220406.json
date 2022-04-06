@@ -592,5 +592,17 @@
     "value": "1,131",
     "hash": "0x4dad0735f4fb076dfbe853eba4bad8e5980cbbb03773f0dec3c101bcdd9694ac",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,979",
+    "hash": "0x4a991f0a535a4a1e6e454170bf7b49e7ede0372140fdbee6c906480da09753ca",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "435.99",
+    "hash": "0xec7164de294983da0e4bdce31ede0bd332fdc2472889466ca3babd63273251f0",
+    "token": "Mask Network (MASK)"
   }
 ]
