@@ -42,5 +42,5 @@ jobs:
 #          git commit -m "git commit"
 #          git status
       - name: Push
-        run: git push origin master --allow-unrelated-histories
+        run: git push
 
