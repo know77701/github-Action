@@ -76,5 +76,77 @@
     "value": "10,417.9585595",
     "hash": "0x5966e468ee3766c1d1d772c50a09c328e3fe656ce4cb6cfd27e95c1407b6a91b",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "611.81",
+    "hash": "0x2aebdf844df2551666bee1cf41c7907bee8113348aa599fcd774c3b3ceda32d8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "233,864.57885769",
+    "hash": "0x0a0f4e2a94da62c3afd0f1de6227e964158122cf626e9f066ef3ae49b7857fc9",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,100",
+    "hash": "0x4cbe8ccc39f43361d609f22da537d52b41d32722031ade7c55215c6b7f3c70f7",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,119.275729584301303278",
+    "hash": "0xdee7dd8b65397125dbec23335ebceaf5fa23551dac827c42a8379b5dc7bc126a",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,063.125472",
+    "hash": "0xb4640467c92b24028129f5f71ae0d2c2eefa42fb05e098d00357f01ed99a2d84",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,314.23241768",
+    "hash": "0xae128ddc602128e219404036fdc9ea4be68d0e24f5e91f5e02588563e6c23100",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "285,155.632151515698506514",
+    "hash": "0x5d15914be2352e87a151eae058785ee86fa533e3c2a429ebacf12bcdb4b058aa",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,993.811554329352057222",
+    "hash": "0x7b3b5751cc122ed768ca1149b68f5c7b182b0d0fe924c8debdc4eef7a9d22a01",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,342.371529543133566766",
+    "hash": "0xafab567d64a31c4ae4880a752c6b0d0650208d889a7fcfbbf64b37ac9c8c8cd9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,147.315376",
+    "hash": "0x29649b92b093d115f4bcd32a1616145b1849c28b040458e9c3ccfa459c548b55",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,663.68653024",
+    "hash": "0xd6b5662f36d9f6ecb1af041a141ef8564b0ecdacb0f076fe6335fac53c5a3904",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,663.631042586866436306",
+    "hash": "0xa452d5271363605a0a5634103596d9d82050a9145092fcc0f8b1cc8801f60f4a",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
