@@ -298,5 +298,17 @@
     "value": "466.3781",
     "hash": "0x962b704041ed75d0d2f6bcd0d0978261ffd67d7fc8bbab78875d4ff929ab2461",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,225.27172697681035264",
+    "hash": "0x26de77eac6fd0e1a9de44cdeb336ca9b4d7ae10ff9444c12ec563003dc5aa48c",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,543.525082360236736512",
+    "hash": "0x1bc927510db1944c30df57c09ddce65f3a3ca832f6a16e7ac662c60836f99891",
+    "token": "1INCH Token (1INCH)"
   }
 ]
