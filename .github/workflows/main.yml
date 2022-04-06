@@ -34,16 +34,16 @@ jobs:
         run: ls -al
         
       - name: Commits
-        run: |
-          git config --local user.email "know77701@gmail.com"
-          git config --local user.name "know77701"
-          git pull origin master
-          git add 20220406.json
-          git commit -m "git commit"
-          git status
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          branch: 'master'
-          github_token: $ 
+        run: git status
+#          git config --local user.email "know77701@gmail.com"
+#          git config --local user.name "know77701"
+#          git pull origin master
+#          git add 20220406.json
+#          git commit -m "git commit"
+          
+#       - name: Push
+#         uses: ad-m/github-push-action@master
+#         with:
+#           branch: 'master'
+#           github_token: $ 
 
