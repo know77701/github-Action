@@ -226,5 +226,11 @@
     "value": "35,473.904",
     "hash": "0x6a24063025882069a7c806eca59c75fe81f382b5619a9d351e7b64d4b2fcf393",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,301,666.97125374",
+    "hash": "0x73dcd5ff23f5e3e84b0a725a05d47e7c9909ec021924f1207a9e5b745b26e991",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
