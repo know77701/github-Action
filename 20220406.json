@@ -346,5 +346,17 @@
     "value": "49,033",
     "hash": "0x8d7cbd8fb4383b269d1363b1b35fcb3ab59089540997a9cb6e3ac5f365e0c12b",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "109,924.833210521174694916",
+    "hash": "0x3a6287a8a20cda7431f9e537702a57669ae8df7bd637ade18428a116d5bf20ac",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,128.311111544917082134",
+    "hash": "0x4b155d7fe7177a97dad70aa03d154facc49fad280d3f9e2181b48ec40401e3e0",
+    "token": "OMG Network (OMG)"
   }
 ]
