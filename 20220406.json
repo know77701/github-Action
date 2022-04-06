@@ -484,5 +484,17 @@
     "value": "972,412.628562976342195868",
     "hash": "0x964af7c78d8f4fe7c5c6b4b64de822d302c748239a617437ea845808f08f342f",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,239.4",
+    "hash": "0x9909484807eb4ad4c7309e64e48b25021bcbd2a712ee22e670d0d3078cbfe054",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "253,405.5",
+    "hash": "0x7a4103e78c5045ae2053910afba7661156d082c5161f65b37f69fd9ab9adf779",
+    "token": "Decentraland (MANA)"
   }
 ]
