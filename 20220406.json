@@ -526,5 +526,11 @@
     "value": "111,111",
     "hash": "0xe3f50f69373cc82c22221004c3277524b1164d63274c7b97c5428d80970879d3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16.55",
+    "hash": "0x0c08ff920ba5a25d3f09269c9e7d72cef88bc00ff1da019a9fb233da3678420a",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
