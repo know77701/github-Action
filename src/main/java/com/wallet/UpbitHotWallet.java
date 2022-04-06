@@ -33,6 +33,7 @@ public class UpbitHotWallet {
     public static void main(String[] args) {
 		try {
 			getList();
+			System.out.println(fileName);
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -86,12 +87,13 @@ public class UpbitHotWallet {
 				fw.newLine();
 				fw.flush();
 				fw.close();
+				Telegram.funcTelegram();
 			}
 		}
 	}
     
  	public static void getFile() throws IOException {
-		file.mkdir();
+ 		file.mkdirs();
  		boolean isExists = file.exists(); 
  		if(!isExists) {
 			file.createNewFile();
