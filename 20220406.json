@@ -238,5 +238,41 @@
     "value": "20,320",
     "hash": "0x586b0fbb316bf0530d7155400d83e8326b8d397ae05e2de2ea4236ec267e3d92",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,297.587",
+    "hash": "0x22374acbb84227f011cb075a5321c75a930e34fdb2448fc016b37d4f2808ec0b",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,035",
+    "hash": "0x6a3694f5680b15bd9bc48ae9df3447c11af1a1f60126bbd77530252061450ecc",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "316,581",
+    "hash": "0x6d8025173aedff7713c3cb0fba555d516f99959019a7132a6e89f1a5de74ae5c",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "241,891.43808928",
+    "hash": "0x51e0e7a4e1cde9604e15006cb25d49a9a5647c64336323f8ef43cce97f618bbd",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,172.446",
+    "hash": "0x8517839bf077b897414a2d48256fc76509150b0426a304c82088f088a38d37a0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,522.092334806193104954",
+    "hash": "0xec9cc206cc0da2672535b296f1710ca55fbbad11f9ec87a9319c2f09c6efc453",
+    "token": "1INCH Token (1INCH)"
   }
 ]
