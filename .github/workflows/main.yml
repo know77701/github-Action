@@ -33,9 +33,14 @@ jobs:
       - name: file listing
         run: ls -al
         
-      - name: Set current date as env variable
+      - name: git Commits
+        run: |
+          git config --local user.email "know77701@gmail.com"
+          git config --local user.name "know77701
+          git add 20220406.json
+          git commit -m "gitcommit
+      - name: Push
+        uses: ad-m/github-push-action@master
         with:
-          script:
-            sudo git add 20220406.json
-            sudo git commit
-            sudo git push
+          branch: 'master'
+          github_token: $ 
