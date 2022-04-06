@@ -214,5 +214,11 @@
     "value": "22,572.843",
     "hash": "0xeafd191e3f4e5f33ee5908ed43e4cef378f6fe5011fcf2c73f7f37a713b4088f",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,123",
+    "hash": "0x9583ab6d8438f39dca7f5fa26d6d89789997f0e77ba9b07b38037d1f68b0e4a6",
+    "token": "NuCypher (NU)"
   }
 ]
