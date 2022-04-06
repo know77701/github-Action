@@ -1,8 +1,8 @@
 name: test
 
-on:
-   schedule:
-     - cron: '0/5 * * * *'
+on: [push]
+#    schedule:
+#      - cron: '0/5 * * * *'
 
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
         run: ls -al
         
       - name: Commits
-        run: |
+        run: if{{20220406.json != null}} then
          git config --local user.email "know77701@gmail.com"
          git config --local user.name "know77701"
          git add 20220406.json
