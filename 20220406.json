@@ -442,5 +442,11 @@
     "value": "18,724.139",
     "hash": "0x44d3085cca11d6fdef6ca9ebb0e72b5770bc99fd98b4c985039495172f51b018",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,984.934",
+    "hash": "0x994bc76f6ca1cb6480906a95aeb4f4b993b44e6ccd4a377e3951a849e29be3c6",
+    "token": "SAND (SAND)"
   }
 ]
