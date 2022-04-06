@@ -232,5 +232,11 @@
     "value": "9,301,666.97125374",
     "hash": "0x73dcd5ff23f5e3e84b0a725a05d47e7c9909ec021924f1207a9e5b745b26e991",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,320",
+    "hash": "0x586b0fbb316bf0530d7155400d83e8326b8d397ae05e2de2ea4236ec267e3d92",
+    "token": "NuCypher (NU)"
   }
 ]
