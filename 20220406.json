@@ -1,0 +1,38 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "45,673.16627065",
+    "hash": "0x83d498fa97efae916e22ece26b6d1f34f09bf979572fc8ace77f60ad3348113d",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,038.01906511",
+    "hash": "0x8cc2b9b0f767cf953ad338118c2f3e0727a5bb9597d66d2a99d7cc575cf837a1",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,481.765987060000000877",
+    "hash": "0x0543c7634c0150e65cd8ebf744e62cc87f2f608b220be0ae0a8c95839e751c7e",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,029",
+    "hash": "0x550db9369f4def24cda996fff4891506c7f9fa280dcb74f2ed6130f86a19b193",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,496,662.074",
+    "hash": "0x9c5ef8e70d671987d3462073627fa7840be36d65ed4d2a11511d946418b266ed",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,000",
+    "hash": "0x1b6cac4e33cad35a0c500d799c9282d493fba22792d5cf4a82a71243222674b0",
+    "token": "Dai Stableco... (DAI)"
+  }
+]
