@@ -34,5 +34,23 @@
     "value": "6,000",
     "hash": "0x1b6cac4e33cad35a0c500d799c9282d493fba22792d5cf4a82a71243222674b0",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,224.85546607",
+    "hash": "0xced3eaaed6afb9c439e18065d47828e05a0dda55acc2b58f629e8bc1e8d3260d",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "144,019.2490005",
+    "hash": "0x8e7a8955549e1118c2fa212e1960d573d75c90ab963f98844f2a7a47dac43106",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,285",
+    "hash": "0x37864e032f85b455a2ca21d4c17bc3a4adf1fc6f44a8a27e60aebc321c9c6cf9",
+    "token": "NuCypher (NU)"
   }
 ]
