@@ -34,7 +34,6 @@ jobs:
         run: ls -al
         
       - name: Commits
-        if: 20220406.json != null
         run: |
          git config --local user.email "know77701@gmail.com"
          git config --local user.name "know77701"
