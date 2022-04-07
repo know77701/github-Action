@@ -370,5 +370,11 @@
     "value": "793.37",
     "hash": "0x933c7c1b7be2b3e43757aa20927a52f6cc38da74f5b2f1d7e0fbe5c1f984a989",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,010.25966318",
+    "hash": "0x40902a917d28659a316d9b0d9a432375728ca924da48841dc9a978d275a9c1db",
+    "token": "Humanscape (HUM)"
   }
 ]
