@@ -310,5 +310,11 @@
     "value": "175,349.565231795746363137",
     "hash": "0x508488e2ca19d56852febea957281a30e763e48e562b06c60763a03d9feeac75",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,308.554478204253636863",
+    "hash": "0xdd2fed2840ec24172d8187e483d405303c9b6e51d22c624f240850c246c0aa21",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
