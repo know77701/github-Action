@@ -490,5 +490,23 @@
     "value": "3,034.380720227971811728",
     "hash": "0xac54ed27669c36f0ce0eb82d97c8428484330406a8e38a9d3186203a1c0ef859",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,555.128100000000000812",
+    "hash": "0x98d9ec1a1c4084ea59178a8d80444fe8dc5af6f28f181b7a485d9cec0942bfa9",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,795,642.923063809781655309",
+    "hash": "0x7d536c536505cfdca051ae17a0bdfa33c200ec2ec50d23848ebf57497427c324",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,240.163226733180718828",
+    "hash": "0x997012011c16533386b08b739b000a3b60b231124597eccae22e5e4b6d6464d6",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
