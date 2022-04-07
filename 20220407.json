@@ -244,5 +244,29 @@
     "value": "333,000",
     "hash": "0xe4eef9da21489027cfec1ea9c2be2978b2cc1b865fcc044dffbb57c770af1995",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,622,726.88073342",
+    "hash": "0x00516f3e39b55a1e3f53e62b371c8c9399c5bb6b82af9b5902cec9deca990f12",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "127,611.56940556",
+    "hash": "0x9954f3adbfe2c4804ad095998aaad5e155312e6c01842e5aef5534afcfc8fc57",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "613,853.87580965",
+    "hash": "0xcf5e722b597c50673f698714e1d477b56b57a181ed9b314c97aa6195f90187e5",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,057,448.037074180580496022",
+    "hash": "0x85c8b209f773f5685dd1150d6ab45e9fd66527fb429b1c886565a7be159aca2a",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
