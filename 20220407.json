@@ -418,5 +418,41 @@
     "value": "40,033",
     "hash": "0x7ab4993d2c2f99ccb4a1be94012fc327c511f2f02368f0b0b8c0ef4f3bbe03a8",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "269,158.22",
+    "hash": "0x3deb57c08210a448f6f4a6138eb80f967aec3128f28744037f0bcff4c8613add",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "510,897.34599999",
+    "hash": "0x158fb4460cf967a3b8171b0a57bd56c35242ab56912e56089f1058c8a98f6434",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "683,390.46886715",
+    "hash": "0xa0de4f786e58a5b4764043649c6ae9dc3322a1ffac1722bf7c5908dca6f5d401",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "265,540.5",
+    "hash": "0x2e74be9d899a0460196c275c9bb83b80831c25a3202a57f145103d2cfb931ab7",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,246",
+    "hash": "0xdda140bec8a3dd1cf667d83c456fafe3f14f2021e34b8ec2fcd0b08819805c44",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,086,083.058399230000013117",
+    "hash": "0xd1eebfb3329c25f66c95042836797bbfac002ab76902f8ecfaf2a527f688f638",
+    "token": "district0x (DNT)"
   }
 ]
