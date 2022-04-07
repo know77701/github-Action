@@ -322,5 +322,17 @@
     "value": "58,778.56741031",
     "hash": "0x81abcdaf6b4b2bbd9667eb6d50dec5b952298bb5a1c772f07d76b7310d6832c3",
     "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,892.89928509",
+    "hash": "0x668413f3dc99ab37ef417e391e03e372836ce922acdd5f4ecddfa885ae20ec71",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "435,000",
+    "hash": "0x9d4db9a93649cccd088599565b5a5486595a1c97ee9debae526960b0ae344259",
+    "token": "chiliZ (CHZ)"
   }
 ]
