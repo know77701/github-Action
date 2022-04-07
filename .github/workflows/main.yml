@@ -37,7 +37,7 @@ jobs:
         run: |
          git config --local user.email "know77701@gmail.com"
          git config --local user.name "know77701"
-         git add 20220406.json
+         git add 20220407.json
          git commit -m "json file update"
          git push
          git status
