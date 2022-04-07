@@ -628,5 +628,11 @@
     "value": "58,232.84837786",
     "hash": "0x3a9013571cb67daf5a4f7ebdd9e511e254021c518d720e091e118c6fb2fae824",
     "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,480.84412101",
+    "hash": "0x9ac21d7692df1190925a3e9ce01e2b0d6a7e3032b3a8dd3a5841dc23c18120ea",
+    "token": "Mass Vehicle... (MVL)"
   }
 ]
