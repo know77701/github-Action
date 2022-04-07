@@ -334,5 +334,17 @@
     "value": "435,000",
     "hash": "0x9d4db9a93649cccd088599565b5a5486595a1c97ee9debae526960b0ae344259",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,044.06637277",
+    "hash": "0xcb7b6e15662ea3afb75c70e82951131ad42199a029a129a3b82f9a0170fb5abb",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,281.30684",
+    "hash": "0x29dd51ee541bc32c2b79287f97b9174ac2b83ed170df47272bc49e74bf04e3be",
+    "token": "Decentraland (MANA)"
   }
 ]
