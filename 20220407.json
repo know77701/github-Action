@@ -550,5 +550,11 @@
     "value": "1,889.7551077",
     "hash": "0x8c00b4da562d7c9145a146005d310a8aaeed2760b4d569efc795b588ce194d0c",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,397.37771694",
+    "hash": "0xf2caaa1b92fc2ca282fb77c00cf4b2f9e0b7c7f080907855cd1dbcee6d815105",
+    "token": "chiliZ (CHZ)"
   }
 ]
