@@ -466,5 +466,29 @@
     "value": "900,899.157839412962236632",
     "hash": "0xe5a41f56884d97c626e6a667d3f979b397d9b3b9fa27565b05c1e3a49929c7bb",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,245,634.631710180218344691",
+    "hash": "0x29da0b639893ff7eea8be533dfd1f9a2290e305391ed72755cf7969be79a1ec1",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,288.047302706819281172",
+    "hash": "0x25dab3cb29c71b048f23fa332b3f3220fbe6cd61137b18f024897df5b76fec98",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,539.082517472028188272",
+    "hash": "0x6f72250bb859bcda221a6fb63b4375931fe3fbcc7fa096bdc974b8e98c5df586",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,034.380720227971811728",
+    "hash": "0xac54ed27669c36f0ce0eb82d97c8428484330406a8e38a9d3186203a1c0ef859",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
