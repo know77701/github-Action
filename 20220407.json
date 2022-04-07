@@ -538,5 +538,17 @@
     "value": "230,013.433023492311907799",
     "hash": "0xfc46569110f0d1502e4710c02b5c9eae76cd76417d0680477cdfce18891b894f",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,000",
+    "hash": "0xc350b764acdf9c9205c10a4afb447786062a54ce168eda9f4b0e98d0b4ce6fd8",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,889.7551077",
+    "hash": "0x8c00b4da562d7c9145a146005d310a8aaeed2760b4d569efc795b588ce194d0c",
+    "token": "Storj (STORJ)"
   }
 ]
