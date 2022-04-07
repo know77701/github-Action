@@ -388,5 +388,35 @@
     "value": "100,379.786502649109373966",
     "hash": "0x98c282fa663fb8687fc23ab100f07fbbd3c978127b7daabd79030cf26e76ac4d",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "862,878.7782361475",
+    "hash": "0x3e4adabbfa2ce6da0fc6464ebc306cc0cfd8c18e673f45d441e5044370668ee4",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,398.250955",
+    "hash": "0x62f5a4f06c03cef9480bc0d23be5d4e92dfdfc84cc32f38382d4ec1853b57877",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "887,672.409803575572293903",
+    "hash": "0xd976aabd9869f34586d3a8561bbac10a20277dedcdf727eaac66ea23d12f6ddd",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,811.704741334427706097",
+    "hash": "0x57b2114cb31dac37b9fe4b9d6ae722e496ed14d83bd4c73b734560313790fd1d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,033",
+    "hash": "0x7ab4993d2c2f99ccb4a1be94012fc327c511f2f02368f0b0b8c0ef4f3bbe03a8",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
