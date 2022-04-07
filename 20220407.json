@@ -214,5 +214,11 @@
     "value": "105,718",
     "hash": "0xd24adf4af6c3b30fb8c48c8ef06fbfdce5317dec98edc13fc194fa3b12081360",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,851.363447086403310821",
+    "hash": "0x1cea75abd5203e7d2930de1b19b1ee340c177e3878ad980104b11d8c35e4c3f8",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
