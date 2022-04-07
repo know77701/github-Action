@@ -304,5 +304,11 @@
     "value": "4,674.73075",
     "hash": "0x9e385010244c00aa30eb4ee16715bfdef33d242503857176805fc0854916f6b4",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,349.565231795746363137",
+    "hash": "0x508488e2ca19d56852febea957281a30e763e48e562b06c60763a03d9feeac75",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
