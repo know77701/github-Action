@@ -634,5 +634,11 @@
     "value": "58,480.84412101",
     "hash": "0x9ac21d7692df1190925a3e9ce01e2b0d6a7e3032b3a8dd3a5841dc23c18120ea",
     "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,111,429.36484088",
+    "hash": "0xc0cae72f8aef375f8b9442de178a2bb1f45c8b8b96ac787e05338c115afd33af",
+    "token": "Ankr Network (ANKR)"
   }
 ]
