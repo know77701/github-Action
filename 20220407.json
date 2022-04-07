@@ -136,5 +136,17 @@
     "value": "500",
     "hash": "0x568653a24710296efafe51591f5914d2e0caf6e61aea42aebec52c20a45ac5b9",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,760.714823894231375256",
+    "hash": "0x15fe8a2b38a74780940759737e7614eac645bdeb23e6144de4b9f8238269471e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,664.97618643",
+    "hash": "0x955e3646e5c0625d47d055f30535e31c112a5d17fe71993f2c93bc949d602810",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
