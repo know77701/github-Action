@@ -508,5 +508,17 @@
     "value": "98,240.163226733180718828",
     "hash": "0x997012011c16533386b08b739b000a3b60b231124597eccae22e5e4b6d6464d6",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,018.81448137",
+    "hash": "0x4b3fb82f3f4d1ab015f72ec044c2f502554c94e8a69828461d852bb03ae0207e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,353.437124182233956352",
+    "hash": "0xc3014cbbabce6742d62e0699d1e25607bd2953f0eef252b1c12ae38d5e0c1ba8",
+    "token": "1INCH Token (1INCH)"
   }
 ]
