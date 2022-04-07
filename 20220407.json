@@ -376,5 +376,11 @@
     "value": "1,010.25966318",
     "hash": "0x40902a917d28659a316d9b0d9a432375728ca924da48841dc9a978d275a9c1db",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,642.75410373988682752",
+    "hash": "0x6e2f525771ca52f4523214b80ac3482c739ab17d87f4384d0c0216209c12c33f",
+    "token": "1INCH Token (1INCH)"
   }
 ]
