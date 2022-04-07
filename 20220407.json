@@ -316,5 +316,11 @@
     "value": "205,308.554478204253636863",
     "hash": "0xdd2fed2840ec24172d8187e483d405303c9b6e51d22c624f240850c246c0aa21",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,778.56741031",
+    "hash": "0x81abcdaf6b4b2bbd9667eb6d50dec5b952298bb5a1c772f07d76b7310d6832c3",
+    "token": "Mass Vehicle... (MVL)"
   }
 ]
