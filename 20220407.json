@@ -160,5 +160,23 @@
     "value": "358,682.813532525768624744",
     "hash": "0xa6b248a633627c005f72c4bbe0beb8bad3aaa451632790a27bf35c79ed54b540",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,388",
+    "hash": "0xb2bf7e3b10972997dd5e77a1d96c583c0d23a917932900dbeb273765a8644631",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,440",
+    "hash": "0x1ed36a71c2a36fd58f6ec434a039ee9e6c386b314fa2804b5d248dd94d73de57",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,819.52654221",
+    "hash": "0x92fe873b35b91c3ce4d4f902b44db15fa33f7859a5541a6523b5812046dd53d9",
+    "token": "Ankr Network (ANKR)"
   }
 ]
