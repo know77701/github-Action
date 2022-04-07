@@ -358,5 +358,11 @@
     "value": "29,273.451705541337568445",
     "hash": "0xebf912aa17fb9c7b3b645d33a7c56690d7281ea73b8f78b1d7ad829bed65d334",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,330.188294458662431555",
+    "hash": "0x74315da04eae7bde158dab37ed6da11bd2aa890229029a830305c92be279091c",
+    "token": "OMG Network (OMG)"
   }
 ]
