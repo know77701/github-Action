@@ -346,5 +346,11 @@
     "value": "2,281.30684",
     "hash": "0x29dd51ee541bc32c2b79287f97b9174ac2b83ed170df47272bc49e74bf04e3be",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,326",
+    "hash": "0x5a81678bcced9e44d50b69a6599c36fea7b26bf4a43d30ed792f4369be52056b",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
