@@ -352,5 +352,11 @@
     "value": "57,326",
     "hash": "0x5a81678bcced9e44d50b69a6599c36fea7b26bf4a43d30ed792f4369be52056b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,273.451705541337568445",
+    "hash": "0xebf912aa17fb9c7b3b645d33a7c56690d7281ea73b8f78b1d7ad829bed65d334",
+    "token": "OMG Network (OMG)"
   }
 ]
