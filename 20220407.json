@@ -94,5 +94,17 @@
     "value": "283,174",
     "hash": "0x963ee74ff04033cb7898f6c8fe5a52b0057347deb0c63801e48c38450a47c154",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "512,344",
+    "hash": "0x79533c0bb6f9655ba40af4e388b32bf2e5fb15d51684f357eec65ce1f97430a4",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "327,348.725",
+    "hash": "0x39b47b301019d0e5282b64a02fdb6d25a26ac0ea5e4487516ef2eabd9b9eb87b",
+    "token": "district0x (DNT)"
   }
 ]
