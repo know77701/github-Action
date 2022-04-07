@@ -586,5 +586,17 @@
     "value": "47,280.560733",
     "hash": "0x60b977715519029e17a99d6dc4f7301f37afdf77a937047faa93bcd1b8994f95",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,897.012",
+    "hash": "0xc5fd7c10de36a9e791ee3e11b63685b8e301ffa49aefd77dd46b0e6044021962",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,499.584",
+    "hash": "0x409a2ff0f342a0e486005798d0e7daef14ad56439c5fc34e0fce5fd75ed149ae",
+    "token": "ChainLink To... (LINK)"
   }
 ]
