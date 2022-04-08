@@ -472,5 +472,17 @@
     "value": "411,449.34790862",
     "hash": "0x99ec581539872dae57a960ed5716173a777a15eb828c5fafe132deffaa26e301",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,773.08206034810912847",
+    "hash": "0x8e8573cac3c9138e1bade44d7fe1e57c4854d543928389b43ab8c259b4151ce9",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,475.70199608",
+    "hash": "0x7dd03057942e103f6f45bd4f072126fa340f84d176846a8a9eb70af9f51885f8",
+    "token": "ZRX (ZRX)"
   }
 ]
