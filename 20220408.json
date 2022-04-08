@@ -70,5 +70,53 @@
     "value": "210,021.204086064744868168",
     "hash": "0x29099422006483ee205be65f11a205dfcdde45feeae891f0efa5a240c82433db",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "648,305.231442642150572024",
+    "hash": "0x11e1bf74876854e5e6236770b1bf3674c61cdd927ebc739c9e5911a1601a8d64",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,352,254.768557357849427976",
+    "hash": "0xda12ef3a0dd43d20c4ea13ae824de6c942d80b66697afd408ff9038daab690ea",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,218.95406615",
+    "hash": "0x51e82abc7c28f787aa7116f38f625f18da5006158e627e10713ff23ef3474266",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,666.180777339197277131",
+    "hash": "0x592287730225ccb432efe4688d21f364a0c8b656d0f780e6807c3093afd2fc16",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,400.020541550802722869",
+    "hash": "0x9b322a6e73e9b8fc65bce32718fe2b09b1a9a9647477b5badf948542dd2bab7e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,005.0104",
+    "hash": "0x6b3088122fb28cecf3d115a66917ec54934a1a799fe85994b7740640158d540a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374.09907067053815284",
+    "hash": "0xf3afc0908b57f3944e30b168333c434ec1b5ffd66d199319876b09da0764e7db",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,620.48092932946184716",
+    "hash": "0x74527e4cbdd559efcff0575e8ce7234d703365620a08a63434eb7efcf45a8753",
+    "token": "Mask Network (MASK)"
   }
 ]
