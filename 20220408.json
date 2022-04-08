@@ -424,5 +424,11 @@
     "value": "578,448.590441914517491581",
     "hash": "0x2e0c6cdab50cdde49ea7a4d2b55805541ef454b34ca47cb4867ef3de6d2c3b20",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,000",
+    "hash": "0xb5a0d40a301343a3321f831e65ce18e661b7aebdfd8738010c7f8de06b243c1c",
+    "token": "ZRX (ZRX)"
   }
 ]
