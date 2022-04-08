@@ -5,7 +5,7 @@ on: [push]
 #       - cron: '0/5 * * * *'
 
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
 
