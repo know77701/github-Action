@@ -202,5 +202,11 @@
     "value": "221,150.874552693359797753",
     "hash": "0x166a6d0477010a9dbeb52ca785b1eb0dc5983bc0f808e61558f79eee0c83dfe9",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,069.165",
+    "hash": "0x31d712a85fedc0f1e76d93f26a2a99cc823b30045e7db2654923e3880bf48ffc",
+    "token": "Uniswap (UNI)"
   }
 ]
