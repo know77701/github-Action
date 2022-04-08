@@ -292,5 +292,17 @@
     "value": "9,994.58",
     "hash": "0xf05b589f4836365e9d880b4f9e2a1ad64bbc14d94571ec8fe345cd569aba0e83",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "386,766.024360148560785112",
+    "hash": "0x0b1a196e688bec4ea123977254da3c14fe2d74cf12b8d9810899ccf8e4d25076",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,217.581032751439214888",
+    "hash": "0xf3fbc1aa24a83d73ad791d9ada482da850dccab561016bbf25a0e195941c9203",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
