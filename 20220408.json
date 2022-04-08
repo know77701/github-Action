@@ -118,5 +118,23 @@
     "value": "6,620.48092932946184716",
     "hash": "0x74527e4cbdd559efcff0575e8ce7234d703365620a08a63434eb7efcf45a8753",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,350.968296552329271595",
+    "hash": "0x5921523d7f93e9f34eee8c367c058bf64a1dc5d81c380583b47f2f97fb1157f1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "974.87532763",
+    "hash": "0xd92bc13b790053873bd6e128c0abab25dd5e4a1b9ea64c9764b07fccd49c892c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0x2bf90cbb0582fb9a895e13608f91b56dde24a69fa6b3a13baee67a03cf15b926",
+    "token": "Aave Token (AAVE)"
   }
 ]
