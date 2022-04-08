@@ -358,5 +358,23 @@
     "value": "363,840.62073065",
     "hash": "0x36b3c6d20576a1f2a5938761251176bdf0f168349e6753f104c696b5337ab23d",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "277,788.4",
+    "hash": "0x27dfb920af628d91680e2abd264f58a250111bfe1d3eb3e13614d84ce251ca62",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "435,692.6",
+    "hash": "0x5c2b0007720b26c8a87b1c8d7d821eae3a697d2e644d15a6347d11ec9b6f5b08",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,103,587.762907279994472396",
+    "hash": "0x58ce0436646648cbe4f9d0eb085a37121ee001585ada1abe622f4938d4550f34",
+    "token": "Mainframe To... (MFT)"
   }
 ]
