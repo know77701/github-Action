@@ -376,5 +376,29 @@
     "value": "3,103,587.762907279994472396",
     "hash": "0x58ce0436646648cbe4f9d0eb085a37121ee001585ada1abe622f4938d4550f34",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,405.334311568133124053",
+    "hash": "0x92449296592c84840714bd61309becba490df4afb593967dd213955ac2ea0426",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,409.012055",
+    "hash": "0xf258f7a1709fab35369366b996bf925a9364c45c3aeb2604cada2954b0bea4db",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "226,262.487493112994810393",
+    "hash": "0x1ce0fc5c5813c18499fab17eb733bdc56dd141e6a0d061b6363ba0f7e9cf0ee8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,287.017416887005189607",
+    "hash": "0x3d284554969d430e6ce7a148685469cc62119aea6d1eb4392356d2c0c2854fa0",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
