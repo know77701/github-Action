@@ -334,5 +334,29 @@
     "value": "61,432.464277449221306674",
     "hash": "0xa589f583b1d0971c47fd917ceea0938123c8700ddf338ffad1ee1374b962aeb4",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,964,942.543041720005527604",
+    "hash": "0x25f4a331eab3561ed4fc0bb99fc0acdbd3757ec55be695c36b0d79a1cd0783e3",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,632,714.31975223",
+    "hash": "0x0ba96c29e0b136bb273b04689b87090e4c575da02a66c159a20f28eda8ae3819",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,528.121432347641001123",
+    "hash": "0x8969a83080648b06079ece3040b728039472680ab238d5d3e57113a9202665f5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "363,840.62073065",
+    "hash": "0x36b3c6d20576a1f2a5938761251176bdf0f168349e6753f104c696b5337ab23d",
+    "token": "Civic (CVC)"
   }
 ]
