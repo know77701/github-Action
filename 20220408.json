@@ -448,5 +448,23 @@
     "value": "35,362.410381312238750843",
     "hash": "0x85f6af8597c3c4c2a976f89669b40d52af8d772bfc9d4190e1e10313ccd150ef",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "604,000",
+    "hash": "0xd1c788575184867ac29b2637299222ef34663736eb8482d05a4b2835aa2149e3",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,000",
+    "hash": "0xb5463805455ade639abdef198e2a667d16f984b4806085f4e7d4968c2948afb0",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,738.63747545",
+    "hash": "0xec07be3c51396ffe4b08d85b0652d8cfc732b65f07de43ea8fa0a36338f202cf",
+    "token": "ZRX (ZRX)"
   }
 ]
