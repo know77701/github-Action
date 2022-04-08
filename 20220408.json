@@ -208,5 +208,29 @@
     "value": "10,069.165",
     "hash": "0x31d712a85fedc0f1e76d93f26a2a99cc823b30045e7db2654923e3880bf48ffc",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,776.04832658",
+    "hash": "0x602cab63434ac7d0b93b7ae5dca6686bd0d29720ab1f5ac3c659cea2e8e6fe15",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "482,534.656266036552860955",
+    "hash": "0xe047751facae9af757c83770177492a1d5eb4e6ff53cedcd0243ea0d4ad9d81e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,132.788334083447139045",
+    "hash": "0x5df78d6d6c44a8e5d1e8f370e43aff945f52ebc2091045eaac3e7d761087b68f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,104.98924988",
+    "hash": "0xeba8427d9210d57d5e7eaec4b7b1c0abc61190bdb9af16f57e6b87ffa2c1e8dd",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
