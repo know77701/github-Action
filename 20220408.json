@@ -232,5 +232,47 @@
     "value": "15,104.98924988",
     "hash": "0xeba8427d9210d57d5e7eaec4b7b1c0abc61190bdb9af16f57e6b87ffa2c1e8dd",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,072.22688476",
+    "hash": "0x93dda314ef7c29c6a4a944be0afb7b99b1501b514eb20d7006bc4720da76150e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,259.253510155061858318",
+    "hash": "0x3d2e5c8bfedccee603c5ba0dc07e9c01cccccce42626491aeaaaa298277b3da4",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "603,826.683",
+    "hash": "0xd1947935b87a1f3f552245927b2166f54a0417cd074a91517f76df84624b2d01",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,380.462528891592306674",
+    "hash": "0x4bdbbe8b8f0b0ce114b4bbd67073cdcc360066b72d351204d795e87be5f785fd",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,082.676",
+    "hash": "0x8fddcbdadbc853d7cb1aeba8a12346a64f402f3bdc6730e60cb36474a73bbdbc",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,034,204.140316034352292774",
+    "hash": "0x1efc50c4c18e2d334300551173dc0f3624d5adef618cf50194c9b6cd823e27ae",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "916,327.230933225838695003",
+    "hash": "0xcb222510580c1c330f0df07098f05996c6959ad08e7f1f443e0cd770a08b0cc7",
+    "token": "Threshold Ne... (T)"
   }
 ]
