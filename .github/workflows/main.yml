@@ -35,9 +35,11 @@ jobs:
         
       - name: Commits
         run: |
+         if [ -f 20220408.json ]; then 
          git config --local user.email "know77701@gmail.com"
          git config --local user.name "know77701"
          git add 20220408.json
          git commit -m "json file update"
          git push
          git status
+         fi
