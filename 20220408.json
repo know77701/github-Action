@@ -148,5 +148,11 @@
     "value": "235,599.975305938498714325",
     "hash": "0xaf4f58cb36c86b12c8be32e669d5691f3581b75ba2fc61d0556ca7a9f0905f7b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,231.21572472",
+    "hash": "0x0d5e1f115167d07b10d8e4b1824c427c2f2f3765d7bf02fada43caa35f4fa0ac",
+    "token": "Gitcoin (GTC)"
   }
 ]
