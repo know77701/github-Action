@@ -562,5 +562,17 @@
     "value": "520.72528822",
     "hash": "0xa5ceb1b044dc0a1043940d5a54a1d670e2de768cd99bdf4628d6ac18a875f3aa",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,764.223",
+    "hash": "0x2914650a6535fc770bd059d10fabcffba0fd786008d1879409c6a9a4982dfe31",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,138.05739916",
+    "hash": "0x33434cf38de759ca5160e97db81a5013c6efbb76b2a5b0b11a3c701e57334387",
+    "token": "NuCypher (NU)"
   }
 ]
