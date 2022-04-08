@@ -550,5 +550,17 @@
     "value": "4,286.8549381",
     "hash": "0x42300a7b0daf8efb75c49a13ba7cb9d323cc03f8a78ab02031d183aa45d95e2a",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,519",
+    "hash": "0x9b937e0dc64fefede1c31628a2a9521615eefac29017c8a9aab33beddb2f4a2d",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "520.72528822",
+    "hash": "0xa5ceb1b044dc0a1043940d5a54a1d670e2de768cd99bdf4628d6ac18a875f3aa",
+    "token": "Aave Token (AAVE)"
   }
 ]
