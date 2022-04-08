@@ -154,5 +154,23 @@
     "value": "7,231.21572472",
     "hash": "0x0d5e1f115167d07b10d8e4b1824c427c2f2f3765d7bf02fada43caa35f4fa0ac",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374.945406453470255765",
+    "hash": "0xe78c75ddfb95ca3006dc9633fc3a219be745dc741de09360269b2bdfbcbbfde5",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,330.610216481590126404",
+    "hash": "0xb50082ca5c855abdc77d83a835ede78ee865da2a9226cfa2a05a4d6aa951d4b9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "531,661.255140812845379786",
+    "hash": "0x129c967dba684ec829646558e2dc0708f7066db96db61844f2c1a2217a298730",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
