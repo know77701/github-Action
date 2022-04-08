@@ -502,5 +502,53 @@
     "value": "322,896.590921801576477448",
     "hash": "0xdcee0bdd1a32c33b459fde3102f34bb0172e8279439a44c8198a9b39b821ebb5",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "479,542.32546761",
+    "hash": "0x4094de8ae9d48b946b59258aea630cf207c5715bbe59693fd42afc5880b58c21",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "327,515.09755987",
+    "hash": "0x0d47372e4eb0786fbaaac6e84e852459e3686eafae397a8463cfe44653aa7d77",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "684,338",
+    "hash": "0x65cfc3f67c4f9a87d7cfae8f1109bad1f21a27487e7419142de53d78e5d4ca72",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xa08ed322cf0bea62665260cfe0e214c7eac0f1d20d1d959f9886b605e06b88f5",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,568.166093827664376545",
+    "hash": "0xe49ad33cb5c2f8a03a5f2493969d6f2c145ff7ecd6920d715688ce272ba1cb49",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,316.44853239",
+    "hash": "0x1ea6f0c439736c201e628ac5a8602854324cdb5606199e8c7d14402b27490def",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,411.180133882335623455",
+    "hash": "0x9aa43e38f4d478ad3b0ee22ec0568416acb1ba137298050569357d39d0a535f1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,286.8549381",
+    "hash": "0x42300a7b0daf8efb75c49a13ba7cb9d323cc03f8a78ab02031d183aa45d95e2a",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
