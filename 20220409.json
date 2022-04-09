@@ -298,5 +298,35 @@
     "value": "193,022.44261019648627992",
     "hash": "0x25c07ece973fe22d8002fa6b6f8801cf4d5c1c72094e43bbd83d9bd1d411bff1",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,764,213.52215674",
+    "hash": "0x94d18b026a9ee65c886f0fbfc31c010227d77195d48db839cc547cdfae7d59f8",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "510,703.87361527351372008",
+    "hash": "0x6408da583bf3bdbdf0d44bdcd574f246f0674f05d1ced51617edee7b33ecd28f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "395,884.32357076",
+    "hash": "0x177b9d19ccef6e047d1ab3ca333ecb60998ec286b62f60380f9317eb6a2ba353",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,197.00938687",
+    "hash": "0xaee079a5b2089514e22a61e4acefd5e4083a4a45cb240784f14fd46e5a5f3bcd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "600.006",
+    "hash": "0x73e301c7a6054b49009a08609e63efa240054228b550e422f2c2e40ec0040d53",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
