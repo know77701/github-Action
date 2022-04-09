@@ -112,5 +112,11 @@
     "value": "242,640.229413933285639606",
     "hash": "0x90d622b5745efb78a4a1d1a80998223b9ebbc1226d417d327872cbd8571c5363",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,033",
+    "hash": "0xe3bbf2cebc7032dbecaca972d759ade2739ca60c3aaf90b576b6332d45c5c86b",
+    "token": "ZRX (ZRX)"
   }
 ]
