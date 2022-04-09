@@ -238,5 +238,11 @@
     "value": "55,170.805551658197955755",
     "hash": "0xc088945b56cff7c5a77c33d4d068a447a2e0893e0690b8cec50b46bbafd918fa",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,232.889",
+    "hash": "0x90dc7d72c8bfcd1eddd71e91f335b9227f0c2ddb7c132c284fe4c7ba3b5a9c28",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
