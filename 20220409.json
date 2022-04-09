@@ -358,5 +358,17 @@
     "value": "4,397.434161902841561447",
     "hash": "0xdacc300351d91fcaaa84b613ff1d19387a6f7ab72d92e2625c6aa5dadcae5b81",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,972.440324365290238734",
+    "hash": "0x97b6e4a42f1f381d45f697845418dfd2f92e8fea636484e90bc22774942203a6",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,958.946863634709761266",
+    "hash": "0x4113d69c7aeb9e725a1376c1c930c767f12ba57ddf356c81adef68c317831396",
+    "token": "Numeraire (NMR)"
   }
 ]
