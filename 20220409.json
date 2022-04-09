@@ -142,5 +142,11 @@
     "value": "199,373",
     "hash": "0x12c5b1d58977dd95bb17f04254fcb5cd2a1099a1114b2db1e3d5f97593087c89",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,591.372083",
+    "hash": "0x74c77740629633741d06ab5aa4d64ae35f5e2bea349dce0529e2ad1fc87cbef9",
+    "token": "Serum (SRM)"
   }
 ]
