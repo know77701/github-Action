@@ -280,5 +280,11 @@
     "value": "350,407.866725316278089167",
     "hash": "0x57b47f230cdfc4b652542589c0ab0da5e97f2994df0fb908802816e85fe218fd",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,373",
+    "hash": "0x705f7cc2cd57e6e39b7027a6e497cd891ddefe2c5f30432a8967003e8ab6e1e0",
+    "token": "district0x (DNT)"
   }
 ]
