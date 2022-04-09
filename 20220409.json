@@ -178,5 +178,23 @@
     "value": "4,397.314797894666561447",
     "hash": "0xbf6d9e95a13e9375ab88f770a9be341f673f98941bd9520e7381311d62ca13e9",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,465.939232410716115716",
+    "hash": "0x2725b4dfb24035f43c4fef17dc6a0a796fbdd46e8f31d0b24574f962b27060db",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,167.786767589283884284",
+    "hash": "0xfbc99c1b96ef8df8f8dad2d0dacbcdfb08b005837fa98f98d98e37b1a757c5a8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,000",
+    "hash": "0x80d9f2995a472109a2f5333ddbfd73d925b57f89756c3dcd5c6385288e05d10b",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
