@@ -424,5 +424,11 @@
     "value": "2,219.23",
     "hash": "0x526b0789e81476b8e1047480bad3fbb473d06b3f5249746c76aac0f2842da15e",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,050.289293",
+    "hash": "0xce9f21262871d50c9959593de52536839a8087bd4ff712d44411600312dd0e6c",
+    "token": "NuCypher (NU)"
   }
 ]
