@@ -226,5 +226,17 @@
     "value": "778,211.110415965782120776",
     "hash": "0x7e3c48dbff6cd13d1fbaa69dcceffff6d4b89fac2c21d84de2c0a0250fc8fc23",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,914.251007857899299927",
+    "hash": "0x71f02415ec99b6fdecacf4b9f69ce03b74f5d01f9487cec6004ccd1ee4330ebc",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,170.805551658197955755",
+    "hash": "0xc088945b56cff7c5a77c33d4d068a447a2e0893e0690b8cec50b46bbafd918fa",
+    "token": "Matic Token (MATIC)"
   }
 ]
