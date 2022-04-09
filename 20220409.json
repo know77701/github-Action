@@ -124,5 +124,23 @@
     "value": "70,042",
     "hash": "0xad2cb5a1ee30bd683f7afa0b79e71557690762ebbbf06f5d78b88ab5482160ac",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,034",
+    "hash": "0x225916058ebd24c597861e1662f44bb6bb781db3e132b5b82dd6ad07aab95953",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "255,638.5",
+    "hash": "0x21d2e4ef7dd8c4674b8454709ad1717b0f4212dbae09e0cca6b9a5f2dab3ae42",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,373",
+    "hash": "0x12c5b1d58977dd95bb17f04254fcb5cd2a1099a1114b2db1e3d5f97593087c89",
+    "token": "district0x (DNT)"
   }
 ]
