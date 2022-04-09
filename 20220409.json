@@ -196,5 +196,23 @@
     "value": "62,000",
     "hash": "0x80d9f2995a472109a2f5333ddbfd73d925b57f89756c3dcd5c6385288e05d10b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,468,580.104203154217879224",
+    "hash": "0xf2b3b478568e4e1222fc9b5bb677370585e71a93f9dec329ab61ee41de8b0a7b",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "457,905.580413535540930819",
+    "hash": "0x8a0dbc9388dc9a4149fbd7e0254a29d0b0c0f6b0d1eb5c26224c14703887a60a",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,101.627976764459069181",
+    "hash": "0x8efddde94896bb8b790398137541fc2a8701f36f4f22eb534e1e481b593720d3",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
