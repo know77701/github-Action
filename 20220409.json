@@ -412,5 +412,11 @@
     "value": "11,660,261.234797594081926305",
     "hash": "0xc4b67b7a54153a14b4d84f10f9865609fc0b99564c1fa2e40a8ea8086354d2f9",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,000",
+    "hash": "0xa493382f6bb6d6898d351914662bfaf4dcef5569a52da357c99107a709bf8b84",
+    "token": "Golem Networ... (GLM)"
   }
 ]
