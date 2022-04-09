@@ -370,5 +370,11 @@
     "value": "1,958.946863634709761266",
     "hash": "0x4113d69c7aeb9e725a1376c1c930c767f12ba57ddf356c81adef68c317831396",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,570.87148543",
+    "hash": "0x73d079674fd498a3b3c841ad4faeb1844874041aa0a9078c0e503e7b27d2c1b5",
+    "token": "Matic Token (MATIC)"
   }
 ]
