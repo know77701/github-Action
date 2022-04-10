@@ -66,12 +66,7 @@
 	<artifactId>exec-maven-plugin</artifactId>
 	<version>3.0.0</version>
 	<configuration>
-	  <archive>
-	    <manifest>
-		<addClasspath>true</addClasspath>
-		<mainClass>com.wallet.UpbitHotWallet</mainClass>
-	    </manifest>
-	  </archive>
+	    <mainClass>com.wallet.UpbitHotWallet</mainClass>
 	</configuration>
 	</plugin>
 	<plugin>
@@ -81,7 +76,6 @@
 	<configuration>
 	  <archive>
 	    <manifest>
-	      <addClasspath>true</addClasspath>
 	      <mainClass>com.wallet.UpbitHotWallet</mainClass>
 	    </manifest>
 	  </archive>
