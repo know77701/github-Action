@@ -112,5 +112,17 @@
     "value": "500",
     "hash": "0x7931e72625de0be07c1f1acaace7752418f412bdf97d69ca0f55abc73bb29d32",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,555",
+    "hash": "0x685e8d6373699e33340de9d89acec868f214c338a100613f9dd95eddf6a045d7",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,948.2669822",
+    "hash": "0x18eaf6b23afde1458d646d655970d07136db9c7d4e075c93fd08a33166a154a0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
