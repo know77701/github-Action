@@ -58,5 +58,17 @@
     "value": "599,632.09093186",
     "hash": "0x9396d364099d727b4fa03a81992cd6081bc17d16742e2e5c81d153f0d3128633",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,399",
+    "hash": "0x5ef8f51736323418f1f7a6d86b13def3294d2c4dba628ba2db5307921446a6b5",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,319.292987",
+    "hash": "0x50bcb5bd9ea539fef69fdcf6ac184e979bc05d4cc3264dac21f4149130a77966",
+    "token": "NuCypher (NU)"
   }
 ]
