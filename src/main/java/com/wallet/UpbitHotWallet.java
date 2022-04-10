@@ -25,14 +25,15 @@ import com.google.gson.GsonBuilder;
 
 public class UpbitHotWallet {
 
-	private static final String url = "https://etherscan.io/address-tokenpage?m=normal&a=0x1938A448D105D26C40A52A1BFE99B8CA7A745AD0";
-	private static String fileName = getToday() + ".json";
-	private static File file = new File(fileName);
+    private static final String url = "https://etherscan.io/address-tokenpage?m=normal&a=0x1938A448D105D26C40A52A1BFE99B8CA7A745AD0";
+    private static String fileName = "src/main/resources/" + getToday() + ".json";
+    private static File file = new File(fileName);
     private static Gson gson = new GsonBuilder().setPrettyPrinting().create();
 	
     public static void main(String[] args) {
 		try {
 			getList();
+			System.out.println(fileName);
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -86,12 +87,15 @@ public class UpbitHotWallet {
 				fw.newLine();
 				fw.flush();
 				fw.close();
+//				Telegram.funcTelegram();
 			}
 		}
 	}
     
  	public static void getFile() throws IOException {
- 		if(!file.exists()) {
+ 		file.mkdirs();
+ 		boolean isExists = file.exists(); 
+ 		if(!isExists) {
 			file.createNewFile();
 		}
  	}
