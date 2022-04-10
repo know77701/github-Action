@@ -66,11 +66,12 @@
 	    <artifactId>exec-maven-plugin</artifactId>
 	    <version>3.0.0</version>
 	    <configuration>
-	    	<transformers>
-		    <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                    	<mainClass>com.wallet.UpbitHotWallet</mainClass>
-		    </transformer>
-                </transformers>
+	      	  <archive>
+		    <manifest>
+		     	<addClasspath>true</addClasspath>
+		    	<mainClass>com.wallet.UpbitHotWallet</mainClass>
+		    </manifest>
+		  </archive>
 	    </configuration>
 	</plugin>
   </plugins>
