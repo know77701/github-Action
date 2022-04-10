@@ -5,7 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>githubAction</name>
   <description>walletCrawler in github Action</description>
-  
+  <properties>
+	<java-version>1.8</java-version>
+  </properties>
   <dependencies>
   			<!-- json -->
 		<dependency>
