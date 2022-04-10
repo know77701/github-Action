@@ -49,7 +49,7 @@
 </dependencies>
 <build>
  <plugins>
-    <plugin>
+	<plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-compiler-plugin</artifactId>
 	<version>2.5.1</version>
@@ -60,34 +60,33 @@
 	    <showWarnings>true</showWarnings>
 	    <showDeprecation>true</showDeprecation>
 	</configuration>
-    </plugin>
-	<plugin>
-	    <groupId>org.codehaus.mojo</groupId>
-	    <artifactId>exec-maven-plugin</artifactId>
-	    <version>3.0.0</version>
-	    <configuration>
-	      	  <archive>
-		    <manifest>
-		     	<addClasspath>true</addClasspath>
-		    	<mainClass>com.wallet.UpbitHotWallet</mainClass>
-		    </manifest>
-		  </archive>
-	    </configuration>
 	</plugin>
-	  <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
-                <version>3.1.0</version>
-                <configuration>
-                  <archive>
-                    <manifest>
-                      <addClasspath>true</addClasspath>
-                      <mainClass>com.wallet.UpbitHotWallet</mainClass>
-                    </manifest>
-                  </archive>
-                </configuration>
-              </plugin>
+	<plugin>
+	<groupId>org.codehaus.mojo</groupId>
+	<artifactId>exec-maven-plugin</artifactId>
+	<version>3.0.0</version>
+	<configuration>
+	  <archive>
+	    <manifest>
+		<addClasspath>true</addClasspath>
+		<mainClass>com.wallet.UpbitHotWallet</mainClass>
+	    </manifest>
+	  </archive>
+	</configuration>
+	</plugin>
+	<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-jar-plugin</artifactId>
+	<version>3.1.0</version>
+	<configuration>
+	  <archive>
+	    <manifest>
+	      <addClasspath>true</addClasspath>
+	      <mainClass>com.wallet.UpbitHotWallet</mainClass>
+	    </manifest>
+	  </archive>
+	</configuration>
+	</plugin>
         </plugins>
   </plugins>
 </build>
