@@ -442,5 +442,17 @@
     "value": "41,182.008384",
     "hash": "0x27448645f2ece2deb757779fa4df3114b1e986f9d35a5fe5abfbbd4c3c667ef5",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,311.040112",
+    "hash": "0xde85f730f0a0c91659205706faf245a85cd5996005d3b074405d6b59a7e8d4bc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,973.72399261",
+    "hash": "0x6578d73095f35f2afe19d4597820a42700be81f1479e7ca07e39aaf34d19def7",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
