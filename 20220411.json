@@ -406,5 +406,11 @@
     "value": "52,121.029506",
     "hash": "0xda81c011fb8f8de15cfde4829df44b4eae2f181699134b2b5dc607439df37556",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,282.318",
+    "hash": "0x99ce411abf8b7f7663b949a5574320c7500dcaa5767b6291b3a9c28ad0838f3b",
+    "token": "BAT (BAT)"
   }
 ]
