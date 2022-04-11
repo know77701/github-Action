@@ -526,5 +526,17 @@
     "value": "12.4817",
     "hash": "0x2afd22661e173f6d354fc7d6524543b2980f07e50414b70d3631260f271e4f8d",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,992.224",
+    "hash": "0xaf024142e8b311fb8740a157f1bfb3131775c36b2264888356c74226497dee80",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,411,469.284444937782659567",
+    "hash": "0x4a7bc01463f0639dc2bdcd8406092e21513977f85d2f907a89456ca3daa14d56",
+    "token": "chiliZ (CHZ)"
   }
 ]
