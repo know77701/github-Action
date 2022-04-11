@@ -154,5 +154,17 @@
     "value": "290,944",
     "hash": "0xd67d738b92dcab1b9383f9f8209320a0acaf720b1cd7f4a2ef4d6bed4e7f40a7",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,370.569",
+    "hash": "0x493a3c62cb378df6803c058edb4ecfc156629fe555138c268b62891de3937356",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "461,172",
+    "hash": "0x07fef21ed15ee8c467ce427b6ec220dbcd77dcefbbe87a62c9ee7a94f5c32e76",
+    "token": "district0x (DNT)"
   }
 ]
