@@ -436,5 +436,11 @@
     "value": "104,414",
     "hash": "0x623de001ca12e2f8531ba18dbbc3f1e302e073279c896314cc88a118ff7248b7",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,182.008384",
+    "hash": "0x27448645f2ece2deb757779fa4df3114b1e986f9d35a5fe5abfbbd4c3c667ef5",
+    "token": "NuCypher (NU)"
   }
 ]
