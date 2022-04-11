@@ -166,5 +166,11 @@
     "value": "461,172",
     "hash": "0x07fef21ed15ee8c467ce427b6ec220dbcd77dcefbbe87a62c9ee7a94f5c32e76",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "459,120.96498267",
+    "hash": "0x62491477eedd29dff845892a77977a14097ab2c0fbaa60d5838a1bbec66fdc36",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
