@@ -358,5 +358,11 @@
     "value": "32,725.437473593783702034",
     "hash": "0x0fd8bc56d115ca18b94563bdbd0081f8f379a8204fa337e7a87075c10c63389d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,528.240687",
+    "hash": "0x7b7f9861c2798e74477535d9916eb754209738efc5a17381a72f70ea982335d0",
+    "token": "NuCypher (NU)"
   }
 ]
