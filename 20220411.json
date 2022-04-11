@@ -538,5 +538,23 @@
     "value": "1,411,469.284444937782659567",
     "hash": "0x4a7bc01463f0639dc2bdcd8406092e21513977f85d2f907a89456ca3daa14d56",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "537,731.625426643639591179",
+    "hash": "0x2f2283b318d1f54fd7f3bf1b0bb5d67bb23cb0e248321b2e2432970b33106959",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,697.33331",
+    "hash": "0x9b9c10f75a1517d53a50f570b6e85f3da1ee01c40bbbabfe11d995de5aaf53ac",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,292,966.599862042217340433",
+    "hash": "0x6f7734fe76b38d38fd696a67a23dfd654f46e833adac2e3d9aeff0c94f84f202",
+    "token": "chiliZ (CHZ)"
   }
 ]
