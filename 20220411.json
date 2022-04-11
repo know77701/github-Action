@@ -340,5 +340,23 @@
     "value": "409,969.757",
     "hash": "0xcb172d6a9c953d240137713a953fde4b0e39d4cec97c35fca92a11ac7bc59820",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,090.28",
+    "hash": "0xca609dde38f8c7cdea66f27228f6ddd8bf3475e326c7a5569b6b233030b7d38d",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,909.383026406216297966",
+    "hash": "0x97e783d0cce676669b14176bf75ea31cf52c05f18296d29420042bca7ae4556c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,725.437473593783702034",
+    "hash": "0x0fd8bc56d115ca18b94563bdbd0081f8f379a8204fa337e7a87075c10c63389d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
