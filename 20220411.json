@@ -106,5 +106,11 @@
     "value": "463,647.62116233",
     "hash": "0x30ee4918c981d39eb1b8276417fd0255d3343beced1b3200afd287a8fb4e97b3",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,486,674.11537437",
+    "hash": "0xb03f4bbbe9a99edb0517bced47c7aad3731270a238b713746eb6f71f6b71e6c0",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
