@@ -214,5 +214,23 @@
     "value": "2,875.319887217851461987",
     "hash": "0xf79d2364c86b6b8d68c3e25b6b35c747bb5cdb7edf71ed5fced47485b26ad9af",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,262,572.309857911272634376",
+    "hash": "0x8a6826c3ff7692f415afd359ddcbfea545c6e800dabc7c2b5c181c60cd70c44f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "534,778.953491894236682129",
+    "hash": "0xf6bb2ace7fad9b59efd087298a7ba15da32a5a1cd2349792e0aa3076c98dfc75",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,781.008",
+    "hash": "0xe92fdc390cd709ff688702313471ddc756527ecf99ed5d9623e806c7382ea642",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
