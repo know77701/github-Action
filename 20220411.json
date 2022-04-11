@@ -52,5 +52,29 @@
     "value": "460,564.229687002910700643",
     "hash": "0xbe189bc7889f9165110e2e611d3cc008468d9472918e82bddfa3ec8ec47b7eca",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,414",
+    "hash": "0x91c6f6c3964a7830f8177f3238685f944b7d9aaf2304c2cfe282cf67cb32307c",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,562.63698111",
+    "hash": "0x2551b7b2697c7c5b20c7c31dcb859bc9a4c661ed16f5bb9fd103e7c0631d3335",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,576.494216",
+    "hash": "0xb6243a26ebcdd96d877e677ced85b52846fa11bd16c1dcdf1d8db72ef8e11b71",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "422,761.57150418",
+    "hash": "0xd2cd7d90256a49adeaba97a81f0d247371b6d69f9f51203979eedff77c5999d9",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
