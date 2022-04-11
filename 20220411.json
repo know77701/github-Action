@@ -286,5 +286,23 @@
     "value": "40,000",
     "hash": "0x2bb50a8d1bf6afec5168d3e4ea3cfe74203700e91d15e19e2154608ed9df6015",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,000",
+    "hash": "0x3f0cda48a129ccb56d034ff29223ac5c68d24d8c23dc64ee89cad35d2c6f5d97",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,047.841775247891951842",
+    "hash": "0xc3284758818732ea7013b77e108eeb3d83e588958ca25f1d5af9a33a1d5394a1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,952.158224752108048158",
+    "hash": "0x2e48c3ca2c7f793d6b7a7f27448ca8ea8c302e269ca45e8bbb58a20a1ec6f0f5",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
