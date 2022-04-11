@@ -496,5 +496,11 @@
     "value": "152,319",
     "hash": "0xd8ebfe5fdfe5ec32b825e2e202a5e211ee1a60783044adf4b6b8456ab6ec6499",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,017.89919339",
+    "hash": "0x57a93dde17658466b92b5b9975bf12615edc129445c61cc73f0f773a84104107",
+    "token": "Matic Token (MATIC)"
   }
 ]
