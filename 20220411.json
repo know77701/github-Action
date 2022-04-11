@@ -364,5 +364,41 @@
     "value": "18,528.240687",
     "hash": "0x7b7f9861c2798e74477535d9916eb754209738efc5a17381a72f70ea982335d0",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,493.00144987",
+    "hash": "0x07681e1af77bd55dac451f2d9faf58a846d6a1e6ce55c0d993f9d6c7efa0dc7c",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "343,641.289960063543188903",
+    "hash": "0x100eb115c3a0e8508829bf82c4938a65d078cd89d5e2a7163bf8dced73296bb2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,016.942432",
+    "hash": "0x2d79afe7b011a5e5f9753fc692a4bc840dc31d1f180377cb17dc6a081ff3a972",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,999.80002386",
+    "hash": "0xf90550114f5411ba154fe44ce398c06881b8c249bf5f4eccb8b16a3581a4d6b0",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "212,993.301128795285420477",
+    "hash": "0x4090e536943ab2372405b28662c5eb505714b084226233a7cbcf074cb40c4559",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,340",
+    "hash": "0xcb3cf6f88af66220a3508c6e02b75c4d48b26e391b1d406c8c5397b72c8ca36c",
+    "token": "Matic Token (MATIC)"
   }
 ]
