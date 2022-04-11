@@ -412,5 +412,17 @@
     "value": "30,282.318",
     "hash": "0x99ce411abf8b7f7663b949a5574320c7500dcaa5767b6291b3a9c28ad0838f3b",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,707.553146",
+    "hash": "0xe0732a41cbb6722d639a8b31980182ef032ff0e34f7e153998179f1321901086",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "260,082.267475261743598305",
+    "hash": "0xddc7ddd1b6425fbb2703a0739f12e2aef84df725fc7cfc85aa00b88cebc9bbef",
+    "token": "NuCypher (NU)"
   }
 ]
