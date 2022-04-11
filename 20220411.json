@@ -472,5 +472,17 @@
     "value": "40,500",
     "hash": "0x32830a9dd3d2c81d1f2489a5359a074ac44eb351e9beb31c97e4de8e9491e686",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,149.504",
+    "hash": "0xe1caf6bb2fe3c00fc18b7302e224cf1a60cee09a3fbe4b33d4fcc03ea0d03fb4",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,109.931472",
+    "hash": "0x4615d25e1044c5b721e57ed99d9a7b468410de38a2eb92313cff4f2ede8b9663",
+    "token": "NuCypher (NU)"
   }
 ]
