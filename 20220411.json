@@ -208,5 +208,11 @@
     "value": "1,687.44356290543864104",
     "hash": "0x3f1f92fcaae298902bda650632cc20f9bfd3606b1c66975211310f0cbfbb480e",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,875.319887217851461987",
+    "hash": "0xf79d2364c86b6b8d68c3e25b6b35c747bb5cdb7edf71ed5fced47485b26ad9af",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
