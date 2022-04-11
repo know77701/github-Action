@@ -520,5 +520,11 @@
     "value": "46,630.906975",
     "hash": "0x2870502aa9c170cb51bc5f0e73c2af0badccae889cd5fb0ed8c21cac76063f9a",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12.4817",
+    "hash": "0x2afd22661e173f6d354fc7d6524543b2980f07e50414b70d3631260f271e4f8d",
+    "token": "Maker (MKR)"
   }
 ]
