@@ -184,5 +184,23 @@
     "value": "84,609.174167174051004586",
     "hash": "0x7ab1cd7f3f393a01ebd28ba6a5b5ad3e155291487de91007072ca85b24fabedf",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,130.227299404734291228",
+    "hash": "0x8bfa7ed81bffbc660811991072c99f52cb5851ace53b39837f55ffe98c545e36",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,236.505832825948995414",
+    "hash": "0xb7689e6bb5aa08e6ae2473b9693ff6aa7fe5ad5d686ca27e4015919325edd91c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,282.801311654543548757",
+    "hash": "0xcd43862514c487ce821e80c9b0613e3ce76f66bcc40e840a12697237144e39f0",
+    "token": "1INCH Token (1INCH)"
   }
 ]
