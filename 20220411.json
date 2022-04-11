@@ -94,5 +94,17 @@
     "value": "264,368.986422980404248913",
     "hash": "0x4c4fc742ac9f816f484f70dec1fb949da5c15e4f0ca3361f096dde8e439f294b",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10",
+    "hash": "0x8c8dbb5cdb31753a3ca4570ed7c271d15fd6ff603019e181e68ee55f6e76089a",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "463,647.62116233",
+    "hash": "0x30ee4918c981d39eb1b8276417fd0255d3343beced1b3200afd287a8fb4e97b3",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
