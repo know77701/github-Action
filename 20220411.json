@@ -556,5 +556,17 @@
     "value": "2,292,966.599862042217340433",
     "hash": "0x6f7734fe76b38d38fd696a67a23dfd654f46e833adac2e3d9aeff0c94f84f202",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,383,656.587981904459544973",
+    "hash": "0xb6def6e3d1795ef8e87766634628cb41344dceaa168b6236c4ca0fe3dafd2fc7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273.53225863",
+    "hash": "0xed0c5d0dda634ac8d7ca9a5f7869d1df63944b3d343b315e3163fe9b5dd6b78c",
+    "token": "OMG Network (OMG)"
   }
 ]
