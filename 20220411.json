@@ -112,5 +112,41 @@
     "value": "1,486,674.11537437",
     "hash": "0xb03f4bbbe9a99edb0517bced47c7aad3731270a238b713746eb6f71f6b71e6c0",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "644,158.99978945",
+    "hash": "0x9aeb761d3d0f32b6aeaa66f10feec841f8b45e79e25fec88d9691333e61d4050",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "333,733.6772331",
+    "hash": "0xde0dfc666500e0be0d09e0475b526c94b176d14014fc6468d08b80dd8e689147",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "413,370.699",
+    "hash": "0xb8323e6c3e50626b1a535d23f6776728793e8ba80b067586f5e4caf0b0b1429e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "111,622.63915807",
+    "hash": "0x1fe2c3c6ca996bc351f89e8b1cf750e2bf5d83edc2923dbe842c1f8bda2f560a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,098,898.028574554660614958",
+    "hash": "0x367973774074af3180acfbc2b783380659db039470f13c5ef6618995b827dc60",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,414",
+    "hash": "0x28c69ef8e9633bb4cd40929daeebfafbd317da0d2bf04b9e1feadc5e86ceb06d",
+    "token": "district0x (DNT)"
   }
 ]
