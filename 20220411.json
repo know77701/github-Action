@@ -232,5 +232,17 @@
     "value": "3,781.008",
     "hash": "0xe92fdc390cd709ff688702313471ddc756527ecf99ed5d9623e806c7382ea642",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,651.541794",
+    "hash": "0x80428fd30611117fa9e5c0229ed181b2b0aad8a53eef98debd6755cb66da9b3c",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,901.65877683",
+    "hash": "0x1bf17f33d20c944560c52e46121e2b4f0ce3afe1a0874e5aa040261d3a5a9283",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
