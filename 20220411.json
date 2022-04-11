@@ -34,5 +34,23 @@
     "value": "3,046.141418488648093591",
     "hash": "0x78f4b4444c24358dbc61bca46d22838e18734d3d57dec3df1241722ba2ae397c",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,320.28",
+    "hash": "0x3ff0f85e71321c52e8fd0bcbc625259e0d5618349fa848400acb00e1064b6d29",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,996.455",
+    "hash": "0x246ac849f5d3e27c2c3aa8eeb4aa6d3dc358f14af13de7650c213266874a1541",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "460,564.229687002910700643",
+    "hash": "0xbe189bc7889f9165110e2e611d3cc008468d9472918e82bddfa3ec8ec47b7eca",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
