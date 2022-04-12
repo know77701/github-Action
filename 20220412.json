@@ -178,5 +178,35 @@
     "value": "213,388.151958718675192735",
     "hash": "0x9611ffd383d253d0076255ef7c7ff77f563f7128f197474baeddbe4e0a4fc351",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,879.56372097",
+    "hash": "0xe2c0bf641295c5f8482c31a767041eb885b00a06a2ea611d97616357d7eece24",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0xfc9163a3aa02ec69f5c8d67e598c9753f6ee25e95350736e65c9ad1d6e9f86f4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,116.633540542453722611",
+    "hash": "0xbc3076bcd97d79f9d604cd9c7b45cd583a392e557a4825005a79934ca39a4b97",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "337,317.384913385663222871",
+    "hash": "0x78159b8938df8923a0c8d94e24e04124f8f6995ff21c74602043b5a6fbf857a0",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,300.81931353",
+    "hash": "0xd94cfb1241d530114050f7661514f841496ae63638a8791ebec92aa0bc8ebc33",
+    "token": "Metal (MTL)"
   }
 ]
