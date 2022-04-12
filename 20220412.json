@@ -382,5 +382,11 @@
     "value": "107,542.6080028",
     "hash": "0xa9dbdb601915d229d6af8b4eb9af6cdd0452c861da1efe6ee3a3ff0a1c59b6a4",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,131.14985074",
+    "hash": "0xa8e676db40ea54056a5773fcdacb587d304d4132172e6422152c9f8eb72331b7",
+    "token": "Metal (MTL)"
   }
 ]
