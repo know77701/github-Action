@@ -316,5 +316,23 @@
     "value": "65,503.99559957",
     "hash": "0x3ede94e29edf743b4e5de9815139929db40819e83686f78173fe4fcdb5f7c0f7",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,368.69667531",
+    "hash": "0xa6ddf9a5410ed8ef26341acb9b3b047ca151d284275aac117b1976b4f681b2aa",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,639.122513916260939286",
+    "hash": "0x3b583edf70cb52dff4085a6bc69b00f1f6102ec31706fdd32ed9e2d9a950b5b7",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,759.71968616",
+    "hash": "0xec7a3406dca16f4ce410a76a14ab2dc02aecf2724cbf999221e667373201c5c2",
+    "token": "Storj (STORJ)"
   }
 ]
