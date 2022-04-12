@@ -268,5 +268,23 @@
     "value": "200,000",
     "hash": "0xab9ee5a21b98154ef2d1a5b4eb3d2f2aed6f37dcbd76cbc2fcf78a72cd178c25",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,058.69625888",
+    "hash": "0x28ff48c4e5dcd891c6717b5d693a3e01611e5150bbc55e3806cb7f76d8b7aec2",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "422.832465",
+    "hash": "0x59489bc353f4ff70f014c5408a710d9b098f044c537fd0b9d3b9118a818b8160",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "308.981",
+    "hash": "0xb4fe4215c77589a982b3894993009cd39bd9df1bdfeef3d478ec3fec43a336b1",
+    "token": "Compound (COMP)"
   }
 ]
