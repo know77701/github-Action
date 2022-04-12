@@ -256,5 +256,17 @@
     "value": "57,255",
     "hash": "0x7017fa7230a23e053709fd4a517d8c8eec0adc298014b6026e8befa1c684baff",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126",
+    "hash": "0x3e483ae1a47e06fa6d0be72bef9c3b629654fffd79d2eafe2665234f727bbf23",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,000",
+    "hash": "0xab9ee5a21b98154ef2d1a5b4eb3d2f2aed6f37dcbd76cbc2fcf78a72cd178c25",
+    "token": "district0x (DNT)"
   }
 ]
