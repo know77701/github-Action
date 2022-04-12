@@ -298,5 +298,11 @@
     "value": "1,140.28",
     "hash": "0x5150a36a3951540a26afeb2db4b054c4fd3edaf7db5e36e8bd2875607e6ed208",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,230.4028396",
+    "hash": "0x8a49edb86d10d89ff0a92a0131d43c4ced316d28bc80176ae5343d4ef0a72c6c",
+    "token": "Metal (MTL)"
   }
 ]
