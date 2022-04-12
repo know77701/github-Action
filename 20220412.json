@@ -412,5 +412,23 @@
     "value": "3,862.806907629379999086",
     "hash": "0x4ad8e06aafdba0867a5b1edb2d1869eb1e375e307ef9f813fa0a58d1f47fe90c",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,107.51967387",
+    "hash": "0x559cb67839f51e39ba1dd5d1157673aacdacb4b7cf16fd4e1d3adede6cef21c0",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,812.66201882",
+    "hash": "0xc066350cd86fa2ea7cc7759f79ffa428d668d22442f163adbafab2974244a867",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,481.35238112",
+    "hash": "0xe44864b6d5f84550d259928ef20653d13e7d1872647d604dce5c5222190319a3",
+    "token": "Threshold Ne... (T)"
   }
 ]
