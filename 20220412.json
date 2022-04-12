@@ -340,5 +340,23 @@
     "value": "16,360.877486083739060714",
     "hash": "0x6b37a61c9ed0d0a65ea26f106ef7fbc4d74152bbe7b9d1302dcb2ae476080e8f",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220,583.78376651",
+    "hash": "0x6c0ea109edc4876b9436cd1d0a89b8a65aef86605cd13fc10bda9599fd4e52d4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,170.533",
+    "hash": "0x8fadbacea356d2ea605fdec078616fe3f26a10cee8bdafaf5707760057ef042b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x7d2012eb88d99640e38e281c718a5af16bfeebd1901057b614e722a756e51cd1",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
