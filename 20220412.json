@@ -310,5 +310,11 @@
     "value": "606,268.5596",
     "hash": "0x38ab7726c2e3293865273964f98c15afd7237181a3c974e481754501bc883d1e",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,503.99559957",
+    "hash": "0x3ede94e29edf743b4e5de9815139929db40819e83686f78173fe4fcdb5f7c0f7",
+    "token": "ChainLink To... (LINK)"
   }
 ]
