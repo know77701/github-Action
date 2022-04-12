@@ -286,5 +286,17 @@
     "value": "308.981",
     "hash": "0xb4fe4215c77589a982b3894993009cd39bd9df1bdfeef3d478ec3fec43a336b1",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "105,197.068371",
+    "hash": "0xf0baf200bd4584a7afa04bc55a102fef9303d37f73af5bece79d03f42e5f5ddd",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,140.28",
+    "hash": "0x5150a36a3951540a26afeb2db4b054c4fd3edaf7db5e36e8bd2875607e6ed208",
+    "token": "Matic Token (MATIC)"
   }
 ]
