@@ -208,5 +208,41 @@
     "value": "7,300.81931353",
     "hash": "0xd94cfb1241d530114050f7661514f841496ae63638a8791ebec92aa0bc8ebc33",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "513,621.803750001124893356",
+    "hash": "0x44462e400bfad06b3f94257bb1dd9b03b58d28eaef2f81169dd99374f9d751a8",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,445.6",
+    "hash": "0xea10a139458446ca73be9f12e05e19b5e68c13b5aec82cb5a6644b9fd04b6d8b",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,698.53944",
+    "hash": "0xaabc1a3ea4d3c7b77ae593eb556fd3b93f275ba586eb09d1d5ecc2b1e5aa927f",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,147.0315",
+    "hash": "0x1144e062ec16b20fbdd138e731a34c4f24f8869036aa5a5626347b488db6eaf9",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,932.692249998875106644",
+    "hash": "0x363a819d09c206a6470fb41f0e92549b0455a8d1e0633081946f3b2ff5d4ac7d",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,311.9867",
+    "hash": "0xcde409b9c672b8b4a4d1b03e6994d014f5281b7c9ff51b13e86ea010b9601cfb",
+    "token": "Metal (MTL)"
   }
 ]
