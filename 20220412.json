@@ -112,5 +112,17 @@
     "value": "979.545562534119603778",
     "hash": "0x8c58110afbabdb71de8e2bc74860303542b583a74ddbae6d56bbc1026ad84234",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "588,258.16271519",
+    "hash": "0xed6e540529812069d8193084a8307f90020a3972340b6212b83dc1bdad4aad0b",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,229.26261723",
+    "hash": "0x2fb3508ef0f9ec602529c5078560302b367ef73c72ff95cde0819dc5b9a8efec",
+    "token": "Aave Token (AAVE)"
   }
 ]
