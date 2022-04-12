@@ -1,0 +1,50 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "25,230.91219106",
+    "hash": "0x94c7cab1ad774798df884d0dc4f3990fd408814de256728615e0a1b45c236a3f",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,996.8",
+    "hash": "0x17a26eaa3f674e6c230876c2bec4edf1ae4a814f096ad73f45e7a36616e0a24b",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,260.17875549",
+    "hash": "0x0d03e88d750e63a4f9b4e0d4cefb363a64bd3779dae011533861e7c37ee58e5a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,582",
+    "hash": "0x222d8c7737432e49b59e9f674682a1ed0883fa01d1cfa46477a12d9ecc35962f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,896.8",
+    "hash": "0xb6e893ee61003453c8f6a18643507a5543ffef0f18ee5d8b493f18cc07fe446f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286,431",
+    "hash": "0x0d32f3ae7cbaad5418c19029f72043edd9a36e90f90bc522c04ffcdfa17819a7",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,963.663978454841413085",
+    "hash": "0x040cf207ea62554c5db154b02a998bad7fa1ce5b202c9d222ed6ecf003fc2580",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,208.046324545158586915",
+    "hash": "0x4aec1c1d030af2c9d8024f3e95dacfdbd406f333057b6147b62599e5b1adcd94",
+    "token": "Kyber Networ... (KNC)"
+  }
+]
