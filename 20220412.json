@@ -58,5 +58,53 @@
     "value": "218,117.17943",
     "hash": "0xf115fe9bd92611ad9d9a90f7f2a5a6a00e1c4568590418a5751a3583b77950a3",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,388.82284933",
+    "hash": "0x230f5c18eb12ce6177fb2f3e1a33e089bbec1413ac5c536ec6a23500302ac638",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,023.106548523",
+    "hash": "0x21b15d65c1d26c2afce27f75841f5fb6781fa8248a073e29fba1a482803fc04c",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,831.452030971",
+    "hash": "0xbf7751c3d0c8c0080d31f3b46d705a119319eb3ce0b114c52f3600f974ebffc0",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,334.86201003",
+    "hash": "0xc734e1cd526ae15292dbe4f92111fb5504388515592cf38280eca9aa9f8dc5b6",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,130.49795826",
+    "hash": "0xe1b59ccdc3f5d6904040c87585f543a1b410e818111711baef15f4b666eb24b9",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,279.085788560821906409",
+    "hash": "0xd5ab4fc6e5d4d827f21e572cc2472837aa316344d39fecfd0085d54bd3dfd782",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,123.620124739178093591",
+    "hash": "0x6a9184c21f20140fb2a38a2942bdf819754c4213f32a0ef934cee9d7e014dc78",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,777",
+    "hash": "0x13a081424a3d6f2d43fe74c5df8d2aff13a126bd030c2f6afdebdcd52fbe5a69",
+    "token": "ZRX (ZRX)"
   }
 ]
