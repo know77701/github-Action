@@ -334,5 +334,11 @@
     "value": "188,759.71968616",
     "hash": "0xec7a3406dca16f4ce410a76a14ab2dc02aecf2724cbf999221e667373201c5c2",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,360.877486083739060714",
+    "hash": "0x6b37a61c9ed0d0a65ea26f106ef7fbc4d74152bbe7b9d1302dcb2ae476080e8f",
+    "token": "ZRX (ZRX)"
   }
 ]
