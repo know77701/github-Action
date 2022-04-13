@@ -502,5 +502,23 @@
     "value": "3,000",
     "hash": "0x9cad90870077c596c8adc7faf8e56822d89fcc06129b276b55d29b5c5aa11517",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79.810000000000000022",
+    "hash": "0x8bde131ee13885f12248da96802c0e0ed8b2479d14177b189903e3366fa83cba",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,379.30718895725752503",
+    "hash": "0x9491bfa9fcce275bdab721ed2bc10bd4a0e83696f30d2ae5f90922c640e77f6a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,673.89832530274247497",
+    "hash": "0x130a050f2831c397ed0e8eb6619022e700ac02f3eb3251236b527360cc090877",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
