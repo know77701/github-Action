@@ -364,5 +364,11 @@
     "value": "390,383.43542703",
     "hash": "0x9a8220eb46fcbfb7bb8a7ca59feabadde58b0eb34aa0fca961be2fabb79d86ea",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,703.939",
+    "hash": "0x5b394141a6cf672d00851a5c60c0a5398a341559566bb93ba7e3b433da9fa2d5",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
