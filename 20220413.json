@@ -520,5 +520,23 @@
     "value": "34,673.89832530274247497",
     "hash": "0x130a050f2831c397ed0e8eb6619022e700ac02f3eb3251236b527360cc090877",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,491.798",
+    "hash": "0x4881954914401a7f7e3492988a12e31461d983afc9615f70e83b79c2e4064536",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "376,752.990342730564596082",
+    "hash": "0xa7dc0213a09f31ce470f3bce924615a68da4374b5a651286c6360b99a22fda1c",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99.62",
+    "hash": "0xeadcd905b389e9c665cee0029ecd9686b594ac17b9cef2edc0e04df2fdd0e561",
+    "token": "Compound (COMP)"
   }
 ]
