@@ -334,5 +334,11 @@
     "value": "22,000",
     "hash": "0xcefa80a33503bede8a659e92e8bc391226b8c35edf89d679f868e4efdae9be58",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,103.1975",
+    "hash": "0x8d32d5490d10cd5b5000d1f33df25ed39e0a9088dc0c967b64b0fd3e355d0ca3",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
