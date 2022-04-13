@@ -280,5 +280,23 @@
     "value": "1,121.75699015",
     "hash": "0xb05e92b71b6a5ab830086f6cae3eef2cfbde232daf8ff7b5b481f40d713c5ed2",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000",
+    "hash": "0xf0150f155db4af55950c6c3f6109207fe1062b9c90d472747d3bf65965bf6d90",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,000",
+    "hash": "0x17a975ef86b09ee9c637e45dacdda46ea1017182f7f81e2d063e50904bd8b3fe",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "222,442.107100820000021834",
+    "hash": "0xe430719e8a81f6937b2ee6240cac57f47111ada2f8bec28086d99e20220c84e4",
+    "token": "Golem Networ... (GLM)"
   }
 ]
