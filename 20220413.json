@@ -148,5 +148,23 @@
     "value": "385,295.00667794",
     "hash": "0xee623529176110191eeb30138537278b30d88f369357531543d746c226435b85",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,277.842471430144677275",
+    "hash": "0x7ba498ebe7aaa6de75ce53c3794e662ef85ab70b49040f296cb704cf40c5708e",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,875.400000000000010114",
+    "hash": "0x2a80abc61e15391595a1cb827e5adba97012b2619ea1d30acd7c8c766155bb7a",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,027.117",
+    "hash": "0x5a53343d84766ab8d60abfdd90716c102d73ee3b7ff36741958d2bc0d2e806b8",
+    "token": "Aave Token (AAVE)"
   }
 ]
