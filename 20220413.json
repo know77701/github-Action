@@ -166,5 +166,29 @@
     "value": "2,027.117",
     "hash": "0x5a53343d84766ab8d60abfdd90716c102d73ee3b7ff36741958d2bc0d2e806b8",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,000",
+    "hash": "0x7b80231acff58b7875bf7563fdfcb0fa7dc460263b3f5559132622d7c05e9cd5",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,591.34",
+    "hash": "0x1459353fe649b31e16ed43f4ef6e26f1316cd9fdd127e13b84b04b01a7b032d9",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,119.746301211477004048",
+    "hash": "0xdf6a8624e6f1efcb0bab6d935b34edf35637435a21235d9c7ccf373e33acea0d",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,110",
+    "hash": "0x296e7c27732432db950b91c6848d2a0212f64a84dfefc29b1bc7ee325e9f8438",
+    "token": "1INCH Token (1INCH)"
   }
 ]
