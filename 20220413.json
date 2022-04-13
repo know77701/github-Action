@@ -604,5 +604,11 @@
     "value": "68,806.52234251",
     "hash": "0x12540db38b486c70767a3e59594da188c45649a8897f1e418c371fa8a11aff6d",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,964.258",
+    "hash": "0x6d26e298e5ac16542d9842a1623c09eab244c63c118e4985ff16bbd5a86e2559",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
