@@ -370,5 +370,23 @@
     "value": "102,703.939",
     "hash": "0x5b394141a6cf672d00851a5c60c0a5398a341559566bb93ba7e3b433da9fa2d5",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "951,523.78932959",
+    "hash": "0x517619d6983e80746ac5847e57394ae316493c0f750e08e3e1e420a708d5dd7c",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,000",
+    "hash": "0xc683e7b9b6335a410066c3364cd731b6f48f9ef44d67a738d891c7d118d6bac0",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,498.6019",
+    "hash": "0x22cac52cf2e948738cb94e7477059b1d21384b43f8c3d62ecd1d059eeb80fe81",
+    "token": "Matic Token (MATIC)"
   }
 ]
