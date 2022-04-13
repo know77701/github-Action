@@ -346,5 +346,23 @@
     "value": "2,000,000.14106994021701914",
     "hash": "0x3b384d926d44e7ba7d6443b346eb61e4e7e97434417da9301ea21efb086952e2",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,002.224",
+    "hash": "0x80d52bdcd2cbf7b1f38c70cd0d475ef7ed3d901fe0819289d8f4c2e3986205d8",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,332,863.87366397",
+    "hash": "0xf95ae40ecc095aa85956681310f0c88e4532a9faebfe9c6c30ab41011501a333",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "390,383.43542703",
+    "hash": "0x9a8220eb46fcbfb7bb8a7ca59feabadde58b0eb34aa0fca961be2fabb79d86ea",
+    "token": "Civic (CVC)"
   }
 ]
