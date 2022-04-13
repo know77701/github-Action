@@ -190,5 +190,23 @@
     "value": "25,110",
     "hash": "0x296e7c27732432db950b91c6848d2a0212f64a84dfefc29b1bc7ee325e9f8438",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "340,075.39992218",
+    "hash": "0x2fbf61dbf4b3722ec1a3b3018ca03f8e8ac4a454c136b77983933d03aaadb2a3",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184,361.9135586",
+    "hash": "0xc34665b09e9333618369ac87f593b84aa9eb21fb7662c22219677a49ec9315a2",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0x07f95cad84c77c9abde17c27a10b8272060e0819561ad27427ae1a89af7c4b16",
+    "token": "1INCH Token (1INCH)"
   }
 ]
