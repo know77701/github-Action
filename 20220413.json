@@ -244,5 +244,11 @@
     "value": "249,732.20884487",
     "hash": "0xfcc625a1624f7654594468cc0f348d78323a9a97aba5f13cea3bff1ece61dcc9",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "351,562.2579",
+    "hash": "0x332c2ad9bd232924997aba154cef8eec38cbb9aca66f799dc8b9f6c62a4cc30c",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
