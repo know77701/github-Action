@@ -310,5 +310,23 @@
     "value": "1,056,933.882765579894960762",
     "hash": "0x4d3d9e66bdb29c96bd464302ae5622c1100119fa82b5f5c06a417509e2649c06",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,709",
+    "hash": "0x447951047a237c30c140b4f77028b7a059fef5a44c56cdc752e0e9d693766b7a",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.49",
+    "hash": "0x3d1355c225aad5bb98481b7cbac3ef10c02e54a1808b119cf8dbf25d67e4ac81",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "974.5063665",
+    "hash": "0xfa0a02828c71924617c1003842b4e6e373b23f4bbedc898b55a80f06dcedb2f2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
