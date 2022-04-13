@@ -232,5 +232,17 @@
     "value": "1,034.06651024",
     "hash": "0xfc9f69ef0116fc1b72e59f4895d492029ae328602d98c2cb1f0c05b8385a6b76",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "192,661.03431448",
+    "hash": "0x60d381c4497f9a6e8574db6248a063ccbd320a6326d96f72408a6a9716c172e2",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "249,732.20884487",
+    "hash": "0xfcc625a1624f7654594468cc0f348d78323a9a97aba5f13cea3bff1ece61dcc9",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
