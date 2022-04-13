@@ -106,5 +106,47 @@
     "value": "2,572,663.001865309532746774",
     "hash": "0xee81c9eb09f88dc0ad9622519396cd0b521e51b1196017d1629306b722bdeb9e",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,000",
+    "hash": "0xc7fc853f9a91071e852819a9f7b1b5cad9130d23646bc0a2408a6165344c5573",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,999,005",
+    "hash": "0x9aea8a0bed91fa2455c87e422d6abac54783643a349502b1415e5da94e8de2cf",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "460,034.62550682",
+    "hash": "0xdb7dadac13c8862a0a439232a1b0271c99b00c99bfc1050ddc884702415177cf",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "691,637.492247",
+    "hash": "0x48403ced6d57b8ac50b0f3fe7d050f03296faad483591856912559366166aaff",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,142,021.9220892",
+    "hash": "0x7627cd76b7c86dbb96595304553826c42caa76d1a8400b23ebfb73e60b49ddc6",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,976,210",
+    "hash": "0x2c3c91b997bb3b7b940049c2f7190697f218e3e39aecce476fae2881121d45be",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "385,295.00667794",
+    "hash": "0xee623529176110191eeb30138537278b30d88f369357531543d746c226435b85",
+    "token": "Civic (CVC)"
   }
 ]
