@@ -82,5 +82,29 @@
     "value": "53,711",
     "hash": "0x4a7b97c35d0c96c6687a2bfa264870a053957326bb3041091253cb1c7cfb4afc",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,048,711",
+    "hash": "0x887161db22ef56bf47084fe03a04966438975c8c5f417d13818572fc7f7cb476",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0xfd20c399a7c72e80220bbcbd56ad1c28ad4afe56a8b8a384e5d9f0df48b9e7b7",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,374.322935839677830201",
+    "hash": "0x11546cd1bb4f50e188171936e0ef2970e59b7f6dd90e120e397b5156f05ebc7d",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,572,663.001865309532746774",
+    "hash": "0xee81c9eb09f88dc0ad9622519396cd0b521e51b1196017d1629306b722bdeb9e",
+    "token": "Ankr Network (ANKR)"
   }
 ]
