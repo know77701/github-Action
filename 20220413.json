@@ -64,5 +64,23 @@
     "value": "1,107",
     "hash": "0xb0bc9b819302324755c1ca9062f53c3a4d2888f23356bfd1cfa441661d4705c3",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,653,671.569883160467253226",
+    "hash": "0x75aed12b377fff675c50850fff6820df742ee7e08acea8ca37b8bbd167fa604c",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "238,274.124036671590535233",
+    "hash": "0x6e0209b4f84065d74394b7f5ac450c60beecd188d8d482840187bcbf79f7ae52",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,711",
+    "hash": "0x4a7b97c35d0c96c6687a2bfa264870a053957326bb3041091253cb1c7cfb4afc",
+    "token": "StormX (STMX)"
   }
 ]
