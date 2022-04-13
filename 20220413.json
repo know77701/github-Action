@@ -598,5 +598,11 @@
     "value": "1,600",
     "hash": "0x1111e56aa85ae85081b02c4b5352932935eb30ebac4ee09943b9ad8f1631a4da",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,806.52234251",
+    "hash": "0x12540db38b486c70767a3e59594da188c45649a8897f1e418c371fa8a11aff6d",
+    "token": "ChainLink To... (LINK)"
   }
 ]
