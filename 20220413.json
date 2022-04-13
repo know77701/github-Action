@@ -4,5 +4,65 @@
     "value": "1,870.8191",
     "hash": "0x7fda02a053128530db27a596935881c60715a718a2f67577d505c01393ec85d6",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,422.7545",
+    "hash": "0x9daf58cc669c900ad2e3f51f37e67da040be7dd2568bd74f882fee569008729b",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "580,726.490167024764316276",
+    "hash": "0xa1748382e4dc76b1f6325e8ee00c3976bd773dfa6ee1e6291c61ca3d883e6510",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,035",
+    "hash": "0x768b9bd8da74df8f700d5dbc2a63f643866fc7ac05f2324bee186cc05cdc01ed",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "931,104.907533193456913284",
+    "hash": "0xb0a61d8935b6c6b49bd15f4b06a46db8c60d5b619f798dede45a9c4343677840",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,313.8",
+    "hash": "0x4af4ae3846fed4afb157235b217a44a8394699abceb4f31009a91a091ac4eec9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,791.89866471",
+    "hash": "0x7b8ba203b75972ad94d3adc33c8633ee7ce58bdf62c242c91625149e2c8a860a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,838.722770347780992109",
+    "hash": "0xee17b4a2aa7d326291bd43eabf90f957b64db91aaa0377ae875490ac7788b8d7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184,091.856",
+    "hash": "0xeae9950f8e4c5cde1e32452ec08ae1a7aa17367b956cef3b3c0814d8012236af",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "531,467.04796015981858616",
+    "hash": "0xcd1010afa172926b7c674ef2ddb2e14d50d9f7f7a21b417515d30d81fc8d8dbf",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,107",
+    "hash": "0xb0bc9b819302324755c1ca9062f53c3a4d2888f23356bfd1cfa441661d4705c3",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
