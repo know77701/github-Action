@@ -250,5 +250,29 @@
     "value": "351,562.2579",
     "hash": "0x332c2ad9bd232924997aba154cef8eec38cbb9aca66f799dc8b9f6c62a4cc30c",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "190.7007",
+    "hash": "0x8ec03fb8dd030c889655d293768c6252437bfc9e9ee4f6515eefe9b3e0a984b8",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "239,294.300000000000005751",
+    "hash": "0x9b5cb65b48eaca6cdcea5a91aa6698f0731bf56912d8d31ecd58b956df1917bc",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,294",
+    "hash": "0x30014ef058cca7bf17f2729b1c5054d84df3f66ca65e35ff210b93ced47e4057",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,770,431",
+    "hash": "0x2f68705e5c4220d9f1f21e5b8119b5167b9b06830a9627d3ff0aae2cd73e3b1c",
+    "token": "chiliZ (CHZ)"
   }
 ]
