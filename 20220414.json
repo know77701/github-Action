@@ -442,5 +442,11 @@
     "value": "3,479.11029006369190295",
     "hash": "0x0b729e042fb97dcefa4e7d849fad0fdf73e3b11b10eceb85f5567f2514dabab0",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,617.58581",
+    "hash": "0x62dd61ad2cf9cfbfb91785a4c2278fe759539f24bda9bf16cc58ff4d47e9702f",
+    "token": "Tether USD (USDT)"
   }
 ]
