@@ -754,5 +754,11 @@
     "value": "43,264.494114",
     "hash": "0x528fd0506a0eef6b807be6199074375266345ba669722a2c724390cdb3fc5ccc",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,951.087159090000000087",
+    "hash": "0xc76b978eed3a991cbe77c29e8a52adb95c92cdfbbdd7a744c62361b5443e2e9c",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
