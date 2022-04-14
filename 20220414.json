@@ -10,5 +10,47 @@
     "value": "995,437.273567784976322864",
     "hash": "0xae76ca2ae2bc1d77cdcdca66ba31fe257e139fa6c8cdae1d54be82313493d679",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,097.71664964",
+    "hash": "0x23e6c103df9f9a8df2133d469188bd7e581e2b2fd58a4a8374670daaa8435b14",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "241,800.715078056595481986",
+    "hash": "0xec9ab81f9997ba457b497421ee434f7e693d136a6106797456f91f3c230e43ae",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "411,985.052113320949827053",
+    "hash": "0xb6afab9a8221c0b08d6453a947b89b5a3eb835507bd7bc48fc212e2dbb20d8a1",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "485.605043",
+    "hash": "0xff7616cdf38205355245d052869f4555aa25ee3a0385372ba1a508bf0c434c82",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,015.67488005",
+    "hash": "0x3ca961af050b6230a3fc7e315214d618b1f43fdf2eddcf3ae5b6366b874ee4dc",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174,529.90373277",
+    "hash": "0xc8b53dff8d6b2797e54f1d78f1a6d8a025be7039dc720487319af47d47ec77a2",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,761.382",
+    "hash": "0x5be16795cbbfe684e0933108af1b41611c49171b5ecff19225a0353f30d58839",
+    "token": "1INCH Token (1INCH)"
   }
 ]
