@@ -100,5 +100,11 @@
     "value": "199,378",
     "hash": "0x9274351f21af222675958922de23b63d8547f97ecc12b4200c5015a5115aba8e",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,536",
+    "hash": "0xb3aaa60e3becba7f9ac24d4fe9092af4616531e34d830861f0fbbaa7b7f70ffb",
+    "token": "Mask Network (MASK)"
   }
 ]
