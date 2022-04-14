@@ -358,5 +358,29 @@
     "value": "2,213.00230001",
     "hash": "0x1632b40336d1e85c198bf328c73161458ee4ac7e69f02e421b21d39370066271",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,688.46624400000000067",
+    "hash": "0x3a317505e557987973eece6a825e1691e8be4b0df621036703b6f02ab0d5b749",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "527,566.861637637357893356",
+    "hash": "0x685d893e323db34d7a1b18c9cc484e7edc8e0e08795b8a73a303b4d8a06df91f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,634.103765582642106644",
+    "hash": "0xff858816f81771ebbb073f98682abcb95ef0978af3c11d305172d8be0c82b851",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,180,389.630067506255157206",
+    "hash": "0x0851811421704064c2b1057ee1479d7aa8d53d1981db7c05795124b547cce81b",
+    "token": "Orbs (ORBS)"
   }
 ]
