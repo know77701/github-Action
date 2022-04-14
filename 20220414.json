@@ -250,5 +250,35 @@
     "value": "62,937.2415",
     "hash": "0xc226371ee6392e8be2b6bfee0efde58faf660a5265642bda3ed922a2e22e94d8",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,070,899.62967377",
+    "hash": "0x417ba81a6a7ad8dd785074a2be7a0def83e1b0a1ad0c38b6b5ec0a871a28d283",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,219.208",
+    "hash": "0x1f39bbcfb2ce8b7ec19ee7b13e4800ca6ec6b444b027208a76620adb7ac0aaf7",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,828.844",
+    "hash": "0x85800f2df88a5b5357d9a05988d1592ab151b1fd5b91135547743c3455a84b2b",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,870.98479969383184876",
+    "hash": "0xb5f72f0f9288411a49b5c20ecc6bc1efeaa6c61a96bb11b900a1e00b02fd0be4",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "115,427.640031332383694078",
+    "hash": "0x7d3685d00cc51f3b37f54b173d2d25e190d9ca470702793a8ca7f64ff89fcab2",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
