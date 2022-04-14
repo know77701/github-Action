@@ -712,5 +712,17 @@
     "value": "75,885,847.80551103",
     "hash": "0xcac6823e4cf275507da7c775e42a592000b1c5e7851570eb53109c35385f181f",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,538.762819",
+    "hash": "0xcb46d6c5902cc729bccafb361e33d6e861f3cd20cd808a42864ff3b69fbdbf2d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,310.26558982",
+    "hash": "0xe0cc2e9b1d820636bbbb6b20a42658f1153a37309af003555eb932e67e1ad7e8",
+    "token": "Aave Token (AAVE)"
   }
 ]
