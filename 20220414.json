@@ -148,5 +148,47 @@
     "value": "20,897.298",
     "hash": "0xa00f4f6053fb33b924b66c88f7de260290b088ba617e74537ef7a9bf0775888b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,071.217",
+    "hash": "0x46df24a5ebcff72c18213361ad26ff0d7267646ec434cd9fea8067acd10e6da1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x62e38ae56b19ee205db369bcb3ad6a721fe54b8fd686fb12506a68fad7efcc3e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,999.95002109",
+    "hash": "0x901cd9103afc786dfa9943aa5787a48d07705dc7cfc60426f7d908d6eeea8e0c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x51bed1340c20105dee8171bc98a35bacff2ff069e21b7695060f91a08ef1dda9",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,295.628048951478466586",
+    "hash": "0xb7ff7eb72295bb169f2797a61f2b8b1c7cd92bb76cd594d00d5f16596fc68cfd",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x08ebc8164c244f305d6912eb08ee7746c69da73e560699082fed945db34322f8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,128.912",
+    "hash": "0xbedcf79652e846b852e1a0fd1531f28237b874bf74f6a5854c7169657e8ac595",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
