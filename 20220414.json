@@ -736,5 +736,17 @@
     "value": "25,877.073035",
     "hash": "0xa1e22ad440c565c26128d0795e3f4f3fea28fb012362fccbd0f17ff59f0be3eb",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,310",
+    "hash": "0xac24318b9863952da5d8517a8ec545c045b7afad3a8c454f1e2d57487f0797fb",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,033,000",
+    "hash": "0xf5e4989786945d442a0a56e1b3a1d0963f41d06cc5d4ebae2fc4633f595d5189",
+    "token": "Ankr Network (ANKR)"
   }
 ]
