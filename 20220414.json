@@ -88,5 +88,17 @@
     "value": "104,691.895257",
     "hash": "0x1e9f4841c37140ce7d1be84d972217a8222f232f0fda94a8377c98e954431ecc",
     "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,129.949261539955051539",
+    "hash": "0xe5b7d08e154cacb831eae44560aee420bc3b873778fc1145498d8a6e726f6191",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,378",
+    "hash": "0x9274351f21af222675958922de23b63d8547f97ecc12b4200c5015a5115aba8e",
+    "token": "district0x (DNT)"
   }
 ]
