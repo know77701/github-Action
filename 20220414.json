@@ -292,5 +292,35 @@
     "value": "228,874.150329341280213354",
     "hash": "0x0f0287d96c38b8cf976e0d64a1a184c2ed5d417f977c0995870bc043df3aa4df",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,576.89818446",
+    "hash": "0xd3d3350209271295fd2eab4c6b6228db3f42dd6e9bf05dd4a21962a1757269a5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,691.78278",
+    "hash": "0x9c8b5fb2da4c86f91cfe1d044b59fe920835e12627f461680f57effa1928c102",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "485,993.315001772147555164",
+    "hash": "0x6edde331ac0d02ad796e61fe97e5e0e32e843be23c1f348ba5e93ae8a7e0a6cd",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,300",
+    "hash": "0x2f3cae845c8a214998cd6e8a49dac95b41b9b9e7e403048f0cd270575e162332",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,364.360190269737856618",
+    "hash": "0x2b4e5ad3f500cbc69113c7d1b0fb809c3bfb6e8c28d974ce3900ae7ea26a7825",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
