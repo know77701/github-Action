@@ -478,5 +478,17 @@
     "value": "512.00182001",
     "hash": "0x86b04824d9017745e0ba50a1f7bb39b3c62c29bd52dcd16a828fcc13f79d4d38",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "321,189.789843310495805452",
+    "hash": "0x41d8e1988e4ce1c25881fa0b370c8f6c1995ac8c3120fbea2d3d509cfd3cea3b",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,836.3",
+    "hash": "0x3f04f9185904ea4db1daf30e9bed7bd1731a1c85914aeb9c4641b7bd40a8eac0",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
