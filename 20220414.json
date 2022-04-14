@@ -634,5 +634,35 @@
     "value": "499,677",
     "hash": "0xf1788706cf6cc3ec03b4220c72467d9069044e880c155715e4282c5323b26389",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,096.609045736658951972",
+    "hash": "0xae920ecfc695693e5aaf9f265607e49a5f67d2a975e131858997f3b830f3f332",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,893.390843233341048028",
+    "hash": "0xfff8c64957ca0a3cf55a9f45c97b7b7c20de3d51f5b469d8de969317f8f10189",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,364.24775518",
+    "hash": "0xa3f301151fe567dde5d4dd3328c5a64d6cf4b9570eab8d801fd0df78517edc6d",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,562.4873198",
+    "hash": "0x13e07cf585ed47c40f96bea93f082ca185a9a1f37306f27784d1d760f7d6a30e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "626,256",
+    "hash": "0xad9be810fb70c79da227e0904adbbdb1ff90f850fa65212142fcf1ecd1254288",
+    "token": "Ankr Network (ANKR)"
   }
 ]
