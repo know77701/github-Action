@@ -118,5 +118,35 @@
     "value": "20,186",
     "hash": "0x7794cb38e13e3b9dacf3e4b25b0e47d1ab2e1141063a1b1b8d20180ff0369090",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,525.045435587994804711",
+    "hash": "0x0d1cd75c75469a498927630643d7fa5b055f18e8bae0af0b5dc115f8d9d66b7f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,601.52097493",
+    "hash": "0x716683931a7ed62344d56bad1fde6f67f7fb09e0a64ed3cacd9f3a346f7373ca",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,419.53151224",
+    "hash": "0xa799a90ca667a78ad74513856efedd162d4a78a289dc6ba010cd53d4c6c812c9",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "609,655.51851343",
+    "hash": "0x0ae58f00e86993f0bf9ed54803ecfff9d69e759505a2a3c5d95239082a53aa0a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,897.298",
+    "hash": "0xa00f4f6053fb33b924b66c88f7de260290b088ba617e74537ef7a9bf0775888b",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
