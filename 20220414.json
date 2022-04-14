@@ -322,5 +322,17 @@
     "value": "27,364.360190269737856618",
     "hash": "0x2b4e5ad3f500cbc69113c7d1b0fb809c3bfb6e8c28d974ce3900ae7ea26a7825",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,361.745785585238240951",
+    "hash": "0xf0e923d86fcc3dd7891e8406b978f2887ef7b5f4d87de473ba44dc69affddfa7",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,290.793594562156681013",
+    "hash": "0x840eff8e45dee626ada15468ee60000fb012f50c3ebfcdb3612c3b528e560089",
+    "token": "Bifrost (BFC)"
   }
 ]
