@@ -622,5 +622,17 @@
     "value": "76,431.52650077",
     "hash": "0xa4006659ee4e7b8f4ee3824fdcd8c7b134fcebf8be520acc8e1613c53696f38a",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "382,115.99992449",
+    "hash": "0xa9553ec69ddec06b3e12e72e238337d2fd98ef0d67d19f1e333d47a931ea79d0",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,677",
+    "hash": "0xf1788706cf6cc3ec03b4220c72467d9069044e880c155715e4282c5323b26389",
+    "token": "Ankr Network (ANKR)"
   }
 ]
