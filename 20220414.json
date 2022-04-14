@@ -730,5 +730,11 @@
     "value": "2,020,571.746251",
     "hash": "0x59879254184e67ffc7b2ab9e2e77283ba3c9a798d21b08ee293c792fd8d88320",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,877.073035",
+    "hash": "0xa1e22ad440c565c26128d0795e3f4f3fea28fb012362fccbd0f17ff59f0be3eb",
+    "token": "NuCypher (NU)"
   }
 ]
