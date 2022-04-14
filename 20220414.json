@@ -226,5 +226,29 @@
     "value": "17,167.8",
     "hash": "0x1645ae4da59adcaa5e178e02818b0bc60f94e31016eaca990a72a49775b86a8b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,091.858",
+    "hash": "0xf49b5d9348d5006b31d933356f9a7ff5f259cc739cbd888ad4a0cf63d0345f20",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,039.03020030616815124",
+    "hash": "0x4ab5f17e05a7e8b2e6a3b9ad3d0962817a2c1e01e62c549d40e0a875c2432d0d",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,713.90290802055787571",
+    "hash": "0xe0620d314b198d083f104234833835afce8536f1a6d31c34f2297e67a3f972f2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,937.2415",
+    "hash": "0xc226371ee6392e8be2b6bfee0efde58faf660a5265642bda3ed922a2e22e94d8",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
