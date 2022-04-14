@@ -106,5 +106,17 @@
     "value": "10,536",
     "hash": "0xb3aaa60e3becba7f9ac24d4fe9092af4616531e34d830861f0fbbaa7b7f70ffb",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,210.0887501",
+    "hash": "0x52dab840211d308a6abb12608a1f8327f2515a946abd542af797b8a0a3fa2ef1",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,186",
+    "hash": "0x7794cb38e13e3b9dacf3e4b25b0e47d1ab2e1141063a1b1b8d20180ff0369090",
+    "token": "NuCypher (NU)"
   }
 ]
