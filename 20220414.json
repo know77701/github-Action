@@ -82,5 +82,11 @@
     "value": "520,866.42532644870487349",
     "hash": "0x23d077feec257dbe12ac9d88218777338be7ec723eca721cadbd8d3b94600801",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,691.895257",
+    "hash": "0x1e9f4841c37140ce7d1be84d972217a8222f232f0fda94a8377c98e954431ecc",
+    "token": "Tether USD (USDT)"
   }
 ]
