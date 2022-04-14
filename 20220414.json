@@ -52,5 +52,11 @@
     "value": "25,761.382",
     "hash": "0x5be16795cbbfe684e0933108af1b41611c49171b5ecff19225a0353f30d58839",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,001",
+    "hash": "0xd8bb9fac2d676c27b2edcab73af45799b3f262242a097435045c0727bf725249",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
