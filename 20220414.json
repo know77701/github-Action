@@ -388,5 +388,35 @@
     "value": "15,923.644190640218393096",
     "hash": "0x5401b1c5cf36218467726fc86afd7ffde877d3148a2344265051c9965af6f33b",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,728.118",
+    "hash": "0x15afd104b30643f4baa488b460665013265e5e8aff857606ced53d451e2d4c01",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,078.923020634618255513",
+    "hash": "0x475ee6b91f1c8a40a5397780ab52ec3246e5de12864f24b8626b4312ad790f63",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "745.072",
+    "hash": "0x6b79d5397b6a2d4d886daefc38e935c2e86786f4fa1f4ae77429e0c1a4ce72cc",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "301,777.885979365381744487",
+    "hash": "0x279ecb28e706420bfdefe408ca482339b5a62085066d3782d58bc51573e0fd2f",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,162.13037766",
+    "hash": "0xb3e553b5e844e61f70b98f422a8ffb10d13d3b6431aab47f9b9eb17fc5c478f7",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
