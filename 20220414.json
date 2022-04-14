@@ -490,5 +490,77 @@
     "value": "10,836.3",
     "hash": "0x3f04f9185904ea4db1daf30e9bed7bd1731a1c85914aeb9c4641b7bd40a8eac0",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x36285bbc7fee9a62df889f0bfe30bed44621675c9bfd359d1e5f122e487720de",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,999.99100001",
+    "hash": "0xb894c391c95ddf2c42dd670534c796e6888a6bf9ad65a508a837eef75df540db",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,579.796220979071759003",
+    "hash": "0xbd696761b83ec1d129a96afaee8382b5be6ed7981a2555d440c7ceaa1db31e6e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,805.55447936",
+    "hash": "0x45a4882064a11e908ffafc22235ff478605d7fbaed944c527664e458eb493996",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,309.45318804",
+    "hash": "0xe322d509ee39cb7264f1fcebf092236f4a2d7f5e13bc72ed5b26dde74a850e38",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,465.25",
+    "hash": "0xae45b5f2cf758da972124b538ed13977e02aa5181fa8bd9c1ad91640f8cc3bcc",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,137.33075208",
+    "hash": "0xff2ac3beaf0d2ed603685ed1329d94039464bbde42c56606e64178755a04d25d",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,312.90707781",
+    "hash": "0xd89338a9cb269b2bf045b8fcb28a9bf4e87fba79ba646ed018bb56bab8686263",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,367.96324",
+    "hash": "0x7a023c1ac9296cca3132ea096436ba7fe086b0a0712b3d3cf56f5f436d47c66a",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8.81256323",
+    "hash": "0xc1c2b1d4bb8156f13c2f4dddbbfe73ccf8f58f4a866ee410e32732edaca30397",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "882,860.96057099",
+    "hash": "0x7a15c0c020efe8a5548922ef009a5f4f5f510cb7cab5374b35afec67ed2af142",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,853.281",
+    "hash": "0x7b3e3c170fb2296cfaa5bcec73f2cc428e63d21aaece6cc8b7832f6958b68fa1",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
