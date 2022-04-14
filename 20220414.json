@@ -574,5 +574,53 @@
     "value": "40,871.46056758",
     "hash": "0x0f6a21e4353db893594a933f5faf735dec38290c009f7eb7101ab046bafb88d7",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,180.49160076428709705",
+    "hash": "0x25613fcfb33c019299e3f435a05057c8644bf589ff8d8e3feab8b0238a0c8272",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,895.03643839084505543",
+    "hash": "0x27662a29b1986d910b7f0a237de873b3ae5d68d1531b827b94a9c2d62b5ba81c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,516.29834154571290295",
+    "hash": "0x971377d80de49c52a6c180d24ddb21b1f118f0b20268438f12b8eb380c9cbfb3",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "334.06654216",
+    "hash": "0x35072a6b2ebc5446f0f097d38727766a8fdca7fec817dbb8ff380abfe8dbe8e8",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,439.40333693915494457",
+    "hash": "0x7626ee2e2bb090f7fde4d596db95a290e54c62acec42a94bb35ca000e6b35b35",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "856,442.89148308",
+    "hash": "0xf06319db2bbe8589b7c755a4b5438437269ac5d333d5e0d7d3388d63f2a277b1",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,968",
+    "hash": "0xd74cc94b2f4b2ed165cc3f53ecd9d6e594d8e8fa72510f65987e091cd4add3d2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,431.52650077",
+    "hash": "0xa4006659ee4e7b8f4ee3824fdcd8c7b134fcebf8be520acc8e1613c53696f38a",
+    "token": "ChainLink To... (LINK)"
   }
 ]
