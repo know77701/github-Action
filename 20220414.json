@@ -664,5 +664,11 @@
     "value": "626,256",
     "hash": "0xad9be810fb70c79da227e0904adbbdb1ff90f850fa65212142fcf1ecd1254288",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "341,279.21613162",
+    "hash": "0xb67d5f6a4adde66c3a41b649ea847b28a9efda8d1b504d1703e4b79eb53c78cf",
+    "token": "district0x (DNT)"
   }
 ]
