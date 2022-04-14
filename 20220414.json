@@ -340,5 +340,11 @@
     "value": "144,407.321181054761759049",
     "hash": "0xde412991dba63b2ddcd3a6c8da91e0adf76e310800247baaec4114e5f9ee2486",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,294,508.03593144",
+    "hash": "0x629f9620071c5384c2cd1f55053e9478a1d7007a7a1bde1a6bf7165178662760",
+    "token": "Quiztok Toke... (QTCON)"
   }
 ]
