@@ -466,5 +466,17 @@
     "value": "69,900",
     "hash": "0xf4f603dfb88fe22047c6307db857db12af67a209cef688bcfdf54ffe89b52899",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,276.961",
+    "hash": "0x2734e54fc92952ac68a828fca1c16262fba695337f695afc61276e3894c722db",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "512.00182001",
+    "hash": "0x86b04824d9017745e0ba50a1f7bb39b3c62c29bd52dcd16a828fcc13f79d4d38",
+    "token": "Aave Token (AAVE)"
   }
 ]
