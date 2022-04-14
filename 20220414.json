@@ -676,5 +676,23 @@
     "value": "18,461.274416405607454041",
     "hash": "0x0bf96bc786bc18b6e99711067ea01c4732ba3cb53f73c0650d3bab9406324ab5",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "425,414.222162786872435892",
+    "hash": "0xa798725f20c0dbc51796df9935400adf4036111b1fcb9dd1e3f70abeed72f365",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "156,734.222778813127564108",
+    "hash": "0x5e54bcd48b60940959f3cbeff925a3f3a7ed21eb7ceb24200b7d3adc804035c1",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,146.565369",
+    "hash": "0x40a8f037611b4e04cb9c94a6bca9a55eaa1837696c47dcd1e5a5c251579afde9",
+    "token": "NuCypher (NU)"
   }
 ]
