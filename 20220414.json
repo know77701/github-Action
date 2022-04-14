@@ -724,5 +724,11 @@
     "value": "1,310.26558982",
     "hash": "0xe0cc2e9b1d820636bbbb6b20a42658f1153a37309af003555eb932e67e1ad7e8",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,020,571.746251",
+    "hash": "0x59879254184e67ffc7b2ab9e2e77283ba3c9a798d21b08ee293c792fd8d88320",
+    "token": "PowerLedger (POWR)"
   }
 ]
