@@ -262,5 +262,59 @@
     "value": "45,649.83412099",
     "hash": "0x9eb60bf63048d52d85d500151c9b68a9c6414159b016bfcd2089f028a0878723",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,238.80762034",
+    "hash": "0x3f4e53bc3226b73dff00bf3e9b9bfab8951809b50360a854c6adc9e5db0905f4",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,777.99985269",
+    "hash": "0xc27ab0a57c5b497176364a4a01094b89f1bd18185bf5e2860caeb88603342c6e",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43.700363744975253116",
+    "hash": "0x2a53ab7d8367916cc516ae1c8fe62c87285087aac70f0181938206c726fb33b6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,292",
+    "hash": "0x2ea57d2b48b9382eb6707441ecfdba4afb627428b5b6919b27a8665810c71439",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "524,040.9592186",
+    "hash": "0xc123794ec23df57ef8f2724e15effbed3d12c01b6a19ae198b70ec31b500e821",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,554.99492792",
+    "hash": "0xfab0d5414edb4176fc649a5555cdf35e6c0e1435e11992d448d068e0744ac719",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,000",
+    "hash": "0x0f794cdb239d767e529291013bec47d0d91ee62fdb43ed42c456f3e99fc9b36f",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,079.766809550730671097",
+    "hash": "0xcf58db38d09974e1dc02768a63b7626102851a34a1c790150b1a8f92386483d9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,918.746691699269328903",
+    "hash": "0x71ed20ee2f48dd2bf16ce223285fad20bb7dfac269a82fe9a87f8d3f0ac090a8",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
