@@ -82,5 +82,11 @@
     "value": "211,111.689481441154110859",
     "hash": "0x37dc0e2f6ff3c12d5e55a171833e1ee74925e2897e845492fbb205fb85dde894",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0xd0dfd186b8c7624fe326503d6b820557c0595405d3d2730748537f68ddf0063a",
+    "token": "Orbs (ORBS)"
   }
 ]
