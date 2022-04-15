@@ -352,5 +352,23 @@
     "value": "5,588,816.99983906",
     "hash": "0x6aa917f9d46c35a195f73892dcba0f0006ec578432b53ede4c7162fbb896220e",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,858.650550796737031719",
+    "hash": "0xed35c835d4a6ec665be37a281cd61dca04690a950ae06e8eb4694b16192522dc",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "216,517.001541",
+    "hash": "0x8b3d5bcdd3b049815fd318f64f173f57c83aa5fcb9550af0c29b225e444fefe8",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "636,735.998459",
+    "hash": "0x20c38df3c87c712673dea5c4c6b783a707cbea381e4b16250b8518b1bab8cf30",
+    "token": "PowerLedger (POWR)"
   }
 ]
