@@ -64,5 +64,23 @@
     "value": "52,811.435933308845889141",
     "hash": "0x6c95785f3d14b3f6e27909853dd1798a80f3d791032d244100ad5f95216bd0a0",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939,773.560905",
+    "hash": "0xb05fcb597ead2bd60208c15d8802f23f3ed959f43ccc75bfa2ab32037df82583",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,950",
+    "hash": "0xfa9f0c8dfec6d2dd572323eac3e20f08aa11ffc6c4db48d1ed8bc1d48b40fd19",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "211,111.689481441154110859",
+    "hash": "0x37dc0e2f6ff3c12d5e55a171833e1ee74925e2897e845492fbb205fb85dde894",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
