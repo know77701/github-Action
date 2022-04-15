@@ -370,5 +370,35 @@
     "value": "636,735.998459",
     "hash": "0x20c38df3c87c712673dea5c4c6b783a707cbea381e4b16250b8518b1bab8cf30",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,038,916.99988928",
+    "hash": "0x4f8a17d3f33c43d98b8ad953a79b04652bc259fe648bc2ef5f91022c70751003",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "226,779.063622",
+    "hash": "0xd4a7c950f79aaad379cba3c678852fa14382af6b668250cfd9df7cd7707ca840",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,246.56379",
+    "hash": "0x84573de1947dfa936d1bd4a3d6ca16122e9498b63eef580144c029196f9ccc36",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,065.18360828",
+    "hash": "0x7061fe4d4ed929eddbbd3d8be6f47ce35b1bb184ec11528b4f5ad8ad8a5d10c9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "320,299.175357863262968281",
+    "hash": "0x5b34f8a0f82ae1843526ae6acc41c285da9f85d3ad4d0c4296a95e370947ac49",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
