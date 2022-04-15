@@ -46,5 +46,17 @@
     "value": "150,966.74141605",
     "hash": "0xc8f7192293a85b23988f58bac05218d9b9788164fb07ea495d03d34eb40dfaf4",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,725.95107768",
+    "hash": "0x60912023b22eab1fa6df5959ec83d28e3642a0968a3c095ad51061ae97368d96",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,983.293574060080782948",
+    "hash": "0x2dcd5efdd6835e098520316b097b295345ca1120d7f5f1ce419ed7aad8e75d8a",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
