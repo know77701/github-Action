@@ -424,5 +424,29 @@
     "value": "4,476,432.542347750330780644",
     "hash": "0xd3847bd2c30b06a8cb1ce900c6dc96b0ab786e75107c92d62a62a648cbb23353",
     "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,382.751443",
+    "hash": "0x6241a160b0b8cad776b4d6383684e5ac1470d32448417670cf98a5dbdb42ffdb",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,133.31840309",
+    "hash": "0xc1051b6f39990d2758cf6ac94b5504452f9f68a869f9b035a815395053f1754e",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,496",
+    "hash": "0xf91938977e0101ead5294291594131193930a39b99d8c499a7168cd64dfeb381",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,956.99991488",
+    "hash": "0x3d0f7d29c035c54d0e14bda03966e17c8d86b50513932fdb55ebcf862a40e3ed",
+    "token": "OriginToken (OGN)"
   }
 ]
