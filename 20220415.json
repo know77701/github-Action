@@ -214,5 +214,23 @@
     "value": "30,247.073",
     "hash": "0x371b4b1ea4cbb4ad56cd8b81860b37b73d9b02fc79fc22c169327765d18f65d7",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380,846.249019945722086003",
+    "hash": "0x27bb15efda3240586e2a407793ef1b6d3f49d0a0ac2c920afcee4b88a9ee4070",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,951.7",
+    "hash": "0x04c12b9bed38ff292d1e00e93aaeb0d32b7251fd965ceabd7f131478af9bddaa",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "692,499.387316754647054152",
+    "hash": "0xcc57e7d6da55af6f5b589808d5cd1d76e958e81531eda5dca8feaaec8a33170b",
+    "token": "Threshold Ne... (T)"
   }
 ]
