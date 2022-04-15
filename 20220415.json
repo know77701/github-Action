@@ -412,5 +412,17 @@
     "value": "51,000",
     "hash": "0x83f534c1ef5ad804b595098a04433da5ec71a02db8847b7609ed56ba1d3635f8",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,649,193.60537303",
+    "hash": "0x46e91c3f91beea84a751605908e6681f4d0f5d49f45bd0c7e562193fdc109142",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,476,432.542347750330780644",
+    "hash": "0xd3847bd2c30b06a8cb1ce900c6dc96b0ab786e75107c92d62a62a648cbb23353",
+    "token": "[FCT] FirmaC... (FCT)"
   }
 ]
