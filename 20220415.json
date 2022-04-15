@@ -454,5 +454,29 @@
     "value": "1,745.33162509",
     "hash": "0x88379771a7aaa4f693e84062f9ff04dcea3b13522983351025e07096f65440c8",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,177.99997967",
+    "hash": "0x11b5ddef9a81aadb3861aa088403cce49499072d50e6c4d13e3b7ca89fd94a0f",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,190.688795",
+    "hash": "0xf44ed4175062209d6ccfc29d78b92af325b9ea3ed3841ced80a5e50c1e45ea48",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,364,075.691840169248120405",
+    "hash": "0x2483fa0126f559c785e434a872520ecde785dd274385d91be5f9b8aa5235f532",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,533.8",
+    "hash": "0x6683fba30f9d8af5dd8322855d56c982d1399340cb5db312b08cb8019218fd46",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
