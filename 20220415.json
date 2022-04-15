@@ -1,0 +1,50 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "2,666,568.37191692",
+    "hash": "0x9948613ae10b4826ab28775fc616d9bb519ee2c3bd2e9d72969c0e86d40955ab",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,398.16765111",
+    "hash": "0x0d892d0dfd6ccff4b9375c2d5b0278b082ecb152408c9c3709225537d53e5744",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,956.639238029919217052",
+    "hash": "0x6c0cc52e9a5cdd0f7f83c3a0cb087ab666318d314fcafce361af346003cf08dd",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,227.71575611",
+    "hash": "0x7adbf45db3092f2fb4992a818514c1335c9ea8d828ebaa271b719b0fc2602629",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "613,582.52884414",
+    "hash": "0x5369c8dae47499c3f92f6abdb93577985b2d009579c9ef04b94c006635b39158",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "937,374.158900732131341237",
+    "hash": "0xc8728a8a7d7eb003482d5add3dfcf983c8a22e3a14df058e373132020785fb4b",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,054,989.206183957868658763",
+    "hash": "0x3a97e3c837ae73f734c0e234a632dda92afeb5dff67148a8c3bf51c5aaf3302e",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,966.74141605",
+    "hash": "0xc8f7192293a85b23988f58bac05218d9b9788164fb07ea495d03d34eb40dfaf4",
+    "token": "OMG Network (OMG)"
+  }
+]
