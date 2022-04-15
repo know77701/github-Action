@@ -178,5 +178,11 @@
     "value": "55,994.5",
     "hash": "0x480b867cfbe313476a430e28a0235c6a2ca3e205f3c97295c180f4d95c0a5a84",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,440.77908575290481095",
+    "hash": "0x9ff21d7bad1a1fe542119a419e5f47fd1bb177be79fb14db0efe277b5ab5f7c1",
+    "token": "ChainLink To... (LINK)"
   }
 ]
