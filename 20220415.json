@@ -250,5 +250,17 @@
     "value": "2,142.98480095",
     "hash": "0x55f6bda4111b7ab12842aeed22ed39e9e2ee582029691060d2f5ef42acaefe88",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,144",
+    "hash": "0x1a968642b8b40529d4779c016382e3b5cd8d573f85a110f4fd240ec4cd608b98",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,649.83412099",
+    "hash": "0x9eb60bf63048d52d85d500151c9b68a9c6414159b016bfcd2089f028a0878723",
+    "token": "NuCypher (NU)"
   }
 ]
