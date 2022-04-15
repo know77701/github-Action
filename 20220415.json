@@ -502,5 +502,11 @@
     "value": "3,477.56000905",
     "hash": "0xe43c42b681b7ef44626675b3cd8e6bb97ab4778b1e38eec021c713a68b884e82",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "207,270.43772093",
+    "hash": "0x1ae1c04c6f3d3cbc5d23dba2f32aa624e7d951f27b6c9fd9d418ffb84f02a93e",
+    "token": "Metal (MTL)"
   }
 ]
