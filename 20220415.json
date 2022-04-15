@@ -340,5 +340,17 @@
     "value": "29.49",
     "hash": "0xc118ffeeb7795ab06ea7e5596dd9425312966dfa939fe8682900c700e37dcf50",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,717,625.40000152",
+    "hash": "0x29b93d56f399540f0fd243a0c0e1be5d715defb6beabf5e66d5ae34425fb238a",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,588,816.99983906",
+    "hash": "0x6aa917f9d46c35a195f73892dcba0f0006ec578432b53ede4c7162fbb896220e",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
