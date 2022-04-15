@@ -160,5 +160,23 @@
     "value": "69,638.09534000284096677",
     "hash": "0x4b700ff49dd0bbe57e779a2a85b373cbb5250f74fafd7391f90d4ef954a38b2f",
     "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,329.90630629709518905",
+    "hash": "0x936c6798835d25863b569e47c15164ebbf9f666f518e06eba384efe350d0ced0",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,077",
+    "hash": "0xacc649054d650b239a1cfc3df4f7411eb1c63111e4591f991576c69417185ea8",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,994.5",
+    "hash": "0x480b867cfbe313476a430e28a0235c6a2ca3e205f3c97295c180f4d95c0a5a84",
+    "token": "Storj (STORJ)"
   }
 ]
