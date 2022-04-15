@@ -112,5 +112,17 @@
     "value": "71,127.41305256061131807",
     "hash": "0x4a25fa7bb753a9dede6a9fc8fba97c693ba446f5be7de0daf44fb6857b285f0c",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "327,074.678117473446185784",
+    "hash": "0x310ce527da348526b9c795ab2b1d22d6107a8193000d6fdc5d7ca052c45d217b",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,198.7",
+    "hash": "0xde92f94f25008e55871b7944a5630e5768e34272127cb01c0fce375bb14b0763",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
