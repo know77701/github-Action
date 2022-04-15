@@ -58,5 +58,11 @@
     "value": "142,983.293574060080782948",
     "hash": "0x2dcd5efdd6835e098520316b097b295345ca1120d7f5f1ce419ed7aad8e75d8a",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,811.435933308845889141",
+    "hash": "0x6c95785f3d14b3f6e27909853dd1798a80f3d791032d244100ad5f95216bd0a0",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
