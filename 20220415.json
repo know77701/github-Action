@@ -208,5 +208,11 @@
     "value": "251,196.641138448422439919",
     "hash": "0x2e32a948651d280cdf704f714fe3e2c90acc543cda4ae98238fa4ec90b1c6b82",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,247.073",
+    "hash": "0x371b4b1ea4cbb4ad56cd8b81860b37b73d9b02fc79fc22c169327765d18f65d7",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
