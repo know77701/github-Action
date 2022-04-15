@@ -148,5 +148,17 @@
     "value": "126,586.35322545",
     "hash": "0x773f947bd377b444029722733e56f61bcfee8c53285b3c036920e5872cb17186",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,934.91275818721496763",
+    "hash": "0xd166a4b4cb839f93077d4c30442e786b4f02905cf95dca4111f2e5bedffbea5f",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,638.09534000284096677",
+    "hash": "0x4b700ff49dd0bbe57e779a2a85b373cbb5250f74fafd7391f90d4ef954a38b2f",
+    "token": "Dawn (DAWN)"
   }
 ]
