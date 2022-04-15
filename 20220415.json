@@ -484,5 +484,11 @@
     "value": "111,730.39823936",
     "hash": "0xdae3fac8195be4a97db060ff727b84fa72f489e50f2918ba3010fce943dd4a4e",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,227.71576169",
+    "hash": "0x88a120cb79f9dfbf1d3145521b7ee49fabdc4617f0e8bd07b75795e36b4c2ae5",
+    "token": "district0x (DNT)"
   }
 ]
