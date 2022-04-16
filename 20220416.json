@@ -316,5 +316,11 @@
     "value": "10,000",
     "hash": "0xfbdb2292a611639b12207f9ab347ae801f659d3e200e758def6b7d42f738b437",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "130,316.99997533",
+    "hash": "0x3b2fb1cb00dd80e799c764a2a18b91d962b9fc05c0e25cfc8c5ba92381d1105f",
+    "token": "BAT (BAT)"
   }
 ]
