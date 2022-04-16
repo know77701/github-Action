@@ -286,5 +286,11 @@
     "value": "83,577.99997874",
     "hash": "0xcf36a38372f986c82df22756d80c56b5e72e3d34d929d423122f0afd573010ac",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,929.545166389672268625",
+    "hash": "0x90faebe3b925e0bdabd4f31c34ee81d936d5647aba14d140b460e2a14e7fbca0",
+    "token": "Bifrost (BFC)"
   }
 ]
