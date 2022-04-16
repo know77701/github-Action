@@ -292,5 +292,17 @@
     "value": "1,929.545166389672268625",
     "hash": "0x90faebe3b925e0bdabd4f31c34ee81d936d5647aba14d140b460e2a14e7fbca0",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "187,234.73544464",
+    "hash": "0x48b1478ee7bda23663bde1a981ca6a7b22a61a3829822491a60f4dda1b83e95b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,061.8531341",
+    "hash": "0x40d13f4e1600d838ecfd763dfbb8779ebf6e161c74e7fe50e204410c01f8ca45",
+    "token": "SAND (SAND)"
   }
 ]
