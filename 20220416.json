@@ -76,5 +76,11 @@
     "value": "1,382.0953763",
     "hash": "0x9a1e674e58be1a5ed6c073d032b10fbbaac2c7836f5173b94aa7b405c812b934",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,029",
+    "hash": "0x63ba4c8dc36c90b166d649079b66e613b183eb228ba8e1c34a2445bf47405b2c",
+    "token": "OMG Network (OMG)"
   }
 ]
