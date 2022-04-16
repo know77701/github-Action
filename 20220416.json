@@ -82,5 +82,17 @@
     "value": "12,029",
     "hash": "0x63ba4c8dc36c90b166d649079b66e613b183eb228ba8e1c34a2445bf47405b2c",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,172,621.14286282877890568",
+    "hash": "0x06a1d2a8507b8484ffc08272d8f530f061fbe12353b7c1b97dcda9a4b6ec3165",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "322,589.70264445122109432",
+    "hash": "0x0fd485060f765c75a9cd5cb5dc9ad4d83a2c72dad1a3b992976bc3cfc017156b",
+    "token": "BAT (BAT)"
   }
 ]
