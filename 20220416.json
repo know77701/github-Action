@@ -328,5 +328,11 @@
     "value": "41,584.527426",
     "hash": "0x19c198d55d07ab0723f1e8289a8a5fc42bcddc88cda6167d0cab7162e1799fba",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,330.7337034",
+    "hash": "0x1144595f06e4f12fb0445cf9da163ac5cf6302a6d07ac7404b4a0906b9645733",
+    "token": "Metal (MTL)"
   }
 ]
