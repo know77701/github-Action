@@ -58,5 +58,11 @@
     "value": "4,417.140882",
     "hash": "0x14b4fa8ed6f2e2ca00572d70899231e116fa8a14d0bd523975cb1fc9aa0a0c07",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xd87294cf21c5b7a75fffc757b01af890595dd0bfb9a9563632fbd8aacca42cb6",
+    "token": "Aave Token (AAVE)"
   }
 ]
