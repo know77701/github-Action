@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "28,838.9",
+    "hash": "0xc8a976c7ffd6db43c144175240170a85844e817d1c3a30e113d54862b02c97e5",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "595,765.770275442806459239",
+    "hash": "0xf88d70bad06c0c4cbf526c43dc96601d84461af40f3fbf3b4e03b61cfbfc8722",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "226,240.644045607193540761",
+    "hash": "0xa822135660bca33cebe38135766537bb86833459eb89c8acd79342a18dff98eb",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,417.140882",
+    "hash": "0x14b4fa8ed6f2e2ca00572d70899231e116fa8a14d0bd523975cb1fc9aa0a0c07",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,752",
+    "hash": "0xf9926e6abb824add548a6134b554a6ff918c8470a554f5b6724e6e35fd4fe604",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,407.2",
+    "hash": "0xc268c796c4346ed3d3095c01e88eef3e36e707521bdb7af62cd37e13474e4d8c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,391.992420624804633267",
+    "hash": "0x01c4bd8984cccee296cc7a1533a915abb55c008ec53d671c7a8a8c07353cf17e",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,787,062.2",
+    "hash": "0x5e0f8d5153dfbb313e4dfe35bbd4155249d2c4bb8841a1c73992533c18f37629",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,303",
+    "hash": "0x96b2b1cc3f3147e94ab272fa533c18ebb3e099020f34770e16958f1fdd7bd5ae",
+    "token": "Kyber Networ... (KNC)"
+  }
+]
