@@ -130,5 +130,11 @@
     "value": "4,363,409.313",
     "hash": "0xbf1c21e5bf6c65697f847edf61f544df38b35c4d74a1dfcd11fdd417070cf0dd",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,209.71578122",
+    "hash": "0xfcd848029bec0293681fda338f09f76ca22b4121e6535df4f3387f4c5af7c7f8",
+    "token": "district0x (DNT)"
   }
 ]
