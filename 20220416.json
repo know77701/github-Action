@@ -280,5 +280,11 @@
     "value": "41,406.886534",
     "hash": "0xdc8c393f8dec49a613349f4261ee1f005e37681c30b0a7bace50d99e68cb0763",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,577.99997874",
+    "hash": "0xcf36a38372f986c82df22756d80c56b5e72e3d34d929d423122f0afd573010ac",
+    "token": "Storj (STORJ)"
   }
 ]
