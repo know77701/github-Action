@@ -148,5 +148,35 @@
     "value": "3,298.28",
     "hash": "0x4bfa7c198c7cefe08e9c403934d8cac38d0eca260b5da0cb5d447dfcaa4970b3",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xcdc2c397e930fa855a6e5560b949e9c738c046eea5da9a3a507ff441e3453ea2",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x58c18815a2aa5a119c96be8cc6cbba08a603ae3c10e0d4ce99db263feb908cc1",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,655.42883813",
+    "hash": "0x7149928e574c4b5f759879669fc3f4851c990c9b81d49d706a626d07eac2d13e",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,269.145720449859733317",
+    "hash": "0xfbb234059c431b2a3b7a508b4c5b9993d53472b20b4cd62f403b2107769916cc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,008.35833317",
+    "hash": "0xc7c8f75d5dbfc6cc92b8b2ae3de7ec05f394a5e4a8b15360d7de66064c42feab",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
