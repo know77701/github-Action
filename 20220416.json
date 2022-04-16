@@ -94,5 +94,11 @@
     "value": "322,589.70264445122109432",
     "hash": "0x0fd485060f765c75a9cd5cb5dc9ad4d83a2c72dad1a3b992976bc3cfc017156b",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,614.44069147",
+    "hash": "0x0d11a0946bb7ef9dc0dfede0bea121349d9037da6c05de568d4030fd965961d3",
+    "token": "ZRX (ZRX)"
   }
 ]
