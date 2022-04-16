@@ -184,5 +184,17 @@
     "value": "26,807.434813608967377052",
     "hash": "0x87d777c72a4758fb63907b1390699b145c3365c1b39ab4410cb7ddb2bbce92b9",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,380.696",
+    "hash": "0xff1b91983ce9d22ff652a553182d681bf37b7afb152afa0e3a3f5d76cb671ddd",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,620.523288",
+    "hash": "0x84c81441191b36ed81a91781010dede4aea031e3108a817058d32d8136374914",
+    "token": "NuCypher (NU)"
   }
 ]
