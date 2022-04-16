@@ -70,5 +70,11 @@
     "value": "319,177",
     "hash": "0xb2e9787a3777319d7c7014c02b13ac17f60129e8822029a47759f12d1fda744a",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,487.274442624083448764",
+    "hash": "0x5e6ff56898b1e2f30954ddd96c7d094516a348d0b10bae030b522eb885f09665",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
