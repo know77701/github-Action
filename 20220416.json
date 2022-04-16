@@ -124,5 +124,11 @@
     "value": "3,900.68299321",
     "hash": "0x982c1d4da5ade83da4d7615dd626b186af055ee8f132e911182eb9b00a814700",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,363,409.313",
+    "hash": "0xbf1c21e5bf6c65697f847edf61f544df38b35c4d74a1dfcd11fdd417070cf0dd",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
