@@ -136,5 +136,11 @@
     "value": "650,209.71578122",
     "hash": "0xfcd848029bec0293681fda338f09f76ca22b4121e6535df4f3387f4c5af7c7f8",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,000",
+    "hash": "0x63ed53b747da4e6be2eb982dc3edfa724748d2e9ee11c89601d8eb457cea94f6",
+    "token": "Storj (STORJ)"
   }
 ]
