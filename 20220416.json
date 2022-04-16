@@ -238,5 +238,11 @@
     "value": "64,720.16473511",
     "hash": "0x5d8955adc2a2aae9b6fbded02b286c8d4bdf799f4ab461370f5d2ecc528652bc",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,015.145160244756178763",
+    "hash": "0x3056fff4e427f27581d7c2515f191b4ada40dfbcf2d3d307975772beae291ea5",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
