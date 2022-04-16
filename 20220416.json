@@ -244,5 +244,29 @@
     "value": "4,015.145160244756178763",
     "hash": "0x3056fff4e427f27581d7c2515f191b4ada40dfbcf2d3d307975772beae291ea5",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "569,912.802888479691412088",
+    "hash": "0x1744eceb4a03a1e26dfc55f0a1b44cdea3ee57e7fee6916d0680cf7abb676487",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,217.812438420308587912",
+    "hash": "0x067d7aea6e4f469847a7a73f451a1240d012b485a123ea47b544322fd0e055ae",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,100,077.08551395",
+    "hash": "0x619da773fa8d53d2cc238ccbcf4164d2322535d5678631da705d352078277210",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,836.49107564",
+    "hash": "0xad9ee352b638d1fab73cb9b0ec73e513785ff06b34d9cc4e736d31385631d4ce",
+    "token": "OriginToken (OGN)"
   }
 ]
