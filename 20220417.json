@@ -328,5 +328,11 @@
     "value": "6,219.82081288",
     "hash": "0x019a3660b5ae1440c467872f757e11affcfd54bebe4e417f734a8afbc90755fb",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,805.06098492",
+    "hash": "0x80a6d2a6e484bb72a8f857434717dd11802284f375f93c79b181618bd3431c45",
+    "token": "Metal (MTL)"
   }
 ]
