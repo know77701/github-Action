@@ -322,5 +322,11 @@
     "value": "800,000",
     "hash": "0x36ef459f02bb857ce17f93605d07ea0021cbff9ce99dd4427c5eaa7790b9a9ac",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,219.82081288",
+    "hash": "0x019a3660b5ae1440c467872f757e11affcfd54bebe4e417f734a8afbc90755fb",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
