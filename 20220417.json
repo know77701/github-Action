@@ -292,5 +292,11 @@
     "value": "1,493,408.397011761164656014",
     "hash": "0xa2c910c608a0a357ddf58c99201403c2e0be7c596897f9edbe026d556f49183a",
     "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,422.838942774190085614",
+    "hash": "0x1517eb2c205711962ff206ddcfb0f2f6707ceaae7b93a23449f5390706c2731f",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
