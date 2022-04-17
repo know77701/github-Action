@@ -274,5 +274,11 @@
     "value": "319,570",
     "hash": "0x4798fd1c67a94e1b92bdda5fd14ae2855f9badcddb3ea8a321c21e203af28319",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "279,754.49323836",
+    "hash": "0x551e727da62797f30c0192d0a94dfdbe439fc1a5cd43283c09e7497ac144dce7",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
