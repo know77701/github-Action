@@ -280,5 +280,17 @@
     "value": "279,754.49323836",
     "hash": "0x551e727da62797f30c0192d0a94dfdbe439fc1a5cd43283c09e7497ac144dce7",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,591.602988238835343986",
+    "hash": "0x16e2bf7d89b8863bee8a1a26a9435f754977bf0bad8fe528ba0498366752ee82",
+    "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,493,408.397011761164656014",
+    "hash": "0xa2c910c608a0a357ddf58c99201403c2e0be7c596897f9edbe026d556f49183a",
+    "token": "[FCT] FirmaC... (FCT)"
   }
 ]
