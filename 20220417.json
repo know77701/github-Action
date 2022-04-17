@@ -58,5 +58,41 @@
     "value": "3,568.211287069835284506",
     "hash": "0xc57c73e9bad0827b042cdce257016761630b8734716f6dadf8aab4fea90250aa",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "247,703.45836745072109324",
+    "hash": "0xb31a7ddced3354b7cfbef0506231757128aaab69e05da7eae26110f7bdbb09d6",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "167,776.88470105",
+    "hash": "0x60a2117373e8a508b2e052e3493d8a1438e0e6f61d5dcd1b1aaadde6a9889f4e",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,471.1009372",
+    "hash": "0x1e24c455af98722c16a1d80d9a8582ece7075211264a03d950df52ea3e1f250d",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,176.27884911",
+    "hash": "0xe5ed94ce70aa06035ba14ae80ac8c0d38063052aa910e4d5f6e4804029edf367",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,762.98347202927890676",
+    "hash": "0xdb994625e3ae234e256d064a2e354a67bdd5850e623a2c2b52c101c2c744c5a4",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0x504bced4d146d8d7f94ef51a0290bd032ec318e12ac6db2b0bb5e56463288e72",
+    "token": "Aave Token (AAVE)"
   }
 ]
