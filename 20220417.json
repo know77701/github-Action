@@ -220,5 +220,29 @@
     "value": "61,049.934775370713537331",
     "hash": "0x7b7af7de8f9b5822611f306e442fbd31a4bf05bf4280aa12b2c9888e5bbfd3b9",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,941",
+    "hash": "0xdebe67113a2d9be05df9a23ef3f5da24126ed2ec51a7a8d434ea22ef6de45153",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,181.71570868",
+    "hash": "0xbb6f80e72552a09b2b0fd6a84508fc08e8e6a769fb45ff8315a61950c6ec7a86",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,382",
+    "hash": "0xca801f9c058235f7b76f5238828d962ea90ec8891f1091dc5465ed02fd1a7175",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x1bdd8ef97e19294d6589f96a50ce1a03392b02b5b821a23a80c692a573c5683e",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
