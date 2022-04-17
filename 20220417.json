@@ -112,5 +112,17 @@
     "value": "108,578",
     "hash": "0x8dcf5e9122ec68c46dff3d30f3a95fcd2ec9343f8f727a64eba82b8a33b201ad",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "553,924.09752194",
+    "hash": "0xd6ac3264eb293a69e55dd21c4318b9ee10ee588a9c883985e635756320abd955",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "612,512.28048561",
+    "hash": "0x6b2174c7dbef300b70613c4879d943361066c7e5767c36f1602845fb963f8664",
+    "token": "Decentraland (MANA)"
   }
 ]
