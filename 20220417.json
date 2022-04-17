@@ -94,5 +94,23 @@
     "value": "500",
     "hash": "0x504bced4d146d8d7f94ef51a0290bd032ec318e12ac6db2b0bb5e56463288e72",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "127,200.38469775192956",
+    "hash": "0x037bc6c7274864592d2c56cacdc81928b6dcdfbc4189c5e2b6e2ccd55c761ed1",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,297",
+    "hash": "0x567966dba8475b7d8d8c8c082f2221b5a3e132fad31569c0bd03a352639245c8",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,578",
+    "hash": "0x8dcf5e9122ec68c46dff3d30f3a95fcd2ec9343f8f727a64eba82b8a33b201ad",
+    "token": "Orbs (ORBS)"
   }
 ]
