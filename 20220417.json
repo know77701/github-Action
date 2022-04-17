@@ -244,5 +244,35 @@
     "value": "10,000",
     "hash": "0x1bdd8ef97e19294d6589f96a50ce1a03392b02b5b821a23a80c692a573c5683e",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "373,016.99990868",
+    "hash": "0x8f996d60102dd5dc7b0117697c0770c5cbcd992f6599de01d37fe8e852befbee",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,464.082",
+    "hash": "0xb575e3dba9e85e8a319b10e01fbd1abf749499f3a5605b5e333ca2623ba2dcac",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,439.7",
+    "hash": "0xbecf474d2978554c9441b74e6d8d8c8f162f78638a84f5b39c59d860afc521be",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,187.99996355",
+    "hash": "0x980151e71b43f00d3e2fcfbf519f628efa1bf230ad3549940500aad4d51416d2",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,570",
+    "hash": "0x4798fd1c67a94e1b92bdda5fd14ae2855f9badcddb3ea8a321c21e203af28319",
+    "token": "Orbs (ORBS)"
   }
 ]
