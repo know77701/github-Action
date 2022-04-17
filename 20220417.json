@@ -160,5 +160,11 @@
     "value": "3,346.103",
     "hash": "0x14a192c72ab8a409ef5802aed68d6d52eb60d71229bfc8ba882103af6c9b5d4d",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "460.9206",
+    "hash": "0x6819b2af0b5ec6ceb9f58502175b6dcd3643662d0e2762ede0204a8014d07952",
+    "token": "Audius (AUDIO)"
   }
 ]
