@@ -154,5 +154,11 @@
     "value": "650,181.71573564",
     "hash": "0xaea3bb93333be95ab887445e81e596d4d9fe5f72964efe5adb2c3b6c80e68c42",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,346.103",
+    "hash": "0x14a192c72ab8a409ef5802aed68d6d52eb60d71229bfc8ba882103af6c9b5d4d",
+    "token": "ChainLink To... (LINK)"
   }
 ]
