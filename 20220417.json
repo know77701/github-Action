@@ -178,5 +178,11 @@
     "value": "197,085.2672031",
     "hash": "0x6ffbfd7280e8831c120404df5ed5bf84c34b9ce8eef76f93a89e9b945863c264",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "228,868.16308542",
+    "hash": "0x1c4939d61391e61b165b8622c140485cb4f6849668a0f8e6b8c557f76ee1d2b1",
+    "token": "Metal (MTL)"
   }
 ]
