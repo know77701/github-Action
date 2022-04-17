@@ -184,5 +184,41 @@
     "value": "228,868.16308542",
     "hash": "0x1c4939d61391e61b165b8622c140485cb4f6849668a0f8e6b8c557f76ee1d2b1",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "222,366.42883441",
+    "hash": "0xe855458db90fd512260426e4427a624ad71d24f828766db7148a8221045dcfd5",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,849.663749438684667843",
+    "hash": "0xd2552359e59ce007fe859fcfa6cc7d8e291e803c88e8c59538972081879d1e6c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "211,498.6672426",
+    "hash": "0xa15a794a485b6377c986d116e97dd4016a1c07703e841bad53aabd6735676fe6",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,003.7237",
+    "hash": "0xcc0904f63b9219c35b9e22c863ac5966b838f032188eac594339b4e7f7f4993b",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "201,069.715493419286462669",
+    "hash": "0x1a4dbbd1fccc9e35ee94de39d38dd1c71c1d937fbba93f0021a21235de8bebd6",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,049.934775370713537331",
+    "hash": "0x7b7af7de8f9b5822611f306e442fbd31a4bf05bf4280aa12b2c9888e5bbfd3b9",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
