@@ -166,5 +166,11 @@
     "value": "460.9206",
     "hash": "0x6819b2af0b5ec6ceb9f58502175b6dcd3643662d0e2762ede0204a8014d07952",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,137.6848",
+    "hash": "0x6a9d41afeb8fb2a214cc52a2fabccafc416c3a922163dcde357b9965e0f7cd52",
+    "token": "OMG Network (OMG)"
   }
 ]
