@@ -94,5 +94,35 @@
     "value": "243,713.027139705575232",
     "hash": "0x5980597dc07b36bca24fbb34f246a8db6135c028d04105a47e3e70f75fb6f84f",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,996",
+    "hash": "0xb9b81e549c300fd3b27db390c388f8dd79b60ce19e6a482c910bbd8424ac8904",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,045.928",
+    "hash": "0xb6b81b12280579810ed7cf0a1645cc205fd86da23f276261cba4ddbafbe7084b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,987.37347037",
+    "hash": "0x935e9d6c802413483f17bec09da18430082190a93065731fd22ced43fe5f780d",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,770.242948021662",
+    "hash": "0xf0f55c9e3fa8471957bc7bc30700d63159bb9a01c3c42ed65ab0a7874a70f3c8",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,120.044722",
+    "hash": "0xbec4df148f72c474e124f8b57fb7b2870c366cbee9a0f9dc4d10c58a0aae7012",
+    "token": "ChainLink To... (LINK)"
   }
 ]
