@@ -46,5 +46,29 @@
     "value": "58,969.185399328322047417",
     "hash": "0x0ed3b3835baad9c8c59d7363f6e152e68414881e3f85a3331cb8f457f05180c8",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,968.236775",
+    "hash": "0x6be1f8c279045a4c89aedad3b42687ac8f9334da97976335f80a4df314388d18",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "335,594.513498994549255513",
+    "hash": "0xd3e70f35303e406bc0b6edb6d92f9f8c3f6eaeab60a51ec53734d06d3b4cb4f8",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,379.198",
+    "hash": "0x1aafe1141ead1fa1d2e58fc213d6b83b240665cff2840374d813a64deb31aa65",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "302,873.677671995450744487",
+    "hash": "0x00f1969ac4d3b1b33e99d7a636676e88de9a60fe673dd8ea56ac5cd9c14c79a9",
+    "token": "Golem Networ... (GLM)"
   }
 ]
