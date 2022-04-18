@@ -484,5 +484,23 @@
     "value": "51,262.744",
     "hash": "0xd69e56916410363ccba232b28a28316845f90fbc154710f476417089e26c82a6",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,592.741853944134990428",
+    "hash": "0xfa6abe6489e6602e9c4702e443fe27f3592538be4f23370fc1c154b383b68dfa",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,380.258110225865009572",
+    "hash": "0x401326e9dc8c23c5ed6b2c8fe68eefc9efd745fd6fb8163f5d926a43401aacf6",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,906.815",
+    "hash": "0x4f7277a12736eacc4b9178cb2f4c25a05b01374ff81efaf48de095d4f7618936",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
