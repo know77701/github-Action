@@ -406,5 +406,11 @@
     "value": "140,404.5861865",
     "hash": "0x5f8e2a94d1c929f99147c7e6bd230122290464b93bbaa66668e82ac67f0a8ada",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,882.75760800311890676",
+    "hash": "0xf6df10bacf6e4a4be543aeec9fc3a7ff8d8a774e61ea470d8a0aa66d43bd8c00",
+    "token": "1INCH Token (1INCH)"
   }
 ]
