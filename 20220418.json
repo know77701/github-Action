@@ -142,5 +142,35 @@
     "value": "3,976.8242",
     "hash": "0x08c1a70fee3714d0310b0ef25ec1cd9841208f69b9156a86b0e21c8078c47f6e",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,114.28319757",
+    "hash": "0xf3aaf0449cf60bf913dc5fc7f3f70c005c743532540aa81bf2d0a32b7c78fabb",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,356.18218629",
+    "hash": "0x341314a8e3b06da151545d7255b771a6682029a022c2d39c3d666c1993aad036",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,342,629.47151096",
+    "hash": "0xf2b21dfe877f999391031fd57cfe2fd7fc06e499be8409104fcd78b128de94ce",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "172,648.49027564",
+    "hash": "0x6689f3548f9999f4635c537d2ee531bc95e767bfe43713d6b53bb6c992aea3bf",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,208,457.75183472",
+    "hash": "0x0d4441644804cdb4ca7d231587a1bb772ba78935707293739f4fa3cfa8bb7119",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
