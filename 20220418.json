@@ -10,5 +10,41 @@
     "value": "158,230.256882611845564108",
     "hash": "0xe72c2c4c0b982bc7fd3a352ed5be99d1368762ee0a417f7489eacbf34a9ca2a2",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "213,254.002754070281578408",
+    "hash": "0x10108229ca3ab6a3aa1970395ee3aeff1b838ce1ba6d0309ff107f898bd28e39",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,687.41548",
+    "hash": "0x3df1097348f972f60bca07637db0d0981ddf1ac4947e01a735a09021acaec36a",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,788.305095181677952583",
+    "hash": "0x4d38f6494ee4681e1d196acd7916d95cb913425cce6d863ed58a4786c19d7958",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "185,370.55402893",
+    "hash": "0x24d362be6ff83e37ed1f0406ea689bff8da3acc7aa47f4a781dab11d29ea78dc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,047,633.0669254",
+    "hash": "0x8535f90f7a746b4bab6dd8b5c9ca83e245a7915ed7193110e25b9ef0d3dbffdf",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,969.185399328322047417",
+    "hash": "0x0ed3b3835baad9c8c59d7363f6e152e68414881e3f85a3331cb8f457f05180c8",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
