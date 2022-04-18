@@ -304,5 +304,17 @@
     "value": "13,083.37435518",
     "hash": "0x9f16204b20efc985e4a455403029340a04e1e4a739c3b122b12e4dc9c6b245b7",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,572,979.1",
+    "hash": "0xfbe553271a6420390da7a3d05088e7293554387fae568c266b79de629a0fa2ed",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,709.83766169",
+    "hash": "0x3f399229a74309c851f1bcd17d10322a1ddb0331cad15c4bf0dd78dc09a41ae3",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
