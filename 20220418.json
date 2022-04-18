@@ -334,5 +334,35 @@
     "value": "10,000",
     "hash": "0xb4773d223045d158bb1c05ef9ab8c750dc05d65754197d3766b431cbe36eb5d6",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,175.663",
+    "hash": "0x34c0b9f405d36e170d38e6107ed697349aa142e88fddbf9d1d1b1bbc1dec6c16",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,985.402575131686715494",
+    "hash": "0xc39cfb6de5f02bd1b00155c6186f6d02787cf9693862f4997c8590f61aacf0fd",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,674.944576848313284506",
+    "hash": "0x07fb2bbd3d45f967fee339d905775b927fd0918f6d2bff33dce26c90efeb34e0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,230,007.3232988000783104",
+    "hash": "0x22fcc26511e1aae8ba990f7a4d83859e7f413a8c858d354511b2aa633bac898b",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "821.73888556",
+    "hash": "0xbeeb599118a262f2d0818b5bcfd0ec20e58539a69a7df9593fdf37ce707e119f",
+    "token": "Aave Token (AAVE)"
   }
 ]
