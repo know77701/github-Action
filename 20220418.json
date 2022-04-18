@@ -124,5 +124,23 @@
     "value": "3,120.044722",
     "hash": "0xbec4df148f72c474e124f8b57fb7b2870c366cbee9a0f9dc4d10c58a0aae7012",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x672c4d6e5a67486867089cc0117a1b557eae6a9a14417dd4a1adb9da308d5ced",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,824.25995952",
+    "hash": "0x4831dffdc6bc9df12565096e81b45a900d0d70660ed644bc964cfe2f47f265b3",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,976.8242",
+    "hash": "0x08c1a70fee3714d0310b0ef25ec1cd9841208f69b9156a86b0e21c8078c47f6e",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
