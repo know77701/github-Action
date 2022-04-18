@@ -328,5 +328,11 @@
     "value": "5,943,250.86741643",
     "hash": "0xce2df46f39ad0261674bfbe802719578ce069346d44585940ba4c5bca03436ad",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xb4773d223045d158bb1c05ef9ab8c750dc05d65754197d3766b431cbe36eb5d6",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
