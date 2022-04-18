@@ -280,5 +280,11 @@
     "value": "2,457.392048578693512304",
     "hash": "0xa5c0965b6d37fe07559786c8df82bbceabded69207ebaa0ab4b259fe4b769cf5",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "263,192.587",
+    "hash": "0x2853f061d456e69d0d7d28fc1b604a64d78da3ce3ae1bfd913c3d85578d6e3b1",
+    "token": "Civic (CVC)"
   }
 ]
