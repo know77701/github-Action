@@ -592,5 +592,23 @@
     "value": "227,910.99994773",
     "hash": "0x7b6aea4d56a7051e4024aa54526768b9db35ff2ba7cffa381f92331918e1519f",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,541.23072897",
+    "hash": "0xa9ca9d01d327b1ad2b51474bc8ed9effc5c254e87737a189d4f91cf29457254e",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,094.69094433",
+    "hash": "0x14cdfd5187f6ee29322a84109065b5709f3f55213da607d499f2748720f765e9",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,783",
+    "hash": "0x5919d850c8b930dc6ad9dd498be16c34ae6431ca03fed76b90cbc4ca00065019",
+    "token": "Orbs (ORBS)"
   }
 ]
