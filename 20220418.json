@@ -70,5 +70,17 @@
     "value": "302,873.677671995450744487",
     "hash": "0x00f1969ac4d3b1b33e99d7a636676e88de9a60fe673dd8ea56ac5cd9c14c79a9",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "313,547.474251",
+    "hash": "0x633c3093e61eb03d744d877d0576c5f1ad48fd7c5c7f055697bfded005db5a84",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "243,130.446321",
+    "hash": "0xe61c246baeb885453fd193451e0820350105272a209f787bf45f99c327f1cb02",
+    "token": "Serum (SRM)"
   }
 ]
