@@ -646,5 +646,11 @@
     "value": "162,655.42880465",
     "hash": "0xe46ea3d77d8d5f5d47953f491729803600b75947e3af681e945cb3651b9b51db",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,941",
+    "hash": "0x725575ce4158b108741c5c466ccb67b91f0cd36592b5e7f97216d236d12f8e0c",
+    "token": "Polymath (POLY)"
   }
 ]
