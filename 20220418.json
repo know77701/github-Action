@@ -502,5 +502,47 @@
     "value": "65,906.815",
     "hash": "0x4f7277a12736eacc4b9178cb2f4c25a05b01374ff81efaf48de095d4f7618936",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,965.99994928",
+    "hash": "0xb194b65250ed5e334bab9bc08a5d0a9aab7529db159a26d133a49d23285cdf04",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,355.419946169314420525",
+    "hash": "0x1b5b81c7ef5840cbf15df832dd642849daaf83bc86c75a6e0853462c6c4f8738",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "646,865.295836290685579475",
+    "hash": "0xd67258e7c0062e00dbd378984cfbe7b75f9e23cd6e0746a690c292b37a445559",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,770.347981569535581747",
+    "hash": "0x1a0e25bf9780f63a0a1ba36d3e7b0c6a503bcea2614f0f8f25ad61b3f82f6e7c",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,324.342986010464418253",
+    "hash": "0xf0e36580e6afcfdc0c6449b4e444393cf551723be4560ab4792f896e763d09ae",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,991.31",
+    "hash": "0x041a0fca809e5ca86d3a792b696e801b8b80abfa78b3f1d869448e4b190b5742",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,321,110.25349487",
+    "hash": "0x13cca0b73a92df1a422cd25284a9fcfefabafaf303dd5098da5d02b1f0e6f2b1",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
