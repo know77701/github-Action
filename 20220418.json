@@ -460,5 +460,29 @@
     "value": "30,900.56997347",
     "hash": "0x3751076a7c7974bc7a35e383f044010852f47bd6e20b5a6ea313424c16a96442",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,473.499",
+    "hash": "0x1fafe8f9f6d7aae0b5b64e0d87b4fc8a8c38a9c67eb55f098a463b0770059ec8",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,727.342879881298488359",
+    "hash": "0x7dc558a42d21e937ee88216e2b2bd6bc0c11c06ad47d7675299209bf62945433",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,997,953.097445658191650339",
+    "hash": "0x2ee052b5da1839ba77085e1aebbae099053356c782e8b8cd73daaa22fb7262cc",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,262.744",
+    "hash": "0xd69e56916410363ccba232b28a28316845f90fbc154710f476417089e26c82a6",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
