@@ -364,5 +364,17 @@
     "value": "821.73888556",
     "hash": "0xbeeb599118a262f2d0818b5bcfd0ec20e58539a69a7df9593fdf37ce707e119f",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,245.99132927",
+    "hash": "0x32b8073b0783b3fd93f797dcf979f3d2877eb66bd15506a0e05d10d7ec24a12a",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,767.62156282",
+    "hash": "0x0f844a1ed1416fa75d39b84eaafcae61b991434584a16a3ba4b217c00f4d1db1",
+    "token": "Metal (MTL)"
   }
 ]
