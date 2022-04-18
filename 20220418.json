@@ -286,5 +286,23 @@
     "value": "263,192.587",
     "hash": "0x2853f061d456e69d0d7d28fc1b604a64d78da3ce3ae1bfd913c3d85578d6e3b1",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "940,134.21",
+    "hash": "0x6cbdac5a6c88f2086ca3ac5d99d6c17878d5f7d621cc9035e2e78d28cb4f6176",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,148.993202426301369863",
+    "hash": "0xac0969d0029ce24e50df5b01a4c461969a9cfd37a6304183f07c60e4ae7fe864",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,083.37435518",
+    "hash": "0x9f16204b20efc985e4a455403029340a04e1e4a739c3b122b12e4dc9c6b245b7",
+    "token": "ChainLink To... (LINK)"
   }
 ]
