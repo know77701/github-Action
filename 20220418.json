@@ -226,5 +226,41 @@
     "value": "509,533.46006886345976456",
     "hash": "0x3c570ce1d18a5b160c69c1e6f1112e3d1bd9596d96b35d1d6f3de074a1976f3d",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,440.29954401",
+    "hash": "0x4b917aaca94e755a7b32c25979a6f613deba1ae24fdb0eac0f442030a5b2340d",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,818,092.4761",
+    "hash": "0xaea3ff5d17c14cb10d29fd38f0c4ef664d3f3962f77d0807fdfefe4e78fbba7d",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,366.084123447498245107",
+    "hash": "0xee1ebba8b35f5a700fe4b863d27660b6cd0d7e3deef756566269322976a88376",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,803.899480910000001215",
+    "hash": "0x6a7277ae622f43d4039d250deb5cf1044fa2e746e8f8cb55c0248b1d6d150a59",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,574.565258236084232282",
+    "hash": "0x48488ede528eed9a75ac5f6fa00c3df1ccab519a93767803443aead227b7866b",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "487,426.367229176246233156",
+    "hash": "0xcf1298a7272bfe1e1feb76e3e167683510e4ad7e6b8cf0adfb3029dd41e83fd9",
+    "token": "Orbs (ORBS)"
   }
 ]
