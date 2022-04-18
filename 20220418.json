@@ -262,5 +262,23 @@
     "value": "487,426.367229176246233156",
     "hash": "0xcf1298a7272bfe1e1feb76e3e167683510e4ad7e6b8cf0adfb3029dd41e83fd9",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,680.46482748",
+    "hash": "0x92f9c07b52656656e701466d4badbdd084ad64e6b30a0356ec66c93269f2fb2f",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,239.607951421306487696",
+    "hash": "0xba24975220544c2212de1ea8667fde079308b831e04d393ae786224f5c8a7e94",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,457.392048578693512304",
+    "hash": "0xa5c0965b6d37fe07559786c8df82bbceabded69207ebaa0ab4b259fe4b769cf5",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
