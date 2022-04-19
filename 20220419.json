@@ -538,5 +538,11 @@
     "value": "544.632913833173179889",
     "hash": "0x04191411f1a87d7a31891e7b726fb08ac3c88eddd119256ec78559e74e1e6d02",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,436.72848617",
+    "hash": "0x0823a881f1add4d064581c4699ef38485387fbc4064f99ad0dcde5e425a379c7",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
