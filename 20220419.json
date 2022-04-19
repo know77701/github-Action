@@ -550,5 +550,11 @@
     "value": "10,000",
     "hash": "0xa932aee668ee53351a184afb90d7a442f4f39c692090f0e56e1825b8aab640ae",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,989.99980837",
+    "hash": "0xbc505aff553521bfbe0c4329d5d510e53d75d06003fc331a5ff042030f7b36f6",
+    "token": "Bancor (BNT)"
   }
 ]
