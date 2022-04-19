@@ -460,5 +460,29 @@
     "value": "1,406,209.99992015",
     "hash": "0xac2579cfbc8f55b1483328a4d2391ff2fbfd1d79a9edcb764697f17d5b8eb7a2",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "191,076.918309632829267836",
+    "hash": "0x81625895c9bcfe4c399e302718dc42aff558d314e34e914fa88d04de7ffd31f4",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,100,461.08550899",
+    "hash": "0x08db73a1e16c1f068eb13f94cb600ada5efcedb52d1d92d495e4f3e60c9f845b",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,183.599463217170732164",
+    "hash": "0xc744f813217399f4efb7315cf6487b1e577e0498e18cc6d2bd8ed58c82056634",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "109,974.99993131",
+    "hash": "0x2bc38c2a75e9d2687b595072d6b38432a3efd8181201a4352a2b7989a20ee86b",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
