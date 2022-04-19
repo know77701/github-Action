@@ -274,5 +274,17 @@
     "value": "40,428",
     "hash": "0xb72d5ef272a8ad04b0efce492aa5900b07017aa82ec96161e8caf3e99d1048b6",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,354.627513107194420525",
+    "hash": "0x0d829a4075d071f701e57eeb0e93562b13e287356fef46343cafc5cc9e58e95c",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "646,866.088236802805579475",
+    "hash": "0x4c1efb93104cbb26cf4e7b97edeee8ae76c6228f317452742f33f7dacb3888dd",
+    "token": "district0x (DNT)"
   }
 ]
