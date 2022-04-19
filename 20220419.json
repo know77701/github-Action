@@ -184,5 +184,23 @@
     "value": "3,654.40659726",
     "hash": "0x4868f45d7c07bed6972791ba451ba115d65e0f6bfbf92695ab64a86be0cb0339",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "260,283.40135797",
+    "hash": "0x5a7adf107748e3458b3e9381c5ad7427286bd57e025a8dc5882e8b37b913845e",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,561.802328992609339865",
+    "hash": "0xdff78ff1759cd95c8777dc5339aaf6c95f2a805692b6751eb5c264f462618fbd",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,467.017953251878869135",
+    "hash": "0xdbda9ec63437930a69b8925041223bbeb617181a5991eec5a9305ac6643eed07",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
