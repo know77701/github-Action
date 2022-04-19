@@ -454,5 +454,11 @@
     "value": "80,140.48123949",
     "hash": "0xef2528d2d1a598dd7fd47fb55035cd7589331582a925f2ecf2fd689c15c154c5",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,406,209.99992015",
+    "hash": "0xac2579cfbc8f55b1483328a4d2391ff2fbfd1d79a9edcb764697f17d5b8eb7a2",
+    "token": "Loom Token (LOOM)"
   }
 ]
