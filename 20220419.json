@@ -520,5 +520,11 @@
     "value": "1,340.80628271",
     "hash": "0x8513d805b235760bdcdc8a9b3b70db8f63985ed3862781258fad174271785f2a",
     "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,094.65090093",
+    "hash": "0x92439b757d107f575cd6e08e99a1d69040c3cd95ed9156ece9cd18849866b977",
+    "token": "Gitcoin (GTC)"
   }
 ]
