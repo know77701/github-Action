@@ -154,5 +154,35 @@
     "value": "547,512.083627",
     "hash": "0xcdc8a5a43fbef0adb630014e425f6faa098b2da010821713bc8130901bfbad98",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,116.146473381879272574",
+    "hash": "0x954b9c41f65e0e8eddac92f396b6a3d52c0b6ae20789c3978016125d2f82df73",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,804.192195949973152296",
+    "hash": "0x49728dfbcc52dd227ec7385e522a483bf424cdaf49e6e09a74f404c66576a8f6",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,955.75997626",
+    "hash": "0x6852e33ef7be8189915b8d1d043d981604f54b9b80057b2852bb591a61461c78",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,383.32134716",
+    "hash": "0x68002d675369a7597ad164c700b7af364549e6b74f38f21df55f8d787637bc32",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,654.40659726",
+    "hash": "0x4868f45d7c07bed6972791ba451ba115d65e0f6bfbf92695ab64a86be0cb0339",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
