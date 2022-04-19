@@ -418,5 +418,23 @@
     "value": "64,847.175831745334262739",
     "hash": "0x13c76399be10133cfbb3a8fd3827872b11b14614cd398c14b6cf6248d538f884",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,550.30407",
+    "hash": "0x98a6f7696a44725b98b31665177b7a0c40b3270d13efe0be743f576daacf3ed1",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229,707.37132",
+    "hash": "0xc70b712dd1df9451d7e1493881b58f3e19cb9a7e227ac3147e01258f773a830a",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,725.505468254665737261",
+    "hash": "0x34a12c8b64040b87ae78df1308b0d149ea0944e80649ebc432a2b1f559d9a5ef",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
