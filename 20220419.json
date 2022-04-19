@@ -634,5 +634,11 @@
     "value": "356,915.99992418",
     "hash": "0x9bf0cd571904b6adbb4e554e47a6f0c5dfe45a8c8190629595234747701cf6e4",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "994,000",
+    "hash": "0x2113918a681d5d189c8d556562c57659ea4ac175befe5a25de423afa7c030bfc",
+    "token": "Loom Token (LOOM)"
   }
 ]
