@@ -640,5 +640,11 @@
     "value": "994,000",
     "hash": "0x2113918a681d5d189c8d556562c57659ea4ac175befe5a25de423afa7c030bfc",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,183.99997378",
+    "hash": "0xb082a98c4170338bcf4f2a060e191efbc0407624ef12036683b1e7e4ad072e88",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
