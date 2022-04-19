@@ -508,5 +508,17 @@
     "value": "5,023.694898317729024322",
     "hash": "0x099042e8d84cdb3f584bef459a7df48fa01d9a9d17587df8ce0c5de9cd3a66fd",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,379.813486",
+    "hash": "0x7033c084519d857788ff4aac2c9ee86cf95577c2a63e0e5cbc39dd5a78ec965f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,340.80628271",
+    "hash": "0x8513d805b235760bdcdc8a9b3b70db8f63985ed3862781258fad174271785f2a",
+    "token": "[FCT] FirmaC... (FCT)"
   }
 ]
