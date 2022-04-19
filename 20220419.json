@@ -526,5 +526,17 @@
     "value": "6,094.65090093",
     "hash": "0x92439b757d107f575cd6e08e99a1d69040c3cd95ed9156ece9cd18849866b977",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "538.286720266826820111",
+    "hash": "0xe11686bfc24eadd3f009c15a642a8cf9bd2953057edc1ffb54adf9d6a374b8b5",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "544.632913833173179889",
+    "hash": "0x04191411f1a87d7a31891e7b726fb08ac3c88eddd119256ec78559e74e1e6d02",
+    "token": "Aave Token (AAVE)"
   }
 ]
