@@ -484,5 +484,29 @@
     "value": "109,974.99993131",
     "hash": "0x2bc38c2a75e9d2687b595072d6b38432a3efd8181201a4352a2b7989a20ee86b",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,190.474666156668757372",
+    "hash": "0xdf31f9f889ae3d1c19d064ebba38b96fb6feb0323a58cb526566cea9a13f9e43",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,188.187975392270975678",
+    "hash": "0x32f09e2958953b80a8f2b2c6ba4ca344f23dbc35c7e1b4cd262979a1d70bcde4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,919.758533843331242628",
+    "hash": "0x8a36153cb472c29bb853a29f48eb6a086ef4e82632a2451bff8044f1d7b05368",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,023.694898317729024322",
+    "hash": "0x099042e8d84cdb3f584bef459a7df48fa01d9a9d17587df8ce0c5de9cd3a66fd",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
