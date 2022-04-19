@@ -544,5 +544,11 @@
     "value": "18,436.72848617",
     "hash": "0x0823a881f1add4d064581c4699ef38485387fbc4064f99ad0dcde5e425a379c7",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xa932aee668ee53351a184afb90d7a442f4f39c692090f0e56e1825b8aab640ae",
+    "token": "Bancor (BNT)"
   }
 ]
