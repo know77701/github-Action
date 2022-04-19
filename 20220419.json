@@ -298,5 +298,17 @@
     "value": "6,094.65093534",
     "hash": "0xe1b17eb61c2e846b98fec9ed0e5d3254041f3971b15870669c4676189cfd9f26",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,654.42886975",
+    "hash": "0x2b78e8832772ce71f9354650877bb611c6dd76af8ca1a8b8eb81b6e35da2b825",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,206.152",
+    "hash": "0x1d34ca3caf63d9f20f2b78eb0a590b6131e85bb317352f65b2c544d1271f12c1",
+    "token": "SAND (SAND)"
   }
 ]
