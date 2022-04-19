@@ -436,5 +436,23 @@
     "value": "1,725.505468254665737261",
     "hash": "0x34a12c8b64040b87ae78df1308b0d149ea0944e80649ebc432a2b1f559d9a5ef",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,933.05003875",
+    "hash": "0x8ab4f359685fe0d285a9d999dfdd5ef68a4802cc85677006c4fd91f18cf63ce0",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "365,115.99997006",
+    "hash": "0x4e8d99c5a0a31c48814de5958b671b45b787c144d056f8bc1930796650c9aeef",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,140.48123949",
+    "hash": "0xef2528d2d1a598dd7fd47fb55035cd7589331582a925f2ecf2fd689c15c154c5",
+    "token": "1INCH Token (1INCH)"
   }
 ]
