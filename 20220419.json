@@ -364,5 +364,17 @@
     "value": "54,249.657110514779189945",
     "hash": "0xd41c5660b74d2134442756569a74de8b9c768eb912a80d318be5913df4102e79",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "191,359.27561092",
+    "hash": "0xc53f2d025365f9c4f178fa508cd32cbfbc74465690777a1d4dc22357803675d1",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "320,707",
+    "hash": "0x14eb35b3f5e27bffaef49767ff23b6ad6d054f44f414a288d12edc0171aa2f04",
+    "token": "Orbs (ORBS)"
   }
 ]
