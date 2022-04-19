@@ -286,5 +286,17 @@
     "value": "646,866.088236802805579475",
     "hash": "0x4c1efb93104cbb26cf4e7b97edeee8ae76c6228f317452742f33f7dacb3888dd",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,993.319919",
+    "hash": "0xee03a860545885d878372044a9a70ba74ca4af7c033b558aab01b60d2b9351ae",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,094.65093534",
+    "hash": "0xe1b17eb61c2e846b98fec9ed0e5d3254041f3971b15870669c4676189cfd9f26",
+    "token": "Gitcoin (GTC)"
   }
 ]
