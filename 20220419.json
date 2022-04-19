@@ -112,5 +112,29 @@
     "value": "69,934.5167625",
     "hash": "0xde8938667a930369bab596b2fef988aa47e5727f48cc2029204200e9e22a26fc",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,541.9617124",
+    "hash": "0x5f7fdfc2b365ac4c3a171dff0ef3c4ae0caee4c8a891aa3124d936bca4620d4c",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,685.71904836",
+    "hash": "0x2ce8ec31c771eab16453e8bbf383e4c945b1f4995a7f622d4265ff0022c20493",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,363.44443765",
+    "hash": "0x69ea5d0e956d059c1d3cc5c641c8e02b10af75c82e80a9191ecf2935e5747681",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,302.862349",
+    "hash": "0xa56c00e089c41a2007cb82d4ee1ef47c78748dd56d9cbefcfbce67a527edb222",
+    "token": "Tether USD (USDT)"
   }
 ]
