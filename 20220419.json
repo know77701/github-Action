@@ -646,5 +646,17 @@
     "value": "113,183.99997378",
     "hash": "0xb082a98c4170338bcf4f2a060e191efbc0407624ef12036683b1e7e4ad072e88",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,806.289896654022953664",
+    "hash": "0x94291180e0991d461db58f8efb115041a04a4285bf046ccac498b6351bc4aaad",
+    "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,112,393.710103345977046336",
+    "hash": "0x835366efa14df035b0c71033d3792320377a2b9f788062656da1506091578a57",
+    "token": "[FCT] FirmaC... (FCT)"
   }
 ]
