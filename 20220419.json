@@ -556,5 +556,11 @@
     "value": "12,989.99980837",
     "hash": "0xbc505aff553521bfbe0c4329d5d510e53d75d06003fc331a5ff042030f7b36f6",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,537.685",
+    "hash": "0xb256f5a9beefb275518945876d37b55dd20e7121fbdbad7c34cf06c289e9b467",
+    "token": "Orbs (ORBS)"
   }
 ]
