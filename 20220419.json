@@ -136,5 +136,23 @@
     "value": "100,302.862349",
     "hash": "0xa56c00e089c41a2007cb82d4ee1ef47c78748dd56d9cbefcfbce67a527edb222",
     "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,621.96755972",
+    "hash": "0x934e444901639d2bd17be9acb6cd8bce48c66f35d141bcfbfb007d83a4c29465",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,181.70454898",
+    "hash": "0xed4ad4783cffe7a159d546841640199ccaf72825c69da163150eeabdd390196e",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "547,512.083627",
+    "hash": "0xcdc8a5a43fbef0adb630014e425f6faa098b2da010821713bc8130901bfbad98",
+    "token": "PowerLedger (POWR)"
   }
 ]
