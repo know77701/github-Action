@@ -334,5 +334,17 @@
     "value": "57,952.55411647507090676",
     "hash": "0xd122933f5f96abb24bf74f1fdcf82d0922e97cf1842e5c861ebb204b9b36bb33",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x53c4bde88daf67033b952135b14688843dc9c4e3cb9e7586bfcd151b96b8232a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x88eee4302f2dd762198b97f7beaaf6489b4b0a1e229902e1e47d04d52ff10e2c",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
