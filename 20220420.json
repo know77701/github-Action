@@ -1024,5 +1024,11 @@
     "value": "650,195.7157434",
     "hash": "0x481a352f46866fd61995cca55004db631102c99d1e19f58173fda793124c7878",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,767.014521730041715497",
+    "hash": "0xb126c7ca3453742be639b97bbff6f338295c6a0a3f1e86bb35f9f49967da01b9",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
