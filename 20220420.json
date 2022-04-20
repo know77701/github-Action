@@ -238,5 +238,47 @@
     "value": "271,457.890865136914013995",
     "hash": "0x342328cb7ac98e5e0d809026888b74ebd61ac8ce24436bccfd2ed4ffeaa3341f",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,041.748591761501070613",
+    "hash": "0xe124a75e62bca9b3f189f72849a53ab3e43a81b30dc0991e699696bbefed4089",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "144,770.625878936493994256",
+    "hash": "0x802ec6357b2409b8c79a5fb51a8ce794302c0f2b1537cc762df4fa7ab7577359",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,413.32043069",
+    "hash": "0x415420e4fa8e9b38196996812ed31b5c356468ca853153eda35cde42675a0ec5",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,087.548630178498929387",
+    "hash": "0xe0e5da03360651884ed745bca1a9e871b24712ae6b65b5f0e0762fecf3c19888",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,697,120.1281",
+    "hash": "0x2eb8d7120063f5ec1ceba07b5158a3de2b726ca6cd211d1f13d2f15388738eee",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,833.728979609866917866",
+    "hash": "0x18a90ef13d77121c171a66422d0d9cefb4209f9e82c48477601a6787b40007bd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,127.859992350133082134",
+    "hash": "0x463aedca5def79f460aea9b4270d08a05db59fb199afb73119a2881ecf8dd057",
+    "token": "OMG Network (OMG)"
   }
 ]
