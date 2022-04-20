@@ -568,5 +568,47 @@
     "value": "615.659",
     "hash": "0x70c597b40b4b43d0790116424c767e014050fa6807bf606386b3adbe04f781f3",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa64c0bbdb90ed4ba48eaa74a9de6cfac0698bc3ee35623dc4554f035d30c6a44",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,353.33976853",
+    "hash": "0x9c72a1135fee3a0505d17fbdbcdc3db6eadea5ab50908b71fc6e43fbd467dfcc",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xeb81b764cb13d38ebeea9b9cdf8debb5bcc35c3d5791c3e94e8cdefb0898db99",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xfd49e4ebc1a6608199f41978fa40a83b310b39f303c56598c75317e8ae1c1dd8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,098.707501730357259117",
+    "hash": "0xdee01a8237c8eb01523a52c84a97511ccf21343d01473f1712f15ada2ccd99ee",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,408.96374079",
+    "hash": "0x8743cd3f2c2202577ee637d741921348a1a5aa271139218e67e6a5c6189201ce",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,521.47996974",
+    "hash": "0xef40f341111e347f938a6aa96e18305fd21f9187dac916d1b87e8ea95fd5e830",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
