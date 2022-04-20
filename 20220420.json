@@ -64,5 +64,41 @@
     "value": "10,600",
     "hash": "0x0e07c98a09c9221f94623499baafb8408ba3fea6cc3dfa69a63487f0f45995e2",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x863ab4407d6d52f1279302b2426d3212833e3dfd7730f8f25985835856b64593",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x3dbac2fa263673489cd00501758e15bc1370ecc817df7ced118fa8d5edeb8c72",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "589,957.88636784",
+    "hash": "0xe0420ec64624491a30d88a3f95dce968f62372c5639b718a3ec5d3543b501c5b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,861.40579572",
+    "hash": "0xe5861229eb8246ab7af7b776eebf5d13e308c83b24bbc0af9f03272409d705ee",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,478.93330784",
+    "hash": "0x3a5c1d3d9a4b9231ef0a99b223b567f2d6a86f4ac22f7979e995a4d669d0c20c",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "899,236.42274805",
+    "hash": "0x4e190bbfab1712da417c0c2e79c3abd9338824ff1df117a66f062ad885362f2d",
+    "token": "Loom Token (LOOM)"
   }
 ]
