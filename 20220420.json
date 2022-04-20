@@ -610,5 +610,41 @@
     "value": "2,521.47996974",
     "hash": "0xef40f341111e347f938a6aa96e18305fd21f9187dac916d1b87e8ea95fd5e830",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x906bd29e09a6261a8648258ba6394b5cb4534e146291fb2ee66e4ffb72a652af",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,982.97677952",
+    "hash": "0x3d1caf7bfc860b5c8bf303afe25cad0e9a04b7d65204b3c71bfdbddeef2b73d0",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x01af849a4f23e530e3d4e3c1ea76a9848c6215e4acaf4656a5846ef17521c035",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x5625d7d3c02515d0792b0ce61f1270920e232e708c0e7d8b2347a664930ba146",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,182.69360216",
+    "hash": "0x9e47e238c89a1637cc993258fb0c7ec7ab44b0747170b6c40cbd85a88d710628",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,583.99992046",
+    "hash": "0x78663b4bc3c814de9fece60e8de029c61516383fe2f3655fa8585fd24898d1a0",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
