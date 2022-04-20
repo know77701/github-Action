@@ -166,5 +166,17 @@
     "value": "23,033.481412240253858359",
     "hash": "0xd7a2a4c9835bc1ef25db55e602f540b40678068c1535615987591123377709d8",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,168.264757149168867213",
+    "hash": "0x85e35d159acddf3daeb6c6634f642df91618c18d4db440011f0b049906ea3b0d",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,527.815096780831132787",
+    "hash": "0xffed7e72242da4470c29c2b06bac03f3d050e70b74aa30c23b6c1e064970976e",
+    "token": "Numeraire (NMR)"
   }
 ]
