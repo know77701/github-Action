@@ -892,5 +892,11 @@
     "value": "2,000",
     "hash": "0xc2a6ec28d8677695f11385169687c7e0f05976cd641e6158c615ae85195180b1",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13.901",
+    "hash": "0x96b7e50b0fa648f8e51864b524740405dde1c37cd1cb54847b7c0ccc91f86d6c",
+    "token": "Maker (MKR)"
   }
 ]
