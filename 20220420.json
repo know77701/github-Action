@@ -178,5 +178,29 @@
     "value": "1,527.815096780831132787",
     "hash": "0xffed7e72242da4470c29c2b06bac03f3d050e70b74aa30c23b6c1e064970976e",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,130,491.19793131",
+    "hash": "0x4c8f5f3327aaabc30af5549fa1414823bad4016d899a5e8d100a30f8c88b5bbc",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,290.398448484407639861",
+    "hash": "0xc8eac9f35dada015642758b85e902f560dda4f39c905982e9bde0b92bb21e6d9",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,026.141506995592360139",
+    "hash": "0x0e337dd41260dac00155d27d9ae692fd3fd5954d42e1b00d09ca7e2e45bd6253",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "582,884.19998121",
+    "hash": "0x532e06713a4eefc74d706736db371df2b3a3e3519e97646e6aa93b9208d1cea2",
+    "token": "chiliZ (CHZ)"
   }
 ]
