@@ -850,5 +850,47 @@
     "value": "2,000",
     "hash": "0xc7a905490e7f1da30373431659878def30c1a0a1333e4d16634b3c3bdd8df30c",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,536.03386823",
+    "hash": "0xd0542afd513c19a9b700dbef6ef8a37ca5d5b3b5c906c9a3fdddfbc6afec96bd",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,150,679.30935007",
+    "hash": "0x0ccb7b5d08fa3dc721ff57855e3ca59f162f43dbc77178d293be9c506fafcc26",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,048.24747391",
+    "hash": "0xd2e3c04a105601e73f7b8a31148bf10d9dc0b559eb44b38db891528755b26af4",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "768.9",
+    "hash": "0xd7242a77bdbc11968f15e3f1ebd0a66f640a2b8a5df378e64aa042121693609b",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,983.22",
+    "hash": "0x647801bd8b1cb78b3721810d3dede965cae8dea43491c3f9ead83c169d55f0a0",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,488,705",
+    "hash": "0xd87310c9bb305b4fbfe80dea4da8ef7de4367bc7826138c10ce9756b167547f2",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc2a6ec28d8677695f11385169687c7e0f05976cd641e6158c615ae85195180b1",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
