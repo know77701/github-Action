@@ -100,5 +100,17 @@
     "value": "899,236.42274805",
     "hash": "0x4e190bbfab1712da417c0c2e79c3abd9338824ff1df117a66f062ad885362f2d",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,089.977691673225706548",
+    "hash": "0xf75a6d99d0d46446b70e3c807ca7677b84506426bbb72d6e5b682a8dfcbdcd5d",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "916.76382621",
+    "hash": "0xb98de1962ad660c6b267bb91ca8758df21b577f0e91eaeecc2436861fb84b3bb",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
