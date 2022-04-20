@@ -976,5 +976,17 @@
     "value": "118,965.99984371",
     "hash": "0x6fa7ea12ada2c93636876f49a6dd853f124d347463a4d921564303e2dbeb384b",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,841.82996478",
+    "hash": "0xb370bfbcd6934941b0689e6bb56a5cfc264097af2c39b48eb1272f9220c5edc4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,607.172895686142538582",
+    "hash": "0xcc882d2579f4b686cdf9536b5993e87d93de1aea74dde5e389035c3c842a9400",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
