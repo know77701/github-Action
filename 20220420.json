@@ -220,5 +220,11 @@
     "value": "250,000",
     "hash": "0xf31f7a37270bcb4c227e91048e18c838e69f713ac6d133b1591a4d96d1e7fb55",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,837.93197036",
+    "hash": "0xe7d88abc9aba272b5867fec0b26d9bc317298b05836c1b6f77953d85417e00c0",
+    "token": "Metal (MTL)"
   }
 ]
