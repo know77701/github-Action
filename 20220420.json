@@ -208,5 +208,17 @@
     "value": "14,639.32505328",
     "hash": "0x2418e1308820fb5d10c11ac44485741e8d4e0c75b91a49b9c87a1792251aeb79",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,881.99990806",
+    "hash": "0x0517b4cb7e823aaa429bb1f3c3bb7bacbc543dd4f95c3053405cc8b9063cbe38",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250,000",
+    "hash": "0xf31f7a37270bcb4c227e91048e18c838e69f713ac6d133b1591a4d96d1e7fb55",
+    "token": "Orbs (ORBS)"
   }
 ]
