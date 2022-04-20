@@ -1012,5 +1012,17 @@
     "value": "40,841.82997903",
     "hash": "0x77992bf188ecb99157061c96950dc69b498ce1f1687e4d55696ed1db0aa5c252",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,696.272218069958284503",
+    "hash": "0xdb04df8efc3b2295d47542cec4e344e8778908c5cb4c6bc4a349d291cad789eb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,195.7157434",
+    "hash": "0x481a352f46866fd61995cca55004db631102c99d1e19f58173fda793124c7878",
+    "token": "district0x (DNT)"
   }
 ]
