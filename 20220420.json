@@ -988,5 +988,23 @@
     "value": "18,607.172895686142538582",
     "hash": "0xcc882d2579f4b686cdf9536b5993e87d93de1aea74dde5e389035c3c842a9400",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,768,680.542578060331127558",
+    "hash": "0x2744ff682529f75edd52dab7919a29e53886a570fc88cddf920f48e1c3c15a3a",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,440.399414357062064583",
+    "hash": "0x983020310c830879586e08124b76b06e65088ec046645f48298a271277dd0a48",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,932.05001054",
+    "hash": "0xf38fe428a1c948e9dd8ca497dceeeb6b905268aa1ad25d70277641e83a5d5c78",
+    "token": "Audius (AUDIO)"
   }
 ]
