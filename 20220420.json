@@ -934,5 +934,11 @@
     "value": "44,571.10453",
     "hash": "0x2a90cccde51429e63a1d91e6428504d06c3bc98060777a4f0df7b594aed6457a",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,171.61941899",
+    "hash": "0xf20ad1e7aed1ea142d3c6f8bbb311ca8194ce458d00ad66bd002c0e668227195",
+    "token": "ZRX (ZRX)"
   }
 ]
