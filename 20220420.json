@@ -292,5 +292,47 @@
     "value": "6,100,496.08553999",
     "hash": "0xecd27868f3ec634f418118ff1fbae535d2613e179e84163108bb68c2ab13295a",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc2cbbb1dd91b0e37b0a8f7c3df294c409e6f9adaefc9b3fbe02a89fd55369969",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "666.520672731032997643",
+    "hash": "0xa7634d23c825fa44946af27e49c79089de6d3f63ae1779041474b1b09261082e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x380ae8c3bd83545a264b7ac902e4054f013b5a61cc1f99064430431bfee1c48d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,957.34988352492909324",
+    "hash": "0x0a90c3fd5048392add75d00cbac433961912db5fbb6db6b1ea23093f61706a90",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,389.545304096653114998",
+    "hash": "0xadc7230a0851d11f80c20a9bd1bc582f3c324adcd161a6854254354a0908a74b",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,333.385",
+    "hash": "0xaf09e91c2a1d300d200bfb2f68ac5741eaf4fdcca68e19d2fdbc6ce960027d9c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,952.55411647507090676",
+    "hash": "0xd122933f5f96abb24bf74f1fdcf82d0922e97cf1842e5c861ebb204b9b36bb33",
+    "token": "1INCH Token (1INCH)"
   }
 ]
