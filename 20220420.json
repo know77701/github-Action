@@ -124,5 +124,35 @@
     "value": "229,011.7975623",
     "hash": "0x0b5a27eee14a85e4636785260376b1cedef47fc37f66079bbfd0348c4a489142",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,469,754.38556293",
+    "hash": "0x393ba7feaef480d1f8e73222515150d73c6cc316117aa9f13850296b19585dca",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "727.13448553",
+    "hash": "0x793483de660f37148264511aec516c7663277d75b7dcf0390b3dead214cd36bb",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,865.99998184",
+    "hash": "0xb6af9d442f659e3046b800571633049dd89a103f98a7467178fa278ba9941eb9",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,024.504428357359739179",
+    "hash": "0x85babba07186442e2c20fb2e04c2ca0891686d461b92ffbb507cfd16ed74c6bb",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,930.496711642640260821",
+    "hash": "0x43549eba64f652264153981cbacf0386dbe0297f7baa8f2b3101192e4bf9ae98",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
