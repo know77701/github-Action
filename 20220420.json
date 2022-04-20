@@ -898,5 +898,11 @@
     "value": "13.901",
     "hash": "0x96b7e50b0fa648f8e51864b524740405dde1c37cd1cb54847b7c0ccc91f86d6c",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,993.288",
+    "hash": "0x0112bb534423d3a2c6e1f4a4e2e7c8d4bb11e9b161461381ba66008f6b026639",
+    "token": "SAND (SAND)"
   }
 ]
