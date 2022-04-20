@@ -202,5 +202,11 @@
     "value": "582,884.19998121",
     "hash": "0x532e06713a4eefc74d706736db371df2b3a3e3519e97646e6aa93b9208d1cea2",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,639.32505328",
+    "hash": "0x2418e1308820fb5d10c11ac44485741e8d4e0c75b91a49b9c87a1792251aeb79",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
