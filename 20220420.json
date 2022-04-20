@@ -1006,5 +1006,11 @@
     "value": "56,932.05001054",
     "hash": "0xf38fe428a1c948e9dd8ca497dceeeb6b905268aa1ad25d70277641e83a5d5c78",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,841.82997903",
+    "hash": "0x77992bf188ecb99157061c96950dc69b498ce1f1687e4d55696ed1db0aa5c252",
+    "token": "Metal (MTL)"
   }
 ]
