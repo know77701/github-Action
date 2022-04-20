@@ -358,5 +358,29 @@
     "value": "2,000",
     "hash": "0xf7848897cd23975f4151ec349eb90d8ba94046274a80583a5356cf1fbee341e0",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,094.74098649",
+    "hash": "0x3b85bdea09ad3e6a6f0c3b6deacbda31ebcf5d256d1cafa40fd75c5286e276ca",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x53852718ed4c23b68f875a85c3c4acaff6a2e360c60b0fbae4465fd7305de636",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,336.122486268993114643",
+    "hash": "0x29c82eb2314ef918baf608fa971c1603d893a24a221d688eb57d024f27cacf70",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x9a25c706ea84c7b8a4b857bbe2616149d051347bfd3eba85742631f810c5920b",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
