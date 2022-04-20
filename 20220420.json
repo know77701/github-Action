@@ -280,5 +280,11 @@
     "value": "35,127.859992350133082134",
     "hash": "0x463aedca5def79f460aea9b4270d08a05db59fb199afb73119a2881ecf8dd057",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,274.373923673506005744",
+    "hash": "0x0e4bf23c96fd7da55a1ee46437cd71338fb6ad8e8862f695386f080a8e3b51c7",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
