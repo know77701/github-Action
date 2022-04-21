@@ -682,5 +682,29 @@
     "value": "20,068,944.99271034",
     "hash": "0x93783768c0c5d2dc3536e5bd10cc53936f0cb14ede8fd2ebc3fd848bfbab706b",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,952",
+    "hash": "0xe04620c5bf0e0e7bbea72c62af9b81d54960c88e6dd76ef31a4fdc70ab325044",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "327,347.749792568144800635",
+    "hash": "0xc8f38a12d81436ccce8b6d29a8088fae0bd29c53a994b9135c95efc5d30d597d",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,751.62629886",
+    "hash": "0xba513ea2f375903879cb11c1a4fd8c80427bc1dc413b94dcc4ed9c41a9a2650a",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,127",
+    "hash": "0x6b3ddf13198d7cfac7a39e9faf9d44b857fa00b29523872a83faff86fee84b39",
+    "token": "ZRX (ZRX)"
   }
 ]
