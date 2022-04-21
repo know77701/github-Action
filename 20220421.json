@@ -46,5 +46,29 @@
     "value": "112,776.331552546420106644",
     "hash": "0x09ddca2ea47617c7a722c99a90409858383f03ff61c4fcbeff2f0fbd21f3ccba",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "236,379.059721873773181196",
+    "hash": "0xd6a386d13d2bd143d49fdb47f2f48c5db0dd4b123f7db139f27fe3bedd4b5c83",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,335.297177606867333613",
+    "hash": "0x67d42deb1785d9cf6520b9940d51c3947aea2f2ec00fbbf5e695b7ac04eb6ad1",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,772.44849295832",
+    "hash": "0xd01dde592ae2c101e5287a847ee20a9f859cbed4aef4169816037ab63996783f",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "388.902615406300878632",
+    "hash": "0x87aebbec4c689a5d07819615272ab7a423b67470a8af8ade910c556385a43851",
+    "token": "API3 (API3)"
   }
 ]
