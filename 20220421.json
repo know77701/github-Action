@@ -940,5 +940,17 @@
     "value": "147,746.41482750232086687",
     "hash": "0xc8b240bdf94965ec840bd09dad71f29a2d6f32ac1b6cac923501ec77d17c90f8",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,452.12368773",
+    "hash": "0x3a3e9f3310ea024015c8c0092ab550f75fef656b9e927639ca60196d5442ef62",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,597.75378711",
+    "hash": "0x0adcb8e61d3a45e1e102470da96421d61091fd50b62d1e261f77e6edafbd8e48",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
