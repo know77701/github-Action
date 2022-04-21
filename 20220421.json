@@ -562,5 +562,47 @@
     "value": "58,718.748129810149709984",
     "hash": "0xc262f19dc66835ec8f97d121a6e20ebe566d2cf7127d8f8fc8ae3ed1352677e6",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "223,032.983637296125696687",
+    "hash": "0xa33689f37a2d3505cd0f1c9e14a344faef53d5ce5d6cd1d7ddcad2308eb16ea6",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220,000",
+    "hash": "0xf1d1c04c8c523ae52284471a32497d8d03ab545c3e54f658fcd5147038cf5555",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "325,814.789574303874303313",
+    "hash": "0xb30e8577116d22c10553c7af29564bebf3a07b4083d785c717a3bedb5c2e8d60",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,928",
+    "hash": "0x968f99384251a9ba7cfa72442ab0c90f9a73fb3bc1dfe0a703b0e431e04e1194",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,856.82192424613613313",
+    "hash": "0xc1da19812a8a94251509ef59fdf57cf6e0bd450f6b345afe8a68d807d2987753",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,919",
+    "hash": "0x717d66860012d52ab483f2c076b1237dab37b849df7cfab7b7541ae2e3d72b1f",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,443.61651348386386687",
+    "hash": "0x89742a3e978637744a05ff38c6a7ca96635a2e7db0ac619bbdc019e138c45059",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
