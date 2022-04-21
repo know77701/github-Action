@@ -880,5 +880,29 @@
     "value": "15,409.188511730031665853",
     "hash": "0xcaeb04ab6160ae5a48b2c3bfc5fa1c1a66965db2949f9b14e804e93b86457a72",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "440,313.883694535169963682",
+    "hash": "0x2443a27a57b349a8b23fc2f824d18e1197dfd615dc2d851711817b6c64e62302",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "355,642.659",
+    "hash": "0x1cb5fb65c815e437ebd97b1a366c5f15afd06db60b927f0c25a81b7642972f2a",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,965.754422770009433532",
+    "hash": "0x7fa55901b17b33ee40308f8df2c8e1d57c6224b8043b43e9848912015a197b99",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,430.948012229990566468",
+    "hash": "0xd544ea03c0b1dd5259e7e82089cb9b8c4a5dc2083ba2601d0e49b3bee10243fa",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
