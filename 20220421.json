@@ -814,5 +814,35 @@
     "value": "44,990.06",
     "hash": "0x7b4e79ab3de6b45c6db93f83e13ff725064d171f61240b30836837b341526588",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "527,018.45929493",
+    "hash": "0x59e45089ecadb3bee7397b38eb0bfd711420f3d4159de8c652245080c2d3b4bd",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,200",
+    "hash": "0x4bbd5feff45327e1e25313d2868230e6e161b270c65ff9c6bcc1deb53522925d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,114.63116",
+    "hash": "0x095831aedadbbab1be036862edbbbec61a67aac7d776eaab7a3ed887b7f05f1a",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,674.883311725347553054",
+    "hash": "0xd0e66b7e4c41a7f62678ad88095cc130a01eb6e10e29cdcc05b3b014b18f8946",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "540,976.571900184652446946",
+    "hash": "0x48a9fe21ee81ba562820f69628b43513e9528a2fec6be3c20816b7357471510d",
+    "token": "Polymath (POLY)"
   }
 ]
