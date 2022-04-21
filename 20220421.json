@@ -1024,5 +1024,35 @@
     "value": "300,000",
     "hash": "0xec6ccfd47fb25316673fa398645fced5572c6da614e53b782731c335081313d2",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,058.71608183",
+    "hash": "0x22a9a084a4e1049c5b819e884ccd33b3d9a4a6581b6259f200d888413c1eac30",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,007",
+    "hash": "0x5e06c91561c1dbaae8497df22fb39d33c43b0a156283ea5c86184da64ba2ffe2",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,509.11532742",
+    "hash": "0x441532ed64c3cb7bb3f279ddeea99bdff45e8dde2a32ca9669da9f75321c52f9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "111,111",
+    "hash": "0xa84268c0daed1c8e82a626a67445db49fc99c53a1484183658e88598a3a7905f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,752.992573",
+    "hash": "0xc7e886699e82b997b5e47f0586db97372a5f82a219bd0370ab4af6ffee5f80b3",
+    "token": "PowerLedger (POWR)"
   }
 ]
