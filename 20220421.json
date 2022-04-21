@@ -418,5 +418,41 @@
     "value": "13,228.388364210791227823",
     "hash": "0x883496bed6ff7cdb7e2813fa0425dfac38299e1fab9ec2601c603a5777d1372d",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273,966.199366942303834171",
+    "hash": "0x3c3e40388aa228681a3da0fcf05ef0722fbac01546fd5941ac769e25face8444",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,677.952038416321097079",
+    "hash": "0x9bf1475f27695e265c048d36d52387aeaf65476b88f29133b67347d3ae0de91b",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,682.704674818113080157",
+    "hash": "0x8cf697ab5d9825ddefb0252e654288403e74381cdd531f0e3c5fd0f7c89e1363",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,217.15773726",
+    "hash": "0xc14ba3247236f46b2248081369ecd09c8baca4fb57d6cf06e1e5caf18974ffe1",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,142.091138755565822764",
+    "hash": "0xa23c9f9ff097bf3eadb060f12e0d3b0f175a41d69c3027374b14b196704535bd",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "341.723136",
+    "hash": "0x434804cd5882ab6a41fcafd703215aee39cf8eceec3b31c3aba99c0f92ef9558",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
