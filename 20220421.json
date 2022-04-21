@@ -868,5 +868,17 @@
     "value": "58,071.37012883",
     "hash": "0x82702925aa0c960e737d8a239a093d134e67616209a54504ba1625735be5b8ab",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,627.464488269968334147",
+    "hash": "0x6c7c21ade5f989cd0a3bbe0255baedbcaeafc23c52f59fde8c9b2c34b392fe9a",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,409.188511730031665853",
+    "hash": "0xcaeb04ab6160ae5a48b2c3bfc5fa1c1a66965db2949f9b14e804e93b86457a72",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
