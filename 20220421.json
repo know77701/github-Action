@@ -760,5 +760,11 @@
     "value": "9,300",
     "hash": "0x5b5678108ded03f58ba4bce32f6a52c48e3d3a6a37b4290c122525184fd10b52",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "277.158573032754149685",
+    "hash": "0xf22cb6089e7668c2a0dfe61396cab0beeca5c64c2165657c66ba8a1f77864c12",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
