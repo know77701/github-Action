@@ -502,5 +502,17 @@
     "value": "297,700.50154742",
     "hash": "0x484e9208412221d32cf24822ec4e510100ffa94193fe423663de1dada80f9ae1",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,265.18492731",
+    "hash": "0x6036d332acd504c0ac45421fc01d08d040647394b795ee7a0f95dc3f0fa2cf2b",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,367.99993501",
+    "hash": "0x869f437dba0011ef9f9dd527821b0ac8c4e8c2b83d3c9d69ff3206f10eb30571",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
