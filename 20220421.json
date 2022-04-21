@@ -382,5 +382,41 @@
     "value": "104,205.229843277752381187",
     "hash": "0x6fbb707f2c57eedf0e2342ee05c08e89a9be43cd90cabaef43e7190b840b115a",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,858.977659999878097079",
+    "hash": "0xa27791537c0a196641c4aad5853560d15b92a451de5f537992caf4b67512ac26",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,395",
+    "hash": "0x31ef02c6b10b89193ffa2c0ef65e8c3d554f5914f675032504920ca76b723912",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,082.728476655207561952",
+    "hash": "0x19bdec15430559633c95cee2b1b01336171d37567266b48a138232ae98858b57",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,038.459334609330675098",
+    "hash": "0x195ebccf42357bbde470ce53d06e57ed80e0f5fdfcd599aa1b88632795bcb5e1",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,641.909750713357415216",
+    "hash": "0xd8d4e3b85945ff8dbb325cbbd937ff715fa3535d25076208d75d659800fc6d49",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,228.388364210791227823",
+    "hash": "0x883496bed6ff7cdb7e2813fa0425dfac38299e1fab9ec2601c603a5777d1372d",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
