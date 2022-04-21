@@ -976,5 +976,11 @@
     "value": "323,833.825921",
     "hash": "0x04c1fb81905a443479c367a567776bb2665256ac065e6c12b7efe8dfbefd4a7b",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,285,419.61172941",
+    "hash": "0x5d8e360f2b3466062a9f79d9aa6e2b72cc61a3d93033b1c2c31c61a6273acde2",
+    "token": "StormX (STMX)"
   }
 ]
