@@ -988,5 +988,11 @@
     "value": "2,649.46982294",
     "hash": "0x7e068be0fb60c94cfeb86c4b0485a7a2907d5bad262e06b22027c58b04823394",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20.75494216",
+    "hash": "0x234d211424132700c44f517fa948f7af52ca839e07c50e66a49c81fa09335aea",
+    "token": "Maker (MKR)"
   }
 ]
