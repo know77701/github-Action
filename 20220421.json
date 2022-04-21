@@ -844,5 +844,29 @@
     "value": "540,976.571900184652446946",
     "hash": "0x48a9fe21ee81ba562820f69628b43513e9528a2fec6be3c20816b7357471510d",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,484.306481520043932881",
+    "hash": "0x66e2363be3825780a9a1abba122ac5fdd9418581daa930027ec20ebe46d392bc",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,606.028791280725951359",
+    "hash": "0x0989e8448152f4e1d6799b5426cec6bdd82d4ae6242716f20979a526946edd05",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x16e5d55b0b169c51b65d1e6bafe7db2ccfc1109ee9e5d0f2a5e2ce6d06641d53",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,071.37012883",
+    "hash": "0x82702925aa0c960e737d8a239a093d134e67616209a54504ba1625735be5b8ab",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
