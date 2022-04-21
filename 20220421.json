@@ -514,5 +514,35 @@
     "value": "100,367.99993501",
     "hash": "0x869f437dba0011ef9f9dd527821b0ac8c4e8c2b83d3c9d69ff3206f10eb30571",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,881.650870189850290016",
+    "hash": "0x310f97baf7c2840c78b0b5938a7c9e0abe5d7eb280217c33da5675d18832d979",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "274,206.615",
+    "hash": "0x606f945247d61623bbd7050b85b2cab9aa12282d8d1e2728a78a836d3c5dcf98",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,000",
+    "hash": "0xa69a873d1da2126f72f6ec509f50afd611de55928b25b9a072e1b1868acd10f1",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,104,775.99991364",
+    "hash": "0xba4f2eb8766f528c8257b59126f64d7bf76c02742befe1c78f2c2881f41f7879",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,506.81705208",
+    "hash": "0x29ae5f6fa1d63b8b9f31e3c5d6315fcfe850cc3fdab21fc1a59c2245eb481ef1",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
