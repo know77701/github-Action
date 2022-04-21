@@ -484,5 +484,23 @@
     "value": "89,024.859864807696165829",
     "hash": "0xc29a00e8dcfd7efdd706bd67e77e164fd78b6e57f460b51540c8fe7cad86506c",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,589.46981612",
+    "hash": "0x1521c13d2f9f26d4511301c0b3086e2558c34dbde709cd071fa91a7e7666b3e4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,083",
+    "hash": "0x278d45cd8e8fb45259d1dd2d77464e4da6f8a6c2ceea5a2bbfd426a92b22abc1",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "297,700.50154742",
+    "hash": "0x484e9208412221d32cf24822ec4e510100ffa94193fe423663de1dada80f9ae1",
+    "token": "Civic (CVC)"
   }
 ]
