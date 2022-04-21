@@ -604,5 +604,11 @@
     "value": "146,443.61651348386386687",
     "hash": "0x89742a3e978637744a05ff38c6a7ca96635a2e7db0ac619bbdc019e138c45059",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,000",
+    "hash": "0xa871f5055f24ed46523f269c18c22b4e73ede70efbacde1ce00fd8d24cfdaf98",
+    "token": "Civic (CVC)"
   }
 ]
