@@ -454,5 +454,35 @@
     "value": "341.723136",
     "hash": "0x434804cd5882ab6a41fcafd703215aee39cf8eceec3b31c3aba99c0f92ef9558",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,036.00328237639858857",
+    "hash": "0x73a1515e98837d898b250c8db923314030db9bc6b9c57050c05a3cb244eadb35",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,495.75357930360141143",
+    "hash": "0x6447166eb9d73408f327458c25ad3ebf4866cb7069e4cfe34bb0190c2d6403ac",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,621",
+    "hash": "0x09a14976b183283502f155a8dcac4b6a1681cfb8c0af208689fbd02174d28c5f",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252.999999999",
+    "hash": "0x12424df5c9f74b3b1fbf9e42b543275251dc619da57b0a61aff6fd90c0dac971",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,024.859864807696165829",
+    "hash": "0xc29a00e8dcfd7efdd706bd67e77e164fd78b6e57f460b51540c8fe7cad86506c",
+    "token": "Decentraland (MANA)"
   }
 ]
