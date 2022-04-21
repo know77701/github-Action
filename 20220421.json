@@ -958,5 +958,17 @@
     "value": "700.365477",
     "hash": "0x1d2d548d15db849e71a0e3cb0efe908116bfcfcac83038aec8fd0cc33505da0b",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132,100.35066147",
+    "hash": "0x55adf9b56a5dd0b556776a4ce303b7fc38729391ea24c6d298c3216a2e02e8a6",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,719.106803002537588091",
+    "hash": "0x904b66e4bc483973ffd543157ba8856a18b9188f2f3e630ab5b3b871db8c798a",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
