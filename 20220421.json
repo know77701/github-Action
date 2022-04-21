@@ -982,5 +982,11 @@
     "value": "34,285,419.61172941",
     "hash": "0x5d8e360f2b3466062a9f79d9aa6e2b72cc61a3d93033b1c2c31c61a6273acde2",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,649.46982294",
+    "hash": "0x7e068be0fb60c94cfeb86c4b0485a7a2907d5bad262e06b22027c58b04823394",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
