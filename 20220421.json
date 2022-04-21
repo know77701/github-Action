@@ -196,5 +196,47 @@
     "value": "6,841.834824847658565372",
     "hash": "0x0aea64837b9efcb26170545b5184725fc1176be15e2552280c1715871d829f7c",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "527.052497153661757616",
+    "hash": "0x7e81f5d37a57a4347ffda24bfe8fc683b4b34a6fd4d71dff6609711d12161d26",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,422.99988463",
+    "hash": "0x62c163520cf765953a7edd2532081e9545ff3dcdb01b9c1ef4cf1347bde1667d",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,913.440997574881114643",
+    "hash": "0xfa17295bd40f30a0c21c7aeb6061c609032740b43bed08595fa7fcc1b4c0137c",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,565.113533867400858499",
+    "hash": "0xf30984a7b0532b8e514e3a7ed9ab6595aeb951ffcc7a55b092165f51f7c0a44e",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,270.486398769536978982",
+    "hash": "0xccf9ccbf4baf538b4d62d251bde842882d6bcb83e3bd2f37014dec451ed7d7fe",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,131.133106382599141501",
+    "hash": "0x52d10f7ada17bbb88221c7f45dcf9b49c96fe29c4d9d6179788b634deaa35e19",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,055.440676917137620235",
+    "hash": "0x8e99ac51fd35a2ead0a771b262bf4431e92124cfdb172b219b58fc34bb637c92",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
