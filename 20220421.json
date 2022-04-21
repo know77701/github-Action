@@ -544,5 +544,23 @@
     "value": "6,506.81705208",
     "hash": "0x29ae5f6fa1d63b8b9f31e3c5d6315fcfe850cc3fdab21fc1a59c2245eb481ef1",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "562,085",
+    "hash": "0x03135a16380749eba6b24ce8b147fab71cc23386e222bf50d1a535eedd69153e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,463.74614",
+    "hash": "0x89077b5beb2dcf6f409004d9d6dd66e25637955fae7647637cfc9a9af61dcee4",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,718.748129810149709984",
+    "hash": "0xc262f19dc66835ec8f97d121a6e20ebe566d2cf7127d8f8fc8ae3ed1352677e6",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
