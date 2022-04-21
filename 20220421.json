@@ -1102,5 +1102,17 @@
     "value": "5,629.800948480475532437",
     "hash": "0x4a2765465c3a194fa45000f8e4d0f7fe795e49c18ed51fd7473eb467a052b40f",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "428,508.14814763",
+    "hash": "0xb729db198eff9121e147de3f155d540360f1dfc9956a7314068ea24a9cd4c06e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,333",
+    "hash": "0x5e4e8b6a7de7744e323b6efa967ed7e700d02d64a1603c9a3e19344eff3c2910",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
