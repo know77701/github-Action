@@ -610,5 +610,29 @@
     "value": "200,000",
     "hash": "0xa871f5055f24ed46523f269c18c22b4e73ede70efbacde1ce00fd8d24cfdaf98",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "237,021.308986160675493486",
+    "hash": "0x084ed1b80a701379e1af405b60a769176b40366559339353328772b88c1a16f0",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "287,400.054311229324506514",
+    "hash": "0x9f9ef06197a28c538f90f2d39e6ddab4ccf5655dec090b0e3ebcb6474c0d55a7",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,703.512",
+    "hash": "0xdf9d1d7cd12983e8f1f9d6c031c2c38a3022c1714d33453b9156f19655dde6e9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "558.96",
+    "hash": "0xb271f1a604a8db7c32b1a27e6fefb7b2c4b79db0b5a1006b535b4294381db142",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
