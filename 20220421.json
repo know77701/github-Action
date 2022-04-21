@@ -904,5 +904,41 @@
     "value": "87,430.948012229990566468",
     "hash": "0xd544ea03c0b1dd5259e7e82089cb9b8c4a5dc2083ba2601d0e49b3bee10243fa",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "823,742.039530758416780644",
+    "hash": "0x7a6c4213827dd27f44d09235ae8650565546662d6a7eef5dd5a86817eef8f117",
+    "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152,485.58514193767913313",
+    "hash": "0x8441d01d1f3467b1fba59c925926af42bdbb92e756b2ecbefa53944b745198df",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "766,657.960469241583219356",
+    "hash": "0x67cc23388726a7e46c2c54a9c5d893b94fcc07bada4dce5c7ed9936e591f87c1",
+    "token": "[FCT] FirmaC... (FCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,746.049442",
+    "hash": "0x27eb7fac2d06ba75ffce99e7d02a1f8efa9c2f43cc14ff654b1830e0d0ae21a9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,170.192032834830036318",
+    "hash": "0xdc748326576f76ff8c83d720f2d57be2db418e619df688841da657172581821b",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,746.41482750232086687",
+    "hash": "0xc8b240bdf94965ec840bd09dad71f29a2d6f32ac1b6cac923501ec77d17c90f8",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
