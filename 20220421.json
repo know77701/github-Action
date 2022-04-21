@@ -802,5 +802,17 @@
     "value": "99,389.464",
     "hash": "0x5bfb15f6492eef51234a3949bae6bf2c187d98a41cce2461dc3f58577a3e449d",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,340",
+    "hash": "0xc242173db0b6d77f2261c464e37a03e39fa2ab46c21209dbde961e7164f0ed5c",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,990.06",
+    "hash": "0x7b4e79ab3de6b45c6db93f83e13ff725064d171f61240b30836837b341526588",
+    "token": "Serum (SRM)"
   }
 ]
