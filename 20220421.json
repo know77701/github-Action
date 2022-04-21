@@ -784,5 +784,23 @@
     "value": "498.361",
     "hash": "0x26674feb2cbd49161a5e09c12132aa9a31f24cbfe38bbdb52de56d368c228693",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0x0cc56ad76c8ccce00af8fbd9dae3bfc6809649617ca930f2b53f06baf087f09b",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,472.836",
+    "hash": "0x02fa4d19f6b1bd7970be053a3082d4f22fd891040b16fbaca959ac6d45ce58cb",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,389.464",
+    "hash": "0x5bfb15f6492eef51234a3949bae6bf2c187d98a41cce2461dc3f58577a3e449d",
+    "token": "PowerLedger (POWR)"
   }
 ]
