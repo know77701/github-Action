@@ -358,5 +358,29 @@
     "value": "15,965.406617484475902921",
     "hash": "0x0fa07d8b399a2b51edccc20b25bfeed4afbc7dde23987b829fdd69e607008fec",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,999.385838787025050771",
+    "hash": "0x8a3fc9344175aa400fd1a8fe54ba8dd14196cc99a748a52f338ce4c70f6f1770",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,459.403339636889497862",
+    "hash": "0xcd79eadb5fdbb8d63f81f2b4cf16a6b54bdc2ca462d6a42470ae2eba9e1a3184",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "817,772.510058676941983599",
+    "hash": "0x16004e567da00e6334fb6fa4d0e00dcac6dd229dcd188c59cbeb2fc06451c730",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,205.229843277752381187",
+    "hash": "0x6fbb707f2c57eedf0e2342ee05c08e89a9be43cd90cabaef43e7190b840b115a",
+    "token": "1INCH Token (1INCH)"
   }
 ]
