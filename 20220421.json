@@ -706,5 +706,59 @@
     "value": "38,127",
     "hash": "0x6b3ddf13198d7cfac7a39e9faf9d44b857fa00b29523872a83faff86fee84b39",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,669.51790124",
+    "hash": "0x0966401f774387f49718c6b4e896da90d18b06688ded3fdda682caf8e504c5af",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "203,227.99589",
+    "hash": "0xfa1412f2ac08082e3b6eb03d75619ea5fe44de83496e4a5412999e6f1915d86f",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,521.559253198",
+    "hash": "0x09e5f128d7e7d85d2de349c8762d84782419e5884e33d2987fb9f9218aaf328a",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,025.871",
+    "hash": "0x5497feb0dfe734e6d08a64dc0b244ec8dcae311e889f9b53ce9329cd8d748439",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,078.187218722",
+    "hash": "0x8a06fb3a050271eea3e1e29dab7000163ea9c8327fcdf5f3b56cc116b1375123",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,211,182.2",
+    "hash": "0xccb263a2020f86a35429f53514df90d15a4441656b03d60f2195402b9462fdf8",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,734.111426",
+    "hash": "0xab1c2ab3bc328b72a23cebb4fb0c33bfa131ce19343c30f75f6dca61e82e0627",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,024.78234712",
+    "hash": "0x62ac2ab994db8e892f7592a21802775c97493e851e18178ccf6647fed06ac981",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,300",
+    "hash": "0x5b5678108ded03f58ba4bce32f6a52c48e3d3a6a37b4290c122525184fd10b52",
+    "token": "Serum (SRM)"
   }
 ]
