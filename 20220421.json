@@ -952,5 +952,11 @@
     "value": "110,597.75378711",
     "hash": "0x0adcb8e61d3a45e1e102470da96421d61091fd50b62d1e261f77e6edafbd8e48",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700.365477",
+    "hash": "0x1d2d548d15db849e71a0e3cb0efe908116bfcfcac83038aec8fd0cc33505da0b",
+    "token": "Aave Token (AAVE)"
   }
 ]
