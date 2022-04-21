@@ -994,5 +994,17 @@
     "value": "20.75494216",
     "hash": "0x234d211424132700c44f517fa948f7af52ca839e07c50e66a49c81fa09335aea",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,953",
+    "hash": "0xaa2c8afa2bb8aff4d68ce683026a25553ec5988e430c3ccaaedd1e9266c29cbd",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "292,802.99982945",
+    "hash": "0xfa49b566b086c7f486d2b02df62e8b63abb25219fc9f25206f9d15a1f0b9e5fa",
+    "token": "Orchid (OXT)"
   }
 ]
