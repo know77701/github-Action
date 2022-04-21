@@ -160,5 +160,41 @@
     "value": "6,914.358976976240341824",
     "hash": "0xf8f753505adbfd5408aee4d1cf1a6a750403a5a2915135e5ebb7580290892b85",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "468.990442934516944481",
+    "hash": "0xf579097dcb5370d23358f817b885bf98cf6090cac5030f2436e96c240119ea0c",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "347,298.795547739258675278",
+    "hash": "0xae6fd79820e0f0f2e297f09f0e7a383aaf8c5dee6d510420f48d9fe59d7c07f2",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,268.415447366864394039",
+    "hash": "0xade6fc1f54c7785feea5ade1bfe0cf9978436316ba5591ea30de11677561990f",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,449.89692011914641343",
+    "hash": "0x57fdc4e976120cb75a175a0ba1db8e2be7d24ba6a72f2e50a2169592eb12fc2f",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181,783.57004743",
+    "hash": "0x8f56c79aaaaf769a26d172fb021c0030f205ae22dd9195a74bae1c49fe34b632",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,841.834824847658565372",
+    "hash": "0x0aea64837b9efcb26170545b5184725fc1176be15e2552280c1715871d829f7c",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
