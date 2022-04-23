@@ -76,5 +76,35 @@
     "value": "766,552.085105408816066773",
     "hash": "0xc3c75a6741dd8713cbce6eb5ca4c7cc147c2e64d821d88f46dd9e9f52f7fdd67",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,234.05398463",
+    "hash": "0xe8f34181576dba3bf410fa5908d8d5b77816a7632420a57b10526de528383aa8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "249,402.40001023",
+    "hash": "0xfc04eb0c7050d560139c294f03b6b605a017c684e57555edd7daa90eab1d4681",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,324.88288711",
+    "hash": "0xa805152d9dff5c7b8efb107fc2fb7f158d0e07619e34918687e793128b94be02",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,307.75",
+    "hash": "0x8630b9fcd14fcb792d790d8febef38bc298e89b17d9426c808eaf20a844acb8a",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "443,138.11943845",
+    "hash": "0x890a63a82456595e6c368d622b5097280db5590e7f5ce4aa3524edeb44864dce",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
