@@ -310,5 +310,17 @@
     "value": "9,969",
     "hash": "0xc97afc25eb907502dd8f63470d2ff2638b215df7ac0c638591df03e85f46d0f2",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174,015.26306708",
+    "hash": "0x35b7955eca82fc4200b7a36a689b5107ddbb140d33f3a1d196e6f4e7927d130a",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,967.99992263",
+    "hash": "0xdb34405af7c9622588a824de64149f7cfb0e9fb823690fffce9ae47298c9543d",
+    "token": "BAT (BAT)"
   }
 ]
