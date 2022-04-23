@@ -52,5 +52,11 @@
     "value": "6,827.731401556569343066",
     "hash": "0x7698ea907e504d343c4e1c7dcf58812d902ea9330ae897e390b6f28d0dc296d7",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300",
+    "hash": "0x58d886f7bccecb3e813503f851b99e53ef297f43a83f470e7ca3bb7f1af0fd6c",
+    "token": "Mask Network (MASK)"
   }
 ]
