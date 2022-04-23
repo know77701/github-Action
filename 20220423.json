@@ -208,5 +208,11 @@
     "value": "650,178.71576138",
     "hash": "0x65c6671ccb941de686dea373f8b5e70a9a67a75464e30fb725e3566178acd1f9",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,891.407",
+    "hash": "0x925f645726e62aa066ed0854df76ffc282e15d19913b25548418a64cadc33af2",
+    "token": "1INCH Token (1INCH)"
   }
 ]
