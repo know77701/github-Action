@@ -46,5 +46,11 @@
     "value": "200,952.388166550837374159",
     "hash": "0x9756bc9253fb90b6f0b6829348ee8abca6be8cfacd859cfaacc3dc58ad3c4912",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,827.731401556569343066",
+    "hash": "0x7698ea907e504d343c4e1c7dcf58812d902ea9330ae897e390b6f28d0dc296d7",
+    "token": "SAND (SAND)"
   }
 ]
