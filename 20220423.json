@@ -196,5 +196,11 @@
     "value": "46,186.467799",
     "hash": "0xc14a327be429f813a60d8e82d612b5a681340879c527d60d4160b73b634ff04d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,934.5568767676417697",
+    "hash": "0xafe3de510568ba562ea13f35021add173cb157c6d871f2002c29745150f16015",
+    "token": "The Force To... (FOR)"
   }
 ]
