@@ -334,5 +334,17 @@
     "value": "216,140.79358695",
     "hash": "0x3c5bfaa6e9dd425a0158eac5197549686419ef26846c0bf3d17cb714ef19959c",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,925.30386747757773056",
+    "hash": "0xfd7b6fffb3554fd34d03305c3d056d475e44ecd130f91500c570ce9afdb145d3",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,314.561164134495979155",
+    "hash": "0x3665ea7eb211a6296d1fe1bf8013ee75e4a49f21b5663c41294cc80334eafbe0",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
