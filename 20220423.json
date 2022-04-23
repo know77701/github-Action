@@ -106,5 +106,47 @@
     "value": "443,138.11943845",
     "hash": "0x890a63a82456595e6c368d622b5097280db5590e7f5ce4aa3524edeb44864dce",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "201,346.112252",
+    "hash": "0x7a300ed41e36a34439876f30818dc78a6511166d0cbd8f42643dac78c0612d8c",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "654.6257",
+    "hash": "0x8225545fad4edf0cc430e75929aa7834a288795b604e22ecd37f0a3bee17b70a",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,410.788",
+    "hash": "0x8a2792cf22fe8cd35daad2a399ece56641849121d2de1ceb89ae1c3df28b0edd",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,459.641969521841793199",
+    "hash": "0x557e3723f984b00ab6dcf8578a26fb9e6a479762d49894d9f5429a015c7704d0",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,303.617",
+    "hash": "0x96b10bd59bc37ec96730ae44c9f2a6b8e50cfe604c68b99eeb868e701b3d808f",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,026.72144784950614242",
+    "hash": "0x15d0df9db490fcc4a18cdd422ec3b3745d5c666e20ac5324daccc7f80f244067",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336,059.902492160850358383",
+    "hash": "0xd02133b9a0c60aaaf5a4af74be11bd6b97530ce369b8434e149e004e00431aaf",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
