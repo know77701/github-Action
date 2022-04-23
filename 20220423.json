@@ -166,5 +166,17 @@
     "value": "379,881.40004216",
     "hash": "0xb73bc946073cba0e8ed09de3f59ede4064415d7a0a719587aaf2cd4a28285ad5",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176,815.61",
+    "hash": "0x7a5f064120ee194943fb28f95918b0bf2a5f5b166d948e12f5ccfc9fcebc71db",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "201,031",
+    "hash": "0x08741d687c8e9822708e9e6eb3bc26b2e31190662ac7b775ac1a1dba6da9fec0",
+    "token": "Civic (CVC)"
   }
 ]
