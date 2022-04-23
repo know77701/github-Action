@@ -382,5 +382,17 @@
     "value": "13,446,006.43390605",
     "hash": "0x649ae2da69eccd9d44a2a1f3e2874a42bc786bbb3fb61376d94f0ba48e617acb",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,743.83683233700496796",
+    "hash": "0x7cf823e944c4e01e72ec546cf4e37509b669ac7297701e472560bc7df670bca5",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "311,782.068390022791591384",
+    "hash": "0xc8a02f8932026c6705ae2541a9694630dd9a2269c45f2e44b59456284767e600",
+    "token": "NuCypher (NU)"
   }
 ]
