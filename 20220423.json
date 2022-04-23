@@ -34,5 +34,17 @@
     "value": "235,128.25508",
     "hash": "0x85645624663abdcd43fa5c025fdccdcbc990fe11a2ab933ec338df0e66065330",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,677.649909633007262341",
+    "hash": "0x4b0c21145c4acea4e95ee73da05c451ec5a1c3e6f28d99112def3a9c71e05140",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,952.388166550837374159",
+    "hash": "0x9756bc9253fb90b6f0b6829348ee8abca6be8cfacd859cfaacc3dc58ad3c4912",
+    "token": "Decentraland (MANA)"
   }
 ]
