@@ -346,5 +346,17 @@
     "value": "22,314.561164134495979155",
     "hash": "0x3665ea7eb211a6296d1fe1bf8013ee75e4a49f21b5663c41294cc80334eafbe0",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,905.62",
+    "hash": "0xc97c4e9c9044654efafc74eca12d6339211cbdd70a6ab9ad6283c5ad0c003aa2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,718.9111",
+    "hash": "0x1cfc64cd623cdf54e8ad0978b06455f5018b5053276a6fcfc89c426139351694",
+    "token": "Metal (MTL)"
   }
 ]
