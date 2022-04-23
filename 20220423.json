@@ -304,5 +304,11 @@
     "value": "31,991.31",
     "hash": "0x10b53f59f10217cf994d811ce0094df6ac2edce5bac82364c14b6d912af90457",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,969",
+    "hash": "0xc97afc25eb907502dd8f63470d2ff2638b215df7ac0c638591df03e85f46d0f2",
+    "token": "ZRX (ZRX)"
   }
 ]
