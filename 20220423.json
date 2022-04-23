@@ -280,5 +280,17 @@
     "value": "475,719.445014637085891078",
     "hash": "0x5195f74890ac13f7b31dafe036f80c4aba87c0f8290b51523948ba814e2b76f6",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,969.18108503",
+    "hash": "0x2726aa471718c5bbba0c05e615d3134952a2c1ccefd6043388f742d05b8abdb8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,757.30885895",
+    "hash": "0xf53db1011034dfd013cdbffbdc1d3800e1dc3d004da098b5699d4ffa2e43e0f5",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
