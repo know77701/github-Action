@@ -298,5 +298,11 @@
     "value": "3,916.131",
     "hash": "0xc5ad21a727f73cb9d4949236c4d0952cb3f5d8203a26464aeebc740c5fa65399",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,991.31",
+    "hash": "0x10b53f59f10217cf994d811ce0094df6ac2edce5bac82364c14b6d912af90457",
+    "token": "SAND (SAND)"
   }
 ]
