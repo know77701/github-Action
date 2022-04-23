@@ -376,5 +376,11 @@
     "value": "126,073.99991891",
     "hash": "0x8c47f483a079e22dc31f25b5b7b203d45315c35fffe44409f0829495b2f6f42b",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,446,006.43390605",
+    "hash": "0x649ae2da69eccd9d44a2a1f3e2874a42bc786bbb3fb61376d94f0ba48e617acb",
+    "token": "chiliZ (CHZ)"
   }
 ]
