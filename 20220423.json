@@ -370,5 +370,11 @@
     "value": "450,261.70408163",
     "hash": "0x40042811600afcbf73046bf8bb0ae23da724294eb3beacde3cf71fc7d1860231",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,073.99991891",
+    "hash": "0x8c47f483a079e22dc31f25b5b7b203d45315c35fffe44409f0829495b2f6f42b",
+    "token": "ZRX (ZRX)"
   }
 ]
