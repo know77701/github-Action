@@ -178,5 +178,11 @@
     "value": "201,031",
     "hash": "0x08741d687c8e9822708e9e6eb3bc26b2e31190662ac7b775ac1a1dba6da9fec0",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,183.277",
+    "hash": "0xc2db6243dfbb30291e5f2025a635a4c0906a5a06cfff1bb7c4bb0ac4096ccbf6",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
