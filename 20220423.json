@@ -322,5 +322,17 @@
     "value": "159,967.99992263",
     "hash": "0xdb34405af7c9622588a824de64149f7cfb0e9fb823690fffce9ae47298c9543d",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,529.22296327",
+    "hash": "0xafba403a90c26512b5a435e52e94df851f8e8da00ec1894e189011a8ad5d59e6",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "216,140.79358695",
+    "hash": "0x3c5bfaa6e9dd425a0158eac5197549686419ef26846c0bf3d17cb714ef19959c",
+    "token": "Storj (STORJ)"
   }
 ]
