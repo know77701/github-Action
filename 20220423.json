@@ -226,5 +226,11 @@
     "value": "235,605.091791495144953264",
     "hash": "0x0daf273f500e075edf4958a3adc0b75853637555c295b78fc692fe537a15d6c0",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "185,138.74997687",
+    "hash": "0x88a773f63e2f0aa242a6acd32b94d61e565654497bacb5baf24c37bfb8f002b2",
+    "token": "Metal (MTL)"
   }
 ]
