@@ -202,5 +202,11 @@
     "value": "194,934.5568767676417697",
     "hash": "0xafe3de510568ba562ea13f35021add173cb157c6d871f2002c29745150f16015",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,178.71576138",
+    "hash": "0x65c6671ccb941de686dea373f8b5e70a9a67a75464e30fb725e3566178acd1f9",
+    "token": "district0x (DNT)"
   }
 ]
