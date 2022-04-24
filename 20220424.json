@@ -310,5 +310,11 @@
     "value": "333,461.09984836",
     "hash": "0x1c9ac627d2cd63a07f075212ce520a2878c27031b2effa7d0f8df5b3ae25645f",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,122",
+    "hash": "0x55e22374670b423ebd0b84269e9334a9188a5770eef81934c8b33c925e7c52f8",
+    "token": "NuCypher (NU)"
   }
 ]
