@@ -394,5 +394,11 @@
     "value": "2,784.857",
     "hash": "0x4c8ccaa761726a7fd127971dc90a48bd0d7b0d8dce6a671a0e48fb53461f1b65",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,057",
+    "hash": "0x185d0e1184cc33da179fcbcf7d4eb68c52713ac6276ef27dcdc8a4e35f82d61c",
+    "token": "ZRX (ZRX)"
   }
 ]
