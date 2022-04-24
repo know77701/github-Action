@@ -196,5 +196,29 @@
     "value": "2,859.10980093",
     "hash": "0xa08168571bfb2b9e241f87c4d6d880e51b494feb9c4c171d2403984bb418823b",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,725.977200071861259313",
+    "hash": "0x95974f8241019b97724458746b411e8cacaa3a0d4ebb727721843a79d0367736",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,159.6688",
+    "hash": "0x905df2978f379506deeb900ab8c97ecc7e16584ee320286784a992950fb0f562",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,006,056.022726888138740687",
+    "hash": "0xa459659e3843b470e19aa4358f7073fb775ea3976acdecd497df6231e2de6d75",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,833.4558428",
+    "hash": "0x88241478c0a3e41d574b6566aa163faf7e384e4de04f3ddcdd590babc6a1ee48",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
