@@ -184,5 +184,17 @@
     "value": "1,389,037.425326871136720496",
     "hash": "0x5f6b4e09e4fdfdc8beda661d8768b4a46e4573697b2dbcbf276b2d38eb50cf43",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,991.47",
+    "hash": "0x181df684872cae9acb4074d551467f2c8b9025cdc42f19be2a3afbc721c282a6",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,859.10980093",
+    "hash": "0xa08168571bfb2b9e241f87c4d6d880e51b494feb9c4c171d2403984bb418823b",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
