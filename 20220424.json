@@ -604,5 +604,35 @@
     "value": "6,151.997269735140158047",
     "hash": "0xd1ab04cddd1f29103b806db7bafea4fa71e662a9b92226a5834173900a224798",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "136,072.556229705519729318",
+    "hash": "0x742621d97b2b799d2a5b2be72009d44d20f80a6619683638ab42cce7b9f95ef1",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,794.845028264480270682",
+    "hash": "0xeb4c85daa5d29c16d423ba7bcc1b68c4bc529d6ff2ba012a9e5c97184a0b7ace",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,515.36259546",
+    "hash": "0xcf3b6ac91e75693d1098e24864ceb7ea114531ae0ac6592f002d30904e41c9c6",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,178.71576665",
+    "hash": "0x49e46dfebc6987b194f2cf5d93ac515094f756809cf5c6fcc5e7019bf71ceaab",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,706.5",
+    "hash": "0xf25ff9e25827e521cf1c735f8d73b079fa4bc951b4660220f79c9b289c259e86",
+    "token": "Storj (STORJ)"
   }
 ]
