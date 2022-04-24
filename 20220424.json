@@ -334,5 +334,23 @@
     "value": "255,737.6526",
     "hash": "0xea297a5e79334d639c6be80f1f62ffad79d9878bb117ee1bda665335eaf672d9",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,493,630.25570659",
+    "hash": "0xd1f88250b961861f0a277d0c26c6c085c4eb05f3c2b16ed78d5297652382123c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "248,830.369",
+    "hash": "0x653501fa2a5263ff8e4d00252c2044262ada69b54468fac6fd893a06fb796d28",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,203.55126822",
+    "hash": "0x5fb7b6404bce1e0afcdd790640da3549859551e71521425ac23b50c22ffaa3a1",
+    "token": "Storj (STORJ)"
   }
 ]
