@@ -508,5 +508,17 @@
     "value": "2,599.47998618",
     "hash": "0xc0cb2ef4eec19a6ef70ec4a28e02fda56c2fdc5b1931af8035fd6e699852390d",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,180.99990217",
+    "hash": "0xca39d4a9ba77a195f4e77505b9d8b1104fba302c4ca5787bcce925497a9a15e6",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,331.59880992",
+    "hash": "0xd4d3f103588441f6278dfe94851d3c1e8e5179d1ed5f3525158258ff75886ac5",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
