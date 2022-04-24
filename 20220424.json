@@ -532,5 +532,23 @@
     "value": "162,667.42885827",
     "hash": "0x69836df1ba66082e9a1d96af86b273cf647b4b20f356b310ba3da6ba59bbe379",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,753",
+    "hash": "0x738b58cf23086a87d243f4dbaf497c5a57870c309a11b0e378b6691e8c7b1d16",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,842.65317009",
+    "hash": "0x4bdb1892766cc81932fb2c5c61c3b07d7c054e421bbcdb09863b339cce05635d",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,906",
+    "hash": "0xd623fc4fe7038baa323db85025db26ff54aaf374ff2217a687614e4d41273566",
+    "token": "Polymath (POLY)"
   }
 ]
