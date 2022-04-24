@@ -316,5 +316,23 @@
     "value": "24,122",
     "hash": "0x55e22374670b423ebd0b84269e9334a9188a5770eef81934c8b33c925e7c52f8",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,974.99998959",
+    "hash": "0xc856cd1c7ff2d21b48d2e85f3066f1e560a90a4a5078415c5b339d8318ff21bf",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,404.31011482",
+    "hash": "0x57e6a9638261d0b79d79636384b6ae59a1b7a718f7915fa19cf7f91b80c5d8c0",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "255,737.6526",
+    "hash": "0xea297a5e79334d639c6be80f1f62ffad79d9878bb117ee1bda665335eaf672d9",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
