@@ -1,0 +1,32 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "234,543.61048241",
+    "hash": "0x88d1099cef8098fc269d226cd4f3087129753be7f6897bc56f2c78088e54a62e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "723,493.23306263",
+    "hash": "0xd3c3acf9b3b6e5258804c44403a7d287707a70d7fd9f0fb6024b901fda3bd72c",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,610.649462998806674711",
+    "hash": "0x4735aa3439b603a99cd5bc4a47e51ac109c44faeacc55514f1db31a8915da912",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,279.346349831193325289",
+    "hash": "0x62531dd3a2e0830b9cd5383755ab32ebb20d7b8a51d1acd4f8880dd99b213ed6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,525,964.07335058",
+    "hash": "0x4231ca2a50041bf1dac107f91d6addb66d0fef2247225c1df49a932524c543a9",
+    "token": "Polymath (POLY)"
+  }
+]
