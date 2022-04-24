@@ -466,5 +466,11 @@
     "value": "2,791.257",
     "hash": "0x410c5f44ac3ec4341230ef3f26a4a2e5d24489813a56346d7ef21b8b641a2548",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,792.957",
+    "hash": "0x03c1208203ec7b347a491f33fed12a57b622fad01d71a16a9cae717565e36c1b",
+    "token": "Injective To... (INJ)"
   }
 ]
