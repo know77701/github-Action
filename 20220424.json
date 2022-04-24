@@ -526,5 +526,11 @@
     "value": "83,804.38773348",
     "hash": "0xc10bc216479e7a80b7882276d03e9ac92457827afc8a5d83d75507e81aaf25ad",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,667.42885827",
+    "hash": "0x69836df1ba66082e9a1d96af86b273cf647b4b20f356b310ba3da6ba59bbe379",
+    "token": "Polymath (POLY)"
   }
 ]
