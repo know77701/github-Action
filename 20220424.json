@@ -268,5 +268,11 @@
     "value": "93,645.478",
     "hash": "0x7445315e713f60735eb5a4319236d349e8844cb87bc932a907de3acc42827734",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,540.51518773",
+    "hash": "0x41ee4672947312632557c51f14f84c5543e20fff6ba38f1f8c09ce2cd5a5461a",
+    "token": "1INCH Token (1INCH)"
   }
 ]
