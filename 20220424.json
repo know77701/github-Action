@@ -442,5 +442,17 @@
     "value": "27,171.027499191384634785",
     "hash": "0x000a4cf107ecf9348c5408cf43f1f5ff24584d1f731e1e5a314fb242ddbc32a2",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,051,930.25755717",
+    "hash": "0xe3c8830e25c6e8aa93a1f6e27461279f4044f66e10a28d1a31280b488c1fe34b",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "975.64945173",
+    "hash": "0x250258f68fc70795ed6b0d6c4ae68f32b45d9c6b7fde8535b96ab9e9e01361a0",
+    "token": "Injective To... (INJ)"
   }
 ]
