@@ -28,5 +28,59 @@
     "value": "1,525,964.07335058",
     "hash": "0x4231ca2a50041bf1dac107f91d6addb66d0fef2247225c1df49a932524c543a9",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,957.96210527",
+    "hash": "0xb9aa62b5b1e5a8a95c53483b08566a62036ffc5cea3cec0da8a8a7f54ad78577",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,482.81971698",
+    "hash": "0xfaa5785191cf7d3feba73d0cf371ffd11269d8a44c1fbed3b7057906ad908362",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,070.1157",
+    "hash": "0x47badf4bb9638864530b97a0648e5d4423d5a56598ea632679d79648795295a2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,395.99991178",
+    "hash": "0xe4cf173e0f4d6d68ed1a6604e1cbcdb5d097d82fcd97c782f22caef78764bcad",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,896.75926214",
+    "hash": "0x7a5cf0a834c45555642422d4a4928deeee1f6bdda6debead7d1f426cf166e803",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,502,070",
+    "hash": "0xd7dde3182c43330c15ce3083dbcdfcd732125d9863ebaacf123f97d960026985",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "434,199.57668886",
+    "hash": "0x1f438c0eefef8cde8290ee2f5e2ade101524a1a8e357110cb7572abe634b1b61",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,880.59488774",
+    "hash": "0xc953172356a149decfdf1eb6e3569a0739e45e9bfd95c003fce6fab5380e4fad",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,356.981",
+    "hash": "0xe271bbdc75a80d4d72c84c036dfee8eca8ae6343bcf773d3691c08a2756c755c",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
