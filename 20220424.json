@@ -136,5 +136,41 @@
     "value": "7,466.06159",
     "hash": "0x49eb751483ba54f4555c986dd5995bce660dee09c7f713efd76e7a8acb8a92b5",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,411.857929221229070613",
+    "hash": "0x9590ccbf7c6efc614f7afe1d8e1f1ac2992e6602de04718634f72099342d86fd",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,128.225059248770929387",
+    "hash": "0x8beb0e79b9f5507c3696bcf0af70fccbc0ba039351049295cb68d072fe369d9a",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,787.90714522",
+    "hash": "0xb04e7d5900a13347b753e2526580475ce1137cd1fba2899b015ba6bddb73681e",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,191.47",
+    "hash": "0xe80f6cd0fd9a877f516371a738fdd6330771d17293848e0f8a0157a6e45ccda5",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,094.96098835",
+    "hash": "0x2b0e7c20147b22abd576b76342d4d537417d5589793fcfe3e53d61c364e7a54a",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,853.96993937",
+    "hash": "0x54aaff3cce02deb645aeb26035a649cba28b6f51034a404c6b8b81112020fb61",
+    "token": "Metal (MTL)"
   }
 ]
