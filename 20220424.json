@@ -172,5 +172,17 @@
     "value": "44,853.96993937",
     "hash": "0x54aaff3cce02deb645aeb26035a649cba28b6f51034a404c6b8b81112020fb61",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,121,547.751846598863279504",
+    "hash": "0x4457e6f352620d4d1b558f526cc38d5227c751e2042ba88abb6f4ecd2685d880",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,389,037.425326871136720496",
+    "hash": "0x5f6b4e09e4fdfdc8beda661d8768b4a46e4573697b2dbcbf276b2d38eb50cf43",
+    "token": "chiliZ (CHZ)"
   }
 ]
