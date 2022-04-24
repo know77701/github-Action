@@ -634,5 +634,17 @@
     "value": "2,706.5",
     "hash": "0xf25ff9e25827e521cf1c735f8d73b079fa4bc951b4660220f79c9b289c259e86",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0xa6f2b0a72cbe69ef4dd593c2034ed5d43285591d18a5cde4ea72cfa5ed8d516f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24.48",
+    "hash": "0x4b9cb1c177374dcc66a59f9c621dd3285863bfa601e3b5cad1c75de1ee58fbd8",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
