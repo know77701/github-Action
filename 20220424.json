@@ -376,5 +376,23 @@
     "value": "100,305.2939874082292472",
     "hash": "0x31f1131d87888f44d10bb680361cc6ba9f170e25b3c10276e61c19ab72fcd75c",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,192.8546",
+    "hash": "0x4d2f2d590fde6173b6507f10da1b8e99f4b704d11a8b029c62283274407217da",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,521.47997347",
+    "hash": "0xcbc5fad81aaebe4e86c14b4e51fad290f05d6a91d4e28a6ee6ffc667fd086a74",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,784.857",
+    "hash": "0x4c8ccaa761726a7fd127971dc90a48bd0d7b0d8dce6a671a0e48fb53461f1b65",
+    "token": "Injective To... (INJ)"
   }
 ]
