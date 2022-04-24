@@ -592,5 +592,11 @@
     "value": "3,517.0086713",
     "hash": "0x1a240c0f5ecb910c01df03a97902c4bbda64b576ddbffd96b4d620f9ede7cbdc",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,692.201587754859841953",
+    "hash": "0x5f47bbcb0d044a0f50f152a7b4e6a7f523acf0783457ee61039a8c3d6275c1e1",
+    "token": "Render Token (RNDR)"
   }
 ]
