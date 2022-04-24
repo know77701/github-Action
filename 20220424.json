@@ -274,5 +274,17 @@
     "value": "102,540.51518773",
     "hash": "0x41ee4672947312632557c51f14f84c5543e20fff6ba38f1f8c09ce2cd5a5461a",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,784.657",
+    "hash": "0x39d524a18da9dae38624d0c9ace2609722eea2b243a0e42cb5ee68299474aa31",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,713.51795177",
+    "hash": "0x3ab3d990b0c8c829c201a10a8b0d7e7c250546a8f9475c06a51e43c55ba789a3",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
