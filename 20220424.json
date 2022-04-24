@@ -472,5 +472,23 @@
     "value": "2,792.957",
     "hash": "0x03c1208203ec7b347a491f33fed12a57b622fad01d71a16a9cae717565e36c1b",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,774.85912497",
+    "hash": "0xef6bb203a644c54e56b56874ae7b7c1baa62691be2b0f0e202f1977b7e725933",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,613.25365853",
+    "hash": "0xfff0127e03f759c27e91ac24824363dc93b7566ec7e1d15fafc23254af6a631c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,500.015",
+    "hash": "0x1609c123b4676e8a00ded563bffb192ccdff32a0fc6298736f08bd9292f0345d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
