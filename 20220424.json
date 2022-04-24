@@ -550,5 +550,17 @@
     "value": "189,906",
     "hash": "0xd623fc4fe7038baa323db85025db26ff54aaf374ff2217a687614e4d41273566",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0x9207cf9704bf6e467100beff4d82c24f011b8a3b57d18a4e8012207b2b3bf318",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,408.88154343",
+    "hash": "0x1c20f982cecd6e9f57eca0302d808253ae219b2b768b54a4d0f9b1bdaa15ea8c",
+    "token": "Metal (MTL)"
   }
 ]
