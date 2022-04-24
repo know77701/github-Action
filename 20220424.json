@@ -574,5 +574,17 @@
     "value": "20,031",
     "hash": "0xda32e1b41201e4f42f3a31a90d223e14df4e27263f503e5f6d9a4a2b8c47bb87",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374,925.99990527",
+    "hash": "0x313276185aa7778188501b8f861c959ece5ca62337d91c14fb52f140b75b9d5b",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,000",
+    "hash": "0x54837095c28b206bc4ed267491b8a8b0e8ab9e27e42d88b18a91410f89ee7b64",
+    "token": "Polymath (POLY)"
   }
 ]
