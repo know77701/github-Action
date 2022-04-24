@@ -568,5 +568,11 @@
     "value": "184,261.99995797",
     "hash": "0xc4cef453be525b90ac59af223ecaf5fb81c8c42406c690140f70b7ec9b945437",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,031",
+    "hash": "0xda32e1b41201e4f42f3a31a90d223e14df4e27263f503e5f6d9a4a2b8c47bb87",
+    "token": "1INCH Token (1INCH)"
   }
 ]
