@@ -520,5 +520,11 @@
     "value": "87,331.59880992",
     "hash": "0xd4d3f103588441f6278dfe94851d3c1e8e5179d1ed5f3525158258ff75886ac5",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,804.38773348",
+    "hash": "0xc10bc216479e7a80b7882276d03e9ac92457827afc8a5d83d75507e81aaf25ad",
+    "token": "ZRX (ZRX)"
   }
 ]
