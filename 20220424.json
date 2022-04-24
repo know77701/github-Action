@@ -496,5 +496,11 @@
     "value": "11,337",
     "hash": "0xb1ec7c142594e127ccb0875d5e379c50019bc960d86b9c0e55fcfd23f27c2879",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0xad3c6f2f9103d51ab6fbcdbfae17dc8d4852f73e2a38976aabe1e3a345b688fe",
+    "token": "Bifrost (BFC)"
   }
 ]
