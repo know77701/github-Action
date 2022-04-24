@@ -292,5 +292,11 @@
     "value": "162,667.42881333",
     "hash": "0x87dc0b8734e9c3bd419def24b549c3060224642aa8c9df0d4733ce4f094b498d",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "410,931.308150702944116732",
+    "hash": "0xc10eaf2adbab04ace9c45cb9089e078b837b0dfd11535a4ddf6e8c9de3701868",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
