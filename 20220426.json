@@ -958,5 +958,17 @@
     "value": "86,877.99993782",
     "hash": "0x4c35e49680a1b7b9944182d64e5584fb0728a3d16df8bae4c94ba32cddb8ca64",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "247,034.76918246",
+    "hash": "0x663ef64055ca2d92df02f30551d8ddda1bd385656c2c09b6dc68be05c32063f0",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,744.04108029",
+    "hash": "0x9e58441ece25b2150a80879b894380137ec67e30fe38038570e901a782ad7c8a",
+    "token": "Metal (MTL)"
   }
 ]
