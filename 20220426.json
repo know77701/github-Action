@@ -742,5 +742,23 @@
     "value": "2,000",
     "hash": "0xf00dc396173728844eac98965ff261986a76bfebb66d2f2536410d5b97a0a689",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273,372.79793162",
+    "hash": "0x57ac41cd3dabed205bd424905272f57d04c13c0276d2c3a8b2768fddee73a4d0",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,760.203",
+    "hash": "0xd6fb0211f6a69b2308ae6a38d1588d3738eaf5a27031a641c5a8b307a9137d4a",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,899.6040837",
+    "hash": "0xfc4ff62fe1086ec12e41aaef151471087de1771fd56cbc251eb337a3b95455ee",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
