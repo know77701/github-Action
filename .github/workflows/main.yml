@@ -39,7 +39,7 @@ jobs:
       - name: Commits
         run: |
          today=$(date "+%Y%m%d")
-         echo ${today}
+         # echo ${today}
          if [ -f. ${today}.json ]; then
          git config --local user.email "know77701@gmail.com"
          git config --local user.name "know77701"
