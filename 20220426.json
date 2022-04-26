@@ -688,5 +688,59 @@
     "value": "33,412.90972573",
     "hash": "0x6fca38f3e9c0457131166209f595f5882ef3b86d8b7f24f4680bc93780e6b002",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,192.706",
+    "hash": "0x40065adaaae583e3798ee5d009004be334e01756846888e682f52bc68c318a71",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "537.93000691",
+    "hash": "0xa3122294cef6af503284da5c7c46606e6d14aeffc70f82ad3666a9b9e42e920d",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000.2",
+    "hash": "0x8e907cb493c51d2d35b7836284a0e3c1f9ec40385cd658179f9ccdf5d9aa6fdb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,340",
+    "hash": "0xe86ca4972c40d7153abb2639cea536885206a940bef09c7574e5292a1cf8f484",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,145.947357759167160056",
+    "hash": "0xd6932d29297a2a9e95a2e5650ec492c0b59b1f0cd0975ec788931ed6b2f7893b",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,410.239000966125579991",
+    "hash": "0xf1eed888b8e05d78fbf951daaa4e08bcdc3dcb4c4a47c22facdd9c011ff7ee7a",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x305f4a559bd1ff4c64e4f8169e4c4301e412842b23ddf72bb59bb447bd20fee0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,844",
+    "hash": "0xce8e36598c475b410b4892d88911579c9d5bfe3fcee2874f3ec41fa4e005bc71",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf00dc396173728844eac98965ff261986a76bfebb66d2f2536410d5b97a0a689",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
