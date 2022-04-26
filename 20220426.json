@@ -400,5 +400,41 @@
     "value": "409,917.99990093",
     "hash": "0xf487298b6e2d82631538a04de908a387805efb5a64c9edfbdda75dca1a0f9b96",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,549.013853968696980092",
+    "hash": "0x43c410551dccf3403428850a5907641c27013b42ed616fd4d8242f2148d6cf10",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,981.6",
+    "hash": "0x804be45900168e6c0be6f802d16d5e3a535b1443910e9385009cd97858f738ea",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,836.576251571303019908",
+    "hash": "0x9d1bad32d0aab00624bd5bf75e28f226a421e221e861a85de1110a62982e362b",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,559.32942483609166095",
+    "hash": "0x3ab338e218d13cf2553e286c3f71708e866db4750ca70562225e3cc2fe733fc5",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,952.71198012390833905",
+    "hash": "0x18c0fdadce476995c8c98d84dfb797d8fd63351c423a3de98a7571711478d65d",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "262,531.897358378046434201",
+    "hash": "0x745036fbb94f1a39ea005a61907dc31a29dc70d2aea35db4a6f2d5741d481a47",
+    "token": "Rally (RLY)"
   }
 ]
