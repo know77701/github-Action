@@ -922,5 +922,23 @@
     "value": "26,997.29990558",
     "hash": "0x7ff96257908463de3d68f3639dc5188cd3132a9f320debe79c3adf493838b089",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "620.70970001",
+    "hash": "0x2a6097e676b56547f27ef78a36b9536970e045e85b70856a294d0fc35f02c2b7",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "698.96501959",
+    "hash": "0xa543b7c32332df79efec44b7ec4fac0dab92361d0dfb62bab303f3808cccafa8",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,734.99986851",
+    "hash": "0x4179dea03800c1b9cd944ea0577368733e51212a284bf3f64530393f82fe8471",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
