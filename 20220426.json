@@ -16,5 +16,59 @@
     "value": "36,513.262443337960229463",
     "hash": "0x75e5bba72d5ed198eae063ad3f30be3b8c1f7a093c13f40a4546fc43fb01e1f7",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x6b8c4649f1507c16f3cb8a8bc46ea6c1c29dd6d746aaab4489c849c8755a7f43",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305.81985518",
+    "hash": "0xaa0c91b82db168b53aedab3846d49ebcb162ee6421d8d7be1bc7b9b8e3609a72",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,254.025994026144770537",
+    "hash": "0xc99f34b9116c84f8df090d58d768e4c8fccc919ee42d993c86a89390386e2488",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,562.349988113855229463",
+    "hash": "0xb0fa612e3d9b114808f241bc301ad8b4362ad819bd95a2cc9887e5f70b103c3c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,170.13990155",
+    "hash": "0x03904ff26aa845507f88e33614405ebf19fca0d0f8c0787d223fd703a41e36b0",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,019.1139",
+    "hash": "0x7b3d5ee5aae8a565432b3ae74c378418a12e8938aafbae572e665824ca32f7c3",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "333,686.127683361268635524",
+    "hash": "0x18d3a9ca743ff9ed5a807b7efd02a155ac1ec7ef5f08b02a7aa9cfec2293064e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "314,669.016452638731364476",
+    "hash": "0x257554950b0a03c65ce1e0b2e40a7888f540d6fb89b5c889a9e4794b97a8d742",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,918.92313854",
+    "hash": "0xf2fe5fb0c44f347fe609d612436a0b198412e11f1ba9e123ab1adef63ce7e526",
+    "token": "Matic Token (MATIC)"
   }
 ]
