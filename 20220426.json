@@ -988,5 +988,65 @@
     "value": "318,616.7328940458471647",
     "hash": "0xbe633bcd3463e79a6a54afe8c7e08c36ae1377140fe540da9b4963ef43c78c73",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x1e34bd10b2b00588fc7bd944af0092d165c500f5b211a367f83f7697ff352d13",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "345,589.36244356",
+    "hash": "0xd4d31af0771ea1bf41648ac7bbb1af29f923b8dfea4b8d723d90862c9694d43b",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xab040a96ba7bf5546a5fadabd7ecc4525953a1015a851e522972d05c8d3314f0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "349,866.712778166122181281",
+    "hash": "0x8b525d219d27cd02d2102a0a304690a95260280ff33cc3081218b167182f6e42",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf3c9120e53e25c7edd8891af91f60b615716c86c30d22a1cbbb96b9cb68efadf",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,349.158631",
+    "hash": "0x0efe7cad4acfe1e1825e8f36e4209ccb2db6b4f3ef60d7bd0b17a79c1089dc06",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,757.43964418",
+    "hash": "0x857518fe65c78cf532071dc23ecdcfed552898744ef789272734c40814a4a43e",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,391.15",
+    "hash": "0x04631ee7b8f7fdc62f6e76f3b96ef9442415c8093095cccdd70081774e9f0dd4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,643.277728348064872998",
+    "hash": "0x16c8d5d5bb09136d84fc2c585ab71c13653f56f70fc5e362a07fce23d49cde42",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xdcde9a340bd87261cc111d2824bf5e9c4e2ddb781f3d91af3e00466bfda3ff33",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
