@@ -916,5 +916,11 @@
     "value": "267,746.439",
     "hash": "0x61b82cb017a9863d523168e25f93dd0f979ad34e11a194f245be45e9f277cdcb",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,997.29990558",
+    "hash": "0x7ff96257908463de3d68f3639dc5188cd3132a9f320debe79c3adf493838b089",
+    "token": "Metal (MTL)"
   }
 ]
