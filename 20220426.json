@@ -970,5 +970,23 @@
     "value": "75,744.04108029",
     "hash": "0x9e58441ece25b2150a80879b894380137ec67e30fe38038570e901a782ad7c8a",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,139,990.0606702541528353",
+    "hash": "0xc3c36d7b2f09d73f7a577c976a6be4e862eec3a943783eb282e51c799e38a3b5",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,441.938297530596833966",
+    "hash": "0xa7fd3d7944e32994439a69ee38522a9e11a61adbb2a33b086c7affabe041f335",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "318,616.7328940458471647",
+    "hash": "0xbe633bcd3463e79a6a54afe8c7e08c36ae1377140fe540da9b4963ef43c78c73",
+    "token": "BAT (BAT)"
   }
 ]
