@@ -1,0 +1,20 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "1,131,000",
+    "hash": "0x83ac1705ade384ca053a1f3fd624894dfdbfc4f934c0dfca3f87e69e6ad3603e",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181,929.405888692039770537",
+    "hash": "0x1166d669ae10a247663d200362a05846016b16ebafada8d85475fa2bc1559b21",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,513.262443337960229463",
+    "hash": "0x75e5bba72d5ed198eae063ad3f30be3b8c1f7a093c13f40a4546fc43fb01e1f7",
+    "token": "Kyber Networ... (KNC)"
+  }
+]
