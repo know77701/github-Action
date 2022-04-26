@@ -382,5 +382,23 @@
     "value": "197.18717723",
     "hash": "0x1202c14911ba4d2372a5b25329fe36f4a19782dd834c0cde928621afb12caa90",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,673,494.161665996455271232",
+    "hash": "0xf32f9679b9b575fb1e3982af547451c13ba6b34aa70c990c7053826c680bfdce",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,593.26582181",
+    "hash": "0xfbe609a21f3ba8bce4177c2acb4aaa3c6e9db5068b81821a549734519de5e25a",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "409,917.99990093",
+    "hash": "0xf487298b6e2d82631538a04de908a387805efb5a64c9edfbdda75dca1a0f9b96",
+    "token": "Civic (CVC)"
   }
 ]
