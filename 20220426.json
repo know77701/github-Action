@@ -160,5 +160,11 @@
     "value": "4,038.598940620772726306",
     "hash": "0x244bb045ec5afddb2575ed71c0a73d5807aa04aff2246d37b67c647bb48e5738",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "797.62393112",
+    "hash": "0x956154d2f7ba3a011f4200944da91fee987b10bf0c4ecd6f580d42b90712f4f0",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
