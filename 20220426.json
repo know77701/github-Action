@@ -562,5 +562,65 @@
     "value": "592,741.788017168368114222",
     "hash": "0x74eb948687670772f0c68819854ce8e189e78b379194b579fcb345fdf6005d28",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "315,184.99991612",
+    "hash": "0xcaf7da6c4c8107c8d80d6c99723959c2b2ced5aa3ef77e2dd96609bd6895814f",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,000",
+    "hash": "0x47b0575d03c8d492b2ff96b9a93c5442557bf3a24ed95a9dfbe26ff1522726ae",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,201.70973007",
+    "hash": "0x6c015482b4e305c1f31419117dc53be005bc649e719fa2d2a6a2b3be0cff9271",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,579.64983131",
+    "hash": "0x8092976a293d41dc2771a95cafc84fdbb4a9714051674f9d876384ed1b905e06",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,502.16664866",
+    "hash": "0x9218a163189c834a9a417f42c83e8944eeacf8de38c68403363a29fa15e021d1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,992.429024",
+    "hash": "0xe7858eb3e30a1232dc3319e03d826eceac61194b25fae38558ec4569d46a9e38",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,191.15",
+    "hash": "0x4d2d181a5541ddfa9aeb366389ae80d0bf92d0147d8c29cc964b9af5d99247e5",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,459.75702037",
+    "hash": "0xae14806f4750580b8c3513878dcf9120bbdd4559a093b0529b7d69840f5384c1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,431.912",
+    "hash": "0x019263ac39722a679f24610d65821a086dcfb83413f31361fbfecb3a87df8cbe",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,319.3",
+    "hash": "0xe98d02a823fc18065e7909303a8fb48681edb950d01d249aac46364292fb0787",
+    "token": "SAND (SAND)"
   }
 ]
