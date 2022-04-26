@@ -172,5 +172,23 @@
     "value": "33",
     "hash": "0xda757c646c183e3e47c47473e96f6ab586e9797ac2a7680bdb08527c6c785592",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "428,502.35899251",
+    "hash": "0x6eb2f7409965a522e5c2dacef26fa3e705c34c50a1fb1b0f5c49f7e39cd52f0d",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "180,000",
+    "hash": "0xac3748a9ddffb897414ebd497837495fd328348eeaeaa10ad282cc17c96798e2",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,531.215371",
+    "hash": "0x563deb7ffb537b75680bf9a7a3424ca0b9a886e4e223246a0adefd4f1416d685",
+    "token": "NuCypher (NU)"
   }
 ]
