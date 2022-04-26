@@ -316,5 +316,17 @@
     "value": "5,513.934124609796280486",
     "hash": "0xbca161dd17abf8ac5aa289b21160c579ffc74c3ed49d4bb0f4b4f5d97de3989f",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,990",
+    "hash": "0xbd19f80d098d6868b6a255b1c51da407f24800cb12131d8e380352fc23084034",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,386.43924908",
+    "hash": "0xc5eb670d40c92fc8e1c2a4103565e1285e9b6c945dc6a76c05ef17adef9f41a7",
+    "token": "Matic Token (MATIC)"
   }
 ]
