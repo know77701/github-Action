@@ -112,5 +112,29 @@
     "value": "1,278,311.97715934",
     "hash": "0xc80c516bf6ee808ff99f10d8c1b79504de084ee8dc4ccac4ae923e31ed605a0a",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,064.7330682",
+    "hash": "0x53ca1f268587ecee0fd170f0e686905ce59890db82eb13c96ea405ea861d46a5",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,333,493.64036478",
+    "hash": "0x95bb5bf0fc234f226a13816dd4f4b4078236d9af5f3aca0334a2dea02bfbd05a",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184,390.95227378",
+    "hash": "0x5208d7cd1ab28c21a53b471a4a70cc5279a0cc305d5de465459c420bd2594bae",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,451.37223348",
+    "hash": "0x340ca964836b1377a730e29ea1d3a52da27e240aa04c8a6c15f3719a690e28c4",
+    "token": "OMG Network (OMG)"
   }
 ]
