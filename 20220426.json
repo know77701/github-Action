@@ -220,5 +220,17 @@
     "value": "915.885220035606688946",
     "hash": "0x776500ab78fbfec87ab6faf810df701d649613c5edc4974c3d9840792e4dcbe5",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,978.835069",
+    "hash": "0xff55658ca078a760b673bc9775301ae57317010e62b041a39083139adf8bb64d",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "217,144.517136",
+    "hash": "0x1bbafc837690f3ee6eb7a04e0e2d44c98c6d214cf2a40ceb15c0fd0a842c4291",
+    "token": "Serum (SRM)"
   }
 ]
