@@ -880,5 +880,29 @@
     "value": "3,400.145988253919349548",
     "hash": "0x602b067915aeeca16e682e43865cd96c29340c7d85859e3bcabf1b601bbf3bd6",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,975.52855766",
+    "hash": "0x62a09ab5f3b3879a5c91fd3fc89394c05475a2f9e6d457075f507ec40589cd47",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,577.99996386",
+    "hash": "0xfb6fef62352f1639a6cf8b4af0983420fca5495ce2dbb70105e1531d43ad5e61",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,575.41651581",
+    "hash": "0x1cded2ded3fadb4e2fb47685c7c46960ab91a88a180c7d5f99c37849a8b26eef",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "671.71",
+    "hash": "0xcbef9669291433e8d5387e5495d3dca7197aa7bc632bf9bce11868bc6ad19036",
+    "token": "Aave Token (AAVE)"
   }
 ]
