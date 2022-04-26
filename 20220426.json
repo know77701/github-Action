@@ -760,5 +760,29 @@
     "value": "35,899.6040837",
     "hash": "0xfc4ff62fe1086ec12e41aaef151471087de1771fd56cbc251eb337a3b95455ee",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x79508ddbf076e35c52a6cae048980b5189455b932050ca07acd4b5fc506dfd74",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x16adb2f4b89f5c343f3f82814fd22cdaa7f5071c81e438420a8922efe84de53f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x20239f6ac02fbdb180a94b1da0fc2115a6708d984bac3f0caf5701c21e60a47d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa962ae0016f99c723566eee7e89ca5cc43e90ca251d5928094579e2262befffb",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
