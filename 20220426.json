@@ -304,5 +304,11 @@
     "value": "5,567.625646283576382934",
     "hash": "0x1da17ab310ecb54fb48bec9dae414ae362beab1dfc52c34563b159cf91d6669d",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,349.15863379",
+    "hash": "0xbd824f68eadfdd640fc2ee6b4327fec541d4c4a2d947a9dfa5dfeaaca7d6e52a",
+    "token": "Token Promet... (PROM)"
   }
 ]
