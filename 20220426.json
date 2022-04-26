@@ -454,5 +454,89 @@
     "value": "124,974.99996417",
     "hash": "0x01c5fee7dfa13c9722be89e292ca1855e3ab4a58f8a847732cea97cd084e98dc",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,403.849",
+    "hash": "0x28cf2c5adf181a027667d43b130f82ff844b8daac951df3800f7e606bcb89398",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275,561.20167626",
+    "hash": "0x46f7fe462b46552e45abe106f7857d66b2cca11010e1a17db46fecf09d43c0ee",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xfda4769842ee6c49c2bcebaa0a33124c3996b63e40b1c4aa9dc0405240ea1b51",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,547.43996882",
+    "hash": "0xfbb8dfcc58340ebdc2cfe71c13d2152556bffc4aa6a19d8626a169595469b788",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x11a8ccfb5283b470e46e0ab959a9a13eeb0a305ddfcd54bff1d46aa3c8a753d6",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,984.99983193",
+    "hash": "0xc7b276223e3b841277f82b635f3f1d736d6dbe91b4bdb246e81acbbdcd4193b2",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,272,389.278084614130983814",
+    "hash": "0xe6c1f5c671f882e90126b273f249d7c9fde47553830a6e2b2ef8ff1bf19c7199",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,305.00162945",
+    "hash": "0x15887b4a84a1604373310f25c6ac31aece03c28a196aa5ae0b56b0419331e244",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,426.461431802120160378",
+    "hash": "0x6e771c3593116f3920b11447a78c7698fa0b2143f5873a57af09319185814a92",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.14",
+    "hash": "0xbc4d4a78e84b602625e94383b5bced1a3135dd4e50bc1d25dc72b2293e64877d",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,714,790.494440090284740786",
+    "hash": "0xf50ea46bbc0321d941b8c9ece703d5d695a28ebd6b0e1dc3186c3f4862bfcb5e",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,003.67988804",
+    "hash": "0x5796f3a2a823fb81507575d81daac400f8104d38e9589e097252d2709e840476",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,995.116285",
+    "hash": "0x649e4f8ae4b0a3b60dc7f6a9fb3a9fd2c0791c9b74bb7a03995e2eb07e1fdf7a",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "646.16745239",
+    "hash": "0xc5e649838685a0a3771c02862e0cc3571723c96ae082e57a8bf88fa877df0529",
+    "token": "Aave Token (AAVE)"
   }
 ]
