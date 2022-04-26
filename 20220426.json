@@ -166,5 +166,11 @@
     "value": "797.62393112",
     "hash": "0x956154d2f7ba3a011f4200944da91fee987b10bf0c4ecd6f580d42b90712f4f0",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33",
+    "hash": "0xda757c646c183e3e47c47473e96f6ab586e9797ac2a7680bdb08527c6c785592",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
