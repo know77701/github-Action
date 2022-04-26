@@ -904,5 +904,17 @@
     "value": "671.71",
     "hash": "0xcbef9669291433e8d5387e5495d3dca7197aa7bc632bf9bce11868bc6ad19036",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,969.99993472",
+    "hash": "0x87d7f0b1c2819f1c41b87832865e965925f38ca996c5bca78d6a59795fa9aa19",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "267,746.439",
+    "hash": "0x61b82cb017a9863d523168e25f93dd0f979ad34e11a194f245be45e9f277cdcb",
+    "token": "Graph Token (GRT)"
   }
 ]
