@@ -70,5 +70,47 @@
     "value": "6,918.92313854",
     "hash": "0xf2fe5fb0c44f347fe609d612436a0b198412e11f1ba9e123ab1adef63ce7e526",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,041.42529119",
+    "hash": "0x4049386a02e924677e9bdfa377060f663bf6a1e04ae3cb1694df7913d5e9f89f",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,056.29991674",
+    "hash": "0x0cff43f3a3ae07f066b89827ed03ce5947e9392fc4a369c86f4d2ffebe811166",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,047.51499542564165481",
+    "hash": "0x44d32704c4699ff6027a16e22d66bca79dd939f85e4febeeaa0b5f2165392335",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "557,636.450656474829235089",
+    "hash": "0x4684e87a9561f44989e6e12a732af76cf14004d07711ad9f690ccb3d491eba32",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "753.1694",
+    "hash": "0x80afbd2260bf86ba9d2b9437446d8d6379701563736c8d0e530e8c98324f61dc",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,426.07876998435834519",
+    "hash": "0x331cce9b63fc4f9fe504e27e10572d5900dd8c7d27aa9cf27d372c75bab929e2",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,278,311.97715934",
+    "hash": "0xc80c516bf6ee808ff99f10d8c1b79504de084ee8dc4ccac4ae923e31ed605a0a",
+    "token": "Ankr Network (ANKR)"
   }
 ]
