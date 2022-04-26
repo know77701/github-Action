@@ -190,5 +190,11 @@
     "value": "170,531.215371",
     "hash": "0x563deb7ffb537b75680bf9a7a3424ca0b9a886e4e223246a0adefd4f1416d685",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,306.114779964393311054",
+    "hash": "0xb055967efd59e392d10f0c2a956f3d08331899d437fe1b2f432cd91251b6cc34",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
