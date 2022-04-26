@@ -232,5 +232,23 @@
     "value": "217,144.517136",
     "hash": "0x1bbafc837690f3ee6eb7a04e0e2d44c98c6d214cf2a40ceb15c0fd0a842c4291",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,336.087279493347760248",
+    "hash": "0xa3accc9b365940149d473482c2fd90df224db242c6e686de467ecdec4daa5514",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,581.34061801",
+    "hash": "0x963b084eeefe81c5ca326a8f403a20b86ed9b65ec05ff712a4743b46ab7622fe",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "942.91255107",
+    "hash": "0x0ce7142d16c8d1317b0dd6daaa0f2bbab3ebb18f962baace1bf4402a0fb7d26c",
+    "token": "SAND (SAND)"
   }
 ]
