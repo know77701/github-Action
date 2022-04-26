@@ -940,5 +940,23 @@
     "value": "9,734.99986851",
     "hash": "0x4179dea03800c1b9cd944ea0577368733e51212a284bf3f64530393f82fe8471",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,623.13974973",
+    "hash": "0xbe092b85e7a2962ae0fe362b47a8b5172f2d4533c200475ba49a612903effcc3",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,291.92632146",
+    "hash": "0x9bbf9306e42db95ea21ec690a81d18c678e42f28ebb96d687c8d8991fc07f3bf",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,877.99993782",
+    "hash": "0x4c35e49680a1b7b9944182d64e5584fb0728a3d16df8bae4c94ba32cddb8ca64",
+    "token": "Storj (STORJ)"
   }
 ]
