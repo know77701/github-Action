@@ -250,5 +250,29 @@
     "value": "1,212.2141486",
     "hash": "0x7db15caa772b0b39adb027aa0abaa59d1d3e78b37c8272be85fb736ecd195d1f",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,872.57",
+    "hash": "0x4f3f5073e5cf58b086f9ecd46416982659f2c3de1a22fe51b8a5800254d00219",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "394.14",
+    "hash": "0x9ead85698853de3de2188866a52ee14ac441d845a5b4ddec7318c2c8d0a7f140",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,673.94762325",
+    "hash": "0xf200bdd2d43504292a47f7b6ad3482a97287e524a11715655592319e742582cb",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,187.99998432",
+    "hash": "0x75c3ca2e3f69d0cb2e9237f0b09e853f2f620b8cd666477b72037fd0454fa7f6",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
