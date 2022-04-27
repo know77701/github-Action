@@ -460,5 +460,41 @@
     "value": "121,552.25599847419439896",
     "hash": "0xd74999b46eb258023a90bcc80965ed1c0eff494be6e5cd23fcdb1d8665bbd080",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,549.68673109",
+    "hash": "0x4b14ef1e79834a5cf7814442303f873feef3003d528529be638dee8c30004ba6",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,283,375.183172657397932594",
+    "hash": "0x654741a8ab7ab146c6cfa820e2ebc9a8ae7bf4b90ce630e5e68fc7081e2c574e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,272.81702212",
+    "hash": "0x1e35dcd22a3f28f366e021f62261b155b6001fdecb45836ee04b7a144c193e1a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,134",
+    "hash": "0xa3953c26e9ff48e7802facac8f2d4052ae749fa9d824ec6da85e542a8889988a",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215,844.832810768293290464",
+    "hash": "0x9a5149a50a2bb3cbe683ef8de0be85479b9ce2ae126d65dc863191c83fa22b6d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "428,391.79766361",
+    "hash": "0x33f3013a856527848c0ae6480e10e44a540acf046b19f8e8b28d6b473ddb354e",
+    "token": "chiliZ (CHZ)"
   }
 ]
