@@ -430,5 +430,11 @@
     "value": "377.84902736",
     "hash": "0xa2a6327434196ee086edc459b55d1fa3c197a79f8065f48db6623940d06592b1",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,489.476",
+    "hash": "0x62b18f766f2b4cb5694b39d5ae52f0822ea44f08196310065c1a9d4fd70fbc37",
+    "token": "Storj (STORJ)"
   }
 ]
