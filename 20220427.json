@@ -532,5 +532,35 @@
     "value": "2,118,528.999853",
     "hash": "0x204b29190b9df31823920fc731ea2fd0696f1d6267152eee8c32565eaf66eb81",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,156.22557561",
+    "hash": "0x396894631188536890c4de8117112f6e92ee826ea7301e99c4bfb5314f2461ca",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,218.132",
+    "hash": "0x4db0b7beccb502a64bfc465c98f5c793d69901bac148d79d126c48525e758c77",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,919,039.11020612",
+    "hash": "0xd6d4fd66c2e465f9cebbeb35582ef16cd0c125bd9ed7dd6aaf7d6fce283eb183",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "479,652.4924186",
+    "hash": "0x76d202ff38cac98759a2187557c3369f2e03811c7a8abc7debf47dca4aad98ba",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,255.19934027",
+    "hash": "0x4951989545f68c0ebc7b7b71aea73275563c42899c5342596a1bc4718dc7d4f0",
+    "token": "Metal (MTL)"
   }
 ]
