@@ -436,5 +436,17 @@
     "value": "45,489.476",
     "hash": "0x62b18f766f2b4cb5694b39d5ae52f0822ea44f08196310065c1a9d4fd70fbc37",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,338.345579012767987294",
+    "hash": "0x1627a21f6c8956db1cc0285b9b3f313175dec5b9f16be336c929ba37205b7d3f",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,406.737476537232012706",
+    "hash": "0x9960654529232e9e8b98081124153181ff5b048d6f744a774daed276b18b5918",
+    "token": "Cobak Token (CBK)"
   }
 ]
