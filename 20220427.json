@@ -706,5 +706,11 @@
     "value": "2,316.393718883840002596",
     "hash": "0x5f85d0fc5152a9b8a336be5d2d4ebb236c414eff293c130f9ae47b3951194760",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,555",
+    "hash": "0x2dd8443295f66335d679760af5d7259b6eea41148453a8b86f768afe1e7a480d",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
