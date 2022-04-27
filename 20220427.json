@@ -370,5 +370,23 @@
     "value": "23,432.08336293",
     "hash": "0xdd4a796e3d9c3fb45113a6345f489b47d248b9068a450fbda8ead8756f62aed0",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,829.61570257419732876",
+    "hash": "0xd36b06a23a03fc071c67e3fc48c5f37cc6c682ad48da690172ff22b0ae8c5f7e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "522,648.21669258",
+    "hash": "0xd9bbafb3dda33ca7a538d7cd4d8dd187faa1c17cdf226925e6971c97411d19bf",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,175.57829742580267124",
+    "hash": "0x530a3778fae62362d69e72b0277c1e31d1c6f77d548be23f928719cc32d209e6",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
