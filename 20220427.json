@@ -592,5 +592,35 @@
     "value": "113,105.14240558",
     "hash": "0x14db0f328a705b9f06f3425a9346cdc700a6b4cd2a8285718aec3e4aa256a3e9",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,229.5049",
+    "hash": "0x1fb640adf05151aae7f9a28b67b1f9178694c3fb986dc59f3a2ae42a7800470e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,663.0582",
+    "hash": "0xcd0823830354dc1d21a3e8a4d8575e9d38d7a8b4419c53c106c362feb1807644",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "370,157.154696585188431133",
+    "hash": "0xb033cdf424a49d47136889b70f92162b338c6e1efdfb86a44b14a232a3e58272",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,499.69980527",
+    "hash": "0x6b3373b4a2d7018e1b8a479ba8bce6d68ba08abedb9cc0e07d3eb470371efbfa",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,800.583586514811568867",
+    "hash": "0xeb11bbb26a4b8cdaef78d1e2e6268002e23a6feedb7481a98958eccbb8a2bbf4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
