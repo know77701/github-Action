@@ -196,5 +196,59 @@
     "value": "135,933.455",
     "hash": "0x9548ae3cf9988278d755c30a28e0b2d89fb03d8a645412eb843f011e272ffd0e",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,684.79742294",
+    "hash": "0x390f685a166cc11845b81d339c5edf44d4feefd9191648b46bb4268d3a352be3",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,110.99998835",
+    "hash": "0x6606adcbf9fc87380061341f44510f08e9fc00b72925b787ef324f3cabfe44ae",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18",
+    "hash": "0x91bf7cc1e1ebb2feb3f556cd7681b6fc0a6a1251067f483f6814a70979d111d2",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "559,939.9421991893591744",
+    "hash": "0x5ab58c86fb50e0987a425436282c7881dd934c95990078fd8020fbbdd16afa3a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "218,160.3914456706408256",
+    "hash": "0x18764fdb40b0f472783254116ad10a49e49469244b85260b80aa70ef032cf48b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,265.1613806",
+    "hash": "0x6a44a1129e70566b7c185976647af9978cd32c464b0d981a86efcb06f3a17038",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "540",
+    "hash": "0x7da243423811ee332d6001a96b80bed9464614258fa48575488965108f6e4713",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,046.68967179",
+    "hash": "0x697cca78ac576b0884861efdbaa737d805627cbb4d7e7ea2090c4703b6034294",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,212.2141486",
+    "hash": "0x7db15caa772b0b39adb027aa0abaa59d1d3e78b37c8272be85fb736ecd195d1f",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
