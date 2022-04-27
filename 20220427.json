@@ -682,5 +682,11 @@
     "value": "3,819.223011762861284503",
     "hash": "0xcf1761d3cff08b42225b2071e6fa7171bada4b3e2c8e15b7cc76caf1357aa4ac",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,773.054649502588215774",
+    "hash": "0x732aaed52787d490de088d07631d3ecdc69cb6b26b43083118dd85f33dc6a1ae",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
