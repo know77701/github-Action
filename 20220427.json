@@ -358,5 +358,17 @@
     "value": "1,043",
     "hash": "0x5a6eb8c2eea706ce5bf3da5f8dcf677e6fed16f9783c3ad542c77491a2bdc6b4",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "480,000",
+    "hash": "0xda0de471d263dd0f1813447c9d289c997a07c56139b484e4c6cb939b54ca6d05",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,432.08336293",
+    "hash": "0xdd4a796e3d9c3fb45113a6345f489b47d248b9068a450fbda8ead8756f62aed0",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
