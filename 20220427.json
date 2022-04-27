@@ -388,5 +388,29 @@
     "value": "23,175.57829742580267124",
     "hash": "0x530a3778fae62362d69e72b0277c1e31d1c6f77d548be23f928719cc32d209e6",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,681.90765075",
+    "hash": "0x5d749d1182601a0da2977956ecb1418476085d460463c6a2a0edcae172495f3c",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,357,906.34964933512062455",
+    "hash": "0x52632aaf2c9485c347c8b37ba08bb7ef795cd8c06294d2de17e5ea037661a210",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,677,960.25033684487937545",
+    "hash": "0x201a8ba425219ee2fcdf9824c8a2ae732f43d714c103d30bba749008d139bb96",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,775.964",
+    "hash": "0x323405d0c60b68bfab91d34151bb6b74c990e84a53c25137bd50ac1bd95aa0cd",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
