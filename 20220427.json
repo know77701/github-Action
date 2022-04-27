@@ -148,5 +148,47 @@
     "value": "633.697538956562807594",
     "hash": "0x7aae0e9b404cb21b1cd17a71569fba82990d57f8ecbd8bcf2a73fd2a1d98212e",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "695,186.337619362822674362",
+    "hash": "0x5b8bcdb4b5e2ac43cffd6991bb3115807d1e4d450feb0f671e832480fe5d3410",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,000",
+    "hash": "0xc6ab4341447690a4bb1cc18ae9f8c0703534738c5d85a99e9c90b4046f2d49cf",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,273,860.416850427177325638",
+    "hash": "0x03d80356f00e0955216998b18f42c4db89d1e2cb79642a2c8434cb2e3fa0971b",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,966,103.839081201243998681",
+    "hash": "0xbc189081913ede173c03ae97d858c417ec16263c3e28aa0a6e2ce8d94736c738",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,252.39649306",
+    "hash": "0x0ce8609a739f499d7e395b250036b545ee7d21b5670b321a9f64af74dd9cc98a",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "660,875.3697624875938023",
+    "hash": "0xf14ff25c1ca437bbd6e0108a17d580da728d876b830ea963e791abe9172dd461",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,309.14180568",
+    "hash": "0x915942aa344f928b3ccb677db4046273c3339e6fd2ec708cef8940b6e49ad578",
+    "token": "Injective To... (INJ)"
   }
 ]
