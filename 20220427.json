@@ -778,5 +778,17 @@
     "value": "280,346.089",
     "hash": "0x58dfa1038e385d6ae019c302fb708fbb29055a12d4516167ebbb78cadd9be53f",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,692.04297035",
+    "hash": "0x3060c509cb076f4c90ab5c5e3652006dff908a7054f8fd65c9a51a2364b9c0a9",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000.13168",
+    "hash": "0xc9550cf9834907d5008e88e59d8500c493660d93cb5de2ba689e6380898b3d5c",
+    "token": "SAND (SAND)"
   }
 ]
