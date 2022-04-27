@@ -658,5 +658,17 @@
     "value": "325,745.627055765579640034",
     "hash": "0xaca32466000548348f73ea78f6ef7fd5398e542d7f47132a23dd34978754e5f9",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000",
+    "hash": "0x085deee3d86b77827487eefb23b699a4076345f99b63a54fe8a67b2c94752929",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "246,642.55076814",
+    "hash": "0x66154d7a0c1fa3904b4eb801881f4798de67eb270ea91583eb1e1a03f344b8c5",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
