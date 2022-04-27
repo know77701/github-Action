@@ -580,5 +580,17 @@
     "value": "1,143",
     "hash": "0x597d600f1b33dc4d2b254e62a638a4486231ac6e94f8bd986b26c773bdf3559c",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,170.24455735",
+    "hash": "0xe4d0b55ea4dca1522b71c7e2cbb998075a58f3920dbfa12bddb215e3a3a5ccbc",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,105.14240558",
+    "hash": "0x14db0f328a705b9f06f3425a9346cdc700a6b4cd2a8285718aec3e4aa256a3e9",
+    "token": "Storj (STORJ)"
   }
 ]
