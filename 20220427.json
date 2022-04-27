@@ -274,5 +274,29 @@
     "value": "49,187.99998432",
     "hash": "0x75c3ca2e3f69d0cb2e9237f0b09e853f2f620b8cd666477b72037fd0454fa7f6",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124.13923497",
+    "hash": "0x9c9d47bd05eaf64fb80370f94a1a24284af2f7999f1291053230a365b1768bb3",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,523.05928042",
+    "hash": "0x1b7f5fe7a7e6b0f5a070b7d6c85ab545bd9ac21a3b8a44cc407538e34791d2e3",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,377,112.64064384",
+    "hash": "0x75f23010f4e9cbb6833801c83309ab37f64710b381f88d662a1a358f2d4ffa7a",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,452",
+    "hash": "0xff5b88b967c99942d45cf2ed88e10c9110c6f86aed5a22eb60018d115c6eb572",
+    "token": "Matic Token (MATIC)"
   }
 ]
