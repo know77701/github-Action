@@ -190,5 +190,11 @@
     "value": "8,309.14180568",
     "hash": "0x915942aa344f928b3ccb677db4046273c3339e6fd2ec708cef8940b6e49ad578",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,933.455",
+    "hash": "0x9548ae3cf9988278d755c30a28e0b2d89fb03d8a645412eb843f011e272ffd0e",
+    "token": "BAT (BAT)"
   }
 ]
