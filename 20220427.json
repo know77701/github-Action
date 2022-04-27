@@ -310,5 +310,41 @@
     "value": "29,705.957",
     "hash": "0xc2d5c7f81aa3ae97210e91075c7bbdc26c1801554113931677cec3872bc225dc",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,110.1997",
+    "hash": "0xf4f50a42be597db6a975401f1850a4b25fc711e580d63293e8eb2e33ada5eb44",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18",
+    "hash": "0x06a2bb29d9941e4520f9ebdb8b882810d53742036a7ad3f197fd46f6d54074bb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12.19588804",
+    "hash": "0x92ff986cfc0f7ac4951b54895c43df09753137bb5dd6482bff9bfbca510656d3",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,703.75128494",
+    "hash": "0x91e46bcf099c4df3e94e9a6ddfaab4f1a198f8413bd9af6422dffb582e554978",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,840.57800192",
+    "hash": "0xe26f1b990f03947af1dda09b2882eef5ab0229b7ab24a0b65b74200f1bfc1f31",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,885.3528207",
+    "hash": "0xbbc74563b4e6632523af0a52260d13b2a537d6d56c77c5e4843e45b572068749",
+    "token": "Aave Token (AAVE)"
   }
 ]
