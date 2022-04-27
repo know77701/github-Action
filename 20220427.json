@@ -670,5 +670,17 @@
     "value": "246,642.55076814",
     "hash": "0x66154d7a0c1fa3904b4eb801881f4798de67eb270ea91583eb1e1a03f344b8c5",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,749.321127207138715497",
+    "hash": "0xbb8d68121e523869144035f3ab05d4af76f2ab198988f6b3fe25223938bfb596",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,819.223011762861284503",
+    "hash": "0xcf1761d3cff08b42225b2071e6fa7171bada4b3e2c8e15b7cc76caf1357aa4ac",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
