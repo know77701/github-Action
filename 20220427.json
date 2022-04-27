@@ -760,5 +760,11 @@
     "value": "45,625.08514154",
     "hash": "0xe6118321c96f5e20c0273e04dfa41ff30c7d53e597f507749bb6b592635b0181",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,519,096.84959072",
+    "hash": "0x489b76d10f9bdee978723f6b274e3bc5be9f358e6640a90111f6b30c3b7de619",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
