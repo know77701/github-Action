@@ -622,5 +622,41 @@
     "value": "54,800.583586514811568867",
     "hash": "0xeb11bbb26a4b8cdaef78d1e2e6268002e23a6feedb7481a98958eccbb8a2bbf4",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,900",
+    "hash": "0xa362d9a8898728b4a40cf56298f6d8daba4bc71136a93bc664b8709eb8c45292",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,399.42",
+    "hash": "0x2487296600f402803aa3562f3dc89ab193689a47ca7e3094912a2c09b85ec884",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,422.3719864",
+    "hash": "0x1462122d58b2ae5e6a27208181fad1df287b54ba4c7dcc5ce95cb2b4e3b604c8",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,599.42",
+    "hash": "0x61967219c5a7bfba5fe3a98431b0ade88a4ceef647034eabe8f1a31f4a44c02e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "679,073.117773994420359966",
+    "hash": "0xa32a274e6373f2816552f01affb39d73f6bccd59cfbcd16a6ff496abd0db9980",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "325,745.627055765579640034",
+    "hash": "0xaca32466000548348f73ea78f6ef7fd5398e542d7f47132a23dd34978754e5f9",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
