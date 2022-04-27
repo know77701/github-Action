@@ -766,5 +766,17 @@
     "value": "83,519,096.84959072",
     "hash": "0x489b76d10f9bdee978723f6b274e3bc5be9f358e6640a90111f6b30c3b7de619",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,696.215951766654590409",
+    "hash": "0xacd8631d915037393e47d22036643f0a6a829f290da8220377b4d8e147db0322",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,346.089",
+    "hash": "0x58dfa1038e385d6ae019c302fb708fbb29055a12d4516167ebbb78cadd9be53f",
+    "token": "Civic (CVC)"
   }
 ]
