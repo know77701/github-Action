@@ -874,5 +874,17 @@
     "value": "27,314.54632883",
     "hash": "0x694bff88cffc452e4c894b2b56ef3aa200f7b03936e36990eacf6b04fc397254",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,978.09734846",
+    "hash": "0x5c177571a29a2ef35d4f6738834c40f0ad461951e5acec2313a19019af7b01eb",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,110.999",
+    "hash": "0xcafad2cb2f7a2b95c80f3421f0980c0f2978cb98e5b48c6309c8b28830399677",
+    "token": "OMG Network (OMG)"
   }
 ]
