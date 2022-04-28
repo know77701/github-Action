@@ -904,5 +904,11 @@
     "value": "52,347.74274743",
     "hash": "0xb8fda05b6951d615e1ddc2983524bcdfc4e6793fc039e677ec06a31ccbe2426d",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,829.096",
+    "hash": "0xe3e128e52bf51b374a023bb97edb9c9890d504bac60c58f145fedf10e615f535",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
