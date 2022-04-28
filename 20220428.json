@@ -838,5 +838,11 @@
     "value": "14,373.088163077408925587",
     "hash": "0x90f31e3c8d20ffd6993e9dc33f39da820c5110e426fff819290c2aa4aaae4aa4",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,810.12653243",
+    "hash": "0xce5f74ec9d7126c4f2a1bc0c605073d1f9de75845802fdce7be0569ba9bf1e05",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
