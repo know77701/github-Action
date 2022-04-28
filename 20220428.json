@@ -502,5 +502,47 @@
     "value": "162,473.51457",
     "hash": "0x97d55ed7b804db5e66e152ba1ed6cba5d8bfc724926a1bbb13dd79f7b71857d8",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,983.9",
+    "hash": "0x1ddd74ccbe3f0466b7930713345d3703c628022cac3950d91d99a31c513170ce",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,001.002830643119209133",
+    "hash": "0x2d3d40a1579026dae78432bd9f8547e6145907b1ecf9bbb4fb7ff950b8b8e426",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.39981767",
+    "hash": "0x946fe99b021a161bd174a268e6296473de4ac43da3f74d114fc9e77e2fc4984a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273,333.983",
+    "hash": "0x0014b28e2baa16aca056dfb17581e76faa41e717a0e3495fa3cf31191f50cf0e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,539,800.40007719",
+    "hash": "0xac42b63f3eedad72e63ee2db76bce057517a292fc705593bf6d5fe1a7400a116",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,131.7",
+    "hash": "0x4bdc261b5957fc4f507a6fcc7a826a8dcf54d804c8ffb4e8c5ed3000fa77414f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,991,269.8023313",
+    "hash": "0x03d7560f48cd7213499017f33ea33680baf565a505abc9343fb58d3cf55b48f0",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
