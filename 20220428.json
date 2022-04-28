@@ -220,5 +220,47 @@
     "value": "188,212.02382473186314867",
     "hash": "0x06ac5147501f9d0ba6dac75064a06b3ed6b3a5417f071bdd4aed0e929dc52b29",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,453,142.13821825667050112",
+    "hash": "0xc2a11bfda5521d049375a990290e76feaaaab1f15a9bbc684009fc0101583abb",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,807.880304",
+    "hash": "0x8e1453a5c4b14bacac7f66cd53cd36d3b3c89ea783a60d3f7ec12c7d968377ba",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,461.6098579",
+    "hash": "0x9471076b6e1cb35d64aed1b3287223f4591e9e277471a746d650f164b55a116f",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,358.86297806",
+    "hash": "0xf28cc9bc19ddaf01855e6c07aa20ba6beeffdb5c4d1271c385aea7b5bb807de1",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,533.536829423840662936",
+    "hash": "0x8d73ed4b63def038fb8293a7a554b546550c796a11f71b81dd14e2030b4f014c",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "646,699.3",
+    "hash": "0x3c8d2ba10194aff24e4403230763a8f81cde4bfd2de20d88640ce0f94a13b56a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "665,472.615314578233918008",
+    "hash": "0x235d58f0df95c121eb8e9d0013409a6ec1ed2c08819b1d4d1590948fc12b536e",
+    "token": "NuCypher (NU)"
   }
 ]
