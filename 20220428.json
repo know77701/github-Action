@@ -622,5 +622,35 @@
     "value": "60,172.1375281",
     "hash": "0x0f7ca7429c5d2718f819b8047207a2129cfbcdba61b80f95f6d16f262a1473fe",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,265.16138649",
+    "hash": "0x4402235cb4600b3a0b746a2b65893c69b8749655f3770501baf8ce0e14a1bca9",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,800.18181818",
+    "hash": "0xad736c4a5e26365152520a5dd8e16f79fe59509a8fc9228e5ecb8d4cef34e2b4",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,146.071918933633666725",
+    "hash": "0xa282d60ffc3f020da4634f43413eb9285c6205955ca35584b770ac25ae3f14e1",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,009.208",
+    "hash": "0xac6e5c9466d8f163b8da2fdf3a4c42f66f42c93c32a1dd87944a523bcd2dfd78",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "154,442.797550896366333275",
+    "hash": "0x835f86dcec958da7f7b6a1d82678d172853f252fc8fd6d52d2faf4b857724b52",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
