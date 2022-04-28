@@ -922,5 +922,17 @@
     "value": "3,881.474012735582284503",
     "hash": "0xfc2c597f09700784fae92aaa56dde746e8966a0ec3c413dadb0998ceaa25ae0f",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,000",
+    "hash": "0x5ac26b91663259e40bb8cae6eca6358008fde6346770022e8b309a6e8bc3fed4",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305,169.99991891",
+    "hash": "0x2a9cf5eb1b561fd9927367fe4b9e24d59022324578d0af388b3853e80fe1cf77",
+    "token": "Storj (STORJ)"
   }
 ]
