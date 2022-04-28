@@ -844,5 +844,17 @@
     "value": "5,810.12653243",
     "hash": "0xce5f74ec9d7126c4f2a1bc0c605073d1f9de75845802fdce7be0569ba9bf1e05",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "347,832.498889283090271062",
+    "hash": "0xd489905bcc5498fb970280d04bea18039a1ab518c53cc3671b76d158670eb4b1",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0x06ce5730e52af5b35fa934ba324b8995be7654e1b369042df71467f18f9aced1",
+    "token": "Bifrost (BFC)"
   }
 ]
