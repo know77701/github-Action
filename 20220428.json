@@ -280,5 +280,41 @@
     "value": "1,381,640.246868328815689393",
     "hash": "0x687d7ea9dda54a3a2c7bf5e86f5e04f75983be65936b39b0e9d5952bb7a25e46",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,990",
+    "hash": "0x6e0285e8447357901daa0fbbf923d0d424ed03ebc13b4420323639053ce251d4",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,000",
+    "hash": "0x3beb27053f4c0aefc0961f691af3443788e04d75eaa812584cda132c769029a7",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,611,583.984734255349750081",
+    "hash": "0x4b3d66bed7d46c84e453102b3f0fb1bb981517b255b9e02018ed51107ae3abf1",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,143,445.067953383622785951",
+    "hash": "0x2012bd8d6475c76b1b5608c1b43dfad1a3872888c9524bfc9c2d4424d55c69d8",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380.42981014",
+    "hash": "0x3a2e2c14d1336348b5ffdc7113c25ab369092c8d0290d538b295cc26c7af5ef1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "231,001",
+    "hash": "0x090a8a6944d68a28feaa8f9cf04ca30a41f933babf25901b48629819f363bb88",
+    "token": "Chroma (CHR)"
   }
 ]
