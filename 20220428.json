@@ -724,5 +724,35 @@
     "value": "26,119",
     "hash": "0x0f5044034fe87bdf010c7c2476e6a88c4babff25a79a0d963cfea8de370a180a",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,516.774019471739219368",
+    "hash": "0x486a73633fa20e1940b0f8c9cfd919cf437cec42397394f13e62e49b16a3d082",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "223.67107475",
+    "hash": "0x5dc42d65e79d195f8fc9a3f36c9e4a41b2de1143c8d1e79ce5d94bff8689af76",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,247.759",
+    "hash": "0x2535132cddb58d003a3b0da6eeed8710a4a5a3d3689daf4d283ac2941df36bdf",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,471.79398524",
+    "hash": "0xdf74667c6b0fa83f4f1c09a72a90ca747862720921845dddadcc2914ede26887",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,023.5",
+    "hash": "0xedb80e6814f290d6b5c9d5364b754b8f3e06ccf08a2b8d6aee08f8dee9ebb2e9",
+    "token": "SAND (SAND)"
   }
 ]
