@@ -118,5 +118,35 @@
     "value": "12,559.991322818253763869",
     "hash": "0xf47753aa3ee5f42f25cd876cb257827e57b751ab9340fc80cd0f9ae4b8870981",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,187.009239908428691011",
+    "hash": "0x3d5f3ea401d3cced229997702871da57b76617acf5d616f4b557295257164edd",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,631.54278773",
+    "hash": "0x623e34d6c340bdf4c4489338882ce9b9a7ed678bfb0ad8a9e1ef1e3fdacb4262",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,000",
+    "hash": "0x48c23ada00f3cc4d3af993eeac78aed223f1bc25951848269016653990849976",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,290,414.07776239",
+    "hash": "0x18839d2318307cece4909b04126b0a4a2d15dd727975f2cd73837c327f22af9f",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305,482.826",
+    "hash": "0xf38df9b45bef28184ce05140bf5f61a4503b55ff72e848b70fc43dc7b54c3235",
+    "token": "Civic (CVC)"
   }
 ]
