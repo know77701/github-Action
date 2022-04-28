@@ -820,5 +820,23 @@
     "value": "4,798.8",
     "hash": "0x7943fb3b9cca0bd22ea8dfc6cc72226e433c24fe5b2e7886e3717c5a0b85bd70",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,723.8415",
+    "hash": "0xf7cfbb97c54eec690115823dd13d93bcc136799663bff721c38085c188022033",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,972.534958932591074413",
+    "hash": "0x8492d53bb7266fb2e1f4dab3106ce25f4aa2753eb9a279174b59c4726c3f5df7",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,373.088163077408925587",
+    "hash": "0x90f31e3c8d20ffd6993e9dc33f39da820c5110e426fff819290c2aa4aaae4aa4",
+    "token": "Injective To... (INJ)"
   }
 ]
