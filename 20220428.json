@@ -358,5 +358,17 @@
     "value": "305,988.067",
     "hash": "0x9e10e6f65d344c400fc6fbff5aba3db6521d19e5bbb8c9ac0c22494e32af3179",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,778.914366023794213243",
+    "hash": "0x225e199ca8f71e35273e02fe99d1ea3d5d069a11719db5c82640d88bf675d896",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,319,063.878712776205786757",
+    "hash": "0x60796af8de3d9008035440154c05a0391e36aa5852e5ffffd1f94a7122e708ef",
+    "token": "Aergo (AERGO)"
   }
 ]
