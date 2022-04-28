@@ -856,5 +856,23 @@
     "value": "300,000",
     "hash": "0x06ce5730e52af5b35fa934ba324b8995be7654e1b369042df71467f18f9aced1",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,042,240.89456602",
+    "hash": "0x6f51101091176a1f905623ba34e50b18890a04b5dfc9123c63edec6a78a1a35d",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,019.78741",
+    "hash": "0x796333fef09dc260950fae54c1a1973177873b3e95e0d4b7d450e4078f246359",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,314.54632883",
+    "hash": "0x694bff88cffc452e4c894b2b56ef3aa200f7b03936e36990eacf6b04fc397254",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
