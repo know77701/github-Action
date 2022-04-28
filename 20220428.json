@@ -370,5 +370,35 @@
     "value": "1,319,063.878712776205786757",
     "hash": "0x60796af8de3d9008035440154c05a0391e36aa5852e5ffffd1f94a7122e708ef",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,187.99995983",
+    "hash": "0x51faea1fcb43bce21b5e6c4e8af0d0084a000fe1e34a5f5c2d25bf68efd28fe1",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,965.65691085",
+    "hash": "0x7e51fd15380a0af957a6b634521e5e82322445b671b94744f247e7db8192d21f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,929,750.417929239947810139",
+    "hash": "0xcf6b8c22f051e75d09456e98ce630343070c078a20808b5a748462baf31fb227",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,200.006",
+    "hash": "0xc7a513856fb8eed9aeab67343b3abd99a46ea6371b3b7ae695f6858814d90f4e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,565.99996727",
+    "hash": "0x9d62ca41edb64dd15c2e2ca8a7704ccc7140f9650259ed7b5150fe7f153d5516",
+    "token": "BAT (BAT)"
   }
 ]
