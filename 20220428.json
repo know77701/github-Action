@@ -544,5 +544,41 @@
     "value": "6,991,269.8023313",
     "hash": "0x03d7560f48cd7213499017f33ea33680baf565a505abc9343fb58d3cf55b48f0",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,414.88444526",
+    "hash": "0xd8803d90a45f108679e21ef93930d8fc612d2ac3f78c11a89b64bd3f9a094580",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,678.13432331",
+    "hash": "0x5b3942bef4c21f584adeea1cea945d7dbc8d65d1ef8fe945a4b601729a467cb4",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,167.99991116",
+    "hash": "0xd477d53b46b4819e507f1373424d7452fa0d201245a4a7d0dcc0976baea8acd5",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "904",
+    "hash": "0x140b284be10df86e444a78c547df2436cb9c172392652dd9dc40418bed3e877e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,982.93471",
+    "hash": "0xf3bf312c85081fdf61ae741b755bcea57b5d371bbde73b2d8687e37f89af00b3",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,300.47665162",
+    "hash": "0x540543e1060da975427029eea629ac8d1a463f51af16b65d13303afab81188e5",
+    "token": "1INCH Token (1INCH)"
   }
 ]
