@@ -934,5 +934,17 @@
     "value": "305,169.99991891",
     "hash": "0x2a9cf5eb1b561fd9927367fe4b9e24d59022324578d0af388b3853e80fe1cf77",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132,552.341263529539142807",
+    "hash": "0xf0a74f53621927e15db2c143fc642f7d0274b47000b727e72fd66966a60c478e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,984.257002",
+    "hash": "0x8144a01af98be01c8f9b5781e86a676c58102ea36ccb09184a7aa1b353cd5067",
+    "token": "Serum (SRM)"
   }
 ]
