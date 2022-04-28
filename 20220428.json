@@ -262,5 +262,23 @@
     "value": "665,472.615314578233918008",
     "hash": "0x235d58f0df95c121eb8e9d0013409a6ec1ed2c08819b1d4d1590948fc12b536e",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,347.668877607360808515",
+    "hash": "0xad45887c55a682ca0e9378deabfca8bff2febd82f3763f6cd63d586bbf147c7f",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,948.38810044",
+    "hash": "0x1d04569994771e216d5b71adf11b88c1df6f03b4e02ed121774782a075306cfd",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,381,640.246868328815689393",
+    "hash": "0x687d7ea9dda54a3a2c7bf5e86f5e04f75983be65936b39b0e9d5952bb7a25e46",
+    "token": "Threshold Ne... (T)"
   }
 ]
