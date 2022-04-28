@@ -598,5 +598,29 @@
     "value": "60,989.24830743",
     "hash": "0x98d52dbe9ff0177fae7d5fff9e447d05719e8f6e62a3439d158f6c34a7acef70",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,362.09308933",
+    "hash": "0xb50d41abfea0f7d33379de3466fc71723b4c4dc0af62267afd235450dee642b1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,000",
+    "hash": "0xa7511d49102a884d6ca660c45dfead900dfd3a4a9c5ff3b9e77455f04db29aed",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,777",
+    "hash": "0xb62b8b9edbf4f8a262e09ffb56597ed158a131833c78ce597f92f9221d896e6d",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,172.1375281",
+    "hash": "0x0f7ca7429c5d2718f819b8047207a2129cfbcdba61b80f95f6d16f262a1473fe",
+    "token": "Orbs (ORBS)"
   }
 ]
