@@ -148,5 +148,35 @@
     "value": "305,482.826",
     "hash": "0xf38df9b45bef28184ce05140bf5f61a4503b55ff72e848b70fc43dc7b54c3235",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,000",
+    "hash": "0xc6136a697c96ddaa97910b279691415b8f2d503cb44a03e0cdaf86eabb47a35a",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,624.35833721",
+    "hash": "0xb4dae62e320856a98ad89061851faab094682ac6200dd1b4eb87841b823c7b38",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "451,273.41940105",
+    "hash": "0x0bb7a8d6616b2750dc7b8a3bb1757322e257847ddcfaf0ca725698110416b68e",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "342,325.18583422",
+    "hash": "0x26b80546fa9ea2e59cdc122e29ea9d1e9586fc4f1c61be6ce501ebee65b9d2e4",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,043.112",
+    "hash": "0x34cbec963d06b361a98c9bc1b78c08ba6de16d281c3cb06e2f1c6afac2e453c5",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
