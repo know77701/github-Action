@@ -898,5 +898,11 @@
     "value": "111,001.645135565310347713",
     "hash": "0x016f26afb4dab40722afd0328159e85a23f1c16f91107f9718f149dc2e3378fc",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,347.74274743",
+    "hash": "0xb8fda05b6951d615e1ddc2983524bcdfc4e6793fc039e677ec06a31ccbe2426d",
+    "token": "Bancor (BNT)"
   }
 ]
