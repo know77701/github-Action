@@ -472,5 +472,29 @@
     "value": "106,835.95270837",
     "hash": "0xea81a110ee969dcadcd8e1b9f861cca4e1802669d5948944d4cfe1a173d301aa",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,713.557503",
+    "hash": "0x0df130f89dfd5704a61b1fa34c3f5ca1e3256827d555ec719bd22fecf42b2692",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,077.715139692821715497",
+    "hash": "0x068c3755670ea6eb9a3e4fec1db65f1753ce9ad54474507121d77455778dbf5a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,607.72454805",
+    "hash": "0x9cb19ed9ab9559da28550f960397eab69c260220b3ee675fa71a25fdba54b900",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,068.939867127178284503",
+    "hash": "0x608b20417875a85078953eb0fdd78bfc98821da18abd6d91a25ed4aad415cd82",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
