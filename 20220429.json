@@ -220,5 +220,41 @@
     "value": "633,989.94577663",
     "hash": "0x0101c626f40476c0283c30482843afd7602be7677217469a60cca355a0cf558e",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,624.814474504751749956",
+    "hash": "0xc0e8dba2c0bdd1363da03112ebf86cbb86915a1e06e11f43fca1f4c10f0631b3",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,080.22523422",
+    "hash": "0x3303b907db5472e667e9f0a5a437b196ec232ff107fe363e744b0ce038336743",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,102.675",
+    "hash": "0x9ed09c0785bd93c807cd5e1ae827f498c9aeb56c1f0e052397745c17da71aada",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,222.556937107106078059",
+    "hash": "0x77fe47ebdeeaa7b48459b6b0dfc851d63cd6be022eb27c89a766d8d23fee654a",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "931,266.4797602",
+    "hash": "0x70f37786e65a8d3162a35a08f1a587d45681354545ba9c496624910f0d40db42",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,811.339045712893921941",
+    "hash": "0x8cade55f962a5804bd46a531296b95144298a9bce830e7cad296e27e1203a0d3",
+    "token": "Injective To... (INJ)"
   }
 ]
