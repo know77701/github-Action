@@ -154,5 +154,35 @@
     "value": "3,946.894710841862284503",
     "hash": "0xd3520138b835c6a04bc52b46c00afc994f654f1c4cc44deb80df55f14506f109",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "303,352.941072424529435892",
+    "hash": "0x301d414bd98fde3fe76d5de91223f1f712d55a21bf262e6e441916ec5dbf9fe3",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,802,029.431746804688274132",
+    "hash": "0xd185feddfa4e7fb0c7f0715d4b54e066f934e279c28ee3c38cafdc61c39610cf",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,787.082729245470564108",
+    "hash": "0xb1326fe4df7b81342f6508f34d7874387c8952a46694b54742fdc82a6fc28c69",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290,175.417583505762244681",
+    "hash": "0xb2fdabca84d4bb51dd121b0e0d5118452b77312deed8db32c8a4b795353b6a43",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,984.99993844",
+    "hash": "0x95664a5f07b96391e52ef41c33ff6878cc2c046b96c5dd785db6f7d3f50236ef",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
