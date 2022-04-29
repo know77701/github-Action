@@ -496,5 +496,41 @@
     "value": "4,068.939867127178284503",
     "hash": "0x608b20417875a85078953eb0fdd78bfc98821da18abd6d91a25ed4aad415cd82",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,350.13684849",
+    "hash": "0x27bd4cfcdf943c0a59204acabab708539a487090bfa7dca79c521d3d79ac20c8",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,115",
+    "hash": "0xd1370b0a1563e48186430776ab4d0a236fe0233659f9af38430c04c1c92f5219",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,843.010189138746358297",
+    "hash": "0x311bf63c3a8a41a62b9ca74d6ed9e70d28f755252ade11304f7b0dcf8653d6e2",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,551.344647441253641703",
+    "hash": "0x0114b9a774f5f017446b03c57c378a2b9d8167ffaee9166287128f0230cfe77f",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,393.59993224",
+    "hash": "0x1d2967d1473d8d2209dec9d43eea274998d9df64cec4290295b2864f00e7e043",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,940.395833782608090146",
+    "hash": "0x752976dd45207463348dc05d5771b5e450dc4cc601621bf8842e5fa2c051b775",
+    "token": "SAND (SAND)"
   }
 ]
