@@ -142,5 +142,17 @@
     "value": "56,322.91914433",
     "hash": "0x412f68b293ed8629cd9c802baf11ac896f68b218c15a7e45d37e540331550049",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,385.385308998137715497",
+    "hash": "0x929f4d6ea95de1e18e24f862090311bcde0ad2c4658669b71d4ccadb897b9eb4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,946.894710841862284503",
+    "hash": "0xd3520138b835c6a04bc52b46c00afc994f654f1c4cc44deb80df55f14506f109",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
