@@ -202,5 +202,23 @@
     "value": "2,177.8884",
     "hash": "0x360111a888680c091d7b76d827dfb3ba7853d4adc77de4bcb4357233a8937d6d",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,683.92405239",
+    "hash": "0x1a6be1d812e3d59ee80680675b9eb95c1dc11eda1184b78b9b00eac56542afbe",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "278,168.06792511",
+    "hash": "0xe6d878abd545e7e675c4246546e6971cd5421f27520cee65ca82aed5894017c7",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "633,989.94577663",
+    "hash": "0x0101c626f40476c0283c30482843afd7602be7677217469a60cca355a0cf558e",
+    "token": "Bifrost (BFC)"
   }
 ]
