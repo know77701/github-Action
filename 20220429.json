@@ -382,5 +382,35 @@
     "value": "36,734.99983348",
     "hash": "0x1eabe31b39944cd26a91ad4d7a8f6e238be642a2ecb1b6ad480803bf74c848a5",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,984.99988587",
+    "hash": "0xff2254172224396fa4b603c4149de69a5ef002855621dd6f61ec060ad981f624",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x128ed31f17cbc0118bf28c15525357439be102c13eda95ae833d2af7d229efe1",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf957b8f402d7cdd0b7ff375fc031322f4213abdcff39979df21a34be9c29d447",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,030.23355591",
+    "hash": "0x2c28e2e7bed4b27a21431785c7f96f3dd3a824527be8d48c497a5d2825849eb3",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,521.233714",
+    "hash": "0xb2cb02f0637c7a310cde8976099e67585faf0aa4dc9e65a4effbf9e56c16bc8e",
+    "token": "Serum (SRM)"
   }
 ]
