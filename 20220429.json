@@ -826,5 +826,29 @@
     "value": "199,972",
     "hash": "0x89cd1871ef2beae9e766058e3979c2f366da2cabd5124f2b1f1294437431f145",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,288.68579",
+    "hash": "0xb775816493bd90965897555c84d290a4f29b9a128bdab2c402b2b29dde17792d",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,987.99998679",
+    "hash": "0x1d23c60ef24898b21514dc90f3ab80dfe29f322569b6a4a78566129eca7a9f24",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184,258.79484619",
+    "hash": "0xdd67bb786a153cc7440480544d56db73cba27940abb9e6702f065baf6d5c8ac3",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0xc545182eb47192d4b9ba27531394dce40a3e150e9bf9f1320da34defb184ee44",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
