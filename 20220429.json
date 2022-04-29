@@ -850,5 +850,11 @@
     "value": "25,000",
     "hash": "0xc545182eb47192d4b9ba27531394dce40a3e150e9bf9f1320da34defb184ee44",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,972",
+    "hash": "0x9158bed625c58c2d6b25a31cf87da769c08e5d90510f72feeb0931e399702926",
+    "token": "ZRX (ZRX)"
   }
 ]
