@@ -304,5 +304,17 @@
     "value": "38,304.818925990480456935",
     "hash": "0x7310acb5bd82530cc62fc99641c76a034cec54a408c88d5b84b3f536833a15af",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,836.9305",
+    "hash": "0xd2f6c38f1305294bfa6f90326fe610eff19c23a711aa6ffd8d63e6604f4acf7f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,526.9998096",
+    "hash": "0x73e37a6fb11c46a5e09ca71998899bbaebf4ca70ba671e5167b959c8930ca1d3",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
