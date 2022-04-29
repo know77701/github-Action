@@ -256,5 +256,23 @@
     "value": "13,811.339045712893921941",
     "hash": "0x8cade55f962a5804bd46a531296b95144298a9bce830e7cad296e27e1203a0d3",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,533.136305267667715497",
+    "hash": "0x35f678b69bcc52cebe6dd67b7dff20fbb1b067943fd11edac4e06cbc857e3ede",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "287,856.332578145248250044",
+    "hash": "0x9adf9a0d2020970c13513e37c3cdd9f6249a2022846e3df5a682d6317b06bac0",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,953.404672792332284503",
+    "hash": "0xfa7e886e38e15e494688a7c12ef7898b322655036b78df37068b0a6088d32416",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
