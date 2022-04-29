@@ -334,5 +334,11 @@
     "value": "20,316,683.9240406",
     "hash": "0xca61f47d89bdb29b8fa57b63334e20bff0e07d1543a6606efbdff3799eeb1e32",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,199.288891201226431133",
+    "hash": "0xd75f115eb53a6cba108626c1dfc0816222ee5415a23910c19855f76dc7a469a4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
