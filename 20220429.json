@@ -820,5 +820,11 @@
     "value": "20,316,683.92405611",
     "hash": "0x301dee3491ee3dd0e434d5db53feef991233f265ac8a959808598e19a1240c23",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,972",
+    "hash": "0x89cd1871ef2beae9e766058e3979c2f366da2cabd5124f2b1f1294437431f145",
+    "token": "ZRX (ZRX)"
   }
 ]
