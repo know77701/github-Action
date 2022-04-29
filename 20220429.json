@@ -376,5 +376,11 @@
     "value": "8,384.7992",
     "hash": "0x47ea4f8396d06488b77fb65049d711fee703b603cdb80fecc92d5836d91a7946",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,734.99983348",
+    "hash": "0x1eabe31b39944cd26a91ad4d7a8f6e238be642a2ecb1b6ad480803bf74c848a5",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
