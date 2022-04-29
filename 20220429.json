@@ -640,5 +640,29 @@
     "value": "20,316,683.9240744",
     "hash": "0xe4e1870377d2b85863208cd925f0364a82aeeed0b19de2aa0a31e8caf808bac4",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,987.9999403",
+    "hash": "0xe66aedcf996dd35a88c6b6ffb2d995aecc937d694393646a713ddedb6050e3fe",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,086.838013434543225063",
+    "hash": "0xc22eba8f2a33cad937594cc546f382fb63df458c0a74b9e400d3de96d8763e94",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,109,936.979438635456774937",
+    "hash": "0x09dcba3222d754798416ed519976da6eab62933156a48ea3cc5eadf9d4793c47",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,636.279",
+    "hash": "0x1a7d6df8ac8e890faecc9c65fd64221fd88eb8350650021c91a667b3d044cfa1",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
