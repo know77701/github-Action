@@ -370,5 +370,11 @@
     "value": "31,138.64",
     "hash": "0x3ce1d5e752539dc44347a335f378f0a58032528b48f0ccb7aafee68ba6053745",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,384.7992",
+    "hash": "0x47ea4f8396d06488b77fb65049d711fee703b603cdb80fecc92d5836d91a7946",
+    "token": "SAND (SAND)"
   }
 ]
