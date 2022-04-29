@@ -430,5 +430,35 @@
     "value": "46,055.30033069",
     "hash": "0x7ddb66de2c15ecfbf57b3c35b9bea7ed259f1a5d116870b2672dbb054be58b09",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,406.64317589",
+    "hash": "0xec067b01e1673e1f6c5c6416f0072f7641eff28c433ecbe4ccc39c49e5e4c1f4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "924,473.95184816",
+    "hash": "0x1169449d625bc859530bbd1d5d2f6cfea36cd329b3c7091304e1af099fe2357e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,318.81283500288138673",
+    "hash": "0x501cd362117ba30a1a7d5e4ef5cd080a35b7e0555b7c03c26349e5677771b56e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,683.92404618",
+    "hash": "0x64de1054f44cb7ec6954af28cb1c96a8b3589d7bc3a78f984eb42386966ec7a4",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "653,270.57110064",
+    "hash": "0xecb4d236df34c3e2c0cc3ace88505c9808d54b7ac63c8f16946bc2dcf125bfe6",
+    "token": "Civic (CVC)"
   }
 ]
