@@ -130,5 +130,17 @@
     "value": "70,837.49537249984399674",
     "hash": "0x8ec7dbb6b278a5e48a9a692868ebabb629be26b331d41bbca50f7384f40117c7",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,023.5",
+    "hash": "0x4d35c8124daebf73bb3975f5b38786648e78c288fe62f932da30500bc6d2105c",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,322.91914433",
+    "hash": "0x412f68b293ed8629cd9c802baf11ac896f68b218c15a7e45d37e540331550049",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
