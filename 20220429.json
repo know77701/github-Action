@@ -622,5 +622,17 @@
     "value": "232,700.124431",
     "hash": "0x1af796d77b24859d9647631085eb62560bf29199f09f3cd42cc18b6ab86376cc",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,329.319094390339245253",
+    "hash": "0xfd9badfbe29019f6865c65acb29805b46c1089acd579b8193824893022da7bb7",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,069.724929909660754747",
+    "hash": "0x5a6c6d364f0f8217b4ac6f90ef0dbc1af50aaa65b3e654c214c78f9925821645",
+    "token": "Uniswap (UNI)"
   }
 ]
