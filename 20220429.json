@@ -784,5 +784,35 @@
     "value": "211,592.94785871",
     "hash": "0xfee85d09a5c444b6a1bdcf19a25d9846642dfb87c4c1c6bc71ca1d25e996756d",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "171,470.424862065072869108",
+    "hash": "0x321a1428d45f70954ee87eabd4239f783ec435b2c99e2760650eec232bee9357",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,609.34713808",
+    "hash": "0x60e77bdf14586a30823b0d627982155c85cfd3398b6c780e8148623681183bee",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,561.852029834927130892",
+    "hash": "0xdd5699c753c77b5be16ba46d6be4e2cd941a4dbf8c93684a623601c57d8fed13",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "323,712.161224",
+    "hash": "0x32305f73f2c311e1a25342df18d9d424f109e2af2fa9169bfc03ef2137e48da1",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,650,545.345451",
+    "hash": "0xbbb98b475a1f590c624756c29004c112304167b9127da9dfa93ef66cc8b5fae2",
+    "token": "Ankr Network (ANKR)"
   }
 ]
