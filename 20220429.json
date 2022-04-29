@@ -574,5 +574,11 @@
     "value": "20,496.9",
     "hash": "0x7e68d2e563083f92f699ee62ac7829ca8f50ca441974186e8dd5a302b81ab363",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,484.99986045",
+    "hash": "0x07f106419e4488a2d98f3476e661603334b4e7342b475233ef5c74bc0571f013",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
