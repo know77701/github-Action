@@ -580,5 +580,23 @@
     "value": "34,484.99986045",
     "hash": "0x07f106419e4488a2d98f3476e661603334b4e7342b475233ef5c74bc0571f013",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,150",
+    "hash": "0x8465636cc7deb8bf3d155c19a8950bb2da9f848aedc6384051b5c52a0ade5274",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xfd0aa7f3e37d16a9a83cde5a036fbff6ba510cebbb23a94fd8ccc9283a89c2ba",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,438.977313986743294891",
+    "hash": "0xbe96157fc0ddac04cb6c3fb562c98342d5e1132f46e267550cf66313c84119e3",
+    "token": "ChainLink To... (LINK)"
   }
 ]
