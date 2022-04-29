@@ -664,5 +664,23 @@
     "value": "4,636.279",
     "hash": "0x1a7d6df8ac8e890faecc9c65fd64221fd88eb8350650021c91a667b3d044cfa1",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,141",
+    "hash": "0x1b6fd472bca87b775d24aa0d56663ccf10c855e7dcf2456dcbc1729671df9aea",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,928.148",
+    "hash": "0x7ed0bc5b34c32aad4c73171bcae893c9775b26ebdb064d65c8cb78742d7fbbee",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,047.71257533",
+    "hash": "0x811322e28b7348210c2800fc2af52c8de5ee7b167cbb2639fea1dbc74da05f28",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
