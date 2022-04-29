@@ -316,5 +316,23 @@
     "value": "42,526.9998096",
     "hash": "0x73e37a6fb11c46a5e09ca71998899bbaebf4ca70ba671e5167b959c8930ca1d3",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,970.34502759",
+    "hash": "0xdea77d6e45d6472f046cb333c94bdc2865ce85da988dfea41a391d03d4c39015",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,682.711045678773568867",
+    "hash": "0xd3bdf113315440d7f1cc6724975ee3dca04ed61c5b425926d6dc599625b438a7",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,683.9240406",
+    "hash": "0xca61f47d89bdb29b8fa57b63334e20bff0e07d1543a6606efbdff3799eeb1e32",
+    "token": "DENT (DENT)"
   }
 ]
