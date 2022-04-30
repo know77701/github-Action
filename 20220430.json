@@ -634,5 +634,17 @@
     "value": "227,015.045",
     "hash": "0xa7a1d0ddf7d7dff9162c97812f7d64c7cae455be440d43e3a43191924b74f380",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "892,643.14861677",
+    "hash": "0x83258140026a3794c7441b0da8fb704b80a7ac1cfe0654c0ec0684c501b1196f",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,086.532469141257969422",
+    "hash": "0x8b825615579ab9b53b18ad32a8149c3fa855de84bd8621e536fc6553e81b578e",
+    "token": "1INCH Token (1INCH)"
   }
 ]
