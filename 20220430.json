@@ -1036,5 +1036,47 @@
     "value": "405,630.82668209",
     "hash": "0xdf90194dfbaedc0b128a586b66574e5d14f73adfbe1332a23b997e907bad0435",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,685.64121339",
+    "hash": "0x1d37fd0d2807d59028b660810ae845cfe96e535d88e18e4f8b33ae48a41d5005",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,215.4344",
+    "hash": "0xae8f268ef2fcb0db34575a8234869504658ebbdad9c1db0daa9fbd0b1b862a5d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,498.00707038",
+    "hash": "0x41e31bc6713d6e3f032fc3c96d754ff133927ba0935077cf9b2c7b3a957010ca",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,629.814760897778707139",
+    "hash": "0x1ee60d488f94165903a2c74e7214d1d000cc9ea6c1268befc06777f1c5cda513",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "201,595.598504989763420408",
+    "hash": "0xb30dc722bdac757cdfaf52b6fe8ecd8b81e52fa357caa6d79a73d16241481cf2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,585.30602728",
+    "hash": "0xec500b80ad5be440c7c677aa7d718174723e5dbb38619b158ae81655d9ab0562",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0x67114477dc41392d9e9d1dda94c6e347bb8aaaf36d89f98968ea515f4418b08e",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
