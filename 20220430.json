@@ -250,5 +250,11 @@
     "value": "822.808344518048173528",
     "hash": "0xddbf3971bda8d0f5aea67e1c29b18e949574879fb6660d70a892004827f6b77a",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,278,849.71004311",
+    "hash": "0x414208ec7335518923df176b460dcb2f3bb9c0165df8a3ae492f0fe6b8f8e0ad",
+    "token": "district0x (DNT)"
   }
 ]
