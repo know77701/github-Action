@@ -226,5 +226,23 @@
     "value": "2,258,648.06206223",
     "hash": "0x1530cdb52b921ac019af2c91be601ec5738ec30cc34ab546da59def66f20b742",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,835.448655481951826472",
+    "hash": "0x1edc18486172ee89e59d6d8e1e2c8c9d7b0e91827d49d7e7460a5265058d3e05",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "204,970.986227751568903131",
+    "hash": "0x13f80709bedb4b4084bbd34eb8cf60377534979cc97b2f9773092c68233103eb",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,498.141",
+    "hash": "0x4308441cacb826a7aa8b90d6f618769c8106309cd169972f58e179cd5ba1a369",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
