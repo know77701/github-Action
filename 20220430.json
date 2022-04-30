@@ -556,5 +556,35 @@
     "value": "38,333.2687837",
     "hash": "0x26c01ed726dfa9f87f918d4418bbd67c615c03e3fb2b1f7e51a1b61751dddd84",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,136.085857",
+    "hash": "0xbdb115732186c08672986eea660ac4aa3166e702461e346d34b15ebd2625e389",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,727.31063930155293641",
+    "hash": "0xaa1bce1922983501c03d2d0c1c87cf8b9c412f62c1e6138eed2bfdb4eb6134df",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "238,471.892377",
+    "hash": "0x331bb2dcf8b615e52d01851812bbc3a7a9d1ce2a7a4454cd35e1a0835a9f83dc",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,344.52868184",
+    "hash": "0xa22b722b62a90d22cd8997c6e4e89d0200d22ae897cbe77791e38888a8dac314",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,456,473.17980750844706359",
+    "hash": "0xb61966827b11b5920f9dded5f837e1daf761b8c0897d6e7edf8561bfbb911e9b",
+    "token": "The Force To... (FOR)"
   }
 ]
