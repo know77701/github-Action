@@ -1006,5 +1006,17 @@
     "value": "13,418.584617518144715497",
     "hash": "0x7d07924fa53cd48addda6466cbb6f6ab18fdd13a19ee95bfbaf6506387666fbb",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,426.92400899",
+    "hash": "0x6df3565c6a1e6876feb93ec0cdbe011c035e5bad685de3c5e340ca43d32cc805",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "404,918.99995673",
+    "hash": "0x2d2a99b4f2c7f2757b5323612173c19d71e7f763b0a11c005ae3599f84e52765",
+    "token": "Civic (CVC)"
   }
 ]
