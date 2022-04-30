@@ -646,5 +646,29 @@
     "value": "12,086.532469141257969422",
     "hash": "0x8b825615579ab9b53b18ad32a8149c3fa855de84bd8621e536fc6553e81b578e",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd60d094765107deb190a45c17d39b6e01bfaac1e7cef5fc98eb00308261e6f0e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xaec4c0a89bcf4719ed56495abcbc8ccb239b327fda02e0d859d4f172c16f8a6e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "244,970.955",
+    "hash": "0xadb4b730a7797eef0ba9e7f190a6f17fd38509016ac7f39bdbcc549efd4b218e",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "354,162.395",
+    "hash": "0x8f0a86ce2972c0d1a21b5fd47784caa3148beb1001bb69bd49a4aa0e640a62d1",
+    "token": "Chroma (CHR)"
   }
 ]
