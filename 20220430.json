@@ -970,5 +970,11 @@
     "value": "550,472.537605929280692885",
     "hash": "0x9c8ac3ee8444a4e86a0b3a1c74e50fb1cd744f0b32c1e6c78d8b63031595b2b2",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,914.99998679",
+    "hash": "0x1a71ed74312801c1c6af92e0fbc63c773c17402e32e65b8f5009e50b8feec8d6",
+    "token": "BAT (BAT)"
   }
 ]
