@@ -586,5 +586,23 @@
     "value": "2,456,473.17980750844706359",
     "hash": "0xb61966827b11b5920f9dded5f837e1daf761b8c0897d6e7edf8561bfbb911e9b",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,982.99994154",
+    "hash": "0xd0e996f9b9c225000b4d1ef02585e87c35ad824792795498d301144fd90ae9e2",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,467.339107578491630787",
+    "hash": "0xc6f7bf3471a8c4e196e181091eb21c7ba743c4b6cbbf6ff19ef686518b144ac4",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,010,032.857051631508369213",
+    "hash": "0x8d8ec419b69a18513ce29b3c78d6af7f9250189d1b7afb0b62bf02970664557e",
+    "token": "district0x (DNT)"
   }
 ]
