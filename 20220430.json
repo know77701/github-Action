@@ -670,5 +670,23 @@
     "value": "354,162.395",
     "hash": "0x8f0a86ce2972c0d1a21b5fd47784caa3148beb1001bb69bd49a4aa0e640a62d1",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x47c821114e25a943d629a7b07ae1f9bcac130f27196c3b314d60856c2d5c6827",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x56b1e61b9290cb91abdd8144309f98efbf7eba201e44198ffcbacfda88dab495",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x760fe4c2eb878809b0c73b8a73b7e73f707c675bd2823353fd94b3adbaa41321",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
