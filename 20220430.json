@@ -982,5 +982,11 @@
     "value": "208,847.415828",
     "hash": "0x2cde566676e97c73c783a6b5e61ca5dc176ce3e363452ee224dbf6b6e6f1116c",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,426.92405239",
+    "hash": "0x345d411e0369a3f6898b7b1a5b27cae47d799bc30bae3779c0e47ea0144c4db1",
+    "token": "DENT (DENT)"
   }
 ]
