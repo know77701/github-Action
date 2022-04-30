@@ -622,5 +622,17 @@
     "value": "20,316,426.92404867",
     "hash": "0xfaa4b74b59042840032a7b8ecc79a2321d9592989e1786c4c15d88cfce42f111",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,121.793744828742030578",
+    "hash": "0x93dbc0b8ce56a4f089ae1255b8ac57c4ff277e7ae327f54b3f622af4d9dc82dc",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "227,015.045",
+    "hash": "0xa7a1d0ddf7d7dff9162c97812f7d64c7cae455be440d43e3a43191924b74f380",
+    "token": "Orchid (OXT)"
   }
 ]
