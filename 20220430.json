@@ -814,5 +814,23 @@
     "value": "68,969.98682",
     "hash": "0xc304fd32fa45f83db2449303bae43dd939610105ef8dfb63e345dfbbc6486941",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,299.33994526",
+    "hash": "0x5129e49ff9e6fa92b5d5537b93fee5097a02135722bbb6ea9cefef8804e4d712",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,824.14559424",
+    "hash": "0xb14ec9f973883f0842512a81e4912146f8778facfdc10cc4e99de4a2f62856b9",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,994.66670837",
+    "hash": "0x27bcdb5763efb9da0ef43d8058470d620d5bf32fdf22d1f8b1280dc51b721e70",
+    "token": "ZRX (ZRX)"
   }
 ]
