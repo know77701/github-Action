@@ -1018,5 +1018,23 @@
     "value": "404,918.99995673",
     "hash": "0x2d2a99b4f2c7f2757b5323612173c19d71e7f763b0a11c005ae3599f84e52765",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,188,859.674208595032050039",
+    "hash": "0xd3df3f2a3b26072eea725fa02a38053a5ff42f6ff8563b3b4cec587c183b6eeb",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,521,779.409907964967949961",
+    "hash": "0x224af202515bbec2a4d8a16f12d8aaee80abf8348aae1a0a340530c9c37a406e",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "405,630.82668209",
+    "hash": "0xdf90194dfbaedc0b128a586b66574e5d14f73adfbe1332a23b997e907bad0435",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
