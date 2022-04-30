@@ -952,5 +952,23 @@
     "value": "20,316,426.92406479",
     "hash": "0xc500665f165474cfdb4d6712a6c093f14ce4a9b68868ba62e0f7df7e4e66ab4d",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,045,003.756627550719307115",
+    "hash": "0xf690af8e0e7e90db9c525a1d5fec4a4d71a5744eb313ea9b08fe38de6e9cb730",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,450.5867",
+    "hash": "0xe3edd8c0dd567277013a3e494ba422ae24605c47d23b1e7744e730aea863fde9",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "550,472.537605929280692885",
+    "hash": "0x9c8ac3ee8444a4e86a0b3a1c74e50fb1cd744f0b32c1e6c78d8b63031595b2b2",
+    "token": "district0x (DNT)"
   }
 ]
