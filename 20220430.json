@@ -802,5 +802,17 @@
     "value": "168,478.160276651024564108",
     "hash": "0xe428074d1551bdbfe4d35f643a2d47342365524dd0955a40e1a944295a595da5",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,240.48517346",
+    "hash": "0xfe10a99dd060b4c57d752084d0fad69de95b51fd0880c92d03957c0a887d4560",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,969.98682",
+    "hash": "0xc304fd32fa45f83db2449303bae43dd939610105ef8dfb63e345dfbbc6486941",
+    "token": "PowerLedger (POWR)"
   }
 ]
