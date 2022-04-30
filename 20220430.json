@@ -538,5 +538,23 @@
     "value": "700.827833320077469918",
     "hash": "0xdc46132333f4d55f6b173cf6ebf19c34b7ef441bf268651c7a8ad510b8616192",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,790.162",
+    "hash": "0x3eb4705b5c5ad8cefd77bd53113101a850f51af3e401bdc8fbced3bf432da5a3",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "808,651.01723803",
+    "hash": "0xf60c20f977db2c13b9c51d17bc268068e9f5f304eedae05ef8806daa515ff658",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,333.2687837",
+    "hash": "0x26c01ed726dfa9f87f918d4418bbd67c615c03e3fb2b1f7e51a1b61751dddd84",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
