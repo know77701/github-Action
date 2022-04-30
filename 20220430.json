@@ -976,5 +976,11 @@
     "value": "149,914.99998679",
     "hash": "0x1a71ed74312801c1c6af92e0fbc63c773c17402e32e65b8f5009e50b8feec8d6",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "208,847.415828",
+    "hash": "0x2cde566676e97c73c783a6b5e61ca5dc176ce3e363452ee224dbf6b6e6f1116c",
+    "token": "PowerLedger (POWR)"
   }
 ]
