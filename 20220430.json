@@ -244,5 +244,11 @@
     "value": "4,498.141",
     "hash": "0x4308441cacb826a7aa8b90d6f618769c8106309cd169972f58e179cd5ba1a369",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "822.808344518048173528",
+    "hash": "0xddbf3971bda8d0f5aea67e1c29b18e949574879fb6660d70a892004827f6b77a",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
