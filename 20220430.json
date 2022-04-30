@@ -436,5 +436,53 @@
     "value": "139,098.97223",
     "hash": "0x599e4311a221bd637763a53844039d3f49b474bf735c5a4cf222e44e51c5647a",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "405,065.462379083343068947",
+    "hash": "0x1193854c5b94e46de76c09a5bcd5815b2deebc412699ef1abb1f1d86b01452da",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd55bd8da7d502abe48c3da893d0d431c2ef198234fa891cca76117e07b9bdfca",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x838222ebb9a7038f2f51db45db94c3640319acdf61c6b29a8bd81fdc542bae97",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcbe681713ed2c50d307ac1b08bdb916cf6e99b5260bd86832e6095b88f773a01",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "488,626.49420434",
+    "hash": "0x5621eab05d1e8ebc3499a4653e875bb8198441a679c5d0f1222e4b598cdc06a8",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,400,411.36771641",
+    "hash": "0xc99d8318bf800087cad6b9e0ba44ed9e3f73b6411b61efbe40673b2e2c068d95",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,334,000",
+    "hash": "0x77cd8d8246f1ab339d5af37fc96006ed3597a45989dc55d74153bb507f8f1e87",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa04e14c9a5f0ea0cd7619564a39b2109a82c32be72576d413f7dcaff3b6cb13d",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
