@@ -742,5 +742,35 @@
     "value": "2,000",
     "hash": "0x588ba987392c94bd558afcb75a6d07eb8cf11d94bbf6fc045f2a23697d526e79",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,551",
+    "hash": "0x61871293a4222d0f66119627f3f9c8623abce2945e3b51bbcb6f510b8f873776",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,131,164.845116687769290559",
+    "hash": "0x2b83bc405228202445405d5354d261b4bf8553c8ad442326d3d57b07c094f14f",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd7e9ea774041a1e091a32c66e52e4808cbf6f4a76651a9582ea5c0600522152f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4af20b4b248d20287edded4431a231466e0936578f0f7fadf0b48334d9b04304",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "557,422.911596142230709441",
+    "hash": "0x34186884de5f6e551526d91762b3f4c980eabd5e5cbf188291962909cf905bd8",
+    "token": "district0x (DNT)"
   }
 ]
