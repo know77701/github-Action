@@ -292,5 +292,29 @@
     "value": "17,941.29991736",
     "hash": "0x51f8ade17d7ab56e50959a9b58fabb02ebe81d7a9fe242e6228406e36e32cade",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "385.029301035486413614",
+    "hash": "0x6c8a2061234ffc4071c7e7f8ee81ff44faae07a4cc9c60c091856f2622303a2a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,993.770371814513586386",
+    "hash": "0x412d776bf81ae3e44ef41c5d21ee041110bec551999c7e5cf67d4f2bc6be9837",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "635,179.761014278341928803",
+    "hash": "0x6d37c09cf370963a268f70919da81d008c188e460d5686a6f14f85f32735998e",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "619,447.234099051658071197",
+    "hash": "0x028cddc60fc57a59f3d755739443a79a53e028f47f71ca540f2b6208619e24b4",
+    "token": "district0x (DNT)"
   }
 ]
