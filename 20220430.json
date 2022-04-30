@@ -988,5 +988,11 @@
     "value": "20,316,426.92405239",
     "hash": "0x345d411e0369a3f6898b7b1a5b27cae47d799bc30bae3779c0e47ea0144c4db1",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "253,718.95196729814139015",
+    "hash": "0x405e0d5ff0784e8e36552feb6b67b54054d420c3c83476723aa759d92977e2be",
+    "token": "NuCypher (NU)"
   }
 ]
