@@ -508,5 +508,17 @@
     "value": "650,724.030583456656931053",
     "hash": "0xdedaf787ac9db09837376084f0e4e6cf83f3cd97e75c55433fa3da5a0b857421",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,426.92402232",
+    "hash": "0xe36e31232c9bc34b79f0544722bb05c00511427feebe4afaa94e7b5218a2d7a0",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,299.33994278",
+    "hash": "0xe857b5f1ea3307a2c1f3b51253b5dddc17f73a4680d70ffb8ddd3df1ed70c68d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
