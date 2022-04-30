@@ -484,5 +484,29 @@
     "value": "2,000",
     "hash": "0xa04e14c9a5f0ea0cd7619564a39b2109a82c32be72576d413f7dcaff3b6cb13d",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,024.1696003",
+    "hash": "0x4d7915ddb0fa4f2a9159372723e6c059a7f49362ea7e61376d00d5fd511f4bf1",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x0a50503ab681374f7e1a628b75fd94e9c75576b11f572fa303c4d2af32d0009d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa227a7486872afbab91a3f4ca60f7247f5a2b6f48ece2a5a914fb492e42078b6",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,724.030583456656931053",
+    "hash": "0xdedaf787ac9db09837376084f0e4e6cf83f3cd97e75c55433fa3da5a0b857421",
+    "token": "ZRX (ZRX)"
   }
 ]
