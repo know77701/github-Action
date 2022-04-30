@@ -910,5 +910,29 @@
     "value": "168,202.05344936",
     "hash": "0x0751be99bca941d1e598c9adc837135dca48319e0ddd4632515d96a37a51a12b",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "764,563.08754836",
+    "hash": "0x39f51c8a20cac8c6d80fcc0d8cfdb5593a837c889e382758cc52fc565649d71d",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,447.43345",
+    "hash": "0x01b7efb636f8e96dd736b894c8c97d40db6652798bbe9c5cec8c9acf4ccae4e5",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,820.15892263",
+    "hash": "0xe34540ba2fe3127353f79e611e7b519c40ffd5eeebb6711270e50cf45a1d10c2",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "243,693.99988525",
+    "hash": "0xda94b82129098f5703b7f51d7b8c60e09d76d0649c54fb45515ed3ad22ab5292",
+    "token": "Orchid (OXT)"
   }
 ]
