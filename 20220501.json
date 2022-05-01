@@ -190,5 +190,41 @@
     "value": "146,083.250752554660110666",
     "hash": "0x2358de1f84b990bd78d7f18d366621fa95f332e992fedebc115c0c41b92bb881",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,675.226258819796833505",
+    "hash": "0x455f61a1d64f619c1399caa8038fb58064c9746e3731c1e059af8e55d3129898",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,088.049081685017810123",
+    "hash": "0x2820211876ab91d1e3c380c6b9c05aa9a550ddadc67a4574827ee21e85e8bee1",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,285.561242765830290844",
+    "hash": "0xf23a74e3029b20560e3eb686857233d4312e2c87f92e9bbfe904d62bc5fa5c8f",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,658.924659495185356372",
+    "hash": "0xc9afc26171bac3b2de18563f82f8b789d6fd04ea3b28a86adb80b5c687d36e9f",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,478.65602386",
+    "hash": "0xd0f9fae8723a5813fb85df0d43e594460acf427b1c40908f92bfa539056dc2f1",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,761.704519013849091791",
+    "hash": "0xa45b671efbfb0bd0e8be23bd96dc195cd90e70296dd2cb8f83282ee6cd9d3335",
+    "token": "ChainLink To... (LINK)"
   }
 ]
