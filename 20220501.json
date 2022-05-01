@@ -478,5 +478,47 @@
     "value": "644,000",
     "hash": "0xa11577558f72983fc5f3ff9beeda6e47df173facbadb7b3a9a439243e3700657",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286.848",
+    "hash": "0x2b25a14c98d9c72ab71ceb04a3dcfebc33258d37cc8daea290edad2e7c8d829f",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "317,974.134477482767014172",
+    "hash": "0x29772c146a4ed1790cbd884f1b81be4d7c48facb6a5a9d29dcf9019a4b208124",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "151,994.787386636582078557",
+    "hash": "0x45c99f1ec9ffa6a6a3b7eee4e98d33a7223f0cec2865fb1dc60ca15826f4d6d9",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,313",
+    "hash": "0xc2e01079330577938867b94de81e764bc651757dd8d8af1b7138ebc4928d667d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,443.806778",
+    "hash": "0xedbb198b67ba388ae4c498939a14b400d83f8f8f08154110976cde6f8086ca13",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,017.92401735",
+    "hash": "0x0113c3a234a939d34f00be33a2cae6308cd043d7d0a0a22324bb30dbb36f8277",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,799.97396851",
+    "hash": "0x8ef97e2b5a947074fbb83ccb48aaf52ce0f64974e2cfef668c240fa86410024c",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
