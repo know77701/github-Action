@@ -442,5 +442,23 @@
     "value": "102.23058165",
     "hash": "0xa9ed51d6cd8a238e3529cd42f4196e37af890fab0bc72e2c227bd2cd6e8b2dfa",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "869,014.464824250012029054",
+    "hash": "0x0ffc0f3d36c0d399170aa2b751cd43841d469bb0d54c823e106ec60d2f33667d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,008.435429",
+    "hash": "0xc4cbb6539f54e94c3f8d1953bdb8156ce469948ec56a780e27a3be9d24ae2802",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "356,418.736377429987970946",
+    "hash": "0x2633fd1ee12d068a75b37d6dcdc4a39bcf6a589236a76ee5b3422e25fc4bac0e",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
