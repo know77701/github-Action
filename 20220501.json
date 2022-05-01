@@ -520,5 +520,17 @@
     "value": "14,799.97396851",
     "hash": "0x8ef97e2b5a947074fbb83ccb48aaf52ce0f64974e2cfef668c240fa86410024c",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,849.06",
+    "hash": "0xd21a66611f13a7fb445ac6e11e679b08862b020a18e0d2b74ebd254007d4e35f",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,614.972208",
+    "hash": "0xa09e0aafd54d54bf136b1ff0959a5b6e500958674809a72cf079ec61b53ceceb",
+    "token": "NuCypher (NU)"
   }
 ]
