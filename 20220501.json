@@ -358,5 +358,41 @@
     "value": "97,100.939879320379406717",
     "hash": "0xa6fb0c1457e396dcf1451aeb1ea5a422eb90d412ddaa1bdfa5ac39631bf13b34",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,217.818556732611175536",
+    "hash": "0xaac8d33204f48180584119834997b31aeef27415e2b208814b9898583c24ff59",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "819,799.99998153",
+    "hash": "0xf33c56cf63b507706db0e8220bfccda2ba1edb502e2dd0d5ca05e7cb515e0dc4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "360,802.835046577388824464",
+    "hash": "0x2004700f519d611c14e1fe8e66e28504edcfc15193cd120dd07ba67ed92f6123",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,069,861.844986208212709146",
+    "hash": "0x867e904571373246d4c245de8e8022f56c6373076abd4005db3026019bad534a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "264.06",
+    "hash": "0xcd99de8fa370468b51139c4157ecb13dd4fbb522e5a09f986e19edf12617e47f",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "303,935.947210339235130612",
+    "hash": "0xd14aeb8bc17f1cea50abe7106e0f08dd3164258321ee47429c52f0d385f4dc19",
+    "token": "SAND (SAND)"
   }
 ]
