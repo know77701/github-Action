@@ -610,5 +610,11 @@
     "value": "20,316,017.92402634",
     "hash": "0x32eabda3912d12b93d0c791c7583e0349b01c0005201cc3d1f03b94dfa30c346",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,755.29633599",
+    "hash": "0x0d7ca9e5ff1f805c2d52ce5f70c156b89bfd6144b04331ec13589fb180907a8a",
+    "token": "ChainLink To... (LINK)"
   }
 ]
