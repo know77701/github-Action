@@ -244,5 +244,29 @@
     "value": "28,302.933696992252363891",
     "hash": "0xe6cadd4e3c6b4daad07e313cd40cfc48a3f1c0b6accd7d9be78a0b8576ff624b",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x8366395c320feeb12daef0f80d046d8b2da5ed2de55761f86b0d83dc9b0052e5",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,146.16025207",
+    "hash": "0xc76a9d2761a39486586e372c0ffc0c28a24ca0c59a3cd985907e9adf3b312f44",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,249.163045347750020443",
+    "hash": "0x164a4c0104f3c9ff06d75687ec46323aadb51cbfa8d5c3c7fead50d7d4165598",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,409.991332552249979557",
+    "hash": "0x05bd8cbe05a0aad58989528f74924032aa3ce93404f877519145c10c54faf067",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
