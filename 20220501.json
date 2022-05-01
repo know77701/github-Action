@@ -340,5 +340,23 @@
     "value": "284,016.625",
     "hash": "0x529dad49495a398d1badcd1bdb66827827ea039894c014738e178393a4873fe7",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,728.351103893663671574",
+    "hash": "0x93070aaf71a972fc2de2efba0d3fc24e2856c58982c3ec0fbad08bd156be700e",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,252.51546",
+    "hash": "0xe6ec1883106f530965141d882cd40a631b4555eafca203b62f256c7bc5c4713e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,100.939879320379406717",
+    "hash": "0xa6fb0c1457e396dcf1451aeb1ea5a422eb90d412ddaa1bdfa5ac39631bf13b34",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
