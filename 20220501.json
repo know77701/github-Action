@@ -586,5 +586,17 @@
     "value": "38,322.273",
     "hash": "0x3b3e2aca0d78e4eeaeb5b2146be0908fd89f90cc2ac969d41b18888f17420e94",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "575,837.18561",
+    "hash": "0x8f7ab2c211e89e08132094658216e51e54e184cbfa4b97da330943da33a08fc7",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,187.99981209",
+    "hash": "0x97713b3ea84e6a803965831bc4060aa38c7a676d0540a40aac3d526730661e72",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
