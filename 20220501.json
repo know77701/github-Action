@@ -568,5 +568,23 @@
     "value": "3,849.22996292",
     "hash": "0xde1e590050f0dc876d52a155aa128108d65fb42ae513b07eaf24db12be239227",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0x7a16a9683e4afa9fa50aa0093f8cf87c6c8b803d932fe3998370f00747332095",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "626,945.50158816",
+    "hash": "0x36566cbe0a44180058203958c52e376bb8147960f3b605970815dfef3c091b14",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,322.273",
+    "hash": "0x3b3e2aca0d78e4eeaeb5b2146be0908fd89f90cc2ac969d41b18888f17420e94",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
