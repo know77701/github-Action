@@ -670,5 +670,17 @@
     "value": "105,842.1453682",
     "hash": "0xa5c8dd965c341941d47af539845505c69f3030482d31c6ff7924fd9364ed1d3a",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,155",
+    "hash": "0xf6328dcaa95b8075a611614149309a26e0d9d7bc8ba35352ff1ba869d5bf4f58",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "249,946.992108",
+    "hash": "0x9d7474bb1e38107119ed43c718f55147a7c7e0e5a37f7198e679785471e7380b",
+    "token": "PowerLedger (POWR)"
   }
 ]
