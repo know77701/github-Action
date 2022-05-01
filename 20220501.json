@@ -334,5 +334,11 @@
     "value": "20,316,426.92403534",
     "hash": "0xa5a587dff99f5c1dc0c6848f9be3d419bb200834faf6976566eacfb4cda231d7",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "284,016.625",
+    "hash": "0x529dad49495a398d1badcd1bdb66827827ea039894c014738e178393a4873fe7",
+    "token": "Civic (CVC)"
   }
 ]
