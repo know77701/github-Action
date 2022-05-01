@@ -430,5 +430,11 @@
     "value": "797.0294",
     "hash": "0xcb5df09ed0a6a19c670e009cb1a4ebe02e605536eda26ffe24d8dd8149786c1e",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,307.03263999",
+    "hash": "0x58d6e634159483fcd74c029bdcc3e20f74f6f498eb9f5b8ec5419aadfa197009",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
