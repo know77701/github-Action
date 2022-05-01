@@ -598,5 +598,11 @@
     "value": "22,187.99981209",
     "hash": "0x97713b3ea84e6a803965831bc4060aa38c7a676d0540a40aac3d526730661e72",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,987.99996943",
+    "hash": "0xfe80781310a46b472c8e39147dccb079b5aa8935f820ce879669d795b757f27b",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
