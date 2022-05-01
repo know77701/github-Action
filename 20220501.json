@@ -724,5 +724,17 @@
     "value": "1,301,182.8",
     "hash": "0x09b4d3c75da0debe226103301a1d6ec915baddaec74abfceadf4cd5c425a1d8a",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,557,522.7072705",
+    "hash": "0xd5236f43a3fa96140e86f0107876a1d1e8e4b5fcd79380ac4c88a489b6080b2f",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101.27750118",
+    "hash": "0x7fb0cbd2cb5713aed008e6cc2bee685d9be54ce267faae53156c34449d36aa9f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
