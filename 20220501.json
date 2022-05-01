@@ -298,5 +298,35 @@
     "value": "90,376.131841714810194758",
     "hash": "0x44dc05435697265bfb904111cdbd1291bc9a2b3121260d4f19320bb1de84d7fb",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,177.395062",
+    "hash": "0xa2263722d43df5897e41112119d1d2377688be4f6b5e14817ee4596a29489846",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,705,032.983090659986063947",
+    "hash": "0x9b83ae6f3ca71f3bbb8476dc9f4658a2fd289428048f9853781d3bc398fdb54b",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "581,137.958252730013936053",
+    "hash": "0xdddc5fbc7287f6a51c5a97f45d35744c4f83c0892e915c8b022a29a002bbb2ce",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,007.07205053",
+    "hash": "0x9d6efe6f308f43251762519c2819516815593b77fb8f908bc663d86aaa08b03b",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,612.19217997",
+    "hash": "0x6680add7a577eaca019d6c2a926b98f67c6e5f1ed2a9c3f535057e5bf0657e56",
+    "token": "Uniswap (UNI)"
   }
 ]
