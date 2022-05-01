@@ -472,5 +472,11 @@
     "value": "116.990631",
     "hash": "0x367b226c729039c8a72f00604f3ab286693d31158fc045ffaf833f0c5ed33863",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "644,000",
+    "hash": "0xa11577558f72983fc5f3ff9beeda6e47df173facbadb7b3a9a439243e3700657",
+    "token": "Ankr Network (ANKR)"
   }
 ]
