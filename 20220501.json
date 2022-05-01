@@ -178,5 +178,17 @@
     "value": "142,581.6",
     "hash": "0xa0e168efadfa14ebdbbe573a9519538d05d8076d80944c169e4adbaaf89ebf3e",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "451,219.089397122021668326",
+    "hash": "0x7aa1fdeece3ae9bbcaaba5effe3fe7fe6c2ec70a83c1c0686345b29d73e34b80",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,083.250752554660110666",
+    "hash": "0x2358de1f84b990bd78d7f18d366621fa95f332e992fedebc115c0c41b92bb881",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
