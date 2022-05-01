@@ -640,5 +640,29 @@
     "value": "799.59987626",
     "hash": "0x0eceaa64256b8b9ce5ca7ab7e8268a2bbb8e5e20985fea41642e7231b2e79451",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,475.26",
+    "hash": "0xea60cb53f5872bb3192ad7f5fec79d84eaccb293619e81e16cb9aabfd1c6f177",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,640.2593775",
+    "hash": "0x75b3dc68119008403e98c127b1077b8ced72e27bf3fd9332eb2d09a890f5cb2a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xb2267861beb1b470f380f39b82342a0190b33c57958d148dad69b6935ae58c78",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,017.92404494",
+    "hash": "0xbe9207666240781d00a179789e23244afd0c2ed342d6542d7e84d6836e4db04e",
+    "token": "DENT (DENT)"
   }
 ]
