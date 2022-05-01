@@ -328,5 +328,11 @@
     "value": "5,612.19217997",
     "hash": "0x6680add7a577eaca019d6c2a926b98f67c6e5f1ed2a9c3f535057e5bf0657e56",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,426.92403534",
+    "hash": "0xa5a587dff99f5c1dc0c6848f9be3d419bb200834faf6976566eacfb4cda231d7",
+    "token": "DENT (DENT)"
   }
 ]
