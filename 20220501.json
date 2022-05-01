@@ -232,5 +232,17 @@
     "value": "36,355.590649835840213057",
     "hash": "0x772081d4c2cd0186a3d461600ee64c1ecaeae938810c657dad11adedafba78ab",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,734.657399",
+    "hash": "0xdbe5359d4dd836672a02ecfef9f3fb87564a968852a784fa40af1ac535fe6776",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,302.933696992252363891",
+    "hash": "0xe6cadd4e3c6b4daad07e313cd40cfc48a3f1c0b6accd7d9be78a0b8576ff624b",
+    "token": "Immutable X (IMX)"
   }
 ]
