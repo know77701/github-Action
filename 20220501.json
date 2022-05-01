@@ -664,5 +664,11 @@
     "value": "20,316,017.92404494",
     "hash": "0xbe9207666240781d00a179789e23244afd0c2ed342d6542d7e84d6836e4db04e",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "105,842.1453682",
+    "hash": "0xa5c8dd965c341941d47af539845505c69f3030482d31c6ff7924fd9364ed1d3a",
+    "token": "Storj (STORJ)"
   }
 ]
