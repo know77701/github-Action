@@ -682,5 +682,11 @@
     "value": "249,946.992108",
     "hash": "0x9d7474bb1e38107119ed43c718f55147a7c7e0e5a37f7198e679785471e7380b",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x6ee4c6c79f9e289fde2de82ec307ce7037f7b6a1776bcb0d02bea8842c7b65f0",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
