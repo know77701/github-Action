@@ -604,5 +604,11 @@
     "value": "71,987.99996943",
     "hash": "0xfe80781310a46b472c8e39147dccb079b5aa8935f820ce879669d795b757f27b",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,017.92402634",
+    "hash": "0x32eabda3912d12b93d0c791c7583e0349b01c0005201cc3d1f03b94dfa30c346",
+    "token": "DENT (DENT)"
   }
 ]
