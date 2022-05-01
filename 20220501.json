@@ -712,5 +712,17 @@
     "value": "129,423.259677399774713282",
     "hash": "0x996b372d087cb2eec6be4274d6c9466d4953348f5c89b7953a0e795f8fb57fcd",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "218,428.32256336",
+    "hash": "0xaf0bd639a01fcda92cc9ed09e002b2c6813138457bee223f4d461cca9bfc9f36",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,301,182.8",
+    "hash": "0x09b4d3c75da0debe226103301a1d6ec915baddaec74abfceadf4cd5c425a1d8a",
+    "token": "Ankr Network (ANKR)"
   }
 ]
