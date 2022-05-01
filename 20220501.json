@@ -274,5 +274,11 @@
     "value": "223,124.54292728",
     "hash": "0xd2068b39cbfb9449b261ba93bcc048fd879815bc49c7b4a288b0e36548a0adfd",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,982.1749733",
+    "hash": "0x3f86267eacd5a236a2251f2a7f342769844eff55bd359435533bcdeac5d45e1d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
