@@ -154,5 +154,29 @@
     "value": "1,656,125.540953499764306906",
     "hash": "0x4572b49b09d6846ea2f813d87fc9c9c89b26ca1e367881b7051c799cc8378568",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,557.685248389162268756",
+    "hash": "0x42d64c22e68a5a0ffdd2e1e10f21683c041c19e95175de55fc9da714eef805f1",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,812.073042380837731244",
+    "hash": "0xd78c2a7d21ab6ad8932b4af72dd411d4717001a80ed8c0291ca2c149062c9071",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,635.110072600675510275",
+    "hash": "0xb62290da3449036f6a373f754425664a25f4b08efcc890e848b73eae8f6ecd5b",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,581.6",
+    "hash": "0xa0e168efadfa14ebdbbe573a9519538d05d8076d80944c169e4adbaaf89ebf3e",
+    "token": "Storj (STORJ)"
   }
 ]
