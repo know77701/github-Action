@@ -280,5 +280,17 @@
     "value": "11,982.1749733",
     "hash": "0x3f86267eacd5a236a2251f2a7f342769844eff55bd359435533bcdeac5d45e1d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,169.725595025189805242",
+    "hash": "0x49ef737dd6f7bcbfde6f44df61f1e8efb1ad8bacb2057f9b56678b7bf004a7ea",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,114.06",
+    "hash": "0x0405dca08a04952351c5f8944b346d9bf17f7f63b5931a62ed6280af9be3e81c",
+    "token": "Mask Network (MASK)"
   }
 ]
