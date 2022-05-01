@@ -226,5 +226,11 @@
     "value": "13,761.704519013849091791",
     "hash": "0xa45b671efbfb0bd0e8be23bd96dc195cd90e70296dd2cb8f83282ee6cd9d3335",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,355.590649835840213057",
+    "hash": "0x772081d4c2cd0186a3d461600ee64c1ecaeae938810c657dad11adedafba78ab",
+    "token": "Immutable X (IMX)"
   }
 ]
