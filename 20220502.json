@@ -592,5 +592,23 @@
     "value": "1,000",
     "hash": "0xb532ad4fb8d962ddaa0d441231b99c1534f5ba72b8303fad4babdcf0c4960fc8",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,616.17042931",
+    "hash": "0x0c159cc489d12e64743825f6e8fba26d81d63e48ce3bfefa3ad7325473f0c21d",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,638",
+    "hash": "0xed17e832b6e0fa31ce866153cca38b10409d496cdce73ba6920e951d69b58cdb",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,428,578.22762344",
+    "hash": "0xd37c7f5ce389890e9dc5c4dd90bec020981ba0b9ef24ce41dd9aed1262d7da3a",
+    "token": "Ankr Network (ANKR)"
   }
 ]
