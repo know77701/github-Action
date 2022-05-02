@@ -628,5 +628,11 @@
     "value": "38,366.76",
     "hash": "0x30d245c74e71891761b38656b3faca7c7d6dab61d49ff1f83b855af8dcf31b78",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "628.389984746158584609",
+    "hash": "0x79acccfc3f6ca13e9c038eec66a98bf8314a59787c4385ee99f343f59b84360c",
+    "token": "Aave Token (AAVE)"
   }
 ]
