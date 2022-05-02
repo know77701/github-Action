@@ -466,5 +466,17 @@
     "value": "170,682.681271663500820924",
     "hash": "0x467e7e9ebd91bde0b6bc7a351d856fc23a80fb620256c49ab5487c8172862874",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,398.363292",
+    "hash": "0x3eca3232ee2ba04cf2a3964d1b734aebea9272eb1c55d61a12ac15468a7e3dc9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,149.26647284",
+    "hash": "0x2b6b4f6dd7f91178d2f488087cce5c3494dba40af43097d706dfc6e329ba7763",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
