@@ -844,5 +844,17 @@
     "value": "2,000",
     "hash": "0xdcbc972514018fa7bd37f898c87004fde98f330471f037ddafd046e160a2c7a6",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "711.454100829932471178",
+    "hash": "0x9de64c1cdfb87f530d28842173758621081da4fb04690339bef2cba0d3e8ba34",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,053.8718217",
+    "hash": "0xaaca043cb7fe7a7a79fd6531a22f9c4961796f0cc3938e4a3572d7c13d14d831",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
