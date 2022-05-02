@@ -556,5 +556,29 @@
     "value": "20,316,017.92406758",
     "hash": "0xf29cd5e7b99f1af2038764f77a99f5f4114d05d84c4c109223c9139a6658f023",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,232.94712",
+    "hash": "0xe989626e3930bb7ab5c6e830251b72e0241c2193c26a8ab2d633089632bdbdbc",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,277.80970632",
+    "hash": "0x0713813386725dd7e12f3c9d0c4198a04a327161d1567b2265b4ec84eea23b48",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79.68710535",
+    "hash": "0x45179ec7312599c1f6e467443bda9dfacc4d986f05080367b4dd41c1ebada132",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,570.482",
+    "hash": "0x122bb6e99b91137559cb684381b89d0dd63c6cad863e7d12d301737fc9e6d079",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
