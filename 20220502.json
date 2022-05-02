@@ -334,5 +334,11 @@
     "value": "108,345.635077093320770848",
     "hash": "0x8cab0d40a7a7113c2c2dca48434e51a89ea65baf57bb865612bd6fb6be919a63",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "740,528.763735643248661089",
+    "hash": "0x012c978ed41c3ad458bd8492c46fb7869d4dc0a29451b3142192d0b1aa53a9df",
+    "token": "district0x (DNT)"
   }
 ]
