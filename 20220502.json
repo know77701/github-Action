@@ -340,5 +340,23 @@
     "value": "740,528.763735643248661089",
     "hash": "0x012c978ed41c3ad458bd8492c46fb7869d4dc0a29451b3142192d0b1aa53a9df",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,894.773686428289091791",
+    "hash": "0x90bc518aeb0405e72c08905d4af3f2cb612cbc46b3cd1dc0dc475cd3368e0865",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "513.62491408",
+    "hash": "0x6dc53992aa4c14b2393b2f15079b829d1621f5584272327c81cafd1e1a4982c9",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,545,494.177627286751338911",
+    "hash": "0xae0aa38e83badb43ef53c6c7052aa0f4c948a93350316bc322d6b6624540c325",
+    "token": "district0x (DNT)"
   }
 ]
