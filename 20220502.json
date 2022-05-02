@@ -856,5 +856,29 @@
     "value": "75,053.8718217",
     "hash": "0xaaca043cb7fe7a7a79fd6531a22f9c4961796f0cc3938e4a3572d7c13d14d831",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,000",
+    "hash": "0xabc5b8f7de6dd5e42c21bd7f453c2dd85e14683bbc6c6d3f2d5a94c2e3be6054",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,617,321",
+    "hash": "0xb68979cca3efb8ba6415fee203d9d423a522087c206204f40efe5a64fa0538e2",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,033",
+    "hash": "0x075fe4e81b37075a05bab77bd9c08dcffc3fc78bb19282ce19d154aba6e667cc",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "323,625.69832956",
+    "hash": "0x4b698a95270c9a2f00f3b33e0d6cd6b779b6c96dc765f7d77906911a89fa1078",
+    "token": "Ankr Network (ANKR)"
   }
 ]
