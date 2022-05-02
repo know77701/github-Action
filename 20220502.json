@@ -586,5 +586,11 @@
     "value": "33,003",
     "hash": "0x524fb96ae5ed055f9530f15f0675c9c20350b7e18a26dd1be7c81ee43522431c",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0xb532ad4fb8d962ddaa0d441231b99c1534f5ba72b8303fad4babdcf0c4960fc8",
+    "token": "Chroma (CHR)"
   }
 ]
