@@ -538,5 +538,23 @@
     "value": "190,646.134923082769741039",
     "hash": "0x7f9f337d95b2c335fdac695a0b683142dea0bbd1d422d75074bdfd60685dc320",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,632.54983475",
+    "hash": "0xa18fcf0b162fbdfe16b6130f04533885dc98cf3941f2535ea72399b37db45dd0",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,562.81717238",
+    "hash": "0x1906c600e3c719c3a2b56ec69408ad5e991dde457f8f0648ac164c1383c4e822",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,017.92406758",
+    "hash": "0xf29cd5e7b99f1af2038764f77a99f5f4114d05d84c4c109223c9139a6658f023",
+    "token": "DENT (DENT)"
   }
 ]
