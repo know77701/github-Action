@@ -202,5 +202,17 @@
     "value": "199,918.27672666",
     "hash": "0x75f8d7a269914c1b9500d044d6db7cef13a7a723593cbf4ece9bf7f99c2047a6",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,074.99982387",
+    "hash": "0x0a39d5cee4c0552e3a320a818e81021ee2dd0caf4eb160c74fbffa8427305b2e",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299.23",
+    "hash": "0x66312da5720d5da6e909ebdf55d7465e74d8ffebf542a7e8b494a2a94db1b95b",
+    "token": "Immutable X (IMX)"
   }
 ]
