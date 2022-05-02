@@ -286,5 +286,11 @@
     "value": "26,144,509.07873734",
     "hash": "0x3c4c383776ef13c77c2b0f1b81a4498139d0f3a6712226f0f777e9d4679f73c9",
     "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275,124.686",
+    "hash": "0x74b0c193c7d68f64537c8f29b93851aa59f1e7eb8091ea0bc387569376ab32aa",
+    "token": "district0x (DNT)"
   }
 ]
