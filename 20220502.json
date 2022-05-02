@@ -238,5 +238,17 @@
     "value": "2,965.806",
     "hash": "0x7485bcd2c9b82289eef842ca55233f14f2db4ee3650ac3a173ea2a240f3e532d",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,089,149.02604634",
+    "hash": "0x16939f34c673c36f2c6d9b43cc4aab654f46dce215a69ffe04b4b7a0ca106dc4",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,935.99990124",
+    "hash": "0xa2020a1d78174f44234f134d8fc5922744361727164d34d958f111ac5b17f65b",
+    "token": "Polymath (POLY)"
   }
 ]
