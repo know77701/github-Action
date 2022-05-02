@@ -610,5 +610,23 @@
     "value": "1,428,578.22762344",
     "hash": "0xd37c7f5ce389890e9dc5c4dd90bec020981ba0b9ef24ce41dd9aed1262d7da3a",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,782.56585175",
+    "hash": "0xce04b3ee227236bd37edbfd8f96ae53f91951ecebe9307bc51af933983565441",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,322.99981364",
+    "hash": "0xa827a1fd2630c7d780517359bc2c740bd7e3f469d1b36d39e0c98cfe735ba3be",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,366.76",
+    "hash": "0x30d245c74e71891761b38656b3faca7c7d6dab61d49ff1f83b855af8dcf31b78",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
