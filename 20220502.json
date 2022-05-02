@@ -100,5 +100,71 @@
     "value": "219,668.61545185",
     "hash": "0x945226fc41f2ac1c58ea00c85d2c13d06cc13086179ccde58c88d11aaa744464",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,325,351.92405611",
+    "hash": "0x837a6b9bbf555ab62a2262396818401fa4d0f3736dfe0b3775ef013ad6df2edd",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "768.90979381",
+    "hash": "0xdce94ecde9ad198603421bc639ec0ca981451785f374b4d301b93d0df694bb37",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,970.261638103973612536",
+    "hash": "0xf2d15eb90a1f2cafbc672efd542b6843bf9fca0c0e35305427156eb07e433465",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,981.298263436026387464",
+    "hash": "0x7ea39aef9d0cb167279de1b31d32e77cffc7f50cc2af33f5f4acb0058b947af7",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,873.37",
+    "hash": "0x9d7b50d0cbe2adf1cc5e92f41af06371abaf82672afa9fb5a6de8bf95dd38824",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,742.611514190840873602",
+    "hash": "0x22fc3130e06cbfc81a1de40541c360b83286770a3e1750ab0dcb172fc433933f",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "331,639.501407329159126398",
+    "hash": "0x955a1b62101b75e4aa561df7c574b1785f6c7ea43a79f56797562a482c1bf33d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "309,644",
+    "hash": "0x2e543fee9d3017de913ee8e722787339bcf851c00d68ec973bbfaeebeeeab968",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,868.694",
+    "hash": "0x255ed33e026edaccbf0a2ea95199f4fa23458714eb092d037ea3a20d9e932911",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,060.19127471",
+    "hash": "0xf7bb66a2bb8698873211f3e76de5541be95196a6345f6b31f9e76f2b54b51a48",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "483.82998015",
+    "hash": "0x5898137f6288e8925d972710d047cc520a4424398bbd7886290116493816439d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
