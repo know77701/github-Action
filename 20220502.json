@@ -166,5 +166,23 @@
     "value": "483.82998015",
     "hash": "0x5898137f6288e8925d972710d047cc520a4424398bbd7886290116493816439d",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,632.14",
+    "hash": "0x37d6cd5182ca41c144d597333402367d8e6b96fd0b0892edb307e30ad946feda",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,370.4127",
+    "hash": "0xa94919ea5d8716454e175e9a80e978435c6dc1209590c52a748526b5c2195478",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,838.464",
+    "hash": "0x936847f9fcd7c60b965aad3cd12df950d276dccc51508d3136c1f18acbf404ad",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
