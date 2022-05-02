@@ -670,5 +670,11 @@
     "value": "11,000",
     "hash": "0x6d853f126df3c805e998e3cd1b5a5f9804a828b3cf5ea47ab4f1fa229811ea33",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,686.364185",
+    "hash": "0x780693ca87951d7557155d0b96304bba512073cbac96f23a360f8cc4136f36c0",
+    "token": "Serum (SRM)"
   }
 ]
