@@ -730,5 +730,17 @@
     "value": "601,581.20121818",
     "hash": "0x5e0af1830b15b4124a596b6e11f63a8241a8b447d1e24d03e27245ae382825b1",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,100",
+    "hash": "0xd0566cb161cc86b37e416efd8a981a0b3d30860e056b16b09e55ae1116aa9aff",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,650",
+    "hash": "0xae7ddeff72131c78c50fe1cc5513a9840383b687eb2febf7f86ed9c8d8f6370f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
