@@ -898,5 +898,17 @@
     "value": "4,108.93278975",
     "hash": "0x4b50e59ec5373bbcf6817d93c55927d0866030743ce6acac6029e5baf0b76c7d",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,787.99997223",
+    "hash": "0x4b12f4171fb8ecdce8db3daac87eecaf403a627c21f12bcbf8c8d7fea99eadab",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,466,185.63497967",
+    "hash": "0x3a034cf672edba8d1d74899cfce69fab8225c9dbb4255ce8200fb367a491ef63",
+    "token": "Mainframe To... (MFT)"
   }
 ]
