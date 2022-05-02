@@ -754,5 +754,29 @@
     "value": "165,977",
     "hash": "0x982abc2dbf3143aa3efded875321a35625808892ceec821c2f46a9e89e59df9e",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,832.064879",
+    "hash": "0x9f1b70319a2ad67c42d1082b2db5b616fb5501c3ddc44a1bd0b173a36a5b0ae9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "204,865.8430147",
+    "hash": "0x9ed4eb32406ed87ec9d3c74109287e18c89c7ba5d55370f0746a14b908796b34",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,121.651",
+    "hash": "0x15ed936d5c8931675c382096a1f199ad8fb0984ef15cb6e495e17afc6924c3b7",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,494.5",
+    "hash": "0x8d60c2ec2735a0071190a12194ccef342a31adcc2bd2457765a8911486a76540",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
