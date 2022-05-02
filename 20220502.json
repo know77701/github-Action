@@ -424,5 +424,47 @@
     "value": "138,080.7401124",
     "hash": "0x9e3f18975a93838678f6107aacbb36a20e23aa66b04a33c5cf7cbc2a2ea7bd43",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,386.989510828431096869",
+    "hash": "0x6afdb8d7850404f6fdc33ba099bb1963916d29e10b13f5a84603631461fafcb4",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,322.978818051897725958",
+    "hash": "0xda4cd4396374ec7cc91a84714e63af88b64b0ac98d8f9eda4dd0cc6efdec7489",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,001",
+    "hash": "0xdcf701a7564df820dd96c05aceaf09d9ef1f4071845f88546002d36cba88c613",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,343.85864153",
+    "hash": "0x28cfcb95b67830938f675e9125d9f27c02d00046e4fd1124a35eb98497603392",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,915.18166726",
+    "hash": "0x1e47a0a56d361c65b74921263b1272f58c5b3412a8b0950c4df7d02891f1d8b9",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,916,566.63496602",
+    "hash": "0x1889f0f656e692ecbb137fe5052a7c7d38fddfda59535ee150572a27139cf3aa",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,682.681271663500820924",
+    "hash": "0x467e7e9ebd91bde0b6bc7a351d856fc23a80fb620256c49ab5487c8172862874",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
