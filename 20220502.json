@@ -514,5 +514,29 @@
     "value": "3,217,679.037607019652741153",
     "hash": "0x29be67320aa12ed08273861b85518a2f4b7b015f2a4f8a3bc230d34e4e38eb53",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,935.9999031",
+    "hash": "0x2b908be177247753f483dd9e8d501190b6625d4961d21d367bbc01fab4fefa37",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119.75973972979966903",
+    "hash": "0x87b0b2977241dbd8047825e2da01e7d9213c0e977df071e211ad943557131593",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,570.80216888020033097",
+    "hash": "0x9f734f88492c79f7216936a945e38cc7636b0a8da2f04673f60378d4e8c1231a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "190,646.134923082769741039",
+    "hash": "0x7f9f337d95b2c335fdac695a0b683142dea0bbd1d422d75074bdfd60685dc320",
+    "token": "ZRX (ZRX)"
   }
 ]
