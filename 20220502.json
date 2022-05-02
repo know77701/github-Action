@@ -658,5 +658,17 @@
     "value": "1,770.14067843",
     "hash": "0x23c0eae184bc947767da7df00176b83a267635ea987798e57279ff83c4474506",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "910.03",
+    "hash": "0x4dbc936c1bdbd18af77eff44687837abb55f7be930822828156aa0647bcd4124",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,000",
+    "hash": "0x6d853f126df3c805e998e3cd1b5a5f9804a828b3cf5ea47ab4f1fa229811ea33",
+    "token": "Serum (SRM)"
   }
 ]
