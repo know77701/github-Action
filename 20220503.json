@@ -286,5 +286,53 @@
     "value": "28,366.53992883",
     "hash": "0x86d0e0e252e5d9a802c957420fa6cb253e46dd97ef4e69c52d8c400b5c512309",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,647,096.6807",
+    "hash": "0x1f8e2c1469a40b35c9aeec6445219eb81a4ce42a15ad9ee59849ad331ab8658e",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,972",
+    "hash": "0x548616f76a9066e083049f8fb5506c13ba743f1297a09c2ebf5ab62ca8e4c616",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,720.62403773",
+    "hash": "0x1b0ab4efa2b303c7a0c4c84a8177cf58afe3336653d6185b94f6610ad078d8d2",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,619,021.88669338",
+    "hash": "0x581ee0227e2aca06024552a9687bab7f584de5d5033ad21a154fa7ccdf40b016",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,343.53863782",
+    "hash": "0xe956c857b5344fd1dd972dd89cb0a2f24f548b82bb93d021cf48eb99739b1d31",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,120,684.897096709197669099",
+    "hash": "0x338eded19005b384ead5701d588d5f2499efb1e80e0d27bfc1863d46f845aec3",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,656.881340816866939351",
+    "hash": "0x0c6f3b708fb9cf1f16088aa85730214f0ff233b82aacc8873c505618d1cd6cb1",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0xf3abfcdcf027bf2b409da1a330791f013a2458b56c476eb13cfa26d5b5b81462",
+    "token": "ARPA Token (ARPA)"
   }
 ]
