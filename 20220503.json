@@ -778,5 +778,23 @@
     "value": "592.140523707406806311",
     "hash": "0xc5c4b3c854ccfd9dbf28f6f75c1c405ccac6c75f4b49a6203cc646bc3c4da754",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,846.475",
+    "hash": "0x41b89cf1d25422dd189fe3cccbf50de23224a3304b00e4fa8bd6223f86666227",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "653.5",
+    "hash": "0x2aba21d3fef5095c3bd5fae8d1730ff8691174a9f612c3e0fa66d69b12c2ccf1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,343.53865394",
+    "hash": "0xe278da4588b61158cb5003d143ba4527a44379bffe2b22a7730b3d1a79d9cbd8",
+    "token": "Gitcoin (GTC)"
   }
 ]
