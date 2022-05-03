@@ -658,5 +658,29 @@
     "value": "1,983.97031638",
     "hash": "0xefea6478020489c94b817ae4cb03d612b9c0c93cbab2eb5ba2f3c1c51791ca32",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,788.56113",
+    "hash": "0xe84323d3d0d437f983d8005b6c186a9e420c461673a5ad03d68063c951711254",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x32baf7ec649d9e208986008fe96c54c129eda021738b7ed7594b8682c91540e0",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,409.412079007704479646",
+    "hash": "0xe1ea5e15ed3d1d1a79cb299d9a55120485acdab0f133ae7816974a54f3c50fea",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "674,142.18036561",
+    "hash": "0x0107c5f2371796c6345ce17d6d5c6d966e8fe54eab1f64c196af50cdbd9c8ea5",
+    "token": "ARPA Token (ARPA)"
   }
 ]
