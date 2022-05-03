@@ -1036,5 +1036,29 @@
     "value": "68.30483316",
     "hash": "0x1acf4d9686a75ed0550431bc28d3366ad07f26e8cd6b57917a3cfccc452df6e4",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,911.524",
+    "hash": "0x7fd0edf63a151ef9edfcbb05bd619044b17e69f6e0d59da882685589fd2ac104",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,555.23696",
+    "hash": "0x2ab713cc6282d0186c71a42b772d3ef4645a8457441393e49c7bab19aa4300d6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,018",
+    "hash": "0xb5444078b67f0bb0e54732832a282b37958d36a43bcc0ca772fea75790b1a475",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,949.805",
+    "hash": "0x01166018c7be3a48b9ed32f2e6c5c2da3fa6d25eef60574581f6a098509c73a9",
+    "token": "Civic (CVC)"
   }
 ]
