@@ -490,5 +490,23 @@
     "value": "965.521292905797343359",
     "hash": "0x131da8704e04779051a1cb42981f15dd798d10d1b2859ddf657eaf84a72eb5a8",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,245.983",
+    "hash": "0x71ec814d28697c71c3559b998e9a800ed63d4c2fe07b290c4cef67fa2b4ad377",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0xca560ce1d9841f3753bfeae7d61770705ade815bb3a00ad4906857fd5811da36",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "603,127.81097014",
+    "hash": "0x425cd1c2d72923e9e9c88a8afa826671bd41c7d79974897eadc1766b5fff9bc1",
+    "token": "ARPA Token (ARPA)"
   }
 ]
