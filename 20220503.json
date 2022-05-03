@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "56,387.99994216",
+    "hash": "0x0dbf795b647f9c210ec1aad66c1e5547cd72df38504478c9f3b84b3d27262f89",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,224.99984896",
+    "hash": "0x06c80034a99153fea3780de8159c0ea9b7644140c22e7b58936d9e1bbcbddc2d",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,815,647.94134339",
+    "hash": "0xb00276f4810b5942cb05f907622be3e93e4a88425a96fafaa2a22afd850bb8bb",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,360.890132465683456315",
+    "hash": "0x70ad2248fefaa81faba7bda206560d5cf5e7e936950b7021d805cda951b14ca0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,382.447175924316543685",
+    "hash": "0x13886d9c20adecb7e45edeb0e9c565d1183518eab8583876bf3a18bba5c2f919",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "389,656.88780837",
+    "hash": "0xd9dcf62281bef0ce46bec980db466d77dea5754dbbfac31bd049651562af977e",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,479.9586127",
+    "hash": "0x02f23c81b6ccfa54a830df415580a1bdec2c9cd66fb440d864f8053fd05774ff",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "136.46994371",
+    "hash": "0x633c09ff1fa5aa489135c96595dd6356b65d190e321c739e7d5d4873a227fc32",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,237.40065580894616264",
+    "hash": "0x0dae9de8d4041fc0be402a684b3ae9d62b630c2336222f0882e644c3d1372a71",
+    "token": "Render Token (RNDR)"
+  }
+]
