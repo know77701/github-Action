@@ -136,5 +136,65 @@
     "value": "573,386.4943",
     "hash": "0xc16064d25f2e8f171b8e1c3970749a5e11d9f3f475f245d141b80deaef5f6287",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "213,373.463689",
+    "hash": "0x9b1624f929ff9dcff51caf7c67f28cd31602ef7473842563410b026ce618a354",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,953.290963154894107393",
+    "hash": "0x7738763e3a20ec6e3951ca172851615841b6369b6fce08f82a67ae98a8fe374c",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,481,361.10962",
+    "hash": "0xc19f322919abc38a11f6565bf595f5abac9a1cc3fd6bf2f50505ee886be755e8",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,546.88911545646286788",
+    "hash": "0xe49ec6298672958e4df3950dfc2e1f04450da162016628d4ec9dd6ce51fdbf49",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,437.194277865105892607",
+    "hash": "0x25f3154b1663a99c858ef809cf329e9607ea18d5913ce2186b7a7a36e7588ec3",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0x8a8229230635759106d04c30ab7861779b9e042ac246134d0e592e8559e148ab",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,100.26928684353713212",
+    "hash": "0x4753955c9e8d036611d5442fd5199c67c6dc46967afa2c238b87fa311477dddb",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "596,265.86666632",
+    "hash": "0x0da4db7ecf499b99a458d7daaf1288d7c0f763c9916e35da77614213894a35bc",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,036.19201705630105666",
+    "hash": "0x60c0e905c7e8be6cc8b371a5e613ad99149b7cd9f41cc7eb61346542b9f2bbd7",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,659.342381",
+    "hash": "0xfcfab02236f41c2f42aec30418f80ded3e39bd62c1c97db004f270f5980d29b2",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
