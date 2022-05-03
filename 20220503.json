@@ -910,5 +910,11 @@
     "value": "46,799.082",
     "hash": "0x0f4399ae8fee457b9d8001561af071915d75184c758d831c00486d57e184389c",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,554.66404972",
+    "hash": "0x6ff90531cb3f30f3ebc28b059eb7107e75b1243410a133dc4efdf3fd247dc6cb",
+    "token": "Matic Token (MATIC)"
   }
 ]
