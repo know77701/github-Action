@@ -1006,5 +1006,23 @@
     "value": "21,884.6",
     "hash": "0x70a8ea4b851b679878a5015ccdd053aa388e5d782e32d79565de24c43fd60c17",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,498.99998804",
+    "hash": "0xef945f29372af3746a4826e69f87793e0e15f2c5bad31592b2034b604bd283c8",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,704.20064963",
+    "hash": "0x1f19867f540c4395629177a736501a5f2aad2354f2e8146c02fde62b93c2c20d",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,257.56",
+    "hash": "0xe14a1f4b45e73188d5d0f92f907e52a3fd8f67375f5e183d6f2cacfaafd9b48b",
+    "token": "Matic Token (MATIC)"
   }
 ]
