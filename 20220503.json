@@ -640,5 +640,23 @@
     "value": "119,420.23215828",
     "hash": "0xc9cd9765f07d09dd8f084fafdfcfc4733088b15890148e310b0624958619cd9e",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,684.8630967497778353",
+    "hash": "0x33fa32c56656af0c70f909f4ade57e03afca771c759bb3b03a9291538134362d",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "323,759.4828705202221647",
+    "hash": "0xafe535b75b25087435de56c1b2afbf489948c2b657849d2380bd4392b1191b31",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,983.97031638",
+    "hash": "0xefea6478020489c94b817ae4cb03d612b9c0c93cbab2eb5ba2f3c1c51791ca32",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
