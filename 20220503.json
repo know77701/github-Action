@@ -946,5 +946,35 @@
     "value": "20,315,724.92408928",
     "hash": "0x90426ba822f5cad5134f9e3d6bb6c61e075c568b1e585bd8793bdd64eb3117b7",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,062.41308959",
+    "hash": "0xa5fbe08dacb8c46cc0e1553ee67f6bd58417e84d142e7c3232f29194f3783843",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,343.53863255",
+    "hash": "0xb78c0e8454472d8b5799093bb9cb9463fd1737f30b08560ed342b2413825e72c",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,536.03997719",
+    "hash": "0xc32e5dd9465fd538f83432c657321c832808f1c907152e7039f2c52b9da68862",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,681",
+    "hash": "0x137454cc44ad30cf67b925bb2df583c971084fd19883cf546ba1e7a2faee3c11",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,695",
+    "hash": "0x8e80710e979502add7acfd42991244f6988045db1c40272ceb21d9270cb8da3c",
+    "token": "Matic Token (MATIC)"
   }
 ]
