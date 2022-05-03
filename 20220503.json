@@ -1078,5 +1078,41 @@
     "value": "46,139.423675233838258797",
     "hash": "0xa04640a6bad7f6ad5c305f83b87d054853ab21aff62994db413c3a7d36c64372",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "118,126.24501996",
+    "hash": "0x17178d769c295b5d14f37294250466803a8bf05b7bd67fe405ddbafed1757abd",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,611.29994836",
+    "hash": "0xb3afcbcff850425691a59023e23e4a0642c211113b904ae9fea8196fb5d60290",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,801.971451",
+    "hash": "0x28e078ac1c4617400e775afea46f2bdec8700d1f62c7aa9bc40786f06a286fe3",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,508.35451311",
+    "hash": "0x72a6dd4e21f5f886bd80772fd9053a471f01fb76d77d9886cd5b799af94186ea",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,617.252212296848018382",
+    "hash": "0xdc62a1659d87b5f5c516aaa1c16d916b6f9514ebe88b122b7a387c74b96af7c9",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,115.515834898448741477",
+    "hash": "0xdb2266db0186681e5f5a0519801753bfbac12b2be2ddee4023e87eb91dbb0ceb",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
