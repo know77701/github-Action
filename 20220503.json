@@ -538,5 +538,17 @@
     "value": "1,078.562798983561575646",
     "hash": "0x9509eb872ebde14509862ba6ae7af4d4729cb8a5153a0e9307d871a69fdd8ca9",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,456.023257495457256683",
+    "hash": "0x068f16cd0ef7253fe9c680478aade79391d726473faace9a146a3d1d3d077731",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,688.791742504542743317",
+    "hash": "0x4267fb7c246f84bc9cc18faa15cb54e625623a50bb59c2de23b2af9bcc47ab2b",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
