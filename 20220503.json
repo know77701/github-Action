@@ -598,5 +598,29 @@
     "value": "799,402.30497719",
     "hash": "0xf0871da96240b6445828ebb58ba29a335f46fd02a19afb63067a69991874e5e0",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "269,972.99996138",
+    "hash": "0xdf49eeb07b4a23c82d7dfe6d5015a099c5612f3755aa6bd4d4320d2c8796b77c",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229.862464527815985076",
+    "hash": "0x6f36012275aea325cbd3dd5290b0d405f2add22bb52dc37650cdf232bd5b9504",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "509.737397162184014924",
+    "hash": "0xb7c87b6393f16994f13cb165177015c2b6c663f880548d78978776635055f523",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,041",
+    "hash": "0x654eeee54a4ab6b4fc5b7d27d1b0c3b9fa2daad8bfe7890b9d75651e245a918f",
+    "token": "SAND (SAND)"
   }
 ]
