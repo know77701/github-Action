@@ -472,5 +472,23 @@
     "value": "5,386,028.5767",
     "hash": "0x85d5c1db4136327ea8fef2e4872626842b34d85fb778221be5133ad78878fbbe",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,920.55943508",
+    "hash": "0x778a40fd81c3a84e9802ca31c5342e9786a3e8ee2d43136d45b36548cfcacdde",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,587,048.73339999",
+    "hash": "0x66ce24a85ca96f1c2b778090427c9650845be2ff5a3c9b11b5bac23eaf8a9dea",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "965.521292905797343359",
+    "hash": "0x131da8704e04779051a1cb42981f15dd798d10d1b2859ddf657eaf84a72eb5a8",
+    "token": "Aave Token (AAVE)"
   }
 ]
