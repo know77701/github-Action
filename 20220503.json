@@ -730,5 +730,29 @@
     "value": "91,977.45840434",
     "hash": "0xdb171c6cf97306f4a448a2b85b0004074bafe129c0b188a20e0967aa9eb627d4",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "407.859476292593193689",
+    "hash": "0x0ca211738f3532028f8b39f16bf6ad416f2929d6aed37c9fa752de9d15097fde",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x3ef865ada23db0c14cd991abb2f76421859a6714bc16b46d5ca787961ece739c",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,989.898",
+    "hash": "0xfd47de1bfb315f45aad082aa37e8eb9ac37045f7e1c59b0c5c8afec73fe02361",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,030,036.12822778",
+    "hash": "0x4ebda22f4e005aa4ef8f76cb15cbcfda921c789aa46f4cd8732b79fb17f90728",
+    "token": "Loom Token (LOOM)"
   }
 ]
