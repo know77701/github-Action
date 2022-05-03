@@ -1060,5 +1060,23 @@
     "value": "254,949.805",
     "hash": "0x01166018c7be3a48b9ed32f2e6c5c2da3fa6d25eef60574581f6a098509c73a9",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,699.52786292",
+    "hash": "0x46b71dd157d55773734b90334e9a0cec89550db067545fc0112ae80e9904a1b2",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,757.626778431551258523",
+    "hash": "0x1888ac071dfb752c0b8d67d1835cb01dee5422a969c0f502b61a9e9eb557642c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,139.423675233838258797",
+    "hash": "0xa04640a6bad7f6ad5c305f83b87d054853ab21aff62994db413c3a7d36c64372",
+    "token": "NuCypher (NU)"
   }
 ]
