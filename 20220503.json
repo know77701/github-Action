@@ -844,5 +844,41 @@
     "value": "74,984.99994805",
     "hash": "0x7c4740923f4b4753c1dc10d493218d9960fd4feee20bdd7414b1080e1f49f3ef",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,315,724.92401364",
+    "hash": "0x7fa0168be7af42526ff9c367d397be6686dada135d25b7bcc6f6dae328b5c973",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "531,964.90399269",
+    "hash": "0xefcf0056ae4e60ec2075e32ea4f1698bdc4df52ee9cc0647184ab0c770d38b42",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xa6e7ede522baf21ed535abe2bb55392a162ce80e30f7b081c32d79348dbbc8fb",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x09e4f31cdeafaa0ab299cefd3acc66bf871d8145d1631f0fefc1a8df8a6ebedf",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,031",
+    "hash": "0x56cc0f297f82eb8826e93785a6bd403e055ea704bc5b9b0e9d2d9c3ddeda99e0",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "796.357993837420761905",
+    "hash": "0x2b020419b3541e30bdba75ca837b706a66b850ad2d42184a4acf827021a5e8de",
+    "token": "Aave Token (AAVE)"
   }
 ]
