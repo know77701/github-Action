@@ -796,5 +796,11 @@
     "value": "6,343.53865394",
     "hash": "0xe278da4588b61158cb5003d143ba4527a44379bffe2b22a7730b3d1a79d9cbd8",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,738.72493012",
+    "hash": "0xb251b9d35046a0741a0fa84aa3a93cf369ec247aa58cca1ad321d13d91020aad",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
