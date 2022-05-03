@@ -976,5 +976,35 @@
     "value": "61,695",
     "hash": "0x8e80710e979502add7acfd42991244f6988045db1c40272ceb21d9270cb8da3c",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,377.801406785604789496",
+    "hash": "0x37154c34d4cd242c1d44c8c61a9555619a9135e33a90becef61956298000fe06",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,613.672742293486119595",
+    "hash": "0x0e6f8c213aefcffdc8b3ad192ee3638ffa53eb1b15457dfe924a9fff145801a3",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,730.880582326168417864",
+    "hash": "0xd5b6672e7782403d780937b9a55661aa5a842e44092db1b0aba233f051528787",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,865.51321488",
+    "hash": "0x94dc93b60fa1115a52059c6609f72faa93acff53a2beaadf33c22a1427eda90c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,884.6",
+    "hash": "0x70a8ea4b851b679878a5015ccdd053aa388e5d782e32d79565de24c43fd60c17",
+    "token": "SAND (SAND)"
   }
 ]
