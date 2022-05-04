@@ -418,5 +418,11 @@
     "value": "239,318.07919916",
     "hash": "0xa6ed551799c28ec01cf5af1f83c7b9b573f218207a94af1d764fbdd5bb60ebd6",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,052.90406296",
+    "hash": "0x2b63a00910ef0ee60c70fa2203f46870437637011e63b7eabf65c60e0203a247",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
