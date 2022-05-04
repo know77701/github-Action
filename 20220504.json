@@ -352,5 +352,29 @@
     "value": "43,484.99980248",
     "hash": "0x8097e1ee5822bb4d7f3775429afd99b67c608869d9f8382d153088bcb67354a7",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,627,955.56187691",
+    "hash": "0xb51d55c86f20576aba0c5498433b28e07cfc07d27c4a614a62accbee758f2a5e",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,400.552",
+    "hash": "0x622c819ecb44ca0075c5833e4d58273feddbc55ff2225894fd1b0c665f79c445",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0x0d57657c15b0bcbec403b508669488e167088a7c201d0e94621a8c4ca673e837",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,935.343362862972206571",
+    "hash": "0x664707ac78f05a3f05b409a6e7c1e2a17b09a57db29e050a79e33b4eb6bc1789",
+    "token": "SAND (SAND)"
   }
 ]
