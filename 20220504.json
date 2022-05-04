@@ -148,5 +148,35 @@
     "value": "4,351.783734583655841081",
     "hash": "0x880c75ea6d1e3ab1609161ae466b42d926b258879c4a8b1122b2698409ddcf54",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xab4d78c33f73df3f8fddbb434f512d5a01cf980eab0e7f3277e110fdfbd02f2a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x9535d49c6f35d174e57493f374b7e8ea2cfa0a6c739b5b96d08f647e1c929a85",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x0e81168621a69703eae8733087a199572060928cb82004d6075b4e80f79ea5bd",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x39930ffc413564a696f3a9f676bf2375f8762180b564876f8d8484b835b296fd",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xac0ed66f5b9ab09a3a96ac72d382a872e9bfff40f8537b86bb54a5fd265641f3",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
