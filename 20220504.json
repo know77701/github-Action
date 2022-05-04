@@ -538,5 +538,23 @@
     "value": "17,314.4",
     "hash": "0x71069aaaf5feb218ca361bd22a7f7234ec9f1328d01c9fb491aa9e6edc248a5c",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,019",
+    "hash": "0x7d2a552157fc236469b99095297ecffe94e4103fdf0f3700792a64f865a83869",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,935",
+    "hash": "0xd46404071d8665299c1e34c4ad7e6308a03ad39ab777e8e9b1439273ba865202",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,890.4",
+    "hash": "0xe84ade692a346adb7bd4ecba5a5044690d8ae3e9fc792e666270c76f0c2c86d7",
+    "token": "Serum (SRM)"
   }
 ]
