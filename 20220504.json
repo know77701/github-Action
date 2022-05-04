@@ -376,5 +376,17 @@
     "value": "189,935.343362862972206571",
     "hash": "0x664707ac78f05a3f05b409a6e7c1e2a17b09a57db29e050a79e33b4eb6bc1789",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,159,314.353065777523042019",
+    "hash": "0x6f2e9e29d434f77bc4c5442b65146cbbba28706956118eef834a8367a6d0abab",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "192,087.86076",
+    "hash": "0x68faa8b20a7ce47cc18e9f9edbc10f10b14fb7b1538f440fa509cfa211eae4cb",
+    "token": "Chroma (CHR)"
   }
 ]
