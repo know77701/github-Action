@@ -442,5 +442,11 @@
     "value": "16,836.72347",
     "hash": "0x84d13644b315280638ef154b83e0106d69981555b55e3f4b08af75a813851c6a",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,464.7509605",
+    "hash": "0xeef64bf77ece0d04784ff4e94d6e20a1189a1532584b41b829c2dada8eafe5db",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
