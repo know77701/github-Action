@@ -64,5 +64,23 @@
     "value": "2,000",
     "hash": "0xe5c777928f823889a6467ab9a09045906cf7e89df2f9677abf7bd53060bea4c3",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,797",
+    "hash": "0x22f2b8e596cd4837ea3ce712ff4362e2347d95f5da955cca2016ecf2cd4d071d",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,023",
+    "hash": "0x4f414fcae6d33cd3102cc083cfa3447e0ec9c47fcdcb6c0b5ed94aad914d4790",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,729.01186479",
+    "hash": "0xd939c0816947398c6bd9d52bb17cde605c3a42587f5a1fe7720820abbbcd40f0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
