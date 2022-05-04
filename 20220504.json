@@ -124,5 +124,29 @@
     "value": "340,701.70172041",
     "hash": "0xa6c7506538bb53fccd9eb9c76961e4e59611cce53a5329c7f46896a16845ca6e",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf07b6f9a2640dde592db6349c2f9da23a327fba3c456623c946e61ca0922d5b8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x513276855e8e086a2385d66c7b2d70b1ca912f609b4333eb173f787f03c1dc73",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "743.129312666344158919",
+    "hash": "0xdb32123842d7560d368d632b9f44e98680a6d8de16b302a9fbff7c4144c303a1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,351.783734583655841081",
+    "hash": "0x880c75ea6d1e3ab1609161ae466b42d926b258879c4a8b1122b2698409ddcf54",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
