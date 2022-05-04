@@ -232,5 +232,23 @@
     "value": "2,000",
     "hash": "0xf0bc2c88864fcc44c2e092405dcbdef755943d810f9797efe9852f2a6331b67b",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4e1a157e0d02ab4ed78c08ff08f8104a14659f8e1e82b54916f30ea60d0847ad",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,158,136.99986894",
+    "hash": "0x5220310f0c4aeabfb18621f5c6ecbea9c3f0ed3e89eb3e3c3d612bd5ac1d9396",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x07da4203c3a15e9c0d1fb7bfb3c99e2e679339e302c0c7cd6745f530cfc12356",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
