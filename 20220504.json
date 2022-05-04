@@ -496,5 +496,17 @@
     "value": "4,372.109792646273841081",
     "hash": "0x5ea2ca288fa971113cde797e43da2272e585f78311e89a57f8d6cbe57e944628",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,762.112",
+    "hash": "0x4ae86e398fdf969f3bffe1fe900adf6da8aa1f7e04dbc3e5c2eecbe1d9ec9534",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,188",
+    "hash": "0x25a49f60f57df1e383295111248d158a9ad660c2ae92f43340855bfcca3a21e1",
+    "token": "Serum (SRM)"
   }
 ]
