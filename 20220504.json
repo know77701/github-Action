@@ -82,5 +82,41 @@
     "value": "2,729.01186479",
     "hash": "0xd939c0816947398c6bd9d52bb17cde605c3a42587f5a1fe7720820abbbcd40f0",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "679,446.50181798",
+    "hash": "0x5108567f59518eb4aba52b40df33c37112ed9f87d0a163f139a62247ccef0574",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,374.487066389312805355",
+    "hash": "0x7b16723f3c44d72c0c0d0c7b883a7b933d6a6deda0d10484fe981327409b6deb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,339.6392",
+    "hash": "0x6ea0e939fb7d944dfac0fa33ec0b704bef7fe7486f7a368c4d073928d16177d9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,587.99997192",
+    "hash": "0x706d8ba55f029da3a70cb64764043083cc9dfb3a67149be8d5471b7a1ae32ff5",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "283,865.273182280687194645",
+    "hash": "0x2f5413f423e1d66e7c5c080872998676658dd79c609f88332d8fb182c4209f67",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,157.92404712",
+    "hash": "0xf8d47c6a3d8217c8606bd887978706dc3111612f54eb8bf774ebc0fc8e794855",
+    "token": "DENT (DENT)"
   }
 ]
