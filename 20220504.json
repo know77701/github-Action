@@ -388,5 +388,23 @@
     "value": "192,087.86076",
     "hash": "0x68faa8b20a7ce47cc18e9f9edbc10f10b14fb7b1538f440fa509cfa211eae4cb",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,701.500729294137158919",
+    "hash": "0x0470d110ea23fb3063a7d9d4eea46b2e89b5d949dedb217407e19f9f695b9210",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,090.29374962",
+    "hash": "0x6711349f0bb54f66d3f11cf1fc5a47785d14e2f0a286986a81fc8070af5992ca",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,364.016643005862841081",
+    "hash": "0x6e63805e51bee29eaf48131feace40b71433f7651f5f5bc028be414a90056d8c",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
