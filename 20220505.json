@@ -916,5 +916,41 @@
     "value": "642.966780592371806311",
     "hash": "0xa2df315bc83ec05b8201883935cf0e51b35d6a55a71760080493726678380ce8",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,402.89989362",
+    "hash": "0xa6d29fdedb4bf211c40ba7a309f211b150744a8907e87d93aa7c6b43c51323b6",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xb86eebecad2ffd567a4570e6808c996473012b3ba4c84f19a5a2d498cdebe4cb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,135.79272986",
+    "hash": "0x8bd92e6e67b2a06b618df852f08b219656e09293eea412bfbdf1e4f28789d635",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "216,995.61262958",
+    "hash": "0x54d828651c01b42a4a64ee4cf7b8879f4e9900a6af46e64cb34f3689197b97d6",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,880",
+    "hash": "0xf18777ab525567ddb6dc65fd105c88a0dc66230e28009336d58d13413b77e402",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96991395",
+    "hash": "0xb93c486cd2cc56b27c9b1887134a6267ee2bff7a8af79d05f6062eb59a5349c2",
+    "token": "Compound (COMP)"
   }
 ]
