@@ -334,5 +334,41 @@
     "value": "76,685.32602976",
     "hash": "0x2d4d97f3613c2717a330965be4b9bfc7d6aa1d9af4164840aee4505b84eb65d1",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,388,602.50526417",
+    "hash": "0x8333843be37de4ecb92a590045cf83d00d73e9ef307b0e9edb09c70aa063c38b",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,777.9418",
+    "hash": "0xf0914c63212b2498fbbcb8df1f74ebf83f8ad975f9752f67f8568c8bac5960a8",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18.138572130000001024",
+    "hash": "0x159348ee2fab42cccf7d3397dcb02e69bf920fb26e5181c89a4af780e149cdc1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "276.52401719",
+    "hash": "0xe1296f3a9277adcfd562e42d726cde3cf3d00d2108b077db3911bf83fabf23ac",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17",
+    "hash": "0xbfd99f0d53ada75cec15d6fa991e89f71d77decfa3de8a44c6140071885712ad",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,427.92407501",
+    "hash": "0x98d8273639755d69cae268e6609371ec6e06dd2fcb12a52512affdc2b1b0c67f",
+    "token": "DENT (DENT)"
   }
 ]
