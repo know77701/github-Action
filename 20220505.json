@@ -1096,5 +1096,29 @@
     "value": "37,041",
     "hash": "0xb22083d795fbb7fb8c03fd1e35597378f094ab28801e7b3d9f635d583617b551",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,427.92405611",
+    "hash": "0x1ffcadba0b1693c0653a1c1de5948290a769eb4925d03bdee1e86bc17fb7b192",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "267,817.099645881618741477",
+    "hash": "0x2cc820952149c5df25f1a0f6e8215e08f16040abba62e6c135fe36f01806ac83",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,074.339774556954621819",
+    "hash": "0xcf9b178e141df29451bddb2a695b0631188a6a80eab1abc5593fece1245d2284",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,521.962277968381258523",
+    "hash": "0xf62ac19594eb5ba34f8c4f45f199dfa430a7b87df0874bbf385db1a65c14b61f",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
