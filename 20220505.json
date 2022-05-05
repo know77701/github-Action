@@ -586,5 +586,23 @@
     "value": "15,119.84195601",
     "hash": "0x009ad33261e5ad1b899a7892287b499558a9a67bb2a25e0cd561473d7c376da9",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "361,096.16201919",
+    "hash": "0xe5ea8c1af223db1e6f01131bc9abc1ebbe59821698a483d74f45f89386d0faac",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,117,816.08526801",
+    "hash": "0xc918357cecaef9f7babe950cf296f0d10d2181d548d98e31ab6617af7881aa2a",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,797.28552263",
+    "hash": "0x8e16a3dd45f47875f5b630bb64e60ee7806190cb44665b14056a791c866e01e4",
+    "token": "BAT (BAT)"
   }
 ]
