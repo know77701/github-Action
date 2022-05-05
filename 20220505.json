@@ -244,5 +244,17 @@
     "value": "4,488,930.997174026880387432",
     "hash": "0xc74f02ab983f4669b0aca10b7fb4b3977dac26843a708a77d9cc20caff5839d7",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,427.92401271",
+    "hash": "0x0df3dc7c2ee40660c940c0578fffa79dbf01d78c8c0a25a9216ed2e214af67e8",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "656,544.10931638",
+    "hash": "0xb117019a3ef36cc8408d618d4d3eb278f1d83caeb57ea7539b75fb9a1d58946f",
+    "token": "Graph Token (GRT)"
   }
 ]
