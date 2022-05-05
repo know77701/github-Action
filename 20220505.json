@@ -298,5 +298,11 @@
     "value": "208,000",
     "hash": "0x22993c9ce54285a75028834e7b3339cad53346149aad1f32df12174e1e7d4047",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,205.66994423",
+    "hash": "0xfe8eb62de16069007a9dd8a7942bc95122bc164c535fd6ef48ce549e73d9579d",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
