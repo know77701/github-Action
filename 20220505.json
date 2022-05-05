@@ -1,0 +1,44 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "2,116.85924016",
+    "hash": "0xbfbdbc8aea3fe0f5428d15dbd468a3564151a5f622e28bde9d0e2bed7594b028",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "325,155.16356961",
+    "hash": "0x523f5c3c575f1915613600fff3df580a4b14758950a2826697ba1069a434b58b",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,441.14438773",
+    "hash": "0xae31d5caef544fc09e96d9d6cfea64055abb3c5348257bee2735703ecb34d4a3",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,928.880098390626162157",
+    "hash": "0xd6ffe4ab0de7502e531f5f9ac8f40794cf2efd4d68c019cfd30743201666f47b",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,000",
+    "hash": "0xb7da9d6ab273d5553b27057cd0eced55da5c72e20762041fe7c193df7cd6627a",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,841.030067579373837843",
+    "hash": "0xc45c5fc8147faf07e96827e39df1258536bcbf0f5a10b84fa48241b7f4316833",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,020",
+    "hash": "0xcb01b5f01c61243a6ce0dd02103ebac5a25ebcb11e768bbb441518c7b4e320f2",
+    "token": "Golem Networ... (GLM)"
+  }
+]
