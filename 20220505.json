@@ -172,5 +172,35 @@
     "value": "230,673.855",
     "hash": "0xdacd8ac11073badeb17b651afac937d959fbe1e5b00655a4416309f301c51cf8",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,407,173.2274093",
+    "hash": "0x3ffcfe0d182868776be0179dd343705889819000f0350113d72aa38df6b633aa",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,343,735.032592642287175536",
+    "hash": "0xe6b209dffceba2b523509394f1ad889ccfe958b5b7a27ca895481bd8c932242d",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "366,908.830706427712824464",
+    "hash": "0xde2f19a2f2060f13c8b68514dc05b04921047c23d2158631ea1d2fc10c977da9",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,220.59898928",
+    "hash": "0x2e53f4697b79c7002d6873693abe25267874242ee76fb9f3b6b895cbd25ae7b1",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "339,854.99996293",
+    "hash": "0x9a2c9d6a13e715b0c9f4294035496f7dbf9d973fa43fb9bb8da3645ec974c68b",
+    "token": "OriginToken (OGN)"
   }
 ]
