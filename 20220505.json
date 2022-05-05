@@ -568,5 +568,17 @@
     "value": "408.033219407628193689",
     "hash": "0x386192d3d55bf4b17eedb46a4b9c73d97d7a494c3a9d25e7ac2ecbf45dcbbd9e",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,444.186521896759613311",
+    "hash": "0xa3d90a467750250763f45d7ebaff45e6433055ce8e6c0f370491ec5c00b77e66",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,102.540092473240386689",
+    "hash": "0xde05fdee585332187d131cc3d7cb475898c45cc47fb655361641474fcd6d2dc0",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
