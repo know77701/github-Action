@@ -304,5 +304,29 @@
     "value": "75,205.66994423",
     "hash": "0xfe8eb62de16069007a9dd8a7942bc95122bc164c535fd6ef48ce549e73d9579d",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0x5ab1eab2db4653e92abfc2c83ef690ae6257ec6acea11651a2bb9b43aa0bb51d",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "488,785.71640897",
+    "hash": "0xd3fcb6c4cf1cccf4a9378173131766034a18a8d28b31f507e029721973c506c8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,526.42084881",
+    "hash": "0xac6cab090bc4d79b2fd677a4a13ebd5efd32d56e51e8e9ee8c6485e1a9d1a80c",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,394.29998959",
+    "hash": "0x1c51e184b3a3a148acfa51e0b486e3a512f0af86edac0dab250b8b4da778f10d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
