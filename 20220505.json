@@ -400,5 +400,23 @@
     "value": "1,447.22313596",
     "hash": "0x908b36202f8aa880fed441a5f3775165fffcb5f0e7b8480686ca8dc557ccf7b6",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,989",
+    "hash": "0xd96743281510cde26d0879424fa53754d0eb63f8a323e984a5a01f8565baa723",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "768,200.677535934494279504",
+    "hash": "0xbda65fca9e403c43840f945f4070b4e4fff995d3090245334bfde0ad1876ad97",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,369,951.904206665505720496",
+    "hash": "0x1e571250e8ca1cea23c2731def10b91806221f16d43783ec2b0da88920ec3391",
+    "token": "chiliZ (CHZ)"
   }
 ]
