@@ -652,5 +652,41 @@
     "value": "74,512.80837",
     "hash": "0x3b2d7d692824356c9e7d3f6e39b008d4b43ac43d1e124c98f1b488cb3ae38ec1",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,985.01396913",
+    "hash": "0x64f2cd23316319300497a04be31ced10700fc1062a1e416a55b345267292bf75",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,836.29983069",
+    "hash": "0x2f1d9c2698db67254ad0596932cfd14ed2ee7875fd5da0d8a2666d62e6e7318f",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,763.59991488",
+    "hash": "0x1e4938df01acc27731877eddbf5463b8150ae3092db09bbe9ed399b7305cbd56",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "445,910.393409970000000001",
+    "hash": "0xb904570b6219bfb7e0e4bbec815a938f2c3b8e514fa3bf2b8314005684a810ce",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,007.33249409",
+    "hash": "0x8f7d45da90b00b483f70ba59fee825a858c56f775863af0f2202d73871b69d24",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "949.3",
+    "hash": "0xc808bc5b7c2ba619c2494e3836e5b52ec5777d53e621b545b3ec7fb0aa3278c1",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
