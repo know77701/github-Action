@@ -1000,5 +1000,17 @@
     "value": "180",
     "hash": "0x112e35f319be77177156dcae67f2f1cad95f6653a8c3c1587b18ead20ade99de",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,272.064336",
+    "hash": "0xaef4635cba3914e8c91ede293aef3ab000919740cf1a2787df93c16af70d2850",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,762.2788147",
+    "hash": "0x2a0fa1395b889dd62ff5b98123b2b80a4971e9f89141d3927d45b716c81234a8",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
