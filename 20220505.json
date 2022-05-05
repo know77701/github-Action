@@ -100,5 +100,71 @@
     "value": "3,819.19988679",
     "hash": "0x555b1bf60e698c6bca9aebac75867426ddb19a8846013a9623a9c0eed03076fd",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xdaa13c34216fea3bfaa024cdd41e73fc318854072adb45bef51b7b590e718650",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336,909.86914743",
+    "hash": "0xf9be57747181f3f4dc9710c531444a3aa496f1152cf3427a674daf7930646a59",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xad307140b31fdd92e5c7649a1a305c41505fbb2ef9e0b137494a861bbbb664f4",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,971",
+    "hash": "0xcacd74d48fe10196040b9b45a2233cccbdc6be0c6a58e7bafad792b6137b125e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x178acca62fc17d787d3a2985135d49a434d6c9385298bdea080ae3832834e31a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x37b62a3156ecc45ab60978bf995e18c1dce070bd5dbabd6c1b37d3516d484f66",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,761.71896819",
+    "hash": "0x6771ce3c239411f04c1723225e1586450a872675b6f62f516af95654dae2d960",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,461.458204344515072353",
+    "hash": "0x2ec698603eda23116afc8e080df00092b47c5b71bc34190360ee412ed08372bf",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,758.42063322",
+    "hash": "0x4680f7e40600354d83878571630c39006ba82a04b79eaaf6a243475d0a2f6fca",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,954.71415095",
+    "hash": "0xbe5588f65819959858b9fcb67f5d781eed00cc503bdfde68a3ba1240e61a367d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,157.92401209",
+    "hash": "0x26f5e780f417b38e45a3a8f6bf5b09225922251a0a44979534997e24e2a4a3e6",
+    "token": "DENT (DENT)"
   }
 ]
