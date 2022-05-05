@@ -538,5 +538,35 @@
     "value": "121,771.13753862",
     "hash": "0x2a8deeb2bd5beb24482c8f629d400162ff9133929341fe0b71f12f4db6b1d827",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,000",
+    "hash": "0x35146611b439427eff18c016fc3a7d1293a0e30f2af1118df93669795ffd9cdc",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,633,069.75102786",
+    "hash": "0xf02407046ac080f5bcb0d3bc8f9f23d6ae021d1fe38b64d643f9549e34bc330f",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,852,378.521758454269101112",
+    "hash": "0x9027c3f12de342f64d61a1e259744182e23a7815b89110a15dd41e631c179b6d",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,501,936.689574301497246628",
+    "hash": "0xb68a0295cd15e49a46799b7a6215e9126ebe8c865378eedee4a821fa9cc1b6b3",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "408.033219407628193689",
+    "hash": "0x386192d3d55bf4b17eedb46a4b9c73d97d7a494c3a9d25e7ac2ecbf45dcbbd9e",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
