@@ -952,5 +952,35 @@
     "value": "149.96991395",
     "hash": "0xb93c486cd2cc56b27c9b1887134a6267ee2bff7a8af79d05f6062eb59a5349c2",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,601.182",
+    "hash": "0xa0269a654233245708beba47d135dadf6133a598c0bfdb4a7d57abb3a5c0ca18",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,825",
+    "hash": "0xf9befddd015fc1a64bed601a163039b418527515c9c4ca6ee1562ab8bd5b28e8",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,516,427.92402418",
+    "hash": "0xcff06c6cd78a69a5a0d664cbe21ea2eb67c921c6c5d5612050738e5c0b511414",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,600",
+    "hash": "0x300e1fa61bbc40ff862d9f5ba159bb1f9ba9292d71a4dfb82e6b854461a66398",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,966.10107266",
+    "hash": "0x5bdd77a301f5044aab0b28c94b431c069ebf2a85f7bc5453439d018c65eb2878",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
