@@ -514,5 +514,29 @@
     "value": "47,986",
     "hash": "0x00cb85e64ef6548b6937eed90d47043af55b5c15123dfd2bc236a028367c5666",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "397,073.9501479",
+    "hash": "0x4ab38c8dbff7e0c93bd9d3668f82f3363e92665346048ab75706ae859c798a08",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,786.08558584",
+    "hash": "0x4034793b3605e4b9422997fb65bb340c696c37e48aa0527fbeba44431cd270f7",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,371.99988897",
+    "hash": "0x0a00558ca3e0863ffa610e4da388aa98114e8669c405b808855b9c80ff364fc9",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,771.13753862",
+    "hash": "0x2a8deeb2bd5beb24482c8f629d400162ff9133929341fe0b71f12f4db6b1d827",
+    "token": "BAT (BAT)"
   }
 ]
