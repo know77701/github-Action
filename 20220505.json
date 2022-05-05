@@ -418,5 +418,35 @@
     "value": "1,369,951.904206665505720496",
     "hash": "0x1e571250e8ca1cea23c2731def10b91806221f16d43783ec2b0da88920ec3391",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,729.8558",
+    "hash": "0x46a5baf30ac5a10ff346c229a0c19f49d5279fb489cf3f4d0b6d8b03c990cb23",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,096.913967715985453134",
+    "hash": "0xb129b8d4b4d483dcd5bcd9fbcce2989fb00ae63aa0d20e030601389859cdfb21",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "998,438",
+    "hash": "0xc8a687aea0f085bc9563daa7b14a1a7f7d08d0fa0391abb3161d0f5aa8e73eb7",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,978",
+    "hash": "0x41cafceda708867fdd747f033963b0985ad876fb6ad52413ee0c751cc0d17591",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,507.888591004014546866",
+    "hash": "0x385898cc2fd090ba9a774d03bccbbfaee75578a3f8e7c62e18bb6a80c4646c2c",
+    "token": "ChainLink To... (LINK)"
   }
 ]
