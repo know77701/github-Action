@@ -226,5 +226,23 @@
     "value": "218,171.15448",
     "hash": "0xa907866431e2699b3e237be10169aecf8c2c9d16b8fd6e90e8a51d217e0f1a2d",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,000",
+    "hash": "0xdfe8f36228bb8750227efc3e605157fb52b05ef118f241e5f8974ec29b78cdb5",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,004.005850323119612568",
+    "hash": "0x32e6da5c42547fba3d0378a33a71bb8ed4f70c5603931ca696effbff0440646c",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,488,930.997174026880387432",
+    "hash": "0xc74f02ab983f4669b0aca10b7fb4b3977dac26843a708a77d9cc20caff5839d7",
+    "token": "Linear Token (LINA)"
   }
 ]
