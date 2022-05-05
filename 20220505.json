@@ -1072,5 +1072,29 @@
     "value": "229,507.99991798",
     "hash": "0xe5ce235596f0f8920ed4f4479c74df631dd52cecc50b76f5c323982dcba391e1",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "230,171.97434309",
+    "hash": "0x0cdfa2ca915491244c3ebcdc0a74e434ab9e6bdffb447acdd013e2a4aaec96ac",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,946.308236444123815644",
+    "hash": "0x31cb3d82c6ca6c499cb546aa55cf2345a58e34e5c803ee95612627d8df8d2625",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,924.691763555876184356",
+    "hash": "0xdefcf7bc20f8c11d948bb0bd3d199e6b64430fceaa283ab43996364c6928c942",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,041",
+    "hash": "0xb22083d795fbb7fb8c03fd1e35597378f094ab28801e7b3d9f635d583617b551",
+    "token": "ZRX (ZRX)"
   }
 ]
