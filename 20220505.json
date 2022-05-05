@@ -256,5 +256,35 @@
     "value": "656,544.10931638",
     "hash": "0xb117019a3ef36cc8408d618d4d3eb278f1d83caeb57ea7539b75fb9a1d58946f",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,579.16600062",
+    "hash": "0x785bd358a924bb9d27640cb9e1beb694a49a33a6d7dfa2465099d2bfcbc2519b",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,654.283502",
+    "hash": "0x8499ff2d008eef6ddb1d668f8b599d960c9893db4c8094f7eb0f37f260a5c76a",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,152.5",
+    "hash": "0xe6b73d8c451280d10fae117bed1d4f84110db8179de5bd138e905297c290b954",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,546,976.00719222",
+    "hash": "0xae37f4c3d3f417741d35984549609ae8e99edc316a8bb115872475325e678340",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,245.066674172916543746",
+    "hash": "0x1a857dfd4c093dddc0e394a23f591475b6856dc602069806fe83c185b64a93ec",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
