@@ -886,5 +886,35 @@
     "value": "182,774.97640168",
     "hash": "0xb202ecbbc7ac5f8050049e7b4c9c6f250cff8e796fc904e26a9d08bf091bd5b4",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,149.37747469",
+    "hash": "0x4220816abde9d57605603cea04d71b22b86d7de603aaea45fbe499b07828275c",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,900",
+    "hash": "0x556c99a1fc8222a910e3410a1039debe0db86f32c55d6c3d75ec13501b12bf18",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,134",
+    "hash": "0xc7bfa98e7decc2fc4aa340aad1ea43f56a442ca53f87bb945f68765ec15163a6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,600",
+    "hash": "0x3dd1ffa5bedc0d0e9685532bd2a6d6627a69e324ee1baf550829720e904f36d7",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "642.966780592371806311",
+    "hash": "0xa2df315bc83ec05b8201883935cf0e51b35d6a55a71760080493726678380ce8",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
