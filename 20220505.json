@@ -580,5 +580,11 @@
     "value": "47,102.540092473240386689",
     "hash": "0xde05fdee585332187d131cc3d7cb475898c45cc47fb655361641474fcd6d2dc0",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,119.84195601",
+    "hash": "0x009ad33261e5ad1b899a7892287b499558a9a67bb2a25e0cd561473d7c376da9",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
