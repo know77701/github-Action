@@ -454,5 +454,11 @@
     "value": "4,266,876",
     "hash": "0x4effaac09af551e5198216067665d330fa3717c0565402726cfda9fbb2a5b195",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,971",
+    "hash": "0x467dc2d4010a136af7f55f810f2a9e5c394f1e36ba73ea94a8ee7c75b90a4c02",
+    "token": "ZRX (ZRX)"
   }
 ]
