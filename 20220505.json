@@ -166,5 +166,11 @@
     "value": "20,316,157.92401209",
     "hash": "0x26f5e780f417b38e45a3a8f6bf5b09225922251a0a44979534997e24e2a4a3e6",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "230,673.855",
+    "hash": "0xdacd8ac11073badeb17b651afac937d959fbe1e5b00655a4416309f301c51cf8",
+    "token": "Golem Networ... (GLM)"
   }
 ]
