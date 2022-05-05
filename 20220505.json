@@ -604,5 +604,53 @@
     "value": "76,797.28552263",
     "hash": "0x8e16a3dd45f47875f5b630bb64e60ee7806190cb44665b14056a791c866e01e4",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "453,305.27665694",
+    "hash": "0x9c3216ceee417a0315d1fa67735863d03df236ba897819f0d4f7f3dce1bc182a",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,901.7833",
+    "hash": "0x11e4afdd039030626f7337e4004569818f4280607fd8b833eed6efa05272deb4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "118.46993844",
+    "hash": "0xc42ee803c4c65ef1e7e2e0d37e91edc8b86d34ea3e1c2306c304937f29c1d56c",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,343.38556907",
+    "hash": "0xf9e32b4531b8e89d71bda48200a751f2fa58893b0fc0d7564287951d6c18f023",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,859.181244753323422153",
+    "hash": "0x98c54f16cb82955d7027dc9fc63e90ed301b18d48880a319adee10da94dc3426",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,018.340255246676577847",
+    "hash": "0xe1debad78abb7db2510cc2717458a58a4fe47a0395211e9307d3e065a7fc30e3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "744.83692574",
+    "hash": "0x8b2b1f46004a978994eb9fa093df1b700d7e240c6d278331682e304f2e46a957",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,512.80837",
+    "hash": "0x3b2d7d692824356c9e7d3f6e39b008d4b43ac43d1e124c98f1b488cb3ae38ec1",
+    "token": "Chroma (CHR)"
   }
 ]
