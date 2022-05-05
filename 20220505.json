@@ -982,5 +982,23 @@
     "value": "3,966.10107266",
     "hash": "0x5bdd77a301f5044aab0b28c94b431c069ebf2a85f7bc5453439d018c65eb2878",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.83024494",
+    "hash": "0x241c891ede0ae7b2e472a819d3cb981dd43a7f1cc5b3941308674dbb42b6b380",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,194.265412",
+    "hash": "0xaae8a803f183c11bd4b04137b6e487bf90e4596025f17914cd940fb879c1b3e8",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "180",
+    "hash": "0x112e35f319be77177156dcae67f2f1cad95f6653a8c3c1587b18ead20ade99de",
+    "token": "OMG Network (OMG)"
   }
 ]
