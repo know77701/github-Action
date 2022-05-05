@@ -370,5 +370,35 @@
     "value": "20,316,427.92407501",
     "hash": "0x98d8273639755d69cae268e6609371ec6e06dd2fcb12a52512affdc2b1b0c67f",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15.66089001",
+    "hash": "0xd31456b23c703b59a012a414fb430b3d7553f24deb2b6271776cd76e49691d0d",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "414,952.94353551",
+    "hash": "0xc3f6c8fcd4f1795069c3b0ac8459ecb3286c6539079548b99f51834bf4e27642",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,182,292.39822533",
+    "hash": "0xd5b5fe879dcb11d7f66ff035c5a24e7254ca22b5b787c27cabce99aa61367c3f",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "361,473.5282",
+    "hash": "0x34dff09b5fd30d4cd60a20a3cf656ddd56997fe57bb528696345c32185305b1f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,447.22313596",
+    "hash": "0x908b36202f8aa880fed441a5f3775165fffcb5f0e7b8480686ca8dc557ccf7b6",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
