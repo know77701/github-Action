@@ -862,5 +862,29 @@
     "value": "3,071.30926185",
     "hash": "0x23f00b66e31550f3ca812b1141f334e2bf3d3efcdb0434376d086da34fa2e2c2",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,002.39018959",
+    "hash": "0x3e181f8312b0e0dc0a456f646ba85f2f60fc0750abbaa940b2f3e8a8249a58e4",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,965",
+    "hash": "0xcd5950d6e3caa25b7adb576bf5a5f9ccd2987584a5cdbd442168897d607e0d44",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,488.88710062",
+    "hash": "0x00f89533bef144693b15eedb510957424bd4d4b419a29f20caa165e834f3354e",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,774.97640168",
+    "hash": "0xb202ecbbc7ac5f8050049e7b4c9c6f250cff8e796fc904e26a9d08bf091bd5b4",
+    "token": "BAT (BAT)"
   }
 ]
