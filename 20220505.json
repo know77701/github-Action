@@ -784,5 +784,11 @@
     "value": "3,295.8108",
     "hash": "0x2879bee2e5a8f7c9f0371b8b55056821798af5e63c9d6743c00db0d294519bb6",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,989",
+    "hash": "0xd4451b26e8e7dfbd5c9da4f7d33a116c77c614034651da415fd521031851e742",
+    "token": "Metal (MTL)"
   }
 ]
