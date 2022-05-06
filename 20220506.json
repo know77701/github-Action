@@ -610,5 +610,29 @@
     "value": "5,544",
     "hash": "0x823ff72fcdab115a83585a414fa0e1ed74c6747a511c1abfaf871ecefb21d313",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,996.8",
+    "hash": "0x1e3dba70ed2de80b30026bd0b06cfb1b421ec29bc154bd06aac616b4a3813f96",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,974.80091859",
+    "hash": "0x381b9d7114efe4f3c735db17a5106a50816850f48bb97bb913f01d7356cbffba",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,000",
+    "hash": "0x86200490ae3ab769a2a2fc5009ff0078dc5b8dd9beecb4ffe0686cf3d70b6607",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,000",
+    "hash": "0x545e23aee9d73c9605528549033985d968792e907ba65ade8c6a9443664cc13b",
+    "token": "Golem Networ... (GLM)"
   }
 ]
