@@ -310,5 +310,41 @@
     "value": "20,316,018.92401581",
     "hash": "0xd22e54d357cbe74a62d5abeab1dd295c35beb8ba1952534a687f5efecea638ae",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,589,217.757974515183016235",
+    "hash": "0x03d05c84fe39f859fe7d6f33deb9fcf48eed151f6114bb5a1f492f32c936bee4",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "696,769.183379424816983765",
+    "hash": "0x98e476a08120a97dd49b78924b9939a68cadda73028aa21bcda6a64dd9a9f802",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,219.9316854",
+    "hash": "0xae67c6dec52d36e427f034459a4ad6b3a13ae8fbfa093b1681ab8eeb0798e416",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,706.027853",
+    "hash": "0x3464620346dcce3130313f2a7e16d3b79746fcf0a3a9e43ca3ded30fd78b8f41",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,121.08934982661",
+    "hash": "0xfee4c8b45c67330897041dfbb2ea177486fb76ab4111ab7af8c707151ef0c4be",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,935",
+    "hash": "0x4779ccad55e1f10de636936e675fe5bc7f8f62e8105cdcd40bb36395853b6128",
+    "token": "Polymath (POLY)"
   }
 ]
