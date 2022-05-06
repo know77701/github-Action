@@ -394,5 +394,71 @@
     "value": "181.05936045",
     "hash": "0xef9e53cb6617cf5815d73cf6f2968e58e1e6b9c28f71aeb2898d6d10b4a37823",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,018.92402479",
+    "hash": "0x0899708bae2c7fbfd51b0453c0dd16ecc5a116c95abac2c51baa664300a78500",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,250",
+    "hash": "0x7b5ccd509c6d3791a1804c727648fde79acb042a598c6df4e13ca61d23a8eb23",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,259.291005",
+    "hash": "0x9c46ed6e5005699da95eb3ca50b19bc6ce052584c8d63f89eb450abc84a90a6b",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,187.99998649",
+    "hash": "0xa8de8c6b7f6b452081767971cff16929a43a82c845aeec83cb04ea68f4ace452",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "673",
+    "hash": "0xbe948071a38cf5cf349ae3fc2ba3005ea8d1b79652cc12151c87b9acfac18982",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,900",
+    "hash": "0xee34ae010e1bb7c8836d0d20a7ce81d7cbc3fced7756778ee35398b8f4bc48f4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,302.311441696043422153",
+    "hash": "0x5a9e3d0c0f5bc11751549c1793e590f23d20952a943b39adfc8699af5466b97c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,400",
+    "hash": "0xe1854dbf17e6ad267876f2fefa493f75d6193692bbf0c6788c6df92599fd0771",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,195.430783173956577847",
+    "hash": "0x666f579c50dbf4e98c9028e696a733f390621cfa0da716109fa241623e34c84a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,646.66232169",
+    "hash": "0x97a8dac4a346e02534bcf5582c95c2382b073a2b953a42c9d7ba9e2f87efbb06",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,232.0000612",
+    "hash": "0x0dec865e76a978fd03352fd51b065f46362884178c69205f3ffa9403f85e9ba8",
+    "token": "Function X (FX)"
   }
 ]
