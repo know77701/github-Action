@@ -130,5 +130,11 @@
     "value": "916,033.31984594",
     "hash": "0x56dc0afb4db2e65bde2a23762f3c20fe2f2a4a220a6527123f10556689b41c93",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "134,000",
+    "hash": "0x2de36e4cf420d0c204db4687ee123820bb1e7b177cf9ff61ac0d90054b2777d7",
+    "token": "Golem Networ... (GLM)"
   }
 ]
