@@ -670,5 +670,11 @@
     "value": "53,427.26291935886431494",
     "hash": "0x17cc43c7ed182eb78d69d83517ddcf907e05cf6539da4d5b449e7986306e9cbe",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,047.43952228",
+    "hash": "0x9befafe49e9e30e5d9f523af9f1e3b5ab59460678f7bfe90b6e7115b15240179",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
