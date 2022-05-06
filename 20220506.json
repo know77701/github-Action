@@ -298,5 +298,11 @@
     "value": "203,363.14433066",
     "hash": "0xad6ca12883874f327d5b4219583aa39b3eb021aa442f4d3e8d96f72f2f655055",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,965,502.81603932",
+    "hash": "0x9f6dd13357add90b196b5e261de007fc4a0c19055a994ec7a7409dbedd49bd55",
+    "token": "StormX (STMX)"
   }
 ]
