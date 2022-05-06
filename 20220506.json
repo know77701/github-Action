@@ -520,5 +520,17 @@
     "value": "107,350.935579452238045867",
     "hash": "0x4b2f80629000a8b2a99ce5ee7457649f0844d4a0562312a492e4a8a8609ba58b",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,649.48705551",
+    "hash": "0x42e4cf9b22d3729ce492622b851c95865e12fa46df7cac4d19be66be88220f33",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0x86f252eefc714cf7cd72bc73c1132f3f9d3eddebc999044c8d74b21faf0009c7",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
