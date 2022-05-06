@@ -736,5 +736,23 @@
     "value": "26,761.072706",
     "hash": "0x6dd2664dad54c294a0c6cae4ee8b43068e42cb531cbcefe9ec15f2485af847a8",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,206,099.617306409226850243",
+    "hash": "0x7115954a6cbdf40ccce5f8f5192c3179b6f2861fa5a376000fe83de3a60b7656",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,824.687498830970945375",
+    "hash": "0xf75a7e96d286443ddb381cfc7c079f46f809ad3865066db1593fd37fa9700af4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,679.80888802",
+    "hash": "0xed35a9fdbd8e5b51d3e118dfea1d1297cb6c69ff0eedc7f7a1b0647646722d6e",
+    "token": "Reputation (REPv2)"
   }
 ]
