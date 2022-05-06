@@ -700,5 +700,11 @@
     "value": "1,638,899",
     "hash": "0x4f12ce19803b4d555044a9c4b8245d1850e6db1f4427519eaa91394944286efd",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,194.13",
+    "hash": "0x404e1dc759f61956684c452a01e24789983a5bccca03f974a5583a8ea26dbfcb",
+    "token": "OMG Network (OMG)"
   }
 ]
