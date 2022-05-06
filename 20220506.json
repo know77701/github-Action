@@ -136,5 +136,41 @@
     "value": "134,000",
     "hash": "0x2de36e4cf420d0c204db4687ee123820bb1e7b177cf9ff61ac0d90054b2777d7",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,158.76777816",
+    "hash": "0xbe9a28a912041f798de96ecd414d8040acbbcfe74e20f03ccfaea01071d4160f",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,996.3695312",
+    "hash": "0x4129a2bbc6e3eeee4fcdda262865e323f7eac33aac023f75f6bf099d2c868907",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229,726",
+    "hash": "0x65954c98082cc0e07f52d59ec166f0bbbc36ab8f4a672f8aa0bb02f982d10af6",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,894.34653427",
+    "hash": "0xa8b176bfc1ef032ece8b01ca1b72dac39345cdf5cdd1f3f3237116dec3a3832a",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,726",
+    "hash": "0x7415f145f5f0d9de1de08382fc12466bf73fdae749f680919144fc1167bffb4c",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,103.266231",
+    "hash": "0xf8334657876ab0648309ac7081ceebc23ffee9e9906b6fba17ec2266648d40c7",
+    "token": "Injective To... (INJ)"
   }
 ]
