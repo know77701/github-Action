@@ -358,5 +358,41 @@
     "value": "12,296.86779584",
     "hash": "0xed1e8abc33c938f95b18e9509a0405ebe5895e9a9f237cdaa73d356317d12220",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,243.96984278",
+    "hash": "0x8dd587c32e094ebf6b5591edf8d8e6d92c40b12737e342f1b3f50be918f37b2b",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,298.404",
+    "hash": "0xc6ed8f63562dc52979ea6a442bfaf06ee7f23b3954af07237e4d1fa3c69a4390",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,090.955",
+    "hash": "0x3374ea877c157544c1baca4364fa3ab35813006bc7154c89d0d29da810f65b61",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,033",
+    "hash": "0xd671bb6faa572f1866c3cdca928594392413c4e45cde35627fa250289ede5486",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,258.66391488",
+    "hash": "0xa558ed950191a422bc1d0821bb06a2fb8bd24ea16393fc22ed36081be9c39cd9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181.05936045",
+    "hash": "0xef9e53cb6617cf5815d73cf6f2968e58e1e6b9c28f71aeb2898d6d10b4a37823",
+    "token": "Compound (COMP)"
   }
 ]
