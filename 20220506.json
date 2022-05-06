@@ -238,5 +238,41 @@
     "value": "6,994.13",
     "hash": "0x078ff405a39ae6edc5a6255e93ad8c443c9717e71bcf9038cbe323edf6790692",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,203.59951266",
+    "hash": "0x23568fd1ac4e6755f79881725a1b49040b9d659631e8f6bab8dd974cd2f3f1b8",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,018.92406727",
+    "hash": "0xcc33d6e88028fc57d257d6ee39e28a6c93257ab30a360da30edcef2f04c5466a",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,262,751.26980868",
+    "hash": "0x6502e6883014876ee4fc5ffb63bfe4ebfe4aebb4eddac21bfe59167e8eb8ebef",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "756.00756",
+    "hash": "0x15c759bbda8fabdac427acb9a11214091859602869e0a033e2312656dd2f181f",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,163.556819255440780021",
+    "hash": "0x3c50c3d4084b0e7bb944c8e8e7fd2d2a71732b3de49ab0282904072c9aef9e12",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,505.32643851",
+    "hash": "0x21e87561b1e3056b36d4749e71ebb300ba5dbe18d3cfaa6cea54b259277cfc1a",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
