@@ -484,5 +484,11 @@
     "value": "63,488.88715518",
     "hash": "0xfb7b0cfc7e7157d2eb7e2bd3c448d250de4cc83397ed28adc51bc322e9cff7a9",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,095.9",
+    "hash": "0x383335b08b44b6a2d9d307024a1b55b6d459e397b57dc4dad121fde7f55f8324",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
