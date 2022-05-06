@@ -460,5 +460,11 @@
     "value": "62,232.0000612",
     "hash": "0x0dec865e76a978fd03352fd51b065f46362884178c69205f3ffa9403f85e9ba8",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100",
+    "hash": "0x2df2a59dd3aade0febd5a54156d835ff87a9b73713ad23bfe1dab1113ecd0adb",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
