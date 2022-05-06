@@ -304,5 +304,11 @@
     "value": "5,965,502.81603932",
     "hash": "0x9f6dd13357add90b196b5e261de007fc4a0c19055a994ec7a7409dbedd49bd55",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,018.92401581",
+    "hash": "0xd22e54d357cbe74a62d5abeab1dd295c35beb8ba1952534a687f5efecea638ae",
+    "token": "DENT (DENT)"
   }
 ]
