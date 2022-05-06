@@ -676,5 +676,11 @@
     "value": "96,047.43952228",
     "hash": "0x9befafe49e9e30e5d9f523af9f1e3b5ab59460678f7bfe90b6e7115b15240179",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,346,339.88756399",
+    "hash": "0xc8f69904ac4e1ce10e7429b3a56fc7d43d4c568fb00ef7030141a07e0be9f219",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
