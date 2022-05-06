@@ -172,5 +172,17 @@
     "value": "7,103.266231",
     "hash": "0xf8334657876ab0648309ac7081ceebc23ffee9e9906b6fba17ec2266648d40c7",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,041.11927569",
+    "hash": "0xa157dd8c9e0c6b670e69820f881a00b2764037ba08078312132197ce45a029b4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,316,018.92402108",
+    "hash": "0x59e3f1fd660edd40208b19c1ef1e1f51b0b5f89a0e17c10d3c2c298cb0857a82",
+    "token": "DENT (DENT)"
   }
 ]
