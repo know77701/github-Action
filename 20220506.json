@@ -196,5 +196,11 @@
     "value": "2,853,794.66669363",
     "hash": "0x9b747ade4a538f6049853dcf4f68f99655f9e8f457efd9a9a56cb51e974b41a0",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,033",
+    "hash": "0x542ca64e97d3bf25178243422a4375d501a3a7c3f100ecc81ba1e02882220d2a",
+    "token": "OMG Network (OMG)"
   }
 ]
