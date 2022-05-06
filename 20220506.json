@@ -466,5 +466,23 @@
     "value": "100",
     "hash": "0x2df2a59dd3aade0febd5a54156d835ff87a9b73713ad23bfe1dab1113ecd0adb",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,348",
+    "hash": "0x81a4b9863b7fa34dac2cd414898875006dd94abda03ff5692405e0400a59ff97",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,819.644543111009533449",
+    "hash": "0x292e2368e8befafcba5e5fb471b446fbd93b9028548e4110d05d5508303fa57f",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,488.88715518",
+    "hash": "0xfb7b0cfc7e7157d2eb7e2bd3c448d250de4cc83397ed28adc51bc322e9cff7a9",
+    "token": "Function X (FX)"
   }
 ]
