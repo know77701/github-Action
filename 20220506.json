@@ -706,5 +706,35 @@
     "value": "8,194.13",
     "hash": "0x404e1dc759f61956684c452a01e24789983a5bccca03f974a5583a8ea26dbfcb",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,355.06231209",
+    "hash": "0xdfa00feb72605c08d2ee9dc6e90b5e86d7c26223a3654561e23c2163bb97c4e2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,349.98743844",
+    "hash": "0x5f67234b519e6c569ace3f5dc98a0e1557f5b7a6bfedddee3c52146fb996a7a4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,000",
+    "hash": "0x9028b13fe1c75957e123604386fcaea3cf207bf0d67c95fd3d36d49e84a3aab4",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0xc3d9b92d5e3bc20cd995643f09dd7bf8e65234a74305831e3385c16a47d271e5",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,761.072706",
+    "hash": "0x6dd2664dad54c294a0c6cae4ee8b43068e42cb531cbcefe9ec15f2485af847a8",
+    "token": "NuCypher (NU)"
   }
 ]
