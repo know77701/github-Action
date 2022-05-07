@@ -322,5 +322,11 @@
     "value": "842.22",
     "hash": "0xe25b45e9a69631eb1936dac04ea30166b3dca585fc5176e3fca066ff7b13397e",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129.339",
+    "hash": "0xfe80a4eaef19c1baffdab656d82fa0bf592a39156f99baa39510121102244258",
+    "token": "OMG Network (OMG)"
   }
 ]
