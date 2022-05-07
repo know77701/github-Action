@@ -112,5 +112,41 @@
     "value": "172,897.456646760189824064",
     "hash": "0x9585279e8ea0ebc009518c195a8b79c3282ae3be47074a6f2b6ebdf04b2e449e",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,091.495631644222702641",
+    "hash": "0x8cfd9223c390b212030e7a34c073134e68abcf406f43087595200402c696d953",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,848.901356905777297359",
+    "hash": "0xafda0ed084b99032dc92ce339313591e0b8d28bd5a2c9acf024e50d53c077511",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,374.67756981",
+    "hash": "0xa3182c3870cfe467190cc860292bcc87952550a428f5dfcb69d5474d15449789",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,489.15284585163831661",
+    "hash": "0x43e990d8819469b4bd4b47538b8aa7c7d79ccb80facacf4dbe75498ca2e916b4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,933.35129137",
+    "hash": "0x8ef88e7d20699ea5ad49b8b80f0d7db9579b98e9a2a75d3d7c206e24aa84433e",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,191.72822761836168339",
+    "hash": "0x76f22ebf83edc6faf3c4a86714907d9b3e347e0281f018e0e3889897470d5d21",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
