@@ -328,5 +328,11 @@
     "value": "129.339",
     "hash": "0xfe80a4eaef19c1baffdab656d82fa0bf592a39156f99baa39510121102244258",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,012",
+    "hash": "0x6c2420aad25ce5213add444de048770716966b6ba2a1c2d39e65d1167e71b510",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
