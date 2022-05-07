@@ -346,5 +346,11 @@
     "value": "25,476.136419789179529512",
     "hash": "0x69775b8c1fdb1aec4a970c31d67462bc55902b0f7d20e0488ff3a01816c3c693",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,000",
+    "hash": "0xa5250b6002c8f5253f003fa4c5185fd2e01054e84638ee7236bba32ea01442b9",
+    "token": "Golem Networ... (GLM)"
   }
 ]
