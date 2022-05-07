@@ -586,5 +586,11 @@
     "value": "74,087.49623047",
     "hash": "0xf69a0cdf282f90780220349c2aafa52b77a92095879e4b68d91efa6f95bbbfcb",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,711.0162995",
+    "hash": "0x175ae5e07a26b0ee044f181fedfae4275f29aa545084dfa0c21b9f58d85c7ff1",
+    "token": "Token Promet... (PROM)"
   }
 ]
