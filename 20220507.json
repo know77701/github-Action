@@ -646,5 +646,23 @@
     "value": "69,494.97691515",
     "hash": "0x906072ee8d2da59564cb2a1e89bd35777de3a951b09814a62871ee31c8b36550",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,874.788",
+    "hash": "0x2db9ccfa8f6edc180c4bae909ff6ce54e3ea85eb839f1f89c5967f214ce52df7",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,203.80002159",
+    "hash": "0xcb67c58f4317050f600fb653c64e260e67034b4b4deee02b2d1725acaeaf2358",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,078.926611535484927647",
+    "hash": "0x6afee6633ab13422fb97ea0686d359d8ee9ff5311bd4ad46cd5ed5e7cdbf7b01",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
