@@ -634,5 +634,11 @@
     "value": "6,537.7801",
     "hash": "0xe996ce18d4ee0b0b1052737b4081b61bd769547ecf598193cb101ee8d63c03f3",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "463,692.231037167608421404",
+    "hash": "0x4fb7a4fa8b16c97025536f742a8c4c21cd4962a78902af66c3746c2071e8bbc1",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
