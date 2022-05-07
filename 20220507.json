@@ -262,5 +262,11 @@
     "value": "1,356.67937554",
     "hash": "0x84bce12561544f58048ea8bd2cc621790eff9b0dd66ee6f0a104a562eb07295e",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,515,745.92589022",
+    "hash": "0x7d9180c2360fab459f330379081367b32923719f5d9e07e5a3bfce206434dacb",
+    "token": "Healthcare A... (SOLVE)"
   }
 ]
