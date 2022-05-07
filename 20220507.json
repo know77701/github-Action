@@ -592,5 +592,11 @@
     "value": "12,711.0162995",
     "hash": "0x175ae5e07a26b0ee044f181fedfae4275f29aa545084dfa0c21b9f58d85c7ff1",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,394.34566043",
+    "hash": "0x84f9c2627705ec761f3b1d0bb3c16f3a32275a57672dc39e2b5d959b96930059",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
