@@ -418,5 +418,65 @@
     "value": "106,663.924757301347670309",
     "hash": "0xb4604ceada22f90c0d9ba1147a92eefe046c6cc82d72603ca2813e8413a81c9e",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939.5999713",
+    "hash": "0x1e5b9cf5f7003ca5ea503c38f8010b18d8b739451bbca76f7c47bb0bdd30fddf",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "605,086.00470531",
+    "hash": "0x7f0d29670b97de72e44d67c0e1284906bae96ddb602127b8803fdd6343127edd",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,500",
+    "hash": "0xa26e08ca3da76fdd1ab1a2fc700282326fbecba059a283d138965d6aa6fcb6bf",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,963.60197695",
+    "hash": "0x507a976836010dbbdd711e94b7844d8c178e2e3ea3c9676dd3120db1d3cf4cb3",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.72026231",
+    "hash": "0x827cf75f6996afb2765326dc35e2d2dd4303d9e0b9b20d78c6d764c0070f65bb",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,039.692624",
+    "hash": "0x4b57bff2f9a3c5b910010f84ff77d064dc71c02b5c8dda5783fc9c0afd8355f9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,558",
+    "hash": "0x358e1538eec90a2fb8d6f637d7e75625ce1bc162f937f172c45dcb8bae9f2ae7",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,855.71186138",
+    "hash": "0x6ee6c3349faeff9394c823f0c696a0a78f6d38e5a40891ede025c49b054cce0c",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,299",
+    "hash": "0xcf7ba3c67adbd687394face16e6157cf5a186b32f68298594b25476249c1d4fb",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "239,403.505564",
+    "hash": "0xc37af0d871931415c9ee753fb62ffd7e2f075c1736e7ffb907edf17510a091fd",
+    "token": "Serum (SRM)"
   }
 ]
