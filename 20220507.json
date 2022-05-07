@@ -232,5 +232,11 @@
     "value": "663,485.24737687",
     "hash": "0x647441c766f42cd512c1fc27905f9f5a3c3f9c4af207acacbd3cf461d71b1280",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "690",
+    "hash": "0x432687f68ece09e74576e445176bd5f8d3bb9899dd74c9439509f32819248d79",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
