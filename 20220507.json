@@ -148,5 +148,29 @@
     "value": "53,191.72822761836168339",
     "hash": "0x76f22ebf83edc6faf3c4a86714907d9b3e347e0281f018e0e3889897470d5d21",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "810,000",
+    "hash": "0xe73e863f88f24a2f820f5b1cbb0bb1cf955d8d1d8ce9cf31aac24d9673cc0c01",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22.967",
+    "hash": "0x75f6e7b2d90049b1a99db1f753cda49d82a90b207005b173bb7fcd380f13c7ec",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,398,346.74216396",
+    "hash": "0x6ecabf942c8f951e93939e3749867b24a7ccf0928ffafdbb9dc265562f91b5ed",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,733",
+    "hash": "0xb03396d97743ab240ed4b1acc1fe40c9dbb4665bc79ac9ece6c184232510cc83",
+    "token": "Threshold Ne... (T)"
   }
 ]
