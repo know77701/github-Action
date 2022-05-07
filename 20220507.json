@@ -220,5 +220,11 @@
     "value": "75,905.16860785",
     "hash": "0x54c8fbfb79b02352f3a8d0b5da5508f811cc275667592593ab7f26d71c78bfd6",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181.25233689",
+    "hash": "0xc11e3e0e6b1c3b152d8af6c883b87e7c89785d40a5bcbe3ffc2654db03a4f1bd",
+    "token": "Compound (COMP)"
   }
 ]
