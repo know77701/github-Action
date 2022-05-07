@@ -334,5 +334,17 @@
     "value": "81,012",
     "hash": "0x6c2420aad25ce5213add444de048770716966b6ba2a1c2d39e65d1167e71b510",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.72020868",
+    "hash": "0x20b9e88c2c05a471a62d4c78d829a5311c5ec396f82d8810d26290660cb131d0",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,476.136419789179529512",
+    "hash": "0x69775b8c1fdb1aec4a970c31d67462bc55902b0f7d20e0488ff3a01816c3c693",
+    "token": "Bifrost (BFC)"
   }
 ]
