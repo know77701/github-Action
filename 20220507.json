@@ -274,5 +274,29 @@
     "value": "39,004.3628066",
     "hash": "0x20cd20dfc19de83b0ee1c1d2745030dff4848b26aaa6dd80cf745c512fd53b09",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,045",
+    "hash": "0x4d3864dc1058d93a793aade5e9e4d4f04bd43aa9b9ef45a9aa0f6546735f9daa",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,459.59998525",
+    "hash": "0xf433ab3cee9a05421acd161bbe8f2f09473049a9aff6258df1d2ffd05e15ac83",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,550.351512166202037479",
+    "hash": "0xe80eea70b6266157a2231e160b1fdefe5a9491868bb7b01694762fcd979fda77",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,104.13",
+    "hash": "0xa77390454ded840039134248014eae6c2c2d6f67074e7d64e25e430196e46808",
+    "token": "OMG Network (OMG)"
   }
 ]
