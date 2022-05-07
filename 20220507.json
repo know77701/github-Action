@@ -52,5 +52,65 @@
     "value": "11,206,099.617306409226850243",
     "hash": "0x7115954a6cbdf40ccce5f8f5192c3179b6f2861fa5a376000fe83de3a60b7656",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,081.22",
+    "hash": "0xc4a83261bb4ab2ed1bb17e904f9299232bcb330d04c187750262ed27e89ffaed",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,446",
+    "hash": "0x391be4b05509246a039b71570cac763f2b3a20d5f3d3b777b8e804c341c35d2c",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "211,912",
+    "hash": "0xd591b5a0782c054cc9640c9073d6776e3e9fcafafafbc5b520226d9aca0f89bd",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,496.29991147",
+    "hash": "0x5b00c5ec360bed89ba3df75a2876e1618b4546b5df49004c3ae62a5a37405b4b",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "382,123.150102594580421404",
+    "hash": "0x539a6b7b3042d392ab5e6d983ee15e99d8b8088051dcc717347dc5f7239836ed",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,722.473897405419578596",
+    "hash": "0x5d746292df659d23a1ea821db9fa3fbb3927c1ecbe59d3ecaa7ac454d2762e8f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,762.817629733559307616",
+    "hash": "0xed1d4b9c2ed863bfa9da9444904da9580ec8b6ed516d243489de3c058c411558",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,492,215.741526896407677716",
+    "hash": "0x51fbae14eace59c4f14a3a4c8803268058d1e53fd457b9ef0f1d9fd0f7ff0e50",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,038.485740866440692384",
+    "hash": "0xa7a08ac7f8c90f65a7ac253864a92fad393f5d81e1995b6f437aefe0264161ff",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "172,897.456646760189824064",
+    "hash": "0x9585279e8ea0ebc009518c195a8b79c3282ae3be47074a6f2b6ebdf04b2e449e",
+    "token": "Polymath (POLY)"
   }
 ]
