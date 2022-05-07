@@ -502,5 +502,17 @@
     "value": "2,033.68914464",
     "hash": "0x7af800d4ee08d9d8f468f3bd7d6d0368de020a7dc9f47dc915e0b83f79abfe48",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,665.30483285",
+    "hash": "0x4f038dc93c8d9518867644161ff3e05c0c1fbbea38301154dffbd747c1e65b14",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.72020682",
+    "hash": "0xbec0045c4f42d16a486ee7d76a32649a85a7ddb8a0380d595faacf6f4ae5886e",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
