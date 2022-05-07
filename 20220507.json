@@ -664,5 +664,29 @@
     "value": "2,078.926611535484927647",
     "hash": "0x6afee6633ab13422fb97ea0686d359d8ee9ff5311bd4ad46cd5ed5e7cdbf7b01",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,000",
+    "hash": "0x5d9ed6a2f1e89424421af73eb74a4122b57b9939f6e913a42e466daaa8685bd6",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,488.88714588",
+    "hash": "0x498bd5d0682666362d6a728caff2fb10e950c7085c52771fc1159433501a57a1",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,739.206409886003737458",
+    "hash": "0x12090ca36563ba47051417166305d4c4531764768e8a9fb79e7f4ebd8949cd56",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,252.793590113996262542",
+    "hash": "0x70678d5dae1bc7c2a513f828d52135a38b3b52619f2866528086c830962b96bf",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
