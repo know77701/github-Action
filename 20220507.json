@@ -178,5 +178,29 @@
     "value": "180",
     "hash": "0x872b0194b4610083402d5990beb947882aaf79cdfd1bcdee40de7c986f8d4639",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,620.99985797",
+    "hash": "0x096bd2c96cb064d500b40d5878c2a6ca3235555647ff1c077865a975a7fa94f4",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,891.932991219744722095",
+    "hash": "0xebd224ace54591e42d28ca965b887312cfd233abde554ac1713af9f21799efb3",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,284,108.008358990255277905",
+    "hash": "0x6bf1d40605e66c9db9b80016ab8d2c78d342997da79eb8ef6f80b788e5ef5026",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,226.00185185",
+    "hash": "0x79a705e100771b2c18c251fea0b29202eb5d07b4ac96095fb2ab4bb1793e6e64",
+    "token": "Golem Networ... (GLM)"
   }
 ]
