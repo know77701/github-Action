@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "299,792.640600116916084887",
+    "hash": "0xb00c32f1ad96c3404742f19102d203d8326e5b7103ddd41d8a5ce6fdbf5930af",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,018.968157409168696659",
+    "hash": "0xd0bb4098120ad5e2fb2ff4c42893b9d94c178febf498e9d35b654004032b66a3",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,450.991936257599012706",
+    "hash": "0xfdc1e24e77b55603d8c4402cd7fd017208f109da4ef0b54f4a9b8e0eb3b17889",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,381.0005",
+    "hash": "0x37e7a29e410c3e382ea420d7b177b9b13c30538884c86c452e9763c59094eb82",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "221,631.7855668",
+    "hash": "0x5ec8dcd6d501bfc989209117bd354a66b68105cc54fa8706624510313113a477",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,000",
+    "hash": "0x98447b8c1ad634e5d0d4143ccd561486245b061d7f980a822cb4445313e1e0c2",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "898,512.382693590773149757",
+    "hash": "0xf04d1e1bdb4dcb596aa7ee6fc50cb1a39518ec85512adbf2a6a56ee3072cf6ef",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,916.312501169029054625",
+    "hash": "0x16eecb84b5f845e8ad2b94b2db795aadb1e79cc063d85ba8590834ff912dd801",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,206,099.617306409226850243",
+    "hash": "0x7115954a6cbdf40ccce5f8f5192c3179b6f2861fa5a376000fe83de3a60b7656",
+    "token": "StormX (STMX)"
+  }
+]
