@@ -640,5 +640,11 @@
     "value": "463,692.231037167608421404",
     "hash": "0x4fb7a4fa8b16c97025536f742a8c4c21cd4962a78902af66c3746c2071e8bbc1",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,494.97691515",
+    "hash": "0x906072ee8d2da59564cb2a1e89bd35777de3a951b09814a62871ee31c8b36550",
+    "token": "BAT (BAT)"
   }
 ]
