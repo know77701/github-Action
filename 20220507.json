@@ -370,5 +370,17 @@
     "value": "23,380.497372012655578596",
     "hash": "0x46953328bf2d4907b56026d6771f9f57c8c25bf772e35ad2191054566ffbea35",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,357.740968838652329691",
+    "hash": "0x0afd7418488b51828adb39beca39d44d603c7592a41adefe9a22636fbe467ad3",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,984",
+    "hash": "0x3757fd4b6c83b1ad8c59d4a11cfa1785fb2c02db97733d23e4c8fd0629ec79fa",
+    "token": "1INCH Token (1INCH)"
   }
 ]
