@@ -172,5 +172,11 @@
     "value": "299,733",
     "hash": "0xb03396d97743ab240ed4b1acc1fe40c9dbb4665bc79ac9ece6c184232510cc83",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "180",
+    "hash": "0x872b0194b4610083402d5990beb947882aaf79cdfd1bcdee40de7c986f8d4639",
+    "token": "Reputation (REPv2)"
   }
 ]
