@@ -484,5 +484,23 @@
     "value": "12,229,283.78513949",
     "hash": "0x0a84924f81a143bdb74fb25b7e5dd74ec36d5549ce49183c3ace4653f39aa91a",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,966.015615075279359966",
+    "hash": "0x93ee0199dcef02156d69547d7813ce02222f3055b203d0dc70fdb52315a34141",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "328,582.055590714720640034",
+    "hash": "0xfedcab5ec51179a8c3048532d85a82727e544697e92fe7c184da595305604785",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,033.68914464",
+    "hash": "0x7af800d4ee08d9d8f468f3bd7d6d0368de020a7dc9f47dc915e0b83f79abfe48",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
