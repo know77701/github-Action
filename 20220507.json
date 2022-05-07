@@ -478,5 +478,11 @@
     "value": "239,403.505564",
     "hash": "0xc37af0d871931415c9ee753fb62ffd7e2f075c1736e7ffb907edf17510a091fd",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,229,283.78513949",
+    "hash": "0x0a84924f81a143bdb74fb25b7e5dd74ec36d5549ce49183c3ace4653f39aa91a",
+    "token": "StormX (STMX)"
   }
 ]
