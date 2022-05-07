@@ -382,5 +382,41 @@
     "value": "59,984",
     "hash": "0x3757fd4b6c83b1ad8c59d4a11cfa1785fb2c02db97733d23e4c8fd0629ec79fa",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "447,527.534067987344421404",
+    "hash": "0xf121f708ba42d803ad2efbaaa4e23ae87d29ab4175e1684b1aab1b24e8f5c529",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,360.227481280541622272",
+    "hash": "0xb82f525cd4e634858dba0e62919a0fe07ab13036f90d0552cc4e95a8822a5169",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,946.265932012655578596",
+    "hash": "0x3118b3b6aa5007e6b0418c8dde0a8b60fe561785ffe601e6fc802f9fc4b1cc98",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,884",
+    "hash": "0x82772ce86ca3847250da63fbb0b7178612eaaf0ea564f1885371844dedcf1b12",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,593,194.88842697",
+    "hash": "0x4044604c743df66fab7c0b3984334f5e5de3b4d2aa596183437c181d138b1cf5",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,663.924757301347670309",
+    "hash": "0xb4604ceada22f90c0d9ba1147a92eefe046c6cc82d72603ca2813e8413a81c9e",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
