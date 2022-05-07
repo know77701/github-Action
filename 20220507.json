@@ -298,5 +298,11 @@
     "value": "5,104.13",
     "hash": "0xa77390454ded840039134248014eae6c2c2d6f67074e7d64e25e430196e46808",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,648.70516539",
+    "hash": "0xd186d8494fec421f23e260093c6ce3579811bcdc158c5d5b6a07bc6e0a79461b",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
