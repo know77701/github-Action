@@ -304,5 +304,23 @@
     "value": "2,648.70516539",
     "hash": "0xd186d8494fec421f23e260093c6ce3579811bcdc158c5d5b6a07bc6e0a79461b",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,536.90207591",
+    "hash": "0x608b5ace4a7b92d84d23d857736686b7a7487a42c9b27f8670f25e6e1b20df1d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.72022417",
+    "hash": "0x5a1521e1edecbf26cede23ba6d1c0c9735447948e1d2b015b173a32c27b22963",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "842.22",
+    "hash": "0xe25b45e9a69631eb1936dac04ea30166b3dca585fc5176e3fca066ff7b13397e",
+    "token": "Mask Network (MASK)"
   }
 ]
