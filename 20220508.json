@@ -22,5 +22,29 @@
     "value": "4,225,765.71186007",
     "hash": "0x592b0469bcafd44cbd4b23f41409efa6d21514ba20951ee3ba92dbc8474c9612",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,626.724742565503706433",
+    "hash": "0x3240f97a4f04a353cabdc47dcdb059562cfd0abbf5cc673b8c96d45ecd5985fe",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,090.7832758",
+    "hash": "0xf05d74a40711e4d9508ee0e6447d278a6fcdf20dfef034db2561a777b0fafeba",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "353.85482455",
+    "hash": "0x3b5e63aa53f46a58605c455dc7b8e31f06121fac85116c9e2ff3996f9998a381",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "725,923.762745227415733919",
+    "hash": "0xce69d6718c92fe8b87535dc0b6524ff07c0b7c66760b3a2517f43997534cc8bc",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
