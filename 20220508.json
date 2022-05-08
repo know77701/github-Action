@@ -724,5 +724,11 @@
     "value": "32,957.5",
     "hash": "0x30dd9bb8408653cb5481a7a0df9ec92d48ed35520675de5611f8e864b3f71787",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,875",
+    "hash": "0x62232579c0effc2f3690a8e6d0531d1f0cb02dfbf34d35de28e5a10b3d50de02",
+    "token": "chiliZ (CHZ)"
   }
 ]
