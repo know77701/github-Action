@@ -1,0 +1,26 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "21,334.8472405",
+    "hash": "0xdfd81aff7b1f7f73160ff4dc88f5cdc3f34c4ac250afddfc32512a744802c1db",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,723.636906",
+    "hash": "0x4a2b26b52dbe3c2df88e7d7d1528b5d04b7c3b1ae76a3e711c9aedab0115c325",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,472.04770739",
+    "hash": "0x97ad243a70c8fde74c146f08a1b21101a28c3163ef9ccba160753955453eaf1d",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,225,765.71186007",
+    "hash": "0x592b0469bcafd44cbd4b23f41409efa6d21514ba20951ee3ba92dbc8474c9612",
+    "token": "Civic (CVC)"
+  }
+]
