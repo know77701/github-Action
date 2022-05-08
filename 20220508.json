@@ -418,5 +418,11 @@
     "value": "1,000",
     "hash": "0xdb519ee8f010cd6a3ee43908833fbb4314080cb089760f35c8a0d6fd7e90133b",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,254",
+    "hash": "0x729a697e2a18299d0f2a65d0120273573ca45945760df237b0f83f28654b5c47",
+    "token": "Onbuff Token (ONIT)"
   }
 ]
