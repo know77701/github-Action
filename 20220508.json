@@ -244,5 +244,17 @@
     "value": "171,981.458721528540733919",
     "hash": "0x3dfa995407faeed6056cf516c20779ff5561948dbc03b340e9205712f2d527f1",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,992.32356184",
+    "hash": "0x69c0ec3ee570a105d1e5584a2a097c96e3ecd6f9f8f53ad5dceb7dba55e5b0a3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,373.848",
+    "hash": "0x1947a0e754caa2ce0d15dbcae139885e41bbb8e6d1276f44f9a5460e7b1d0531",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
