@@ -160,5 +160,23 @@
     "value": "9,202,717.79072221",
     "hash": "0x0da6eca9fbba5da20d865edcba9f53ed39fbd65974c69da41617beca7690884f",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,000",
+    "hash": "0xd79476dd4075b012b7e01bb39e897b903e49d1052410101a096ae19fe66c4f67",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,334.43268227",
+    "hash": "0x005129ea217310b459d6e75df58110a0989fd9c5294b8222c482f4a3af8594e5",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,523.264",
+    "hash": "0xf16e267aec0162de61b563ed4a114c25d1313822ad8241ce25323a7164ce44e9",
+    "token": "ZRX (ZRX)"
   }
 ]
