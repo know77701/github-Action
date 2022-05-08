@@ -358,5 +358,29 @@
     "value": "118",
     "hash": "0xac8299c8b2b0a1125545fc8fc8ac43f8a799cdd7dc7173c9bcaa1d58952a7499",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,062,842.6732842",
+    "hash": "0x758282b6d0782c2d603fd5997cd4fbde9bed8fe2a7abe4895b8cdc44a86ea651",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "493,865.190868524817818171",
+    "hash": "0x1e1e57c1172180e11b6e6a0deffb87c2cb33301e6b776f590d16cef176c4b636",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "683,151.90794618",
+    "hash": "0xbf79d924861230e1c145229a85460f419509d7927a6caa9e7a801677a4c95d0c",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "247,898.287580245182181829",
+    "hash": "0x0573897e89aaa70e6782f144bff887fb1bb0e1b5d9d509c842f1acb6325318ca",
+    "token": "SAND (SAND)"
   }
 ]
