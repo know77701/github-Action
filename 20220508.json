@@ -526,5 +526,35 @@
     "value": "969,731",
     "hash": "0x92129294664faf0544851fd280d6a494028c5a9d9228069ef094809851c8f1ba",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "749,800",
+    "hash": "0x0eef06c2d5e5adfebc592a5faee760e5fa70682ee597beaeaacfa5d0d4413bbf",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,357.87752849",
+    "hash": "0x5e12d812200989be4867c99dbb3779daf0ed62e023d8d97d9af22534f9e37993",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,607.845043",
+    "hash": "0x90b3f724ffb4b004b41e3dcddb33b53fb4662a7192177b1a4f49ef009a936524",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,393.738942064716939264",
+    "hash": "0x2d0da930bf6c7f90bbe0d04bbfa226a477e133aef7052287fb86516066eca2df",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "435,000",
+    "hash": "0x02abb69119b7c32c6810a1017bbd981171888e750cea435f6ee08c7ffb115091",
+    "token": "chiliZ (CHZ)"
   }
 ]
