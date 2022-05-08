@@ -310,5 +310,11 @@
     "value": "917",
     "hash": "0x244f5bb2fc8777da076a7d9a93983cf6fe31af42f8217a02880bdc2b08326c0d",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,731",
+    "hash": "0xbfffac86726255b37d4890028aa5e24fe67b9509c5d002f215590a601d641475",
+    "token": "Threshold Ne... (T)"
   }
 ]
