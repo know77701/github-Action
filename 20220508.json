@@ -400,5 +400,11 @@
     "value": "84,734.823424678033343157",
     "hash": "0xccd2e9a8f85b4cd9fe90a694eab862574497cb3c0754501461a0ff2964cfa95b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19.13496882",
+    "hash": "0x9701cc8f51a241c1f79ef25bffac723b9c0ec14d56ca1d0aa784579fa8f639df",
+    "token": "Maker (MKR)"
   }
 ]
