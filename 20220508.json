@@ -316,5 +316,17 @@
     "value": "299,731",
     "hash": "0xbfffac86726255b37d4890028aa5e24fe67b9509c5d002f215590a601d641475",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,002",
+    "hash": "0x2e1898f84f9bcb1a62554d2b55b5f24929b5c53ab05cd15a5736f1fe61d12581",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,874.912567222459078943",
+    "hash": "0x337c0c4342dc8f60a0df04d61490f41fbb9e97751ddf4f8812894be3ee74908f",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
