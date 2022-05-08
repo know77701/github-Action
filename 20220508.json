@@ -586,5 +586,29 @@
     "value": "154,172.95143152",
     "hash": "0xac78649fc006d736f1ddc8e380f20a4f6e2ee03940a26aba0c09f8b45fd1965e",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,079.815420036652556078",
+    "hash": "0x184764701b4328b73e60f75a7673e285c4edc9bfeec957b1fefce795c34bd6ae",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,819.59993751",
+    "hash": "0xa8d462465e3e88db6f9c72b1620408b6cfaf9064b58e0da737fd4538a5cb480f",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,178.124932653347443922",
+    "hash": "0xfdcaf3959e8cb1db5f733f76a90fe0dafd826c890c8bf22ea4dc9f8659f45cd8",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "782.550155159822184735",
+    "hash": "0x879b0d902844db38234507b694d6e86651f1bb80840a17853c6c7509b1fd52a6",
+    "token": "SAND (SAND)"
   }
 ]
