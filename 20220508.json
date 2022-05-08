@@ -328,5 +328,29 @@
     "value": "17,874.912567222459078943",
     "hash": "0x337c0c4342dc8f60a0df04d61490f41fbb9e97751ddf4f8812894be3ee74908f",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,978.99992697",
+    "hash": "0xdba182e2d6135cafec8be9fb56a340ce1bc84f2f85f492c015c32d406156306f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,692.72020062",
+    "hash": "0xfbe29c80926273a46e3772039f3dd9d01e865d63e0cb0f7178b58cedf354b25f",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "484,157.272136379571922924",
+    "hash": "0xbd7fb99b2c4b4ee7c72afa5e39dae16b5954fe258382250396c20499ec3fa5b5",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,716.734708880428077076",
+    "hash": "0xba486a5a2189998cd8f07164dc6bd910c36e101fcdbc314834e58954a1e6745c",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
