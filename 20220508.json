@@ -556,5 +556,23 @@
     "value": "435,000",
     "hash": "0x02abb69119b7c32c6810a1017bbd981171888e750cea435f6ee08c7ffb115091",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "903",
+    "hash": "0x1055aa2ac2ba17299b083db78701893567a595e36c702ba05c3b26152d6c9e71",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,990.28",
+    "hash": "0x4f5bf790a744f72818826971e7afed7c388c2d98413638970a599e9fd362f7f3",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,468.28",
+    "hash": "0x088fa1c9e83a7736b93e6d7c919dda97090409bde6eb231acdfe364fc2ad7855",
+    "token": "Matic Token (MATIC)"
   }
 ]
