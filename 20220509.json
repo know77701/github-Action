@@ -406,5 +406,29 @@
     "value": "45,975",
     "hash": "0x3a70613f3331ff0822f445bd8930ad6b122e4af322f36c858a5e5786543ece48",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,561.7",
+    "hash": "0xb806c60f34fa2eac14df0d361220f66560da31489017ce951134f8e902c66f6f",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,996",
+    "hash": "0xec488ac3d9938b944b07cd8e89333baba661641817f6280f1f12141a69c83091",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,001",
+    "hash": "0x2f2a66f02bac9960508b7dbb845220d14d2e279967af671f5396008ef995459e",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,300.46",
+    "hash": "0x9c04f67af1ccc1b020281fd43ad1738adced4ef375846c94f72e784503160a35",
+    "token": "OMG Network (OMG)"
   }
 ]
