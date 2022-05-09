@@ -430,5 +430,17 @@
     "value": "5,300.46",
     "hash": "0x9c04f67af1ccc1b020281fd43ad1738adced4ef375846c94f72e784503160a35",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,557.44923865554977721",
+    "hash": "0x47b1cc6bd1bfa4fa1860432cd46f389ada756664f43687b362679ad95e9c595d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,996",
+    "hash": "0xc796c79ab859c0d0c739a7e4bf7b3da007c777a420e7830bf6aeedee1b542dc0",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
