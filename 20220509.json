@@ -706,5 +706,23 @@
     "value": "11,906,796.22188810060347753",
     "hash": "0xf7d3d760f119da3cb8392c385b63a7f48ccc2c69ea0ad827ad119bcf6541d4be",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,449.24052342",
+    "hash": "0x6d08c762149b99b53a46d698ee7da525399914ab6e3a3bce8e1caa642e29b078",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,521.243",
+    "hash": "0x08d5050464f7f5633cdc19332183bf13461e6ffee7d2d7e20661b7f7b970ea09",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,923.672870015542417646",
+    "hash": "0x9aa810c979e87b5c314c9ee157db4e843a2b7a46a71dbd46799f1651438d7659",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
