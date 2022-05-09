@@ -58,5 +58,59 @@
     "value": "117,761.98057261",
     "hash": "0xb63bb18d69863a436d269594bcb99c6ef8699f2c8dc7d9aa77ffacc3aca5237a",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "416,339.207005204576102504",
+    "hash": "0xe952ec4e0274ce5554d192bd212efc880fcd11cbf6501345ef2559a9ab400035",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,280,260",
+    "hash": "0xf52143b22983c6b94844bb8091b49ae370fb50fb0ef9d18619705ca5358403f3",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,509.532314085423897496",
+    "hash": "0x06a731e6ad7298433f80662cc417e8e225089fa8ed2370b99ba4a30072de55dd",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,801.96326161",
+    "hash": "0x07cbf62246663e4abce2797736c715b5666f00248deb3111fce8964b3c66c67c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,480,648.11413639",
+    "hash": "0x3733aecf21e85879950690acfcfddace576ec024a2c3f160922e814f971dd86f",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10",
+    "hash": "0x003cdd3d227dd4e903a25b93a593307fefa4e527033813e8ff5be4304b475890",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,445.43627221",
+    "hash": "0xc41213e0b7d117496aa1d99b0e3e4bfedba32f6a99f5b5d0fcbcb8d4d7e3f900",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,492.157",
+    "hash": "0x8df47923599332b2cf997aee1957303464836e0958ee755d591f88150b1f3bfd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,015.44881443",
+    "hash": "0xa72716634f9fd380e480371cc5c8d01ea6ac820d9bf5a2add57ce4f0bd44c2cf",
+    "token": "OMG Network (OMG)"
   }
 ]
