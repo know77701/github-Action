@@ -502,5 +502,17 @@
     "value": "404,825.12905126",
     "hash": "0xccf0a6aadedeb78d32afb7a3629bbc79cb78c72db25b5ef4ccffe8bc152be394",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,733",
+    "hash": "0x54d49f0ddc7d0269b5cc442756284e2c59d5f9834e5cd23cbc1586d9a1a241da",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,965.397264262124025052",
+    "hash": "0x4382ffa641a53c4350c683b2cf34234f3ed89f21fb8d840adccb4af6a55af739",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
