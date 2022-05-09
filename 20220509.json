@@ -382,5 +382,29 @@
     "value": "500",
     "hash": "0xe0bed01091c4ab8cf06a3074486c7e5205a5e1a2f09ad943853d072fe58b9eeb",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,138",
+    "hash": "0x534c40c064a233057e0db293b24ea4e8fdd54d0f1244c4a4637e61debe5d143c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,000",
+    "hash": "0xf1887cf0acab76afe13febbb80122e2bd0b311c010409129edb44d1019705cc7",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229.975292152556279613",
+    "hash": "0x71ae5b048c9d9f2a69872a3155a1d5aae8fea2920db1515d76fcb790bfcf247b",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,975",
+    "hash": "0x3a70613f3331ff0822f445bd8930ad6b122e4af322f36c858a5e5786543ece48",
+    "token": "Storj (STORJ)"
   }
 ]
