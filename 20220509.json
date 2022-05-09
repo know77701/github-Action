@@ -1072,5 +1072,11 @@
     "value": "45,587.99997626",
     "hash": "0x405f1f642edbf3d1c7722cba949ecec2e197b80f46638a93358442d858fcdf3d",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,290.642",
+    "hash": "0x607d9b6dd9f1a33a681b0dc2faad96065a25ac12df6e4ce83c96fdf0391abdc0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
