@@ -346,5 +346,17 @@
     "value": "16,672.82166176098122369",
     "hash": "0xf7e22f765cb93f63c325e8fd31c74ff8860d28770fc598f3ae2dbdcbf10d4499",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,560.144980354466078871",
+    "hash": "0xe6e3c994634b10b51f1c93a3de19a08a734521a9ee17bd6d47303e47a7e6917a",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,417.931692005533921129",
+    "hash": "0xf687ca4688336d867bb98de0b186d0d5f907a9198c7d3817f27ef41a0722c6cb",
+    "token": "ChainLink To... (LINK)"
   }
 ]
