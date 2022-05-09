@@ -196,5 +196,35 @@
     "value": "830.03957916",
     "hash": "0x7848d2a8b03dfb6e6e3402d6b6f593a22756ddce5804a59343d077af563892aa",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,230.07156109",
+    "hash": "0x80cf8a1d4754545727f62fa4b8bcbb535724b1342b1d327db36d6fdd0db3b096",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,796.291648580456621005",
+    "hash": "0xf3017cfbeabb83ee89e2cbfc2c4496e007bc8406efa0e551d5b9b1769fec9979",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,928",
+    "hash": "0x6edd665bb2f1c33d567fa6e522eeb5973b4ff95f0452dbffd2426e7ea82de6ca",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,630.977146224389615153",
+    "hash": "0xbca138cf1183dac880889317ca7c2eec25e1e32cb5229c8367210cda665852b1",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,964",
+    "hash": "0xea6489b9e6cff9922e222782e6fe82cfe9c81293793b55837e6851ceb64c7226",
+    "token": "BAT (BAT)"
   }
 ]
