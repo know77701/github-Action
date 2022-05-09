@@ -1048,5 +1048,29 @@
     "value": "2,093.4233034",
     "hash": "0x9bb6d2f73b0e7590319c2d8042dfa771b70d05903f05fefa43517287d1412ced",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0xd6ac87a53d58b22e0e42f5b8c4884bc297657eb29474f2ccd68a05d072911182",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,912.1276",
+    "hash": "0xd97bc62f9dfe85a88c0ddc321508e68e21e07450050ae995102388314ab1e303",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,653.65547126",
+    "hash": "0x183fdbf9277cd28a5f76ee99969237d5f3e85dbb2237792ba4f098a4a703c120",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,587.99997626",
+    "hash": "0x405f1f642edbf3d1c7722cba949ecec2e197b80f46638a93358442d858fcdf3d",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
