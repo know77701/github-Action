@@ -226,5 +226,23 @@
     "value": "56,964",
     "hash": "0xea6489b9e6cff9922e222782e6fe82cfe9c81293793b55837e6851ceb64c7226",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,000",
+    "hash": "0x71e1eb4f5bfdcc561cf7f59c118b5ea97bbf6fbcfcce2c20faffd0c6f8b8b0bd",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,523,625.858",
+    "hash": "0xffc84c00d7524cd2ca848fb0233e61fb45b75048e44189c9ab05180f1f8667ff",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,000",
+    "hash": "0xd0aa00c7892b66193ed308091b6d5690f368d12a37b44647615c91726940e7ed",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
