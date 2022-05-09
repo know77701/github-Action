@@ -520,5 +520,35 @@
     "value": "19,331.664717",
     "hash": "0x929845931b9c849ca00a6521339a9f45a1b0694135f3d2bd10885decae33be3e",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99995239",
+    "hash": "0x076f35fb896d627dc9f8697b590b081c88854ca49b28537b2cde2d31e69f2dac",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,715.761916844896896855",
+    "hash": "0x08f13fe227e51ff56400ea64be5e4576b666a4df146c9200930bfbd3198ecac9",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,045.42114448",
+    "hash": "0xd67340c49d40945123f2bd8a082b46fe5cc0ad4fd41833fdd0cb30fb376ea401",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,305.80009229452301132",
+    "hash": "0xdb04bd9255d4f0ff0300057c1be2457a06fcfcd77c45c9062bf9f9ac7b68da31",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,679.19985450547698868",
+    "hash": "0x840b633894985f2318ab94c4626c451424c3b9079b607fb1bc0bb255d5fb1ac2",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
