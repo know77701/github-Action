@@ -724,5 +724,17 @@
     "value": "32,923.672870015542417646",
     "hash": "0x9aa810c979e87b5c314c9ee157db4e843a2b7a46a71dbd46799f1651438d7659",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,559,486.076076",
+    "hash": "0xf228a8d467c60e7cd740a18d4b96f4ee34d7119e30b61a0da9b91103712ef2db",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10",
+    "hash": "0x870b767298fce174887a143b2fcb939fb95ee21224d5a9c2a8ea2f740d8df37a",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
