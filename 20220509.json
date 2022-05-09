@@ -1210,5 +1210,47 @@
     "value": "185,439.331443767945591072",
     "hash": "0xf70a9c48aeab0992e90e86442567387a05fb3cf42b593dd14d1198495f4defdc",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,246.172204361334422153",
+    "hash": "0xb6e84ede9dba8209f2ede9351f766fe42f081f430769c0fc95b2178c0806100c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,361,374.411132437089701062",
+    "hash": "0xa5250d98b1fb315a7fba7be651bd057a0a19e5db9cebb1ca76be6be540146cde",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "734,100",
+    "hash": "0x04770e945c66421e48ddd6c91c4d817da413067e0514ae7baaa510fdd85a5146",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,331.2913837",
+    "hash": "0xa5602bcc4987396637444f54394de244b235d89171949d7ac255582a22e4947b",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,943.255198428665577847",
+    "hash": "0x404c7e893d10cdd2fe8c448c35437ab002029ff93a5cfb42dd6720f06a8e32a1",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,697,781.847250332910298938",
+    "hash": "0x669c379dcc633f11ea3deac8e421c4a0660a7fab53d865bb7485ddc9a9a2a73a",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "167,864.03760516",
+    "hash": "0x35107e339e95ad4eb650df86b350bd87c83fd1a3231f949e22daa2222b1c56c5",
+    "token": "Metal (MTL)"
   }
 ]
