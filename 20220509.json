@@ -442,5 +442,35 @@
     "value": "19,996",
     "hash": "0xc796c79ab859c0d0c739a7e4bf7b3da007c777a420e7830bf6aeedee1b542dc0",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,989.99991116",
+    "hash": "0xefd431c365d812a2d07ae663391875635ab638a3e98f529b3400a85ca582064a",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "339,928.99991209",
+    "hash": "0xce697bc8aa283645dd65d636e2c73328089f1305dbec62ef43b63d103efbb2d3",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,957.51075242",
+    "hash": "0xc8fe2ebca93de18126797cf5313c679c893f9b2c8e17bb19678585c248c79862",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,645.35",
+    "hash": "0xd073dcc211acda1caf7fe08cd61a3325890a362b4ed35fe6fbc077cef617bad1",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "595,699.0939",
+    "hash": "0x2a34a95b1af9a22e412e3e7d5904d51b8bba0a1f1bd8919fea380e18b312a76f",
+    "token": "Decentraland (MANA)"
   }
 ]
