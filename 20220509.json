@@ -358,5 +358,29 @@
     "value": "18,417.931692005533921129",
     "hash": "0xf687ca4688336d867bb98de0b186d0d5f907a9198c7d3817f27ef41a0722c6cb",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,339.02",
+    "hash": "0xedac9a9b1ada124f35b9875e7fc30fc9f9705d69dcee0d8e2e0ba2a2ee89adfb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,710.28562336",
+    "hash": "0x6c43579d097edb01251d87ed266d2fc0d2cfc04ce2e0f33c80acb6b1395931e1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,978.01",
+    "hash": "0xe4e758c55fdbb78a1303c067c5c5dcd2bf97bd821db4922b08c2aad307381db2",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xe0bed01091c4ab8cf06a3074486c7e5205a5e1a2f09ad943853d072fe58b9eeb",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
