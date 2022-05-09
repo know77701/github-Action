@@ -622,5 +622,29 @@
     "value": "69,379.59908122",
     "hash": "0xf8fac3ee6a9ae15093affd220b3347d0eeb8444ed229ac6b974192e024f842eb",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "681.683536701344262725",
+    "hash": "0x67b1b868ad2a86726cee7ce2531b96a57a000d116091172328fdf410500a28fe",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,956.869133451107809839",
+    "hash": "0x4643215fc35bf54ceddc594dab77ca19d85dc861caa3fd61869febfff04600a5",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,993.224",
+    "hash": "0xbac9ba86c97e7e65e87448116e62bf1d84e1b5025bd3e4a3b851bfa862900d6d",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,113.130866548892190161",
+    "hash": "0x719b72855cb7c544ce2b32625d75ca4fd7aae35b944bc07096700dd9d88e5a03",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
