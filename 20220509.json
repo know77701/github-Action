@@ -550,5 +550,77 @@
     "value": "33,679.19985450547698868",
     "hash": "0x840b633894985f2318ab94c4626c451424c3b9079b607fb1bc0bb255d5fb1ac2",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,413.96956851",
+    "hash": "0xa090c9b633b2812708f352000fe9ce929d27b517449d9d130bf58fa118cc4040",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,477.779223782060855858",
+    "hash": "0x7d934178064a4e731145bf3b0665c532f7f4835ec990572cba071ad9b2ca4d0e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,373.6371",
+    "hash": "0x1820438c9bd045c670df47eeb4384ddaf1e60d388c0ba291f46d046f18516353",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,466.152091072295893472",
+    "hash": "0xfc6efa61a9c5fdaebaad0ec51596c62f7bf67a1fbc922674f6a5398dbc88c3d6",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,445.730908927704106528",
+    "hash": "0xbe0edf6dd84eaaa406a8ca7881d800cc74c90c53a6cad6a1fd45b7e7a1572490",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,470",
+    "hash": "0x594dd6803f823034cbc9e16255c99b6231ae208485fcd18e334645af3bceef41",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,790.398995048969244929",
+    "hash": "0xf15b2d26d54a6000b26b60e51565a0621a99701e5ba762abd7ac3804ec6cb5e6",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,960",
+    "hash": "0xd306ef93c1a8e54c32804767c529bd455e2c6cbefc2490de09bba96913a39671",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,010.99990961",
+    "hash": "0x2ac75adabb0ca1a7ddbd1dd69531dd913a85d00d29524203f13601bdc3f54be9",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,205.42566",
+    "hash": "0xe08d841aff1fcfb492b62421e471a2d0ee7a79d3e5ba2c247857416f38122e07",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,760",
+    "hash": "0xc03ce5a1c6c892d41ee17eddbeafae6145a1d10ebd2c1c74094690a704f1d0ff",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,379.59908122",
+    "hash": "0xf8fac3ee6a9ae15093affd220b3347d0eeb8444ed229ac6b974192e024f842eb",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
