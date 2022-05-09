@@ -472,5 +472,35 @@
     "value": "595,699.0939",
     "hash": "0x2a34a95b1af9a22e412e3e7d5904d51b8bba0a1f1bd8919fea380e18b312a76f",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,000",
+    "hash": "0x702ece2e45139d6f4d10a26a84ca088395efe985b66b591f272fbbe3dc130d6c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,434.508655397875974948",
+    "hash": "0xe4be22401da6000063f5c573007b9a07227e6707d506d33d441afc8f0e6300d7",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,039",
+    "hash": "0x5255316e4c5d438ecd7d9275a46fbbf6d1a162a4f52ca49b41038e7f8b56381f",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,555.34027921",
+    "hash": "0xc7ca56cae0281782b2432a45c9a8f2e9232e2eaa7102fc591b58b8c46d70a318",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "404,825.12905126",
+    "hash": "0xccf0a6aadedeb78d32afb7a3629bbc79cb78c72db25b5ef4ccffe8bc152be394",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
