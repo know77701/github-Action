@@ -658,5 +658,17 @@
     "value": "43,100",
     "hash": "0x3b763ea5d5c9cf25f01c6c6e716088b74f8483c39a8356b7ebcd4c3f03218164",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,339.26613722",
+    "hash": "0xaf3885b6de3b817aba6fafe992a3505488c0e3d0a9fbc4ed56995d30fc51137f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0xb8d8c7780321ff7ce312e25eb90527c86684aac466abb7c678ab02038aef5ef7",
+    "token": "1INCH Token (1INCH)"
   }
 ]
