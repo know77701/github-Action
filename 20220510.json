@@ -592,5 +592,11 @@
     "value": "134,000",
     "hash": "0x87897a0d916a09263c550e1937535e773e704443a03584802ddc7cf5d6940338",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,822.21903968",
+    "hash": "0x820cf0f5d1c6c7d6bea5f983f99c9883e3526a81eb7d92bb211bdde473e68799",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
