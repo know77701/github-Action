@@ -580,5 +580,17 @@
     "value": "196,251.900425085084980427",
     "hash": "0xa126c9866f566569eb5aa77c848d5f7bdb6807f945de4aeb167a307b6e9bac84",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,938",
+    "hash": "0x0ff7d119ac8c121156bc782f7b5f313979f01fece8dc410835dc5ccb3395e4df",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "134,000",
+    "hash": "0x87897a0d916a09263c550e1937535e773e704443a03584802ddc7cf5d6940338",
+    "token": "Golem Networ... (GLM)"
   }
 ]
