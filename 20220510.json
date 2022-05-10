@@ -76,5 +76,53 @@
     "value": "3,575.0216",
     "hash": "0x3b998657986162a0c293f55cc7fe3c86ac3915ebe233bb83fe5013eb28de7a1d",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "755,053.6606775",
+    "hash": "0xd946e53d111abc14a81db580eaacc59c65aa539265f0cd4f16fd991d812c9895",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,917.247423696070285038",
+    "hash": "0xdcb3a4b78c8134d645210d736b521ec84b987588eb96c2ec553636eddf1b0630",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,070.752506683929714962",
+    "hash": "0xdb4238cde5e3ce624c10e3163df9fa2795a1978ff4de8b35b422c565bb039731",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,484,571.60003099",
+    "hash": "0x3ba6c0054939d3e400300e59b99ec2aa32d84cdacf560ecba94256f93fda0526",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,000",
+    "hash": "0xacb6828880f46b6eeff6d46676a88aff16fe4db2dd33af1c226cca7f2ef392a8",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,421,224.553104202928766934",
+    "hash": "0xb6e304324fefb522d90c1918fa42dad3ed176c1445164021dc87de8aa8e7d5fc",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "886,036.19925952",
+    "hash": "0x44e88f158c43b404a187996dd6b25938ae9900b99b53f83c100395f74c1a8228",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,911,372.791086627071233066",
+    "hash": "0xc049b229b874730862ccba344be98132f96c87eea48b83c37cfbfc484c51657b",
+    "token": "chiliZ (CHZ)"
   }
 ]
