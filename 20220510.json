@@ -838,5 +838,11 @@
     "value": "40,044",
     "hash": "0xf00635e48e06e90bb86abc109e39ade1402175f32be3cd58ac27096724f9b1f9",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,937",
+    "hash": "0xa68746f57aee1e71922604f430dab1c67628bc8ec7ca82ef88b817e5c30d39ae",
+    "token": "SAND (SAND)"
   }
 ]
