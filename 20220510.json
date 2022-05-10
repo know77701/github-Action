@@ -262,5 +262,41 @@
     "value": "108,895.92930527",
     "hash": "0x998b9da0a3def00851c0d5ad38cf1037e315acd53dd57d5e5a8e2d4dc17147c0",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380.39",
+    "hash": "0x5fbfc7005f98a01f9013531c707ef5f0f65ae6762928344613806f6a6c369532",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,219,404",
+    "hash": "0x6be1da222417bb601dc6066284dde8df6828f0d6767c78fa77ccaf3889407983",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,260",
+    "hash": "0x0ac239b44f7e7d849b8f6a8171c98716c2cc959006a5bb0ecd972fe92a430d76",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "738,892.79867922300880243",
+    "hash": "0x9589e0bff8d264118ebf1ef20ca88dd95b6131e822403ed2001ae50d50918291",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,260",
+    "hash": "0x1112bb55d01dbebfaa1e9c865029505abe53b7389c2da7727331cf5bbda5f7f6",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,109.041175",
+    "hash": "0xdc91ee53b1a89d82565eb76dbefef1dc5e6e7bdf3fa83046e6c1217a5bec1f9d",
+    "token": "Serum (SRM)"
   }
 ]
