@@ -832,5 +832,11 @@
     "value": "30,270.335906652824013726",
     "hash": "0x16fa160f638c53e0e1da0b2618fc83e13fc2df5b16d0b836a8729d36b66f1197",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,044",
+    "hash": "0xf00635e48e06e90bb86abc109e39ade1402175f32be3cd58ac27096724f9b1f9",
+    "token": "1INCH Token (1INCH)"
   }
 ]
