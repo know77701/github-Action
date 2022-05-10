@@ -160,5 +160,29 @@
     "value": "17,979.305209435900608512",
     "hash": "0x239e2cd56521f0b86d94c1deb6b4fbdf0f1b92c12e74070ab9f2675c537549f4",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,756.788154858351531915",
+    "hash": "0x035ca2a291f6dbc61660ef9799a5999271b5c45b2398059926f5c44665970adc",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,164.226712101648468085",
+    "hash": "0x6c1aa2e92141ea78ef08a24ab817d3e5aca2c2b1bb70473b1f97b4a4b985dfd6",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,344",
+    "hash": "0x59b591a10d064b335e2e9f11269db4f089996da568441f4fd68e06cc92578f10",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,626.87675020147232209",
+    "hash": "0x0a79b2e2b4cc81c466f6159197f0376d360b2b87b0b6020b64f5b3d8840074ec",
+    "token": "Bifrost (BFC)"
   }
 ]
