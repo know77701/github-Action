@@ -868,5 +868,17 @@
     "value": "24,267.024306251276357189",
     "hash": "0x0eec171ffeccaaf4fba514f435854bd3ada3131307408d59f343f3248f8f2ce3",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,076.02191279",
+    "hash": "0x21b46ed384c55ac29920597655358f32268fdd038713274ab3803e3b73ee391c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,000",
+    "hash": "0xcd14d139f97d8dc707183d037b1feb7c9b600afa1e176d4407848debc4cb03cd",
+    "token": "OMG Network (OMG)"
   }
 ]
