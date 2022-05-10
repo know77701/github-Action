@@ -880,5 +880,23 @@
     "value": "6,000",
     "hash": "0xcd14d139f97d8dc707183d037b1feb7c9b600afa1e176d4407848debc4cb03cd",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,398.04770739",
+    "hash": "0x672f60b88bfbad091d5be6ba29748853b714d1779c09e977d91ebbbdcfa3f71b",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,311",
+    "hash": "0x8ad1bd1ceb814fac01fea1ebf4d63491629fd3d1b89a7d4e4341d1acb54429ad",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,000",
+    "hash": "0x2947a614200d21b755c943ce8cc704e33fb5dfa7065e728b07460480b7d00d17",
+    "token": "SAND (SAND)"
   }
 ]
