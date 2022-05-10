@@ -400,5 +400,53 @@
     "value": "6,519.482041274705669053",
     "hash": "0xcadeed0e87ad9f681ecc459a202424c734cb890078898533caf7bf2bc56c3851",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,510.26069655",
+    "hash": "0xe7f2399aec13dde4944d73b0e51759e5934cb72d1ddad5e0d4c27fedf8bc0d14",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,697.73722666",
+    "hash": "0xc9c6897c0d15710f7473e29158f7a9e0b6eee31dce66964243d62955934db856",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "455,468.23032914",
+    "hash": "0x8d149968f2f7acc1590f78b6f6022538de6dc2944939477bcb177756d9052f5f",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,215.65",
+    "hash": "0xf4aa776c3bbdf85f6dd54b65e9049bc2eae82beeb5c2f646aee8857a683b68c6",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4b4c835943992e6eabb88b9111397c6732982ef115a82e49422b888cdc1c9eb5",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,974.99998866",
+    "hash": "0xbf9f1182e636633c2fda8c0c9b7415aaa4622a709f461f1ba81c1e23a0f2c3e3",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,218.39673951",
+    "hash": "0x63761b34d7b71b107b752b5432ef515d758c782e3fa1648b729aaa99a388bf33",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "403,326.45935938",
+    "hash": "0x0cf27eb42138d39786973a78665886c805dc3ce6f7b95539632a43a0da1672a8",
+    "token": "OriginToken (OGN)"
   }
 ]
