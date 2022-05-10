@@ -226,5 +226,23 @@
     "value": "21,763",
     "hash": "0x8b8b4c5c3f166e406187490b1590fad1f4574bf59961e8551bb38115888b0c45",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,988",
+    "hash": "0x4471b51f677352e4e2a34363a0b3b4c37ff2e1e1c46d436da4771073ccea5dff",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,785.2657",
+    "hash": "0x60d36a87b667b46e3c143e546dd3bfa901425fc32cf4d852b454aa0133c23bd2",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,614.00592009",
+    "hash": "0xe63aa99961f4ca17cf978575166ec920e5bcf20847af7e493978ef5a285a72fd",
+    "token": "Decentraland (MANA)"
   }
 ]
