@@ -748,5 +748,23 @@
     "value": "41,769.45224498",
     "hash": "0x711825fd8689cccd7e2461da1af8831df89e0accef8818c189d99d1a37aa0359",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "137,873.07752015",
+    "hash": "0x3f582d6094c14eba420e81d832bb620020c4341305664d575e7ffee1610e1e17",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,968",
+    "hash": "0xb7772cb3ba233d80f64a94b46a2561bef82ff9e3b31ba456699fe7b216069362",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "512,521.43087837",
+    "hash": "0xfd3e5b386211cfbbcef125d2aeff95a75ac7ac11e5b5bfe972f679d73f475024",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
