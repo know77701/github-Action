@@ -526,5 +526,17 @@
     "value": "180,000",
     "hash": "0x4f6b95650a7c99f612e6b048f6c9c3dcad78ad1bb655164e4eab81ce2073a49d",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,935.69924564",
+    "hash": "0x79ef79213f12521aeb44e0403a9602b80be3b65d1a1c6f23db2092fbb6c3e01f",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "348,989.596390082077545499",
+    "hash": "0xe84aef21127bd2c6a9b65f1c7da43944534c7d18aea0b8af319ab85620ccd8a3",
+    "token": "Bifrost (BFC)"
   }
 ]
