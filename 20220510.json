@@ -490,5 +490,35 @@
     "value": "224,025.09132679",
     "hash": "0x48120ee056d4aea8ef0910a1db75f92a872b756ebe9c8006ce7ce018464edfd1",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,997.21411578",
+    "hash": "0x6a39ff5871d9e193e23f06192ea3c744c12fd0b9d5d99727ea80475e999d43ca",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,356.8887",
+    "hash": "0x6fac2f0235767b1b361ca0d4a38723b1e482b09082f961a2c18820adc10f963b",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "839,108.837873968516934379",
+    "hash": "0xdbe336128af69157a285a06ff0c2a640121b03da045944bd9d41741afe29002a",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,734.172109",
+    "hash": "0x752559d8fa8ec0f88e08f6b999b374d7af84c0608a9f555ab5031392ee62df53",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,344",
+    "hash": "0x8928dcbe55a3013e1da1ada7b96d6d048e3281706efd765530c751dc1fb67f62",
+    "token": "Bifrost (BFC)"
   }
 ]
