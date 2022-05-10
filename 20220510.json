@@ -856,5 +856,17 @@
     "value": "52,983",
     "hash": "0xc16e89b3c50fc858fa834f729e20f13eb516c08ff6901beb2c4a01551ae8ac01",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,439",
+    "hash": "0xfad0f225f295fbc4a7daa07f24b46f0d812b246b34e4a42e9f6ad8aa63c8e45f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,267.024306251276357189",
+    "hash": "0x0eec171ffeccaaf4fba514f435854bd3ada3131307408d59f343f3248f8f2ce3",
+    "token": "Bifrost (BFC)"
   }
 ]
