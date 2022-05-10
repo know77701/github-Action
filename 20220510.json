@@ -850,5 +850,11 @@
     "value": "93,803.7983",
     "hash": "0x0c7faeecf57e5bbfa042070d3ac80085ef0435257bbada98c069e1f3ee981a2f",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,983",
+    "hash": "0xc16e89b3c50fc858fa834f729e20f13eb516c08ff6901beb2c4a01551ae8ac01",
+    "token": "1INCH Token (1INCH)"
   }
 ]
