@@ -472,5 +472,23 @@
     "value": "314,929.928521415757278112",
     "hash": "0xa59dcc951efffdf49d67652f4ecbf3cd58ea0d4ec183651fceaf3de0da212533",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,189.16008787",
+    "hash": "0xd290925b2c0f02361f9d6440631dc5e2a808fc213fbd5d0fb9eff8e68b6cdbd2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "309,284.90574557",
+    "hash": "0x87ac904edf4f426cdcd4a91676edc6e494fc3f54aa04d3394567c3ba38facd4d",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "224,025.09132679",
+    "hash": "0x48120ee056d4aea8ef0910a1db75f92a872b756ebe9c8006ce7ce018464edfd1",
+    "token": "Graph Token (GRT)"
   }
 ]
