@@ -130,5 +130,35 @@
     "value": "63,488.88716572",
     "hash": "0x76ddc24ebc24d687bdc0280a37b2c391106adff16714a03e4d34e065a4388c64",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "512,569.049443550350712886",
+    "hash": "0x4a266c4d83fad8f7951eb14e4325c9b5001bd2e35770f856400cf6b590dfb126",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "682,946.643649540038003094",
+    "hash": "0x6042701564e7d299187a8d3a794fee9ea93231601a892a66c5f570731b923fcf",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,751",
+    "hash": "0xe99c3a2953c811daada89409168b86604ed044201e0e56ca20197c058beb9745",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,215.73784074",
+    "hash": "0x66e7bd15f449c88e5eadb5a8a24c9b9fa800e66b0d9543821e49d4dbdf1b3bad",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,979.305209435900608512",
+    "hash": "0x239e2cd56521f0b86d94c1deb6b4fbdf0f1b92c12e74070ab9f2675c537549f4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
