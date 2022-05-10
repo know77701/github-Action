@@ -124,5 +124,11 @@
     "value": "1,911,372.791086627071233066",
     "hash": "0xc049b229b874730862ccba344be98132f96c87eea48b83c37cfbfc484c51657b",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,488.88716572",
+    "hash": "0x76ddc24ebc24d687bdc0280a37b2c391106adff16714a03e4d34e065a4388c64",
+    "token": "Function X (FX)"
   }
 ]
