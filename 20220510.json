@@ -826,5 +826,11 @@
     "value": "19,947.933108100647915062",
     "hash": "0xbfd991f929e0e5480611e15d565cb00d8ec9ea446084a43676ef4dcbe806177b",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,270.335906652824013726",
+    "hash": "0x16fa160f638c53e0e1da0b2618fc83e13fc2df5b16d0b836a8729d36b66f1197",
+    "token": "Aergo (AERGO)"
   }
 ]
