@@ -790,5 +790,41 @@
     "value": "199,968",
     "hash": "0x70e212648721d205526b289e759aa7a764df6bf5d238173848303b2ed61eed82",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,752,469.496460407175986274",
+    "hash": "0x8d64beb84b39bc32dd9f3574b02ebaa4c3965929c11825b6824b0bef84c36479",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,957.916427059352084938",
+    "hash": "0x4ce9331a063229563ad94334ae588ecb81b0ecca0abebf7fef880541b23754f4",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,925.805810975168539578",
+    "hash": "0x89f72843b73aa1e4b28548e3a957cd7affd3578369b65f271b6b10f3b1d4b256",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "853.46013751",
+    "hash": "0x67302d865fe34de825612962a658c0f77484497e47b95678423420098a4172e5",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,773.864599024831460422",
+    "hash": "0xeedf7ed609bbe7a377f5a6b83140b84e102f3bf8f3d498f663659051d58f0436",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,947.933108100647915062",
+    "hash": "0xbfd991f929e0e5480611e15d565cb00d8ec9ea446084a43676ef4dcbe806177b",
+    "token": "ChainLink To... (LINK)"
   }
 ]
