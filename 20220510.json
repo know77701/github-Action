@@ -670,5 +670,23 @@
     "value": "25,000",
     "hash": "0xb8d8c7780321ff7ce312e25eb90527c86684aac466abb7c678ab02038aef5ef7",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,840",
+    "hash": "0x4eb246adb6e31d6a52f409aba642c87a6be1aa148e52450b658d1e525526ad3a",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,377",
+    "hash": "0xfe3d0fd59651d43da3b83fc679169767e5d328818bb70a44c53e221e26f999fb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,748.21540558",
+    "hash": "0x76938021415882e9cae43d6135db6fb0ff8f9ebbf5535c9d8ee942aa22e1f9a4",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
