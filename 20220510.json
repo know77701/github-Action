@@ -538,5 +538,17 @@
     "value": "348,989.596390082077545499",
     "hash": "0xe84aef21127bd2c6a9b65f1c7da43944534c7d18aea0b8af319ab85620ccd8a3",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,031",
+    "hash": "0xa58374f4675c9824bb7def5fc7214e5bcdebe9eefee70bf5f1e714673338505b",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,860",
+    "hash": "0x354ecd589cc7844b2e9fc6f4229cd8489feb2f6c6032950562e7fe5d8dd236e4",
+    "token": "Bifrost (BFC)"
   }
 ]
