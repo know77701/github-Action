@@ -766,5 +766,29 @@
     "value": "512,521.43087837",
     "hash": "0xfd3e5b386211cfbbcef125d2aeff95a75ac7ac11e5b5bfe972f679d73f475024",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,586.26964247",
+    "hash": "0x339115b4a0cafb3f9043dd8e7f2108a2e6781e1107d10abd0001d92cc0d27d3f",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,690.48114754",
+    "hash": "0xc39df97894c29d60b0d9ae07f163c9aece79e8a9d90d68b0de32bdf8e2a41575",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,163.703",
+    "hash": "0x9dad0e8afa4908063425bbfc56130072c6767556c271291ccac62e07c57f3113",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,968",
+    "hash": "0x70e212648721d205526b289e759aa7a764df6bf5d238173848303b2ed61eed82",
+    "token": "Bifrost (BFC)"
   }
 ]
