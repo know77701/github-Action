@@ -244,5 +244,23 @@
     "value": "103,614.00592009",
     "hash": "0xe63aa99961f4ca17cf978575166ec920e5bcf20847af7e493978ef5a285a72fd",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,260",
+    "hash": "0xff9d1c706267d270c255834b02243471dd86867ee4a2abba873e99cdd13e2939",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,778.5007742",
+    "hash": "0xb5c46053aebf74974ea4d1758ac735bd3dddb40d8990ad5341257f925e1a2797",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,895.92930527",
+    "hash": "0x998b9da0a3def00851c0d5ad38cf1037e315acd53dd57d5e5a8e2d4dc17147c0",
+    "token": "SAND (SAND)"
   }
 ]
