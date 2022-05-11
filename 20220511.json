@@ -958,5 +958,11 @@
     "value": "21,876.082637959984460716",
     "hash": "0x60f7f519641e7a159d2c998fc547ef5065f518ceba447e48ab8cee5965716453",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "607,912.32740589",
+    "hash": "0x785b4269211b83a87172a67b1794639bea93b5dcf1c9ad44d48e97b935ffa32d",
+    "token": "ARPA Token (ARPA)"
   }
 ]
