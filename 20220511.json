@@ -532,5 +532,47 @@
     "value": "439,341.99644322",
     "hash": "0x9e2621f27e47626a706229c42cd55869ef45c8e273a67edaa1ee7fb0c9b6eac3",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,697,946.92787843",
+    "hash": "0x92191a6f661bfbc64348d353a7eba1c3dd3c99bc180721f5f4b1cc32ac79fd12",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "794,853.110180634165296625",
+    "hash": "0xb8a96b595e9f3cf571c61ad7303cedc215da89eac4b5e17e763640d36563b2ae",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,008.60225926",
+    "hash": "0x064574c7e165316a2f06e1d24dc00d94f199c8859953b1727d3145e656aac3eb",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80.975088429716642802",
+    "hash": "0xb6db58c07254e79ded96a7926d90c07ba2f122091de5aa10eab32ad08581af9d",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,412.150718168259204973",
+    "hash": "0x0d68cc7b36b1102bef751591f1ff8581c4a49f2dfe4c093c2f80f73026deacc9",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "228,152.514470216837574238",
+    "hash": "0xd355d3cac0efbdf0100e66887ba8d1457c56ee718cfdec6d85cca1d6c10a59d1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "537.459692840201889725",
+    "hash": "0x8448d4daee6712411ff5a637c753aae3f35bdb38805fe88ba35ad09111daebe1",
+    "token": "Aave Token (AAVE)"
   }
 ]
