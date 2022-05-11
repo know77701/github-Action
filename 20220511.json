@@ -430,5 +430,59 @@
     "value": "70,464.99024867",
     "hash": "0x99019f29ae4229eb9168b4d4d19da399a54ae002ba96aa9675f77ce7b15fd3c9",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "295,023.94094681",
+    "hash": "0x734e74ec482b6dda4e517d238f53f8d50dbc772a8a9d24e0e78add2657a66c57",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59",
+    "hash": "0x6f6684af3e7f35f55d25f91eb190485410ecdae41c3610dffae2bf4312a93efd",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,441,577.444894791093756581",
+    "hash": "0x7bb8db2c7c0eafce61c7bf75229177a2adf510edc314acaab1d113f96df31762",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,738.68980525646",
+    "hash": "0x08abb1b236ce6eddee783b849e4e314ad78501e8a2530650a0f73867f351aa86",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,958,814.940899088906243419",
+    "hash": "0xd1ef950451592b73df4e6f81de9acb460b944f7ead4db69010545f42f114e27b",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,429.052991558882114575",
+    "hash": "0xe9b43e06da0437333d767c47ef29c74cf0397c03e06776fa95d4dfe6cebc53d3",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,986.105347200687087491",
+    "hash": "0xaaed59e037aa71822ac29cf0edb3bd1d8ebe307396fc6f1f1e4161500041eafb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "660,777.734441473905493426",
+    "hash": "0xc713e87cc2e1a503afd6895c1b0259d8a8cf7470724fa22cb00c71bc39e121ad",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,425.486617499315623895",
+    "hash": "0x0b4a1ed1db09f3f4906d819d0d174ed201ff4634e75568247583c482ddbcec2f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
