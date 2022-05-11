@@ -1042,5 +1042,71 @@
     "value": "3,017.8059689",
     "hash": "0xf90b31fb9245ed9284459c6ccb5353b4bb05be0ddd256e5976046907db92761e",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "400,000",
+    "hash": "0xc954ea7226a29087a68ea3e83abf296ea1f19d74e2243a2808cdadb9f0e297e8",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,896.9658",
+    "hash": "0x7ea6a8f08507980d15313ec418b9a168ff6bdf784d3ebd084fcc3b5f3ed9aa3b",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000.15",
+    "hash": "0x62e4c6655e4220b238e73d3e908bb2b46ab8c1f9c59970e1a4afe56efd25a5a3",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,512.523016917875376901",
+    "hash": "0xecd48893e76472802f246fed88c2820047f8dbc2b7ee06e9ba032634c36e38d9",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,052.6685",
+    "hash": "0x4f4e724b15e8b3b887b24723fd67b82b32b8b139771c05285c534a2e21930420",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "959,615",
+    "hash": "0xe709ddc4e67a6544c78d9669eac58c39269f8c3f879fae1ff6e30659c4562e34",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,831.29991984",
+    "hash": "0x4f31cdbb154bebd6e7383a051de4cff6e5f3d5e03b567f3ba9d86ea6a4d7dcf7",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "240,000",
+    "hash": "0xefd7754f5cea5113d96495416338f7133bf7295091a66621fc53477054775af9",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,276.65176",
+    "hash": "0x50098faff55b531e0c8faba98455728231114266f64930eee53d6d90d0018a74",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "358.85134712",
+    "hash": "0x6768e8ac65d270b5082c1f790b9ac08c525018a0f03c02b2b4830552af0c5f64",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,547.36",
+    "hash": "0xf540686812d7cb7a7496765f152ddf3048ff3e819161164a7bc7418d3b5977d8",
+    "token": "Matic Token (MATIC)"
   }
 ]
