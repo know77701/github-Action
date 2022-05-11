@@ -592,5 +592,41 @@
     "value": "1,230.279558091740795027",
     "hash": "0xf6c289a8f86e12b0390764d02b5898c557537cf352cb4e56d0d26e5565916ce0",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,369.68782231",
+    "hash": "0xc1b5611f0a362ca12294b4a8cc97294aed3a30228fb8836e3cb64d91d609c5bc",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xff7e0f4428a585d2f696c16803637aa66e0e07f881c345efbe4624b8178e70bb",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "598.84",
+    "hash": "0x0d5fc168e16c9ad3a15581e931e3d7f13cb5b7ff28f7c9dbebbb38eb123607b1",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,236.9520124",
+    "hash": "0xe4b2c6b9f47fc3b7b91af63549b934c491f88d3ae70486198412e03e9d5cf14f",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76.740426350000000001",
+    "hash": "0x92635c12b489b83c5a7c2269acb27cb39de4fb73b2916bdab9e57626fdc022ae",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,182.32927967",
+    "hash": "0x6dbdcf2673502c2e7c217fcf6a2874a24e42afa306774775a742d195bc2253f2",
+    "token": "Decentraland (MANA)"
   }
 ]
