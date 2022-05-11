@@ -838,5 +838,47 @@
     "value": "534,285.09771062",
     "hash": "0x8709622d83b7503af901e4b406df6084152750b2693547f6ec5a13e08b13e76b",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,437.11431178",
+    "hash": "0x5bbb95d9219b283d0890bf1f8a61ec7e08e758389f3453fb1a1baf50b51a7631",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489,839.394",
+    "hash": "0x44aca3a83e5b221b201cc3de580083459113689db4a456b910e70945624a94a7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,305,041.99997223",
+    "hash": "0x4d41409e9cfd64b087d46fc3aabd3ab17062cdd169b36b00af70afa7ca9d0535",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,427,961.23501581",
+    "hash": "0x2eb8d30aa2cf72817a2c800e6649eabb99cae8fe20bfce34d60e8fc5ff4d70d1",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "381,140.20485146",
+    "hash": "0x8e6755cb971e6f0285a03491976e25b2b3081882db376d50c6a7fea36bacd77d",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "234,959.5175510261530196",
+    "hash": "0x0dff0c5b296474f50a5bc8009702de07998d4e64e8642257ee1c5bf9873f3e9b",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,393.07324897",
+    "hash": "0x49fed3e05411cb73dd8e6861d871b23e0058efcd5a909dc9fb59d8421923d92f",
+    "token": "Decentraland (MANA)"
   }
 ]
