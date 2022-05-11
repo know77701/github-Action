@@ -964,5 +964,11 @@
     "value": "607,912.32740589",
     "hash": "0x785b4269211b83a87172a67b1794639bea93b5dcf1c9ad44d48e97b935ffa32d",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,899.240606",
+    "hash": "0xfe66d17336f1ebef9554fe855b81f451788bbd80ff59d124afbcf2de1bf27be9",
+    "token": "NuCypher (NU)"
   }
 ]
