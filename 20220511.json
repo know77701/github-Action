@@ -694,5 +694,23 @@
     "value": "145,010",
     "hash": "0x0490c0307548a7a7ddd5faefdf66d956992792ea6812326a5cba9cd8802ffab9",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69.4772",
+    "hash": "0xe329be02182c76778720055df1e1e96df384f6c26bb3e47dfc9369a5d0e2e664",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,280.50107285",
+    "hash": "0xe07f1e87b15605d0d097246b66613d8e3cd9622f40869e4ea84c3e174cc4f5f6",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,217.23053286",
+    "hash": "0x4abacbd79f039e66a8d6dc8a25e38d2cc09ea15dfc09f16f1a904cfce893b437",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
