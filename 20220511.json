@@ -1108,5 +1108,23 @@
     "value": "96,547.36",
     "hash": "0xf540686812d7cb7a7496765f152ddf3048ff3e819161164a7bc7418d3b5977d8",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,775",
+    "hash": "0xf1910f65163e5a072c1f3e9b37bc92de4236aa15dbe5f9a5b38bd4bae38a0be4",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "240,000",
+    "hash": "0x21f8f1dbb84e0b99503ade476fd0c9ad808152642e2f6bdf82af0477d44d2345",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,297.514532030420629698",
+    "hash": "0xfa73bf3a88d7367aee0190263a74294db7b6109153755b284863491f7aea6898",
+    "token": "NuCypher (NU)"
   }
 ]
