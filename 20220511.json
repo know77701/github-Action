@@ -1150,5 +1150,35 @@
     "value": "92,850.658927038008806627",
     "hash": "0x1ea928662fa3aa83b08725d39f3b6c6d8f69a415941c911d085055e1f5b4883f",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "560,000",
+    "hash": "0xd8971eee66748c3c18877f06c3b21f90bc8a81812951c063be8101a4af75dfce",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,920,000",
+    "hash": "0x8bcd6ea47b63e33b5aeecb671a8058e4158b6feae31d07b8b1af75b4b6e34f7f",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,558.70692709",
+    "hash": "0x23b82eafd26fb752e9bcec35baa9d1d60914efe5141cab3442bd4eea1f8a7ade",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x774fdd1a86297fe6a3952c6e288591890ef5c2cae3b4f14fa72db8b80dc3f2ae",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,324.223729912578135132",
+    "hash": "0xde33da697e94f92a86f3f081911bd4278fc0d8a2f26e4c807a064966770a7f3e",
+    "token": "Immutable X (IMX)"
   }
 ]
