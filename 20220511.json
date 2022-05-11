@@ -970,5 +970,29 @@
     "value": "32,899.240606",
     "hash": "0xfe66d17336f1ebef9554fe855b81f451788bbd80ff59d124afbcf2de1bf27be9",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,919,983.17430219",
+    "hash": "0xc3869552d113d92b036c9570e963bd24edafea5286a9b83d9c84fe44f4d3edf9",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,106.29733551",
+    "hash": "0xd89cee0fc6e26c7d807488de3de80b6018dfcf0eccf77975ca217b4934dfee7c",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,792,549.48946277",
+    "hash": "0xa99b8f0abf67f1f5886cb92af97dda15b5a94b432dd96b35fb65aa12bfa17cd2",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,934.240606",
+    "hash": "0x334073f61bf4cf8af0d72fda856147778fc5a11f3230be9a692dd5e3b2e8a2b5",
+    "token": "NuCypher (NU)"
   }
 ]
