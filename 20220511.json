@@ -208,5 +208,59 @@
     "value": "44,614.101352254045409531",
     "hash": "0xc2be3569b78a9dda01d4c39464967cc8d35cdaea9b8bb97404eb48aa85daa968",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,978",
+    "hash": "0xa24ebf7389d59790b8781d70af3450fd141bc8458d80d65aeff0b871eb7280bb",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,145.58981829",
+    "hash": "0xe8a4d98996f7551a904b42f31832e7700b8ae4fd6f619f081e5dfbc04137d5be",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,990",
+    "hash": "0x49ae6abba3a868e748e1e58b4c974e73a94e96fd33f340956f367bc030a373d2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,811.76785766",
+    "hash": "0x98cfd13f1b0f0ad488e695f8b32ccd67a22412a2291c520a1dd6b400cdc0bd5a",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,779",
+    "hash": "0x2b37a8f48a5f0669df5a5ae1e4896ddb72df4bd97a7ac738722542d108cb27e9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,062,624.70078246",
+    "hash": "0x2640257ed3f42d77fe72b11f392a8e1d56af1c5cb97d05333b788229d5f70e08",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,125.915345327611052032",
+    "hash": "0xdcc217667c54d64b1d4e5179b92320f07c583b8d0b9f38a3cdb2801873f7126c",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "143,843.669820075670331405",
+    "hash": "0x3af645a1350784043f9ab5d8856b4253d093752fa8cc6912044571c8bd2dbf81",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,935,664.297711",
+    "hash": "0x14d3e0e89faf4e64ac61cb5f3c34c25c83e28548526f198916c6124ebbeffec8",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
