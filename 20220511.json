@@ -40,5 +40,47 @@
     "value": "312,968.312472698551690541",
     "hash": "0x1fe74b5effee0544fc99d8ef2bc158150172342a5607d8efff263a8fcd25e5d9",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,524.843774085586177195",
+    "hash": "0x09683dfa895ba26c6a39dadc0f3a6a246e40fc620c244a6550c5ca99bc891cc2",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,803.62707403",
+    "hash": "0xca612992ed12da6b2247fbc20b70f272741d2e7d54b521e9444220bbd7d59e68",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,978",
+    "hash": "0x608fc7af57cf545924539f375e4c29ed675583af5c92a1169ecb952ddc02a7f3",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "276,637.03375048",
+    "hash": "0x96630b8709b689c89adb0437853fa3b4e6c1c9c31cba527ebb531a98c21b8912",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,590",
+    "hash": "0xa78694a7f0ed7edc02be14b9fbf76021186b82ff6adbeb2ba023cc3c1b7ed1bb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,281.173",
+    "hash": "0xb660dbd11f8885f253163235fe84e1398acb5481ef919604fea95dc03e84e341",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,935.20995735",
+    "hash": "0xde9d5774f4eb006618433dbd8910a05367a9f75616187bf5c7ad693b1a037669",
+    "token": "OMG Network (OMG)"
   }
 ]
