@@ -916,5 +916,35 @@
     "value": "47,490.49994433",
     "hash": "0x93885e21180603aba357f773f375c28da18d41af344b6eec959031a28c020357",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,608.917233630015539284",
+    "hash": "0xf26d76cb71302ebae5b245e2ce56c0517ddf1d26350ab2bd571b15dca012ae95",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,242.898773305102923006",
+    "hash": "0xf3a693a57e8d069967250707686ad85fdc4a8c5e0a63445c9e92ebf48491eda4",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,927.401283599191104507",
+    "hash": "0x15bded82282e1e6f18cc868a0de6e43951a7c7a71f621cf14b32d5a5a1dc97c0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,009.14696617",
+    "hash": "0xbe35bc3ae7998cfb26fa469f0e6151e31e5f084d709f72f466cedc0b893f80f4",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,549.80554185",
+    "hash": "0xb56032a6f4a3c81abad5f5791ee98eadccd9926f939eedc8c2449d8bdc2e216c",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
