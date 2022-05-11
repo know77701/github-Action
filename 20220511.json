@@ -946,5 +946,17 @@
     "value": "104,549.80554185",
     "hash": "0xb56032a6f4a3c81abad5f5791ee98eadccd9926f939eedc8c2449d8bdc2e216c",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,110.537",
+    "hash": "0x98932077634d5b4c53fea694a5107cd2b8da7cb901b0f6931c65c3a1949bb035",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,876.082637959984460716",
+    "hash": "0x60f7f519641e7a159d2c998fc547ef5065f518ceba447e48ab8cee5965716453",
+    "token": "Immutable X (IMX)"
   }
 ]
