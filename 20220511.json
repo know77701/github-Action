@@ -574,5 +574,23 @@
     "value": "537.459692840201889725",
     "hash": "0x8448d4daee6712411ff5a637c753aae3f35bdb38805fe88ba35ad09111daebe1",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "137",
+    "hash": "0x11be9b84ac3a4da396c6779020e477f81484c8a1abc55a2ce21bd84788a9cf94",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,306.133",
+    "hash": "0x931b66bc9b4acb3f62445889dda9cfaa1733938a354157acf2d5a7a465a6f58c",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,230.279558091740795027",
+    "hash": "0xf6c289a8f86e12b0390764d02b5898c557537cf352cb4e56d0d26e5565916ce0",
+    "token": "Numeraire (NMR)"
   }
 ]
