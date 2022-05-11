@@ -994,5 +994,47 @@
     "value": "80,934.240606",
     "hash": "0x334073f61bf4cf8af0d72fda856147778fc5a11f3230be9a692dd5e3b2e8a2b5",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,748.89790031",
+    "hash": "0xae14562e9ecdd9721fdeb84cf6fedd28225f09f00f722642359e3d21f038b34e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,469.8117",
+    "hash": "0x1d742196b28882f419fc3d0251734a70f39ababe2926dcdb4e074fbbaf145b1f",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,264.80680024",
+    "hash": "0xd3e2437f8f720b97dcb53a38b2af4658011ffcb97e53c2ee2f66855b20867eec",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "628,684.865",
+    "hash": "0x70efc5f02c5360d49b20d85f77b9554c30797305735beaac4180fa1dde70ce43",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,385.672756",
+    "hash": "0x2a779e6fc3d2742580692657e1eb34da701acd0c1c717a33c7ed09466b70b99b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,668.157502",
+    "hash": "0x7634eda89487dc9d817608af9bb42f00b6bc504040b15d264de24603ff6a9332",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,912.29491",
+    "hash": "0x3c1a89616ab16ec42d205262c9d47b866e2004ff295bce7f79563bdbf0d58b16",
+    "token": "Matic Token (MATIC)"
   }
 ]
