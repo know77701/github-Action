@@ -1126,5 +1126,29 @@
     "value": "93,297.514532030420629698",
     "hash": "0xfa73bf3a88d7367aee0190263a74294db7b6109153755b284863491f7aea6898",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,733.612157",
+    "hash": "0x5b34a59d43bcc9df7d7221283ffa3ab7cc7b4056352fe29338f170e32df03ea3",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "771,190",
+    "hash": "0x4fa7e90457ae657303ccba807ed50cbe1838dc2ba84345d406b374c9086ce240",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,211,296.91361129",
+    "hash": "0xa6e637e3604f2d5d51830307cd52864344e93d1c2e4f6435b07ecbfe6a27b4ab",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,850.658927038008806627",
+    "hash": "0x1ea928662fa3aa83b08725d39f3b6c6d8f69a415941c911d085055e1f5b4883f",
+    "token": "NuCypher (NU)"
   }
 ]
