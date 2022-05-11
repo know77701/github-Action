@@ -526,5 +526,11 @@
     "value": "193,072",
     "hash": "0x28754e954fae9cfc30f8447d7bee0419af7cd1e71c75a0d169ca50a5be75b51e",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "439,341.99644322",
+    "hash": "0x9e2621f27e47626a706229c42cd55869ef45c8e273a67edaa1ee7fb0c9b6eac3",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
