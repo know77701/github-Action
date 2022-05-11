@@ -508,5 +508,23 @@
     "value": "10,719,489.188881682033222955",
     "hash": "0x253958fabe9491a8721dda0003f20d16480c8a9fb1cf7ceb79c6f589de4f740c",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,548.28",
+    "hash": "0x09485adcf8767ba366f5a395880e160dc1aaf5495d3381adcfa31db0a5229120",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,856,568.0078",
+    "hash": "0xebe29d0a3b8c855e4b89e66ffd497b49a1718e1d78de2c3c8bb3ccde82435f07",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "193,072",
+    "hash": "0x28754e954fae9cfc30f8447d7bee0419af7cd1e71c75a0d169ca50a5be75b51e",
+    "token": "Bifrost (BFC)"
   }
 ]
