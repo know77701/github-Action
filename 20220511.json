@@ -886,5 +886,17 @@
     "value": "1,043.63980743",
     "hash": "0x7548195a7f410c00d76255627f29a2f6e97dc044ed53cbd398afd3c2463152df",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,136.54406696",
+    "hash": "0x0a4d5d50e63120473e6c293fd9f81384a5ebc1fe356a1774ef2b6e1a8a03fba0",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,036.26101828",
+    "hash": "0x43ef06be5272444f1c02134d3902338d41c1edc75e15228b925046dcee11d80c",
+    "token": "Decentraland (MANA)"
   }
 ]
