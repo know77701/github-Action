@@ -340,5 +340,17 @@
     "value": "9,894.66300774",
     "hash": "0x82ff95c2854cd631c3eef7ac59a6374994c0a966a00271eb0349cd70b3653c09",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,336.54553168",
+    "hash": "0xc6357d79ddf2473a33fe6965bd37e51b9afa12a97613074e497500cfbff62529",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "918,714.302",
+    "hash": "0x6454bd255093d8540635707199527161cfce6a6685e91bb106fa8fa8bca500eb",
+    "token": "chiliZ (CHZ)"
   }
 ]
