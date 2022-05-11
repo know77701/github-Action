@@ -790,5 +790,53 @@
     "value": "21,550.444",
     "hash": "0x90b3dac12002dc2ed2c79b645fe6fec895ac67e4c71dc1459f3c2f3643777652",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,989.29345647",
+    "hash": "0x90782812958d181a95292c378179c60ba9e3fcae5adf7c3d05f4c0a3d4c9860f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,557.279200295380121339",
+    "hash": "0x07d2177b7d5d3b4f627d7744a9e601336e2ab9ad2961c764c1c64a50a447740e",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "267,348.146144568211693773",
+    "hash": "0x1cda52863bf3637a2fefdbaf5a999cb7d240e4d2a8d9f1524c7ad57d549a7a2a",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,899.070838345860267498",
+    "hash": "0xb5589fbfde60e98900beacd4389c9ab70f5bac9d79a68f4d36432b285797f382",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,898.001537",
+    "hash": "0xea92d54e995a447ec471c0cd5d6b2056571a82340e7c3393f88370d447c53cfd",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,959",
+    "hash": "0xb00b85a8d7e324f9bc6bbf060dd21ffebdf46ea660e263b87ad2227f638a2b86",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,485.604404694619878661",
+    "hash": "0x61d432a24e4b848873562daf0b2eee2c17be34a8f9827f4af400783c3081eeac",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "534,285.09771062",
+    "hash": "0x8709622d83b7503af901e4b406df6084152750b2693547f6ec5a13e08b13e76b",
+    "token": "OriginToken (OGN)"
   }
 ]
