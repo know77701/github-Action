@@ -658,5 +658,41 @@
     "value": "3,000",
     "hash": "0xbbfbf4d07c839d4927af31bb32932b647b429a22f52aa9fd3704bab9ba2fb128",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,554.174188048512508123",
+    "hash": "0x1d4343d3498568dcb5528442c348710ba00c3d567597ae3648335bef9e1f7e26",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,938.291541939181564158",
+    "hash": "0x46055eabd90b2535e88f075fd913ccb5c7d7844f309fe8d2052d877b3b811cad",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,688.212258030818435842",
+    "hash": "0x0c15d9e668ee53b9cea766939439b45f296f3af370aaf91609d68bfbe628923a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,893.336",
+    "hash": "0xba055c7ef3d3972c5b5c98e6a8b92c6dfbd5c907209f0f43394ef41c96274109",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,968",
+    "hash": "0x1476cee4fe55a41851b05cb02d2b5d9892b62912081bd53e64c31470a3213596",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,010",
+    "hash": "0x0490c0307548a7a7ddd5faefdf66d956992792ea6812326a5cba9cd8802ffab9",
+    "token": "ZRX (ZRX)"
   }
 ]
