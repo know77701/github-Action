@@ -376,5 +376,59 @@
     "value": "104,629.13023395",
     "hash": "0x42df9b8533a6796780fcec9d869ce92812f5ce11ae9382df0da6e7a9e12ea0c6",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,919.5577",
+    "hash": "0xeb6e7f3e671e7298de34fdb6d45c06579a60602ba99c5b26a971cca937d13e57",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,037,169.193424856094506574",
+    "hash": "0x8795aa05a6c93144f41946d87e8ef42361035943a8bc2b321fb9630388a649bf",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "430.268",
+    "hash": "0xd046326912aed0c2a4c9770cca76e383697a7084b341bf95e0d26e71cc3a8a5c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,147.5521",
+    "hash": "0xdf26537dd6592531556074be1175f516887dca27031318b88c03bc336b34abae",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,559,536.5283",
+    "hash": "0xabf68155cca77cae53289ff1612e816108b128d4db441d2084cdbf89f9ad4e1a",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,890.18673679",
+    "hash": "0x2c5558de1e98672f586e8b731fb99c32d100835d93165940785edb64d197be31",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,495",
+    "hash": "0xb283779ed6ae3f3d9d0c5ade2cd2d129174ace19a40588e8dd55114226c77801",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,828,925.8881",
+    "hash": "0x0d970414e242ddbb04ee4e5af932b8f13155d3d2e072e41d5958241f81b8beba",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,464.99024867",
+    "hash": "0x99019f29ae4229eb9168b4d4d19da399a54ae002ba96aa9675f77ce7b15fd3c9",
+    "token": "BAT (BAT)"
   }
 ]
