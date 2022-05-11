@@ -712,5 +712,83 @@
     "value": "38,217.23053286",
     "hash": "0x4abacbd79f039e66a8d6dc8a25e38d2cc09ea15dfc09f16f1a904cfce893b437",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,004.99",
+    "hash": "0x2fe419dec2022955cec00f990ae473944f39abfc4b3f7b8ca0a67040986d25e2",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "541,406.853836651788306227",
+    "hash": "0x46fcca017b8b98e1fc7c43d2e5876ac937404e5c60b17090462715a6337ec64e",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,117.99800472",
+    "hash": "0x7843e619d93970b75ea7555a7a20630b6743e610395b8b7be2c24fb8318d6246",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,255,248.15721514",
+    "hash": "0x1d49f00583c0e1ca8687123e541ac7a7e5269cb21ac146bd2794d13899ff72d9",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,127.529461654139732502",
+    "hash": "0xfaf5e33c16446fb40ba2516da504681874eecf51b1e93895c22753ec6c3d225d",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,305.672948024593857005",
+    "hash": "0x85e09a787b41602799a55415b24396caf59159b263dd11a6f4676c10fb010a4d",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,693.627859142037473338",
+    "hash": "0x0d247b34ab7d2d15e58fb175c26a1cb4698675a71e58097867617f172442302b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,049,475.800463706678892775",
+    "hash": "0x388251d3aa102d92d463adbb8cce3cd3757415242d69a01c9a066530eb815934",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,870,459.36192666",
+    "hash": "0x3e79bb30ea6d194cf7cc4473f6d94249518b3f72b419c3cc9c588707f1f68cf3",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "231,207.60373344356",
+    "hash": "0x0f8fde48a4213a358e6fa59109153689717b84e81c4978dc4bb46553e8304355",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,783.92511278",
+    "hash": "0x96ae1e860ea65e1fe72d66ed36290bfcc04e6394cf0b78789e8b8a72b9c2f6d1",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86.702972447660000162",
+    "hash": "0x6ddb953a0385e5806c2dffee0284d1247cf714d51c007df4acfc8a3ea1092146",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,550.444",
+    "hash": "0x90b3dac12002dc2ed2c79b645fe6fec895ac67e4c71dc1459f3c2f3643777652",
+    "token": "Decentraland (MANA)"
   }
 ]
