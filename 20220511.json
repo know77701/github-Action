@@ -352,5 +352,29 @@
     "value": "918,714.302",
     "hash": "0x6454bd255093d8540635707199527161cfce6a6685e91bb106fa8fa8bca500eb",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,693.91",
+    "hash": "0x23b2ab9215c98e5f54d1b22cb071120d6fe5a6fb5b94d46c17da8c2b1b46102d",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,142",
+    "hash": "0xd60b04f3e81f55ec92a463f52b472700043445d3fdc613a64eae53468891f625",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,416.02634154",
+    "hash": "0x228b5ae3797fbd72b29802776b1dcdaae8b8d554d368378f4d57bb4728488235",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,629.13023395",
+    "hash": "0x42df9b8533a6796780fcec9d869ce92812f5ce11ae9382df0da6e7a9e12ea0c6",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
