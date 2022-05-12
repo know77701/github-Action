@@ -772,5 +772,11 @@
     "value": "59,987.99995921",
     "hash": "0x6a63b3c0b680d26a5b0448505822c38e983334ea53cc18bb6fb4b37556044c58",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,120.3095",
+    "hash": "0x318bdb152ac6be34a959306f2057c288cb433c69cae8770ac5a391be14352254",
+    "token": "RLC (RLC)"
   }
 ]
