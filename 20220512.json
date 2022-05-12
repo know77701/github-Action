@@ -544,5 +544,89 @@
     "value": "9,838.90894719",
     "hash": "0x134da1f8c940e2e15e464054e18c32017c0cc187be16bc4f696616e2820a5eaf",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,145.28",
+    "hash": "0x331b343cf0a0d6f20969e452a63ba3c8b2089711336c3286b78862131db792e5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133.66016292",
+    "hash": "0x7375bff710a47871c381606786157f15e151f64ecd8a12620a8784d3f1c2ced5",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "630,816.326511258293162908",
+    "hash": "0x31d0dd79d8871a3cc3bed737c39b4a2d9edc7230612e0abca3532f3609d1b664",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,403,660.52508153",
+    "hash": "0x6b47c94df194ac1516b67b8ffe1335d3fc7b511358a9fbf865432f340da51d71",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "367,522.964443624996885323",
+    "hash": "0xc0f316b8490db0c33bde9b135da8e65b1f2806be8b85f9c7d38ff2c50b78eb39",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,871,177.849972633126890891",
+    "hash": "0x79d21045c0365dec194bf40312236fa2cb962dcbd001fc002fadc6e326ccc120",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,025.52531094",
+    "hash": "0xa9b98637fd376a39c5794decf0171434afc338e4b89e3f6464bc0e4899e1012e",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,715.404269368384693348",
+    "hash": "0xb076e2d6c79d4fecc722c1f0b408a038b1e2c175716abc852b0cac312145f0aa",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,927.696189175003114677",
+    "hash": "0xa354fb089fae298aa92c223481aca0e87535e5310b35177d5d94f0d1a4382cfd",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "328,349.049809978837832698",
+    "hash": "0x3d21a3859abdb44937e956c84f669dc4a09b98e599b51819b4fd6c930817b179",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,087,510.74488186556946229",
+    "hash": "0x3e08184176a53c308ec59d714ba4b0a741d0587caaaf6f5935d64e97c3dfdb38",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,006.00000000000001176",
+    "hash": "0x21c6f28bdcc7de133ce98e27d7a4d5f981d9aab8124afb4924ff9f3fc4a0e5e5",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000,000",
+    "hash": "0x69f5a3bfc664f96e25600d146cab914a1d998fcf151e49cd340f7861a07ffa3d",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,000.24984247",
+    "hash": "0x0e66fc19731f72dbb31020d3070d4ecef5f15a4edc41e47406edaad70e4ae18b",
+    "token": "OMG Network (OMG)"
   }
 ]
