@@ -730,5 +730,23 @@
     "value": "300,621.99996293",
     "hash": "0x781496d8122908d74858cd29d68426805d308dc2aed7658d09eb570ac54c4fa6",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "173.32014459",
+    "hash": "0x76268a42bf1b042f67578161c5e12f1005b2f61c2a62d16693b0cccfe4159834",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,169,864.368693623570507194",
+    "hash": "0x63591a003084217dbabc4a102c0859b6a9a79f0859263d9018bb43d0f5e2709b",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,039.5404",
+    "hash": "0xed7ad38aac959870dfd49b6daf76fa3586e9c5b11088885cd29270cd4109cf5b",
+    "token": "Graph Token (GRT)"
   }
 ]
