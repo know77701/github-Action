@@ -628,5 +628,71 @@
     "value": "14,000.24984247",
     "hash": "0x0e66fc19731f72dbb31020d3070d4ecef5f15a4edc41e47406edaad70e4ae18b",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81.913772",
+    "hash": "0xcf9a4f9d36d1583bc5e43077ac076341052e1583ba41d9af0cf374026eb91e68",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0x11bd7dca9402d96e0d3ba1da99b05ae3a4412001aa009e8bf57971d5cd738c91",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,931.000000000000008224",
+    "hash": "0x32f7ea7edfa0f8fd1ce52605f6bcff1b860325806a5831a6b95d7363bb8a3df8",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,012.07302821",
+    "hash": "0x774ef9ae4d739508290b65bb6f84d9f474c5f587f2d917e14855efc54b573a17",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93.16004712",
+    "hash": "0x8f60b7faf25f3425ac93591da056646d3502df3e22a07227fa4291a265b70065",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,003",
+    "hash": "0x2340a1c242c9ceb2b1ff48aa22fec4033d8fdbd81427d62ccfb851e5702470e0",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,301,885.835656",
+    "hash": "0x474fc896f45ff8e2de93d37e520680ae796e153cf03a55d83ad76be23367111a",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "410,117.01145332",
+    "hash": "0x84a7c06b8282326f47265153a1823c917d044c4db9e3d2ddc3cb51d380e3a195",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,183.0965",
+    "hash": "0x51545d57f413790f52579b0a8b434d3d26664fabc9b6a65e2adee99374486b69",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152.940534",
+    "hash": "0x9be3cc245022453952310e9244a76b25a248ef9927cd2080fb3e1ba762091624",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,699.722",
+    "hash": "0x9cfc3752c5913a4d2007ebab3d0ff292338794613ed44df2774e242b2cdd1e96",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
