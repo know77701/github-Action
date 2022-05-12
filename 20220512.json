@@ -418,5 +418,59 @@
     "value": "1,659,649",
     "hash": "0xd46b60fe4df8950849e9f2b665aa3354261742c24c7397f636567ec23302652a",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,106.85892772",
+    "hash": "0x13a40be3cd402a2f8acc5ff8e10f920289b59f9dd47dda5945d53f34811bc3c5",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,634.817",
+    "hash": "0xce141cb94b997d6c6d13b80003053888da6bf632e957f4c9e96ede078d8c9e28",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,031,649",
+    "hash": "0x857bd7274bc2b8abfc6779b653ef6590188724adb1cecb319d540c7605d8c5a9",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,369.021884010303983643",
+    "hash": "0xaf40762aaca6ec6a8602239ff5d2d7427ccefaa95cb4bb1774b1d5dfc7417965",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,267,968.15227094",
+    "hash": "0xd60c36fc67876d6cdc703bb1c1d602dccaddc5913db39bc4b761a01d7f7596df",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,626.18052079",
+    "hash": "0x96176e1b89a7044852eab1bad963f24a2a4f519b9ad97ab348fb0bec900475c8",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,584.86056634",
+    "hash": "0x4e8ebd5fe47255740c753586866e2efb2ad1ac2e88dfa56484657eddb3167013",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,218.175778",
+    "hash": "0x34b7298366dd32883e0ae85295e087d59284d1040d2d23d69b99095a1901e74f",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,372,694.99990589",
+    "hash": "0xb9ff599c57feaf632c47ab2fa9adcba7f6e24db9bbeb42fd604f52d6a5b13c86",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
