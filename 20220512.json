@@ -754,5 +754,11 @@
     "value": "18,773.906",
     "hash": "0xb584d9e3c51c315aa537af751023d0c4c9a6957d820f9554bc3d3a643353c875",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,914.42864622",
+    "hash": "0x01ed09d433beae285e07126acba36b51545a31858312c520263e8e7ab97affdc",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
