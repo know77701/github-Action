@@ -148,5 +148,77 @@
     "value": "19.85826912",
     "hash": "0xe5abb94ec8a7ab97db22f94d27ea289666a7c59bedcb0016440bf9f0dbc27a36",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "670,708.10043932",
+    "hash": "0x6365889eea09ba779f2876dc3c9eb37b9f1041cad0f5d7ddfdcaba70c6376c8c",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,720.36424433",
+    "hash": "0x9d9d891987b33f022a6a28fb28418e46577ff49f50d45025949f2938ca0b2526",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "485.5329",
+    "hash": "0x77332f8038eabda2148d40c51f171b6ae0476307cdf9dcf108e544467ee4b0fa",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,257,463.938339265640501669",
+    "hash": "0x6bb6bd582c971d47f9c664d4369acc2ca9199da2a878ff03866360d5cc76ce0b",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,825.015989906245224565",
+    "hash": "0x1f58b3029ee4f37c41eb73534d35009f5685b1e235c8b7350ee737ce3ac1e34c",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,536.152076",
+    "hash": "0x5912f13b178f3a058c9e24ddc843bae7032e7e53bfb619689dfde8d9203560b5",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,792",
+    "hash": "0x38b35a9111aba87962543635d0df98c1914d6501d70e3010197d0d7d60a21f37",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,520.00738178",
+    "hash": "0x6164eabe9d6e4c16553d9792571bbc664e12bab1a1d5489d988e9f33364ea589",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,690.613563773754775435",
+    "hash": "0x2a63249f9a84ea9604164f61be16dc93d811bd21a96880174ca6cdb05c7743de",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,951,623.589091125137232771",
+    "hash": "0x3b16d00dbe13000b081b1fa36416e4f9d2ac1a277efb881d1701e2a3e61e6dc8",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,065.49993162",
+    "hash": "0xae87759ec727f689e18fe8cdf9b7a931987e6f5f957a70a01a416a6564cbefa3",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "787.13570137",
+    "hash": "0xa4aa311ca5f44467f52a635dd351ec80eb9aa358b879154035e3bd5c6b8ef211",
+    "token": "Aave Token (AAVE)"
   }
 ]
