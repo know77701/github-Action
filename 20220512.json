@@ -1,0 +1,50 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "2,808.9336939",
+    "hash": "0x8446f1e3bc0964b6aefeefde1a1bc4c66b01c71e34cdb1708046dc37b3239ef0",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,538.72696351",
+    "hash": "0x45660fdefc2e9db91793fe6a528f9be44c7383fe91c54014ff07d6e5e810a80c",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000",
+    "hash": "0xc3affce06ca9d16c78e91634671197d2a12f38594ef59db61742121a78d9e379",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "433,580.559",
+    "hash": "0xae294d238ad31c382575a31fb0394c6c030685b3d385422d8cf4af1f54dd25ce",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,467.935",
+    "hash": "0x0b564dedeaaa57a5e261ffbad8d2a3381f879d2d4afb0a4e4a2e0251324c99f9",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,531,836.86303608",
+    "hash": "0x1c4ea4a5a246e441f72ef7bb50b37cb7ad19a6255671ed702f12f75165d98633",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,984",
+    "hash": "0xdbbf378c31db2e0e66fa080bd02d978b89d4fb25378be8c39e3eff310e04270e",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "829,702",
+    "hash": "0x528cc072d59b8f042d82ffa4acd97e6f1b9047ee44911b89f2d2c1238bafe9ba",
+    "token": "Threshold Ne... (T)"
+  }
+]
