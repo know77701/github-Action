@@ -526,5 +526,23 @@
     "value": "116,366.99998494",
     "hash": "0x6d1093618ac4d28bd73a9a6b4aaf26ffc71ca10e55810332370635b19afbd4af",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "630.578027459696016357",
+    "hash": "0x3e9e3ce15bf3c7dd54d6296e12a34f2705c3b85ada23259b89990048b58a53f1",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc39c050fe8367330b7a0fe4bb1780e9ea0388b532fda5b495448a31305de18d4",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,838.90894719",
+    "hash": "0x134da1f8c940e2e15e464054e18c32017c0cc187be16bc4f696616e2820a5eaf",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
