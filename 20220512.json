@@ -748,5 +748,11 @@
     "value": "100,039.5404",
     "hash": "0xed7ad38aac959870dfd49b6daf76fa3586e9c5b11088885cd29270cd4109cf5b",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,773.906",
+    "hash": "0xb584d9e3c51c315aa537af751023d0c4c9a6957d820f9554bc3d3a643353c875",
+    "token": "ChainLink To... (LINK)"
   }
 ]
