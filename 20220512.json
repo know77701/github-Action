@@ -232,5 +232,65 @@
     "value": "30,043,048.010411200402965763",
     "hash": "0x5c8df9fb092f5031410aa50a2b01f5aa6b028bd87cd1ac177d6bbcf714802428",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,831.9506",
+    "hash": "0xe170a25d258768962c3ca95b68f883bca01c66312dcc8873a570c587fd8c3c79",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,663.01905244",
+    "hash": "0xd6f4695555bfca012c8037b91a3f832aad09cdb375f81dd521b10e890acf5d41",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,762.825958867497291468",
+    "hash": "0x69f928751093471deaf2b8580150f2a7b56fa3ba77710503ff6a6a6982b3ac6e",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,841,924.290688893712292982",
+    "hash": "0xeb46a98010b06b3c508b1c436f89bf06943d2eab9edde9a9e10caae9dfe4b335",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,107.621385896619927196",
+    "hash": "0xde0ee9622d3a965184e44823c921a3d22d36ec829f75809ae4adf160c6362945",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "221,450.904535788513301426",
+    "hash": "0xdc3ac93c808d9ad2c874c4ae54abb9603ee9bc753e30bc6970763ec7137e0657",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,501.661771234",
+    "hash": "0xf4dcb3bcb1db186f3ba9ab94e2926cc472919098da0fa4d94df9bff64084bf22",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "580,758.20931101",
+    "hash": "0xe0142f81f7779451fb562c41356e1391bda29b2d2da5e44d33404231eaa523fb",
+    "token": "Healthcare A... (SOLVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,567,009.85115130188462777",
+    "hash": "0x1ea94c704af7f33d571fd8432db83ae273826f89f166bf232548e1a79021460c",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "309,909.12105153",
+    "hash": "0x1a02427b0a811abf9ccf3c108575abb8ebf581dde83edbff087fd4c0d24ca637",
+    "token": "BAT (BAT)"
   }
 ]
