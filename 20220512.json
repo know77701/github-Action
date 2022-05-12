@@ -310,5 +310,41 @@
     "value": "2,297.2655178",
     "hash": "0x4f793553799cafca34ac080fd693a3c1549e97589ac7b1b9e278d38a0be143cb",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,861.38204029",
+    "hash": "0xe5d176ee585b12f2284407bb618489cd8317565cd7e150e0e090de0f2c8cc1dd",
+    "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,765,405.951647156567475157",
+    "hash": "0x199775724784dd96e692c9503b6d8fbf1bc6fd4bf88f2d1431f385036487fd40",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,232.741505225073140311",
+    "hash": "0x708be38ebac16c28d1e788e9d375d899c20552d3c3d388a47f410d6e9996650c",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305,468.99997161",
+    "hash": "0x374483d1c31e2f5727b236af75242c40622ffe9846be9ea51809e6be4b40b1d5",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,263",
+    "hash": "0xb2e64d183f19413bf1e039116241944d5bd59a4002a2e842dc1a6d3d35be552b",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "806,416.353832853711234624",
+    "hash": "0x33daac0df877744973387aa3a1dad92b8b1d9a03997b6fecbf3faa45dec46b80",
+    "token": "district0x (DNT)"
   }
 ]
