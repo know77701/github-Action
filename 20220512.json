@@ -346,5 +346,77 @@
     "value": "806,416.353832853711234624",
     "hash": "0x33daac0df877744973387aa3a1dad92b8b1d9a03997b6fecbf3faa45dec46b80",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,714.429255",
+    "hash": "0xadbae3d0296d2596929f2ce8b65c49ce5ef417ff62c1b2f85d16dcacae5f4e97",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,118.63366572",
+    "hash": "0xfc849b2b4f91352fe3dc7b57ea6a36c097d29c0c0d5fdfb8ac4c8c74035adf0b",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,949,070.6214434",
+    "hash": "0xf013ea3325a92eeb1d98254db385b226ee24d93ab69c657b3fc196b3b8d189e9",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189.89578463",
+    "hash": "0x7552e5e7724f5c05df827e163e66f9d3d6a85ba45b5c0663c597df606cd1f80b",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "154,605.99988339",
+    "hash": "0x39857d9a602c0617385b3cc3f1caaa20b2e8d1950ce074d852d2b1333f8a7249",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,352",
+    "hash": "0xa8ef279425d1d25b69f0b1d6d11fa9dc66867865aa84e58b565a969ab1377d5c",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,337,803.800443536288765376",
+    "hash": "0x6f0446007f36aae06fcb6fe01c829866a3aba173fb16f9ef8428457dedcec7e4",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,341.214455456757582861",
+    "hash": "0xa0a70fc2e45c8be33e9fc68531798d53f67f3df9a5d8a12cc388e15ddca59283",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "338,722.99996417",
+    "hash": "0x7d4d67319e816e04fe6a847273753b2b51c3d122cae5785975907ed491887aba",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,510.339020373897445856",
+    "hash": "0xe0cf40a1b10934feff90d4ba8e9005c836eba22906dd1c740045d59e46a8bda1",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,375.29686789",
+    "hash": "0x82978e5017199d86d1c13ba117f3f4092e9724c8d3855965495d01556be4979b",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,659,649",
+    "hash": "0xd46b60fe4df8950849e9f2b665aa3354261742c24c7397f636567ec23302652a",
+    "token": "Threshold Ne... (T)"
   }
 ]
