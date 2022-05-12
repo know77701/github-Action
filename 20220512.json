@@ -472,5 +472,59 @@
     "value": "13,372,694.99990589",
     "hash": "0xb9ff599c57feaf632c47ab2fa9adcba7f6e24db9bbeb42fd604f52d6a5b13c86",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,289.109",
+    "hash": "0x9e0763f94e59024760193fdd1aabde92d2ffbbfc6825e8d5a2a8e60770704537",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "765,751.4849344",
+    "hash": "0xf0b47a6072803e13816787f4b6ffa5f6ff86b5b02e62b2ae9d053622543d98b4",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,783.22336969",
+    "hash": "0x360819785cb21b7d6f168b3722d8f1377d60001e27a27247452c206b8694175e",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,996.99990341",
+    "hash": "0xff888c09c92f8c619f0ac228f1c675821613c61e16016b13ff0479d501a56a39",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,855,981.51840838",
+    "hash": "0x4d128ad348bbab78a39882c3f0ae610a38221306519572cddc5d152c8fec9c48",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "244,975.229149842300410186",
+    "hash": "0x5cab4a4b8ad4f89763e75a7b8f4ec211fee5bf93eeff3aba0e4faa5c938e9163",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,563.616180273412576461",
+    "hash": "0xb57ae8e0ef145290c7e7727cc0200119fd7d0cfe778df38537a1a29e51cb672f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,113,197.41651539",
+    "hash": "0xc65a79b85c86cbde61cb246c09deb6f9edad81a95234923dd763192a46e116b1",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,366.99998494",
+    "hash": "0x6d1093618ac4d28bd73a9a6b4aaf26ffc71ca10e55810332370635b19afbd4af",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
