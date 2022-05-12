@@ -694,5 +694,41 @@
     "value": "54,699.722",
     "hash": "0x9cfc3752c5913a4d2007ebab3d0ff292338794613ed44df2774e242b2cdd1e96",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,244.06624216",
+    "hash": "0x2c6927e169ec6910dd33b2de85b0d33a23cce2ad7da5f71944e244a52ca97580",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,642.99993348",
+    "hash": "0x7a95b739f084000cd5438a9c71607aca7214643d39ba22b5db67c2bb19e9bd1f",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "245,500",
+    "hash": "0x10fc7b2cd3a0b60e5302af3cfd0dcf1d3c59ae0f781a26dc6ca67f20cc627943",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,155.99980744",
+    "hash": "0x332700948cb12a587f4aca3fb03fc8d63cee558fcbfa0b60e25c92b133486da8",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,004.833131",
+    "hash": "0xd30e3b3bc639bdafafd00cb4d54b7da08bcf6c316ad2825d015cf7258e929a1b",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,621.99996293",
+    "hash": "0x781496d8122908d74858cd29d68426805d308dc2aed7658d09eb570ac54c4fa6",
+    "token": "Golem Networ... (GLM)"
   }
 ]
