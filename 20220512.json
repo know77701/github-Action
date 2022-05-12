@@ -862,5 +862,11 @@
     "value": "197,662.430569436722513768",
     "hash": "0xa3aa6e966ca2f906d33dd51f7a6eb904723e1af3d48e0f5e4b4318e35ab72e60",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,518.24987502",
+    "hash": "0x9c774b6266c15c6147e2883d21d30d0319ed551252f43e9bd8e9adad9298ca03",
+    "token": "OMG Network (OMG)"
   }
 ]
