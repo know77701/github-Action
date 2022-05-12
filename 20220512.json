@@ -220,5 +220,17 @@
     "value": "787.13570137",
     "hash": "0xa4aa311ca5f44467f52a635dd351ec80eb9aa358b879154035e3bd5c6b8ef211",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,674,483.782626749597034237",
+    "hash": "0xd6c541048f20c4eb5df14257821f3a44bbddd729db6f855481849c6d35d0c124",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,043,048.010411200402965763",
+    "hash": "0x5c8df9fb092f5031410aa50a2b01f5aa6b028bd87cd1ac177d6bbcf714802428",
+    "token": "Mainframe To... (MFT)"
   }
 ]
