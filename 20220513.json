@@ -442,5 +442,17 @@
     "value": "1,879.7834171",
     "hash": "0x888bcd8578b87db57fb2381208c39d04444860c26bb1b75157cf99a71ec04adc",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,840.271",
+    "hash": "0x45e4fb87089589082652f37db7bc162bd792efaead7fc3e8a23c30a04ef59838",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,062,465.169550212786724838",
+    "hash": "0xdf705dd6f2304baf234ac5ccbe3edb352c162492988c5d47a00654f84638d6ac",
+    "token": "Loom Token (LOOM)"
   }
 ]
