@@ -892,5 +892,17 @@
     "value": "315,263.914909139637278112",
     "hash": "0xc1c49377f79861a248726c1821936193ccf22d851f1f51e2348655295146458c",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,203,623.61675003",
+    "hash": "0xe0a96869ab891e3c874e0948303024ca4675ea83177b7c47c6c3951f2d131d3a",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "977,424.11631643",
+    "hash": "0x2f000554111b35f84e7a7150d7011d3a6473485a9fc8e312570c928cc70ded21",
+    "token": "chiliZ (CHZ)"
   }
 ]
