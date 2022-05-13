@@ -1036,5 +1036,53 @@
     "value": "2,087.8924",
     "hash": "0x4e86961b8b33ed46c4759f5f5ff40fcb2cd90b736c115fbe1c77872d62eff55e",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,299.89005704",
+    "hash": "0xfc0172b69a357903e1e6767b55010b6832f1bd4b10da5674c9785b780bc0a027",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,962.15189",
+    "hash": "0xf924ea9f5dc31609ce710894c75936ff8f57ee881339cbd528e4d74964b8c0d5",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,996.948",
+    "hash": "0xaafaedc88aef078fb6be66a8580073b69db54a39fcb9874a65514dccfd3e9193",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0x008efb9a25f9758605df517216cbf896b223080529e6141ec6b899deb16b94eb",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,644.106",
+    "hash": "0xf54bac64fb21dd74fe46b3c6abff7ccba15af5b3c9003c8b6e30491af10a4a74",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,800",
+    "hash": "0xff542a8ec0bfcfbe74c6f68919b99518828ac9af030c13fcc704e9dea7395e77",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,275,632.95469381",
+    "hash": "0x0f1f00ff9f6934657ecee39949169d5a8baf949309a0f006277ac2f613b8ccf9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,980",
+    "hash": "0x1c7574572c457b22dbe8525b531275278101e241daf9f3f2845938ca260316c5",
+    "token": "Decentraland (MANA)"
   }
 ]
