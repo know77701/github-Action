@@ -916,5 +916,35 @@
     "value": "8,990",
     "hash": "0x9076995c73049d54be318383d4764be9b0d426d0337d65db6f3fd97133f2ecb5",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,000",
+    "hash": "0x485f6d81ab095aacd8c342204d2381ec0590ce7c8cb139cb33e32b0c869e9aa9",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "208,168.44475455",
+    "hash": "0x030daf926c49c77878cc30317342606b0730d41d767b5adec948839c3e1189be",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,000",
+    "hash": "0x579def896c3d9e6a4a98bc9757933f688436005c2229d0b32e5f0d1146cbf208",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,125,819.9517496254673313",
+    "hash": "0x03db8e77cab662942536a91fa2b923ec1d71f6d5ebc9b7c0be5e49304a5c4265",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,623.810624300579161022",
+    "hash": "0x6d1e3b135743546defd3bc8eb41959e62343b43b156c8010531cdc59ea6a2cb1",
+    "token": "OMG Network (OMG)"
   }
 ]
