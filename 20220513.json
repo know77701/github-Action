@@ -304,5 +304,29 @@
     "value": "64,335.973702",
     "hash": "0x7f921e4798b5a9aedcca7ea50aafaf86bde61c1c0457b0f62114ff2ab268660f",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,164.715",
+    "hash": "0xf67b1bdacd2f79133faa37401c0616a3319009f390dd7668e869151c2bfd5164",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,990.83123782",
+    "hash": "0x570b97f066e79e58cd0ac2ddc1d97b5684f5e73c53f89bb2969d5e9b900f5e0e",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "434,619.04241589",
+    "hash": "0x6fbce8033ee9f336905a2cbd3dca118aca8dceb450a31382c5186f43e0f269ba",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,814.24623193",
+    "hash": "0x6d46168c917869dfe9eb321fa43ecda3156765af090b32f3e423398d23e3c921",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
