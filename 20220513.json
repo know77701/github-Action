@@ -760,5 +760,59 @@
     "value": "38,269.31303517",
     "hash": "0xa6372e3e9e0eb7e654284cd689a421a51f66ab53f86d5c664664d639b1c31065",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,178.1078",
+    "hash": "0x8f6dea445ce741eca16635a1f1d459bff00cf11b569190efcb629f0b77e95f82",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,502,115.931273502055598404",
+    "hash": "0x4e895139dc61678e53ecd9fa57cb08e74733312a9befe47efadbfcc3d14b5f41",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,839.944277515597619955",
+    "hash": "0xd639e8ef3d7c053bdc8371d273503e1153608cded30ffddf3780f5e9b0d72e6f",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,763.992503344321987255",
+    "hash": "0x786cb60236cfe0fdf962be5e0c8fa383a2eb32b5cca1a50b924afcfb5c9048c7",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,324,767.625582288221606368",
+    "hash": "0x88365b69919d07d708889c0c54774297cdba9c867800cea717faaadbf0ab0d6b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,347.558679204402380045",
+    "hash": "0xe21e8727241c4623f1b456aadc7275f7993e35dd51c8f7fb41b0bf3134999c27",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "279,224.75552709",
+    "hash": "0x993671f409a7c48653e7b6ba3befe30d2328958ff02847a74f969da191842c48",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,499.138211815678012745",
+    "hash": "0x28cec743ac4b269e3ab47a454dcc1dce773f4a432688ca8a7ad514f8b9223bb4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,827.603494991778393632",
+    "hash": "0x9389205b37f987a9d9186fcf6bc609dc393c7f6e5b0ddd8e317ea148a2efaf42",
+    "token": "SAND (SAND)"
   }
 ]
