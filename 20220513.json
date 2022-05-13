@@ -814,5 +814,23 @@
     "value": "261,827.603494991778393632",
     "hash": "0x9389205b37f987a9d9186fcf6bc609dc393c7f6e5b0ddd8e317ea148a2efaf42",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "767,932.708576097944401596",
+    "hash": "0x68dbd66bcca87559609889fd7e159aa57db53bbd0140575fd5211e9261770e20",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,572.64454",
+    "hash": "0x72bae9462c57b4f858b7eabf355f4b0a5e2d68c62817ffbf1db4ea946711ce9e",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,919",
+    "hash": "0x02d6bc2e6a461b86c60a90c5feb2afa89e300f81f1bc2080ddb71158c871c726",
+    "token": "PowerLedger (POWR)"
   }
 ]
