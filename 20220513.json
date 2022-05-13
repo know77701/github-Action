@@ -976,5 +976,17 @@
     "value": "535.18299",
     "hash": "0xcadda1b023f8b2876cddca4e014d583280032793c8833552bfa8c95f489dc5ae",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,272.74509703",
+    "hash": "0x25226a0c8ad29f6bcd20f35b44b077d3793a4b84c62512099a4c75c458a3d3c4",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,199.746516341875152472",
+    "hash": "0x3b34a81c5e5a0bece3e8d030ef5afb530ae69d64619757a15cd2f781be0f7eaf",
+    "token": "chiliZ (CHZ)"
   }
 ]
