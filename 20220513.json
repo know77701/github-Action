@@ -88,5 +88,59 @@
     "value": "264,367.291804876713826354",
     "hash": "0x779d64ccc68f76d76a6682c550b0b7b35a14f1a2d52ac42f2607238890699674",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,611.927233066145689357",
+    "hash": "0x9f5ca0b97af68f1446c6edd9a8dd04ee027c3a1dccc3a7b94eca9fa657c48b25",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,700",
+    "hash": "0xcd504f3997f041e396e4eff5c941e2f5fc02e1e68eb52bc922c677d071fb1476",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28.52426338",
+    "hash": "0x822b826ea069690ef401aecee0510fbbaceb0af7d0eb26956157e39acfc08b61",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "612,194.46847627",
+    "hash": "0xe9cadaad4a7f208399486ea1cab6b0d473b3b9ab39ebe6b89ac02aef68482ee1",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,969.131632643854310643",
+    "hash": "0x691b044da74ce1f16984fdcd981b5a66602c54c6b844c563960476028804d3e1",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,168",
+    "hash": "0x884dbad5f72c7e57e583f00423484f9f2f39c6475a7156efe475936ecad5dae3",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,130.1141",
+    "hash": "0x8c35b7675e7284c0bcad50c33e10f6495f8c372dc16229f1763276eeb7aad164",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "479,268.28235969",
+    "hash": "0x10f73bd4d557798f720a7dad28ca1fbc05b45dedb5fb352b3b316421b8a439ec",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,985",
+    "hash": "0x2a8734e019daf22855f64b83ca78f364640aa9fe2f2311283ada22e7577d07b5",
+    "token": "Serum (SRM)"
   }
 ]
