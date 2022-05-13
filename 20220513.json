@@ -994,5 +994,17 @@
     "value": "31,095.7943",
     "hash": "0x6966e2c62a9cee6e2f12f494df407c636d3e796dd3cb71eba4eda6bd9c7bd76f",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,448.878662",
+    "hash": "0xe0bc232893089a72cbb26cf68eb40ce9f7e447311071fcc9310a3dd6ad35e931",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,992.99992789",
+    "hash": "0x6c66c523a57c4384d74b06dd3060e63571dc1d825f315889ac22301112147310",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
