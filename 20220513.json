@@ -904,5 +904,17 @@
     "value": "977,424.11631643",
     "hash": "0x2f000554111b35f84e7a7150d7011d3a6473485a9fc8e312570c928cc70ded21",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,899.559323439420838978",
+    "hash": "0x9a551c1d24e98d3b84637318397dd85333af1a1a3bbe515201c53b7675e7ce6c",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,990",
+    "hash": "0x9076995c73049d54be318383d4764be9b0d426d0337d65db6f3fd97133f2ecb5",
+    "token": "Decentraland (MANA)"
   }
 ]
