@@ -388,5 +388,29 @@
     "value": "23,198.955539413463932921",
     "hash": "0x4f8f97b69d97305da36eb3232987b088c4b8a7a349c69f7f92a9f10e3ad57749",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,275.9144341",
+    "hash": "0xaced0e149a57ab504361b7642eb3f72eff3dfea647393e6c6a59196f686b31eb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,389,020",
+    "hash": "0xa603670e156e96f4207e740a8e62a19e8f531ea1e3b1ecf106da9c4d175c78c5",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,443.647751",
+    "hash": "0x1e21592af95702c3fd4c6dc541a0e63bb8a0fcf92f4e6481e686d254ec1f5ebf",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,170.417",
+    "hash": "0xc4203ec98cd80a5d4531db0151848f8231dc5a94d30f27fc00350821298cb691",
+    "token": "OMG Network (OMG)"
   }
 ]
