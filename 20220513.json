@@ -832,5 +832,23 @@
     "value": "96,919",
     "hash": "0x02d6bc2e6a461b86c60a90c5feb2afa89e300f81f1bc2080ddb71158c871c726",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,876.34824092",
+    "hash": "0x1cfa15da72c7fbd5877e77d350cd846a2a6c98b32bbbb215f59fd31c1e48de40",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.810975664751987255",
+    "hash": "0xf4e15be24332d3222e75cfe8bd93f313a7a05a6ba561e2e095c2266aa1c3f723",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,494.884677485248012745",
+    "hash": "0xf537cd74c3d92fdc66a6fb55940137ff1d53d6ca26f0e135287a2d38981f04cb",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
