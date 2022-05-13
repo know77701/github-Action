@@ -946,5 +946,35 @@
     "value": "21,623.810624300579161022",
     "hash": "0x6d1e3b135743546defd3bc8eb41959e62343b43b156c8010531cdc59ea6a2cb1",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "631.77164783",
+    "hash": "0xb4d31a99a70868b5bd3c7de62355cec0b98374149f911a787c60e32a2ce2a685",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,174.3998868",
+    "hash": "0xacfe4d5164ea9b44b83cbcba87ac8c05d7ea6e01b8e9db9599de0b7c98806b12",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,944.044817673066839501",
+    "hash": "0x888864d3fefac55a22a2cc36b506414fe186043f96f0226513a68c410086da8b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,603.9825",
+    "hash": "0x8e11fe4ab42f71329a0075d92a1175cedf1994293d19ec224f1e41d4cbefa8eb",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "535.18299",
+    "hash": "0xcadda1b023f8b2876cddca4e014d583280032793c8833552bfa8c95f489dc5ae",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
