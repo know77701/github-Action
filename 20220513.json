@@ -1024,5 +1024,17 @@
     "value": "5,130.834913257382894627",
     "hash": "0x48ce03bd5ed32515c130823399a0f3ce243a3a0300a3f181f3eae20f5c7e9648",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,000",
+    "hash": "0x2f7fcaca0437a1714c578aa5e202f13df068e6fe4f15937332cbc21071005e31",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,087.8924",
+    "hash": "0x4e86961b8b33ed46c4759f5f5ff40fcb2cd90b736c115fbe1c77872d62eff55e",
+    "token": "Decentraland (MANA)"
   }
 ]
