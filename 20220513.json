@@ -484,5 +484,11 @@
     "value": "58,187.99995951",
     "hash": "0x09a83673a7da6a00fc27f25f07181ad057db2ffc4cfa629573e69d280af914a5",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,405",
+    "hash": "0x3e92e3e03106b5aa2de6e3c561b9f719f38445e328cf3e51f5f4513591b7980a",
+    "token": "Function X (FX)"
   }
 ]
