@@ -556,5 +556,11 @@
     "value": "20,003",
     "hash": "0xabc33079a68d7375522bfd99544bd990917b713cc0b489cf8dadb416157f1eaa",
     "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28.39462",
+    "hash": "0x41aec9adab8da63c4f7f6d9b0d246a7e0df1847dbf5c8f3c5dc472f64e3c5aa3",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
