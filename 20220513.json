@@ -580,5 +580,17 @@
     "value": "1,120.71651984",
     "hash": "0x9be688cb04bda89083707f8df0a337e5af4c2b2651fbe63577ff827deada681b",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "595,246.91453455",
+    "hash": "0x07076f1513906a404d22e9bb20db1d0e4b51521dafbae56ad68178b6f8d0a34b",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "238.16121",
+    "hash": "0x99ca6fc756f253827d72832699674b9da36e9ab51e783eab5622f1d63a29b491",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
