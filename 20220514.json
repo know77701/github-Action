@@ -688,5 +688,11 @@
     "value": "20.025554570120586849",
     "hash": "0x1537e7a7ebaca5bf00dafda425277b36e3f5a50dd1cd76a5169fa1698adb4fbb",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,639.59995084",
+    "hash": "0xc81d8e04539c7da64f1468979339d5adc687a8712db6c7b6a03ab7c262b4922f",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
