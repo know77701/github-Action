@@ -412,5 +412,17 @@
     "value": "686,334.42091408",
     "hash": "0x7d01079b77d1c4a440481022959738e06a1f9dd25185a0398e64fed48d6b719a",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "392,774.99998866",
+    "hash": "0xe45b7169d94a781278662aa8c9e0a2651e443c176c7bc4ac915b350a74590194",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,000",
+    "hash": "0xd891abf13df9e637d96a456b065196a4d2834b8c8e8019482252f9b1f464a11e",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
