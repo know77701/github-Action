@@ -622,5 +622,17 @@
     "value": "711.13",
     "hash": "0x2773745af0794fe7822aeca3f2ac2c847c13c65d21f744fec34767cc0b6e02a8",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,358.91780744",
+    "hash": "0x6fe2f0bed75ab3b5d2d6d16da2e707a20fd800cb1c7e0d1d33815aed02862fbc",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,925.5887",
+    "hash": "0xf4c0991ed2d69ce8e3498aceab151d968de098d2b1e3ad104233c1e83dfac23d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
