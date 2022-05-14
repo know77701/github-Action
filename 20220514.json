@@ -862,5 +862,23 @@
     "value": "8,371,584.31823299",
     "hash": "0x551617ce7fcaa909f7659bbd6d1f67a2493504182c9b36debf5e830c9f6153ed",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599,646",
+    "hash": "0x1cfb78324a3603bc55d53aaf4fd62c4080239116ebf577f57ae072817033309a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59991612",
+    "hash": "0xc17bf5f7fd5c1cac916503b93a069faccd4baa0e47c85f2fdee0794dda8d6870",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,824.7222592989138695",
+    "hash": "0xb606b9fca1767611212d77f898693249cfa49776c211d5f11a32098dd98f377a",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
