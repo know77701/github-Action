@@ -880,5 +880,35 @@
     "value": "4,824.7222592989138695",
     "hash": "0xb606b9fca1767611212d77f898693249cfa49776c211d5f11a32098dd98f377a",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,733,667.3036",
+    "hash": "0x239c88ac88f8f1c102c1f5de6fe329bb041c70cf7b30c7baaaee862b60d4ff49",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,047,853.28521333",
+    "hash": "0x4cefe3a79596f7313248a82865c92d0b34f6acd5662abe02bf1cd3ebcf977c02",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,065.788742732873397032",
+    "hash": "0x7fa34fbdff1ff3317f156ef574da91cf3af2d03b7d7a4a4c1e5b3cd26c8b23a4",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,989.552523296206868081",
+    "hash": "0x51e100419041391862d72995f43fd44c7cfebe644890bc4e016e77d70b8f0967",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,300",
+    "hash": "0x0ce2cf120de9ccd13eb6fb144dfc3b2997d99775d85ab085cf398b82ebdb7b54",
+    "token": "ChainLink To... (LINK)"
   }
 ]
