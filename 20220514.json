@@ -160,5 +160,41 @@
     "value": "49,639.753804660796444792",
     "hash": "0xa27bf9b1ac591476d6b5a5884345d685f48d133884374d46e81e13b02c0c27e9",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,782.151",
+    "hash": "0xffff188f33c95058fa82717f161bca488d2942d7f50b59e80d5bc42cb3035460",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "976.845787914833736262",
+    "hash": "0x90788aedc064665f0f4c205a7e297ecf05ac2f9c93624aeacfbd32c030af65fc",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,233.38406571",
+    "hash": "0x834481e529cedfcc25ca693db6784e4d1d0156065253b83741f8213d53c30f52",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,344.312522113036888206",
+    "hash": "0x6ecb0ee39b9e2dd87fceaf7a56993aa76fb20d0383a52e92dc669ff212b4faf0",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "453,537.989090002070784791",
+    "hash": "0x4a9ee5a2452cf057f87d58ec701ac8b2bccaaad8de893c2f7f0e1c0c4f204077",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374,297.99988525",
+    "hash": "0xaaa99f0adb33c3887eb9b0ca9b6490a49bd6946e3659103c05c690165234e4ff",
+    "token": "Civic (CVC)"
   }
 ]
