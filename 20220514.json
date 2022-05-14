@@ -250,5 +250,41 @@
     "value": "219,780.686527776151982475",
     "hash": "0xeeece14f07592667b4dbc3394ccfccbb84f5a167d69d05a0254d398bd58c8a37",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,709,874.24836752",
+    "hash": "0xe52c343f36cc3fa6507f6fa15d05ccdcfee705a4b7383b281aaed383d81a8dbc",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380,460.326614",
+    "hash": "0x0c227beabcca5f5537f094a20152183f7ad0673b36acb94a4db3b9b7f8e08946",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,134,396.029967178310884485",
+    "hash": "0xb1cfac505f220039cb7e91c14cc78dda34ddf99d75b43cb89cf9cd76116a420f",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,054.377579564220498899",
+    "hash": "0xd930ca35ab7e2cd67c8f816f3f7c670c462cce4f6f4687d8bc8c3b070efa35d5",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,348.74392945",
+    "hash": "0x4c1dcfca9edfa9d7e47a64ced4db29f4d9558c681d1536e9d97a82de4d28220a",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,927,428.937077021689115515",
+    "hash": "0x3f2deec0db797e228c9320668e7ad407fe09d14d62007b3dadd49c12f69455af",
+    "token": "Aergo (AERGO)"
   }
 ]
