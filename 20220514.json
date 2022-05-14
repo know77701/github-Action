@@ -196,5 +196,35 @@
     "value": "374,297.99988525",
     "hash": "0xaaa99f0adb33c3887eb9b0ca9b6490a49bd6946e3659103c05c690165234e4ff",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "327,187.40766108",
+    "hash": "0x4b4ef2e879593537bfa0eec391f9377aed384840a34e3bc44e7126a4abcafef3",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,852.35804384",
+    "hash": "0xd8ef7b80e280d75aa8a599eebcd44153054c6e580fec08915cb7f357568de3e8",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "493,700.577649507929215209",
+    "hash": "0xa930b9c049db31030e6914d8d0208c5c2e5d1ba969a590f00afa79b28f7fa195",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "256,871.65102009",
+    "hash": "0xd82d88ffcf3c9adf385f36a22db8cfad4252d4240444231edf8c55cc0a7fdfa4",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,497.50407316",
+    "hash": "0xb9d3ec165c082eab85f6c039735d3982bf1f2586fffec31b57a85669f089f4dd",
+    "token": "Aave Token (AAVE)"
   }
 ]
