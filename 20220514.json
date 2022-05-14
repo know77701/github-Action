@@ -358,5 +358,29 @@
     "value": "706,449.27813683",
     "hash": "0x0e253620ef9ee8e77122a86589f4ca12a3a0eb6d2fd0510dc228cf8f12c7f310",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,244.94558494",
+    "hash": "0xa32a8ab86413af29198d40c2e156524729b2858fb664fa8a5d5765855e8e6b47",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0x06466cbb360ddd7cab91b40cd53fa1c35358da92f2c2d73c58355e9f8ac5eb6d",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,191.52499176",
+    "hash": "0xd9298ecef45027a93270bde4ed0197ce8c9aa89fc9f54100e1662dbe0ec7c585",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "211,465.932",
+    "hash": "0x793a9c4bb5db30f84319b4b71d32b1287b7e912a96131d28384580e7b368f0e2",
+    "token": "Golem Networ... (GLM)"
   }
 ]
