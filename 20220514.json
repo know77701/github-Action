@@ -778,5 +778,17 @@
     "value": "881.571653",
     "hash": "0x8a72df280811b7b43c237859041e3813ca30adadfb2632fafcb6c6182e0964f8",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,881.995",
+    "hash": "0x7d29c7e06f0210148fa1b9f73df6d2b6054d453e05f9191271f6e4ab7bd4a986",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,511.946830053959655294",
+    "hash": "0xffc337ca6bcc69272f8d6ace1718624309806efdc81e5abe2cc9baad5ba2d6ed",
+    "token": "HUNT Token (HUNT)"
   }
 ]
