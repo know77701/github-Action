@@ -448,5 +448,17 @@
     "value": "111,393.90122511",
     "hash": "0x13302b2d9035346967759f9cb6c8788a9f9fa9af4670dbb3befd7ff369ee91cc",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,201,345.99980806",
+    "hash": "0xf4995d94147ad44e12121a3f1f658084641a04916d7e9a15515bc90f67ab9311",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,893,814.99996727",
+    "hash": "0x815c0b7ca435de07dfe19aa05d4ef1e62cc91938958342b66c6db8c46cb34826",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
