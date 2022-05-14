@@ -286,5 +286,29 @@
     "value": "1,927,428.937077021689115515",
     "hash": "0x3f2deec0db797e228c9320668e7ad407fe09d14d62007b3dadd49c12f69455af",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,282.911653202119838919",
+    "hash": "0xd2988245ccc06bd7aea3302cda8588f3cd84e9411c34cdbd3977999bca131029",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,990.28",
+    "hash": "0x27ae946d3d45b9c45f1fd283114a509c4942868937fda3de2b79d19180f1f6bd",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,990.28",
+    "hash": "0x44616f5d28a3f3c58460e26774e3aef9243906a84c0bc1aac77cf97f68a39b6f",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "476,025.899148730542474825",
+    "hash": "0x8dbb9e94636b14fc0a16511a8cfa0beb05dd1bfb34b6b24707ebffa800a946ab",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
