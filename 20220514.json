@@ -70,5 +70,77 @@
     "value": "10,663.512",
     "hash": "0x71accb8271fc00be91f2f9e4a7dea95075fd8f1c788e7d11395b8a0bec944332",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "772",
+    "hash": "0x93f2af21d2fdfa7de7d16535862e04abe58714a4d6d598b6476c195c8a4e6d6f",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,214.03417838805360789",
+    "hash": "0xccc86c0609319b01f12320f7eb663222eb0a9ce52a8fbb6bfac1f5a7e156ed11",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,000",
+    "hash": "0x7c3a81bd276dcf30b9af3ee3762eb654a02d5ec245a9cc55bf3146e0a9d4bc65",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178,110.14003689",
+    "hash": "0x665834290d0af223d4beeb16355ba0e14eb68806462f07e989f5f081a3bbce84",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0xa5dc3ada4fe4fefd0f115dd777d59ebbdf228a5a4087c13a0467c6e8e5886e11",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,329.6334",
+    "hash": "0x1765657d6f05d9059a0018ebed4622299137678bf0b6781d49d1cd4d5b882aea",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,829,110",
+    "hash": "0x32d1f74761081b0a979c761a271d941ae7a1669cadc2d4948b4695aefcd33410",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,882.699",
+    "hash": "0x90b973d9d54738f13d546d4cb641d6d793a5998834c93ebe53433499bbc54153",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,555",
+    "hash": "0x753f502266974fc740021465849aeb81846bf8e2aabda5deb257b81dfef5e498",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,969",
+    "hash": "0xa14822a9a3aab53e12c0f749453ec3942681fc661927c2fc2b77bb6a9e9797a3",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "629,555",
+    "hash": "0x46502abbe614c6a898d23e00cb2770070aa2ef7589fd74485fc797dac9417d55",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "873,410.65512672",
+    "hash": "0x0816463265828367c2371444b97a1865434c547a1202c5ef30cc8c8bc4d562db",
+    "token": "Decentraland (MANA)"
   }
 ]
