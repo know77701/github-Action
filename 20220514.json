@@ -670,5 +670,17 @@
     "value": "2,500",
     "hash": "0x382092a76e8196f69ef25f60b2de8236ec91bc98f30947c19407b79ffe05b568",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,183.6203",
+    "hash": "0x58ed0cfea26214f3c92aaa5b40bb1229d1ad7ab29cb2cecfc24dd1d14fd15b82",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,736.36986292",
+    "hash": "0x68132c62f637ea518786a189d610b3eeee1e7fe8e2bf73a3c06523f61fdaaf50",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
