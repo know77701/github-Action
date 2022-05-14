@@ -646,5 +646,17 @@
     "value": "65,490.20811938",
     "hash": "0xd44a70458ad2b0b152e2ec84737c1d6a0574a4a206527072f34da2396718a01f",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,149.341",
+    "hash": "0x6c1df5d1ea95d6812aa03f0207e31c0251bf639f58368a2a01fae5757388da7c",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "314,808.77531582",
+    "hash": "0x74e16165b025d969d5e2850b75eeac60c63dfc18da3343f0ff79f3d76601101f",
+    "token": "Civic (CVC)"
   }
 ]
