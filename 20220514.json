@@ -712,5 +712,23 @@
     "value": "195.874388668936706972",
     "hash": "0x1df01f1879b050d66aea9e77c1e22968a98aff77d72d33a17075a9aea8f4ef57",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9.03015869",
+    "hash": "0x01d5e17174aa03f327a917ffc0c9ab59b8cae01e882640c80d855384d4846061",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "193.102513910786518837",
+    "hash": "0x5e1107369227ec356fbe1bee83623e80ef662ea0fb529d2b3193d93479030c09",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "477.855522354972280665",
+    "hash": "0xb5fb4cefe4fcbae755e0bf006fa5015ee7bafab05f776a5249ea3b381b353be1",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
