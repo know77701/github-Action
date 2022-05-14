@@ -34,5 +34,41 @@
     "value": "77,777",
     "hash": "0xae351be840ec6270e3fa8bcbfcf1cf642f40fa29d7a52b3ca41378ce0c4c6862",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,169.375360189321082134",
+    "hash": "0xbc583d4645d271f10998c7d670b158e058995531d35ff2b702ef11e25fb790a3",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,555",
+    "hash": "0x61ffef58a9e67ce677e03170d5b1229ff3597d8d0ea890d46fc77c2083b94de3",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "674,655.61695059644",
+    "hash": "0xf03e703d1f9614d13f577d7ea0a80a25a755a1237170f440f04d3a584a4fd8d0",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,990.28",
+    "hash": "0xab00550bf13f3328163b97871784bb4c2ab26cf7388434907a2fdb1256858395",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,555",
+    "hash": "0x72198b321ff50b6e315cdb9666edae48c743cd7bd2bf356519691d2b08ca08d5",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,663.512",
+    "hash": "0x71accb8271fc00be91f2f9e4a7dea95075fd8f1c788e7d11395b8a0bec944332",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
