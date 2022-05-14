@@ -562,5 +562,17 @@
     "value": "28,699.7216",
     "hash": "0x3fbf0c3637e7b2324457fdb5df5e6b89b7bd03aff90000d019de6a1558b14939",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,536.692764717071045507",
+    "hash": "0x927e79c55bec5b2e024ff1e86697c3607be9b2a24177af5def17de4a9041ff26",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "346.793637903374689609",
+    "hash": "0x2ae7e26a448c68e06da3f7e2fb27711e6086c4a5e7c967b85ae6ff4ee2abaf0d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
