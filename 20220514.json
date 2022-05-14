@@ -346,5 +346,17 @@
     "value": "24,000",
     "hash": "0x21eceb289accbc19a1017aaa546d6926f47e03116e268ea4b4bda3fa567b6414",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,686,546",
+    "hash": "0xb87bb4e193ff7c3c79bb2cb51d26e739c28391abbc7f7507b381162fa9d1643f",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "706,449.27813683",
+    "hash": "0x0e253620ef9ee8e77122a86589f4ca12a3a0eb6d2fd0510dc228cf8f12c7f310",
+    "token": "Graph Token (GRT)"
   }
 ]
