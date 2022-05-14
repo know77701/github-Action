@@ -598,5 +598,29 @@
     "value": "290.624768742077901242",
     "hash": "0x92bd7c39d35ca79cd1976423e92d236a691d5955ef7f3be89f04b78828509e08",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12.30707514",
+    "hash": "0x63bf5bb8c43431ec8f3f6cc535c833b13fe4013625d282a12088102b596f2138",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,870.655789144404057006",
+    "hash": "0x32dfe31361a557de7dba119c446ccfcdbd32549b4a0baab137751dbf29ffedb2",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,521",
+    "hash": "0x2346d48b84d2c13ee371743201f479eac4636033b64300ff870125b0192181a6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "711.13",
+    "hash": "0x2773745af0794fe7822aeca3f2ac2c847c13c65d21f744fec34767cc0b6e02a8",
+    "token": "Compound (COMP)"
   }
 ]
