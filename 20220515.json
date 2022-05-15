@@ -886,5 +886,11 @@
     "value": "1,747,160.88546647",
     "hash": "0x5545e2d74e58775daead19563068d867160c7eb269e21fd572f1996e26b59395",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,100",
+    "hash": "0xb15eeebaec3a1a1dc05e07c3b59f93dbdda5d540eadf7d53ca739e147ba24202",
+    "token": "ZRX (ZRX)"
   }
 ]
