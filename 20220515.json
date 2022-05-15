@@ -352,5 +352,17 @@
     "value": "1,415,542.623035957580351378",
     "hash": "0xbee48eb6cc9c93dd7d2d153c695d38f254bd952a73144c1359659d1c7c3d76aa",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "277,331.45881886",
+    "hash": "0x5ba3f8e6f9f75b795438e7448f63a28beda6f8e66187a03b2ffba3469714dcb5",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26.89269",
+    "hash": "0xd9e69d3bc3fe52423cadcaa1e0953111a6863fd92d16852568ce308986c261dd",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
