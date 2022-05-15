@@ -418,5 +418,23 @@
     "value": "5,261",
     "hash": "0x85484660425baec17350388a3b18e94d0e51d0a7bded54fc2c946b1594565897",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "840.135403",
+    "hash": "0x7486f6fd7635349e05c6d70d0a31a4dbbbd1684895fc39bb2fdaba7a2d139d41",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,199.390044144793218469",
+    "hash": "0x39034233d28d59434c95b6df31b75003ad3c4a495678420ceaec034af66473b4",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489.04008",
+    "hash": "0x442a882eb18e545065086c0d523ac15879d956094ad27391c39dae6d8b4b0be0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
