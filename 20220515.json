@@ -994,5 +994,11 @@
     "value": "51,912.10545487",
     "hash": "0xc907170a17fdfbd1ab1b68d878836834d707b5012f7880a4458df5d1410d527b",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59991333",
+    "hash": "0x516fe8d86d95c5b24d55118d6dce5d4cfd2b7dff142a6c7356df4aecc5aba2cc",
+    "token": "Uniswap (UNI)"
   }
 ]
