@@ -652,5 +652,23 @@
     "value": "1,151.11620154",
     "hash": "0xda4961d3629237b0ae70689c50c4d0d0b0b8d0c5700285bcd943a2f4ec75d10a",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,223.367",
+    "hash": "0xe451bb13a1a8f83ab531f0aff2c6586fe625c0d1fae5755a93d998d084795082",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,046.29597839",
+    "hash": "0xa04232ed55a095b00a6c79453c7bed31e79c3154f0165fbbe005c02a91daedae",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18.4279",
+    "hash": "0x2d7e579e1007bd4ce4fa8f0657bd04478fc25a60d62e4b394b359848686dd899",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
