@@ -1000,5 +1000,17 @@
     "value": "1,999.59991333",
     "hash": "0x516fe8d86d95c5b24d55118d6dce5d4cfd2b7dff142a6c7356df4aecc5aba2cc",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,000",
+    "hash": "0x028478b5936cc3579ee235b5ad12ea48b0dd3ba5b4bf1251dcb6d6f66406cf56",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,437.099",
+    "hash": "0x4d02f438244f19d1713aa15681cf3802561778d90bc147c64bd9e51a37ec1a17",
+    "token": "Decentraland (MANA)"
   }
 ]
