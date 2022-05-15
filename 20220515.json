@@ -976,5 +976,23 @@
     "value": "9.638168128602170327",
     "hash": "0x7d2fb3e097950e7bfb6a698dcaffc4e993653041a139022fe324c34dd0681dff",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,222",
+    "hash": "0x68f8dc99a5de8f4d376bca75c8c3747d129c263a0aa70b28bdc11cc3e8afb610",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,354.7411837",
+    "hash": "0x49f73ca842f63d92b2938e69495865e89e11f031bc6a53aeb1875b7c493b79ea",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,912.10545487",
+    "hash": "0xc907170a17fdfbd1ab1b68d878836834d707b5012f7880a4458df5d1410d527b",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
