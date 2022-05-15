@@ -208,5 +208,17 @@
     "value": "701.9942",
     "hash": "0x1718489f15f400a05f3c1c6e3a928878217ffa7c419a0892b286825b667b34f7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "323.19946851",
+    "hash": "0x322572ee2fdcf88c12250ab21d7a99668489f19e3f5356bd3845a9c73dae3e3b",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8.61099",
+    "hash": "0x95558769f53d4ddeedf1b7d58c4aa5dd56dd8dae3f200a68dd11c43cd1f27e19",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
