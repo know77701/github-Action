@@ -1012,5 +1012,17 @@
     "value": "8,437.099",
     "hash": "0x4d02f438244f19d1713aa15681cf3802561778d90bc147c64bd9e51a37ec1a17",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,995",
+    "hash": "0xe7f1f3d532378c40848261efc7f9f232aa3bb0edc4d3f4aec7df7c134936c1a5",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,179.336",
+    "hash": "0x32f1c5f03574a7dc8aab7a51fc9128c97a9dd8615a52d9b4f6e27e8e33ae8ca3",
+    "token": "OMG Network (OMG)"
   }
 ]
