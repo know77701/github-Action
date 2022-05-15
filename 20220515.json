@@ -766,5 +766,23 @@
     "value": "14,998",
     "hash": "0xa09594400110ce70a42228aba148d5fe674fd87c0dacd995a99f7a3453643809",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "422,909.99990713",
+    "hash": "0x871cac969acbd49aa4026739a82a619dfb35cc7b2d1c7f824a0b39aa19659422",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "203,500",
+    "hash": "0x4091e3e76090e92312bd4441c81869d6ecaf18084a810216f2f722a55d5a10ed",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31.73984",
+    "hash": "0xb12308efee9f0dc676194ba3ab2612a76504578fae1250ccc26248717f941cd3",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
