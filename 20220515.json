@@ -958,5 +958,23 @@
     "value": "26,994.59993813",
     "hash": "0xce4379baa0efc312077e48498d91860885c01c8fa29052cc24486568daf7fa9a",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,910",
+    "hash": "0x3af2e2e5ebf81cc507032e151f6bfc66261a694a9ea25b5710f58dc046c9c177",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "699.06100023",
+    "hash": "0x3345db6caba52e835908f32aeb6e907c29487f871b5c401431130a90ae27bf29",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9.638168128602170327",
+    "hash": "0x7d2fb3e097950e7bfb6a698dcaffc4e993653041a139022fe324c34dd0681dff",
+    "token": "Maker (MKR)"
   }
 ]
