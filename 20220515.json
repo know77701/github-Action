@@ -142,5 +142,11 @@
     "value": "141,718.788138221704570171",
     "hash": "0xf3eb5077ffd30229f94d8813d2282b3ae1ed52ca5da45507ffb64c650cb365b2",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,152,943.68719438",
+    "hash": "0xa2115a72506eb4597dc086579265701218a9b523bd710b3e9bfc10e535930067",
+    "token": "Orchid (OXT)"
   }
 ]
