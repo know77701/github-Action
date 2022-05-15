@@ -112,5 +112,35 @@
     "value": "291,805.5",
     "hash": "0xa42bf6b71ba47447f7559df459c043765329f25220ffeafe2247c55dbfd3adf2",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,434,267.077139450599341684",
+    "hash": "0x42698af8b5c92b5db345005bd01149e451e9bd2155af6156f7dcbbadb0c5abb9",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,420,894.394298679400658316",
+    "hash": "0x0b10ed6f47753cb0735caf26eb3befa4107d0d46e66e23dcb0abfab3debc8557",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "885,858.595911408295429829",
+    "hash": "0x08bd055cc7ba10f776ed168f052ba037abb096b0654963df4bc6dec6ab4fdd41",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,500",
+    "hash": "0x81ffd898e1eb0e65abf6e174ec8758ca6064b2070477fa8124a858a3a50115e4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,718.788138221704570171",
+    "hash": "0xf3eb5077ffd30229f94d8813d2282b3ae1ed52ca5da45507ffb64c650cb365b2",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
