@@ -232,5 +232,29 @@
     "value": "29,459.60902563",
     "hash": "0x0b1c620dd8c3e2769ffad80a88b822167973dbe9977ed8ec90ada9071f979dc8",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,444.218052071260256627",
+    "hash": "0x6a4a1bc9c28d1c8b7f9eaecf40b112b0e51fbbf7d46cf1dbc7527bd384cb974e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,311",
+    "hash": "0x2576a745cbb8791cba35709aebf9a0c032cd370b1c8d6148880d8fb1d4cf69ec",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "568,300.99993441",
+    "hash": "0x70039b8afb02e415d12e954a3e36b8d39777c2cac9b0236ff391d5d0d2491812",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,421",
+    "hash": "0xadcb0e992ab0ed3f54be4bcd616e1f7be8b1b096740b94822e679152955008d3",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
