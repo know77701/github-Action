@@ -730,5 +730,41 @@
     "value": "457.879",
     "hash": "0x7516b98e3dca9bc102dabbce1bf8297d4d3e27be68e1fe846c569930e8d5a4bb",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,839.17514728672560294",
+    "hash": "0x083e0c61efd5fbe667e856c9f3874f99cc1a3b81ddcae2e6b0e1ddaafa097e88",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35.19865",
+    "hash": "0x823464865f3a5b1614b698a31412a75a57e558f5dff5416bb6c9acfd6664787b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5.67575",
+    "hash": "0x9fe25296c931bb7bfb129090785e0bc1793c622124774024756bf5bf0f32417b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,628.18281",
+    "hash": "0x2181914930a7c05db57f649c132c0697974d08f889e1bcba276b508eac33d767",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,971.43932772",
+    "hash": "0x81356545ed2605eb06898f304272a032dc46cf233a4335909efddab89e7527eb",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,998",
+    "hash": "0xa09594400110ce70a42228aba148d5fe674fd87c0dacd995a99f7a3453643809",
+    "token": "Decentraland (MANA)"
   }
 ]
