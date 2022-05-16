@@ -688,5 +688,29 @@
     "value": "1,159.59985549",
     "hash": "0xb677733eec7fcdcc7e4aa89ca080af5ba14d38c1c7c8ddcdd856f2f37cbf730f",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,525.95841643",
+    "hash": "0x796f2f523ba797f82171238d16eb85c3fa276696c097cb8d258eefeb6b4c5693",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "697,163.111819687865266604",
+    "hash": "0xfd4d09254833260c7c8714b82f1ad92e882f66ac0b31ba067fdb4cf405db7dc0",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "223,073.2202812",
+    "hash": "0xbf93f60445c3a523654c2cc19d2e7bf8d07df11f9648727cc1abc9a0c8a6c980",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "574,126.621424236703953167",
+    "hash": "0xed823d13ced86f890d426fe2503b9560381f7a5538a296d675fd965c843df1a2",
+    "token": "Polymath (POLY)"
   }
 ]
