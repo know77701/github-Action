@@ -754,5 +754,35 @@
     "value": "174.604756955061305457",
     "hash": "0xa9e7466e158bc0f3d01e6ebbc84c865f8c0d250894c0b8f51b12eefe6ca1bed8",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,111.45518462",
+    "hash": "0x1a9eb6646b58f9adf4767c3fed7af6693b8d9a28a1b9052778c70eb7a1c383e6",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,859.225",
+    "hash": "0x5d1507573356dc64b2df6e111946cf1e7cd81b75313554963264235bb7d626c0",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,109.787588",
+    "hash": "0xfec06b7fb3fc062792de8e0e89372dfd8da2f4cc523a8728d18afd30c0ca5326",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xcbd6641500c2fedbb8f80009b1343115fdb2dbd4bdccada86deff58687f1a2f7",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,494,796.794223878946267895",
+    "hash": "0x3042a884e14e323b477a608b95320688d44bff7e6df06da8673f554125ee075d",
+    "token": "StormX (STMX)"
   }
 ]
