@@ -574,5 +574,11 @@
     "value": "122,672.311717472963831561",
     "hash": "0x63b8f545089b11af0e51945d7ddb5c4ccdf4706facab3dde0e36c16407ed3371",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "736,325.4483",
+    "hash": "0x8c394063c50e7dae74c5840aa319f8379b0b338be69027c23772572e5befec47",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
