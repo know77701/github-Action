@@ -1120,5 +1120,17 @@
     "value": "8,112",
     "hash": "0xc37120e8f0ebc9a74de6739f60ab110a4427418154d47ad82e916b3b344635c3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,736.117263",
+    "hash": "0x81bcb339386a67812eb6245b9fdc716b4463fe747687d982dddbf4d7d3d01a57",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,396.12135301",
+    "hash": "0x72e578242cd8649ef03f8c2c088f9104a74e3cdfcfb65b6f7d6dff5fea0f9f97",
+    "token": "Decentraland (MANA)"
   }
 ]
