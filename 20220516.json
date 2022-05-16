@@ -1168,5 +1168,11 @@
     "value": "7,236.695914593200801652",
     "hash": "0x484a094f204390964d1cd69a3b2acdeda045f95e285006391fe9e1d90ee62326",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "861,195.5",
+    "hash": "0x0caf6f15264a3d4cbf4b74df13ef7d906cbeb2b36ad7bd058838f77f512b6fa2",
+    "token": "Decentraland (MANA)"
   }
 ]
