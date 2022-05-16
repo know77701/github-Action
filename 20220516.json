@@ -1108,5 +1108,11 @@
     "value": "149.96994278",
     "hash": "0x9f603bcd920a4fa4e1080711b604cd00a25deee59b871ebe0f2ddb4203ade74e",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939.59991147",
+    "hash": "0x17f28cc50d89a29dd9ae505384c3492a445871a9412e3fdfa9da5cebba0428fe",
+    "token": "Uniswap (UNI)"
   }
 ]
