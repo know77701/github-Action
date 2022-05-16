@@ -394,5 +394,59 @@
     "value": "1,344.31",
     "hash": "0x7b9135e32e67087105258229446e15e59ba7bc439be34faa548a4002379bd251",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,095.650733727654038761",
+    "hash": "0x2a6428eaab55a1b3fbdc24b8a86c2bf9068d69d26c273e376f1c8aef22255611",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,987",
+    "hash": "0x8870a71ded1c4dff8f29b104539680a6e03bb16c098e9216f02a3f201b8c37a7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,234.77401488",
+    "hash": "0x1a60aee64bca9b77af3b7bc459d276643cf859d4ac3ff740b7fc9d12253383e1",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939.59993812",
+    "hash": "0xe721ab323cc69ca3f456ab33fbe01c52dc91e7ac8a8ececa7dd21b9dda7b8840",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,987",
+    "hash": "0x01cf90a36ea5c6b58006b8ab8b4e92c92150d30c887105c4d391af3e8aa07218",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,497.5",
+    "hash": "0xcbf03019b5eaf7977dd5ddf67b298d3e5f0a274e2aa5ffcc3463a160a76726dd",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,763.106516710380267729",
+    "hash": "0xd1b4f0837d446d0b48012fe8fff5fbd1a1a3dbe56f723325ffc201cff096677f",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "704,859.99997254",
+    "hash": "0xcbaa896127b29116a97f1586c607705fc09bbf791f39bac84bdd6c388761e84c",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,999.86591705",
+    "hash": "0x9d57fa5e238a47ec3e84cb3bc6c6ba77267a38ab950b032475389d6337d8778d",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
