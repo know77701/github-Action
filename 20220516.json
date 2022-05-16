@@ -994,5 +994,17 @@
     "value": "30,000",
     "hash": "0x357dd549c3e2692cfc880475d53f4e8a44ce7ff2e439d860fc6d2de72ff47e8a",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,857.93634602113256376",
+    "hash": "0xa9bac79201630b48b529f8ca0fe627d9b93a44a5e3c18d966b964a52874b4c29",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0x7ef535383c86d8b39f3e97febb80d15f72dc4017556e94519e682e32a5f75413",
+    "token": "Matic Token (MATIC)"
   }
 ]
