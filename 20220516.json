@@ -1114,5 +1114,11 @@
     "value": "1,939.59991147",
     "hash": "0x17f28cc50d89a29dd9ae505384c3492a445871a9412e3fdfa9da5cebba0428fe",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,112",
+    "hash": "0xc37120e8f0ebc9a74de6739f60ab110a4427418154d47ad82e916b3b344635c3",
+    "token": "Decentraland (MANA)"
   }
 ]
