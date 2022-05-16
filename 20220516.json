@@ -592,5 +592,23 @@
     "value": "34,000",
     "hash": "0x50d4cd0529beb1627c5425e6505ffa051f2faf0a22360a12225786f948b731f6",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,115.003317527376390484",
+    "hash": "0xad774996d78d485f90d237d4c4b4a7cb9ced3f9873848850957cf9d0bc74ae12",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,122.83174",
+    "hash": "0x22c8e88c63ce49e5e8f1105af26eba0ad2a342bf62f8707ce27edaa5cba6c9db",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,000,035",
+    "hash": "0xec128f6ac6a4da1d88cb00485ddc0de6f6bea104a724bb8b944df958fa2a6d83",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
