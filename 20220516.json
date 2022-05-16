@@ -1066,5 +1066,11 @@
     "value": "86,341.283664420231866578",
     "hash": "0xbb011c825f29baaca0ff816f32d1314874b4adbd260493ad2d25846fb2bb7ec5",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "328,726.0742333979645641",
+    "hash": "0x672d80d77f819aee8ea2caa2303004b0d5682406e3a723e14eb87de2c5dbc38c",
+    "token": "OriginToken (OGN)"
   }
 ]
