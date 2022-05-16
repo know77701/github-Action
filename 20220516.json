@@ -484,5 +484,53 @@
     "value": "81,777.695134877809471742",
     "hash": "0xfcb64410354ddb6e6931d95b8029ecb216f88880bbb81bc38a93c3d6fe2aa1f8",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113.96994743",
+    "hash": "0xdc49a979a657c03eb927709702641368ee119cbc73a4c807e1a79db95d54df03",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "450,826.77155996",
+    "hash": "0xecb8bad4b572feed418aa3d8fffb4f9b2f23860ba09edd0416bf5c7a741374dc",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,306.175967739981693067",
+    "hash": "0xcc0acd078264e3fd0f603087245183a3ccf9f2d0dd1566fbba0873d87dc20b25",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,702.168707915993608476",
+    "hash": "0x5726efdd67014e5e964c0ec1f97e2b12ef26e229be9cc5be15baf0c7271a8a09",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,183.546062073874398042",
+    "hash": "0x231150ea2d6e6254983c1f0f8d8da95ec8b7cff7dab8fd5132b7de131c3ff677",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "307,336.831292084006391524",
+    "hash": "0xbdf7ff3b27cdc207915bff0c63bae8bfe39fcd5c5502372bce209294aef2f7b3",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,392.21325121989338386",
+    "hash": "0xd296e8b4db570a3ab9d80f39edd8a6ee710c4fa358d47b8d26aa84b87dfbf77c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,188.59103953010661614",
+    "hash": "0xb27a99ac459da418a730cea9b6d4863e56b0302aa6b5e6a08920a9aed3e4d512",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
