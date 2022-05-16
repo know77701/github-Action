@@ -676,5 +676,17 @@
     "value": "1,748,563.7415708",
     "hash": "0x223d7a5330f2b856bd2183ab9f2897f4f75765e7ffbd26376ee30ef50c25060f",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,094.3286467",
+    "hash": "0x7e7466d4dec42ab9b37c3a3d08e9077ab01af451f19156f4d54f409010e801eb",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,159.59985549",
+    "hash": "0xb677733eec7fcdcc7e4aa89ca080af5ba14d38c1c7c8ddcdd856f2f37cbf730f",
+    "token": "Uniswap (UNI)"
   }
 ]
