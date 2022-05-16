@@ -1024,5 +1024,23 @@
     "value": "373,372.9999623",
     "hash": "0x4d7e8a7fe2a96e3e5394bb29d85929f588cbc5f10e14d448b904f28f23ca2224",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,685.282213",
+    "hash": "0x67015284a45984c0118c1fd66162096f319c2145e7f382ad1b6ffb06e6491cb6",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,069.21380434",
+    "hash": "0xfb952a2f918be85386e2de01e80930804395cd415884ff3a6d2ce9db04198b54",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,657.365493191471521944",
+    "hash": "0xa8d2429de7ae82a4b1dc1b4878c9c9330979c23ab97880b06245607ca09b0c45",
+    "token": "NuCypher (NU)"
   }
 ]
