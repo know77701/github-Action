@@ -934,5 +934,41 @@
     "value": "9,829,410.474834793422812875",
     "hash": "0xe4d2167bba0ccad84bd1be2790d52e3ff2f76c1915ee1dfb694d5cc8c1da46d8",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,534.05435022",
+    "hash": "0x93f29d7bf96a7a3a1441c4fc74eb24e794aaafb8ac0246a6bf441c4b162b7c10",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,473,534.58158742",
+    "hash": "0x95dc4b3ed52f4b9673e33df4b6794b3e4fa8ae7b5a1a170fa135927a285fbb45",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,614.930641544803656806",
+    "hash": "0x5f4bb808c17037e1ff5a236e2a9a17f861c560adf046909ef143adace2576a42",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,239.87944618",
+    "hash": "0xcd3d9a1aeda7a64dfbe7e0ead3a5209dbc8317483918887d81935172c8405828",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,959.182663332412741532",
+    "hash": "0x11444ceebd3cb2421d2c3793e8c32befe84941588704a5c654d2159979dcaf35",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,270.665572215196343194",
+    "hash": "0x6e36f8707f061f64000b341b23cffe5a1e929ffe95acea553d8716c6b6b46c72",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
