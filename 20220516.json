@@ -616,5 +616,29 @@
     "value": "14,274,130.29625469",
     "hash": "0xf090161f7a89c5e27ce83ac889beb59b9f789fc148cda9ae2b9284e8c535e9db",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,014,949.51310868",
+    "hash": "0xde0463fb6566a4d936df60beb03a7be83ded616428949eb8bcfd7de6852fe3c6",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,469.880412793226777746",
+    "hash": "0x39775a38e024636b79c78d012f107c153d7cc11fabd93ade3cf3519db1d79047",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,834.518648586773222254",
+    "hash": "0xf41ee767fcb512d7e6655a1ec053b44678737b042c60d158452998fc90b35001",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,801",
+    "hash": "0xae27a463a6d3f514355dce9675f2a83ac2adf23c1b3004cc623f4afb0b8ff137",
+    "token": "Function X (FX)"
   }
 ]
