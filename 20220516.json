@@ -1042,5 +1042,29 @@
     "value": "85,657.365493191471521944",
     "hash": "0xa8d2429de7ae82a4b1dc1b4878c9c9330979c23ab97880b06245607ca09b0c45",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "508,437.3470039620354359",
+    "hash": "0x2a6cf9acb3e057455dabd3f1e7914c33c1293a55cc17d860816d4074d52cd038",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,801.494915465908417813",
+    "hash": "0x8ac3f4410b792b93dac6ef5f39967d49e8989877d2ce584f1f3f52f4893913a1",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "296,429.2363493",
+    "hash": "0xd401f4e6789b6918ca4749645f86263c8612fc5c3792d199a00d8239737d442b",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,341.283664420231866578",
+    "hash": "0xbb011c825f29baaca0ff816f32d1314874b4adbd260493ad2d25846fb2bb7ec5",
+    "token": "NuCypher (NU)"
   }
 ]
