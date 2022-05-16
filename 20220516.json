@@ -562,5 +562,17 @@
     "value": "100,031",
     "hash": "0x217d06b4316fa4a6dd3ace41c8e354598f5e0307eefa505fd26ea0f42ce6ec7a",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,215.901282527036168439",
+    "hash": "0xf191ff84117c004c0d2b31015de4668383bf0a391aa4c9a45ca6ba2334ab1cc4",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,672.311717472963831561",
+    "hash": "0x63b8f545089b11af0e51945d7ddb5c4ccdf4706facab3dde0e36c16407ed3371",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
