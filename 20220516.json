@@ -1150,5 +1150,23 @@
     "value": "449,907.99997966",
     "hash": "0xf91a9e21cb489bcad367628d8c82c9dba39474036ef6bfa06b6762558c92dffb",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "629,674.54742555",
+    "hash": "0x07414fe82d7af805af3edaa7d26f47df1cfcc6cef8aacfa00ceaa08f6a5338cf",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,216.652234506799198348",
+    "hash": "0x9f7c873c2840190b861b12016af42b9dd1b0a0bb541f8977043a2fa413d55cf0",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,236.695914593200801652",
+    "hash": "0x484a094f204390964d1cd69a3b2acdeda045f95e285006391fe9e1d90ee62326",
+    "token": "Gitcoin (GTC)"
   }
 ]
