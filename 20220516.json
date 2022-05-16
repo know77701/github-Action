@@ -328,5 +328,17 @@
     "value": "12,728.059715593526622002",
     "hash": "0x617f40f26fb6cd08d1618300db7cc7fa9333d8c93ff6f4028f99aebe9b034b53",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,212.18154463",
+    "hash": "0x4d8dab17550333a98e4b01c31b5e76f134d8daf7fe0240c7b1764867ec3ff819",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,213,579.63568118",
+    "hash": "0x1f7547539c30d776ca1cc7edf0408ff79578cf024338e2b6b859c468f5915082",
+    "token": "Threshold Ne... (T)"
   }
 ]
