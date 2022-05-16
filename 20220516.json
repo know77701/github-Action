@@ -1072,5 +1072,17 @@
     "value": "328,726.0742333979645641",
     "hash": "0x672d80d77f819aee8ea2caa2303004b0d5682406e3a723e14eb87de2c5dbc38c",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599,653",
+    "hash": "0x9d2601dbe1bf9b2238811c4d34d3a0860edd7cc88f64032b74fa7bdb85564f58",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,419",
+    "hash": "0x5ea38b25fda84b96c9a5b5ae6b86d8da725a4a14532e85ef417ed9042a596bd9",
+    "token": "Decentraland (MANA)"
   }
 ]
