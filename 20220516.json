@@ -232,5 +232,47 @@
     "value": "7,878.10796",
     "hash": "0x0d7389b56101439ec3678d14de90c71c774cecbe6752a9bf187528ded66fd3c1",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,571.456068404317509719",
+    "hash": "0x31f355efb23614e22f325805a4e7e4fadb3b92a3e34a4665befab9f8ccb8e970",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,033,820.69",
+    "hash": "0xa929f40e7bba77117e6f49718b8748f153d1d04493efd57dfc0e08d8433a0934",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,320.158822803270959901",
+    "hash": "0xf9fb01e181c3a327101d1d15fe6bfbdd853d6a728618eaa66cf3052458f23780",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,984.22716662795332267",
+    "hash": "0x2be4da00f90c1399ec71ec3a0ff9339bb7b427edb5f3ef34d9e17a2abda805c9",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "522,713.052778076952877971",
+    "hash": "0x2da99a330e781494a2782290ce5cc9c60201435eebfe2f8054d5cc511fd380a5",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,900.584453538279160287",
+    "hash": "0x99e1360776b940a12816500196b0eadadb31395f43f027ba156994367e0e1c0e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "509,653",
+    "hash": "0xa5a5285a78b7ac8194058eb1fc566b0de4785a3ba797f3c3a6504515ce37aa84",
+    "token": "Threshold Ne... (T)"
   }
 ]
