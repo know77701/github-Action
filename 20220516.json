@@ -472,5 +472,17 @@
     "value": "5,997.57413557",
     "hash": "0xd4988370c95655a314d0edd829e239c59ccde3a4091de9742705209e55293669",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0x9a11067e523e24c21cb5d4061f29c827f71770b8216bedaaf2667d20cd39328a",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,777.695134877809471742",
+    "hash": "0xfcb64410354ddb6e6931d95b8029ecb216f88880bbb81bc38a93c3d6fe2aa1f8",
+    "token": "NuCypher (NU)"
   }
 ]
