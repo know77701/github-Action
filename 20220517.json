@@ -940,5 +940,53 @@
     "value": "10,488.819367737930979928",
     "hash": "0xda4b80a0f3b18efe0f0cd25393a15c7174f17a814bb0dc9e9ba3d5cb8146b6f7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,988.9999468",
+    "hash": "0x81cdfcb537982c60b3ad5e3b3d422aa1edf1e869bbe7a35d1c4d8578588f7e97",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,217.108925011366068703",
+    "hash": "0x00b3c68170129d81f560243e89b5077c54d05467dee0c901b7b1f67ccc41a94e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "553,666.449338175436470864",
+    "hash": "0xb7de0e42b431599812680bcf1b0bd1867bd129718d6fcd4a8b948b5138523e78",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,772.8041207663376434",
+    "hash": "0xf2eb30907cbdaec26a6b4ab5e0b2b4053751ba415d2812cade2972bb01ad65ec",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,438.99987254",
+    "hash": "0x35d936455376978de0062452477e04b79dc260f8f8da484236a913aab53770b7",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,139.301669",
+    "hash": "0xe5d2324c05f231f38d966c2348a048486b0fe37e91147c828a9e400f1b0c8698",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67.91372807",
+    "hash": "0x7d4355e70b5a399f3d0760d0f108486519c67fed88753e6ea0266d103c0778f2",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "452,862.95126559",
+    "hash": "0x5cc6bfcfd796fbae542234cea03cf9c4c31400db28053d14b5c6cf4ff256baa7",
+    "token": "Storj (STORJ)"
   }
 ]
