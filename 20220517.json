@@ -508,5 +508,35 @@
     "value": "132,050.38448457",
     "hash": "0x4dff7d23e2b933b4c659f5a7e8d96f4a4c6a7e6d8ff9344ef426913112ffc02c",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,746,849.42655343",
+    "hash": "0xfd09e2e2a30b6c7ea4e31759e63fff6444fae3c21a25a936d081562e297a6e94",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,048.03698649",
+    "hash": "0x9386d34a19364ee129491f783384b488a03b4c75369eeeeeb94c6aff27091105",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "623.43588225",
+    "hash": "0x672f0dcf8d1b47d147061ec3c93dcf38745fa898b4a7d8a7745c7d20cdd15b48",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,440.58641488",
+    "hash": "0x2c906ea618e6410f139f44f83e1602558bf1affd3229420c818270fe21b8b29b",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,972.02192728",
+    "hash": "0xcb7300aba819900f5f1b3d94ee55230b1d283a92ad162aa2191ff260eed90517",
+    "token": "1INCH Token (1INCH)"
   }
 ]
