@@ -988,5 +988,23 @@
     "value": "452,862.95126559",
     "hash": "0x5cc6bfcfd796fbae542234cea03cf9c4c31400db28053d14b5c6cf4ff256baa7",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,742.10384106",
+    "hash": "0x214f9024d44263be21fedeed34d8fb731ceedbbf73c327e4ae66170d7a0e24d8",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,891.94990744",
+    "hash": "0x88a6b7104fa1665295ac42c9345ec8ead906224c92212cbcc39a19a5974f0b71",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "366,927.50679251",
+    "hash": "0x99ef05b75e7bdc195d7d72f600268a356f4ea1a20147c31cff347fd968488f26",
+    "token": "Orchid (OXT)"
   }
 ]
