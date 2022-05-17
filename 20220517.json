@@ -1,0 +1,68 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "102,075.650179934535602568",
+    "hash": "0x05b8d0e1491c28806726d8e0de37017af902890defb8c46652ae21f0e704ccbb",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,529.4268",
+    "hash": "0x2cae041237d17606fb3f94346f6d69fa3cb8b47b45f91e77374073775389275c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "419,797.313",
+    "hash": "0xe864387955d4d85f2789d0515958459dd4986945f6307a0a91fc6578bccb40b7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,301.182",
+    "hash": "0xc4140f45b39b9c570fd413dea98ec8126ed665a33df239ef310b0275653bdf58",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,946,986.349746415464397432",
+    "hash": "0xdbe6194d6bc499c8d237cf22948305de7b21f82eeebf169f9267b38980cbc651",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "966.424814542813063222",
+    "hash": "0x0960baa5956139d2b385e59f1f5a27fe23657c70c216908dfdb002865fd74570",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,558,025.116990886407187534",
+    "hash": "0x72c87494a0a0479674045161b705c4d9a4d2b44869bd1bc8ea760c38968165c7",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,299.045947387245766656",
+    "hash": "0x02bd4d1fc70b2417944a8833f4cfb18b3a18f3d27edef9b741288e702915a756",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,263.568625137186936778",
+    "hash": "0x0f9f8590a299606ebaec99fffb137bbdcad9c51814de4aa6dbde51aac67ffab0",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,204,793.722316553592812466",
+    "hash": "0xfb41a6b3474925202aa358da96c8fa738594dd5dac7a76f73a749dde4cfe5324",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98.5",
+    "hash": "0x731901d33118857cd9c623d53a4cbeaa702ea3665f3b6215b2ac65689ab05ebf",
+    "token": "Axie Infinit... (AXS)"
+  }
+]
