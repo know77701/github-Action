@@ -706,5 +706,41 @@
     "value": "19,519.01573626",
     "hash": "0x66c9199cd985852891b651cf892df7814df25c803d380ca60461782b783dc579",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "285,149.15150243",
+    "hash": "0x31b651db0537c1b635b618af000abf14fcd728b29611cc380d9ae336b76d4cd7",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,881.485",
+    "hash": "0x505f69359b22d7ee02faee815f455d97897cd1c44dc4bd26dd5a14be0d001a11",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,285",
+    "hash": "0xcd4c54f0d89d774b628bc8dffff48efa169a70afcf73f6db9812d3005c6fc5c8",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,987",
+    "hash": "0xb85379f9597a47a87e80632b43222ea9673a1fc31f755ccedf0b371641c32bf0",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,739.6000372",
+    "hash": "0x004e48c8bb63d67f75fe9f70ccd0082e83b5725472b02f441198c95d253df1e6",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "471,728.54799125",
+    "hash": "0x384c30d49feb59ffa2ccb4acd38c866f1306e4afde49cfefc0dfbe79d68f6291",
+    "token": "Orchid (OXT)"
   }
 ]
