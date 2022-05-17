@@ -754,5 +754,35 @@
     "value": "6,996",
     "hash": "0x67166180ef56050c9dc9d5b0958af47d7526bba45d7a76b236fc578e11523da9",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "826,222.353484309041516506",
+    "hash": "0x09ed59ef23e112e5adfb6c0c8a2c3dbef6297b820a1c7143b16fed798877b92d",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,785,146.159653770958483494",
+    "hash": "0x9a3d83a728bb624a496bd1309254ef6d8fa5efb0fb2d949f0f0a5f07ef3c393b",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "512.79",
+    "hash": "0x5e73d010021ea759d499c4c757a4a19ac05f084f57e2b0c6a95dd271ff195f77",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "707,127.649386",
+    "hash": "0xa4e34740b88c9722c9e62eabb9ae2830dcc1852ea6bf0a509e1921b8175c3491",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,042",
+    "hash": "0x68ebe8cb2e2944b24b80654a35d1bf6467b427483177fc7a0cfe8ff794e60452",
+    "token": "Decentraland (MANA)"
   }
 ]
