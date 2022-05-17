@@ -616,5 +616,17 @@
     "value": "11,061.28786900244464507",
     "hash": "0x95cb7e2a670f3e06e7d8eb9b21297e798e01496b9590586790d2eb7394314522",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,988.1646",
+    "hash": "0x5ba41ff00d91994f6ab8ee29e1fb72f6fc6df6ee07450861c7a34f07ff36a55c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,172.373912849487985019",
+    "hash": "0x01ba20b0f6808bcb73298f8832c509ff7be6a8057cf9a12fec6700516e979317",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
