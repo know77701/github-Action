@@ -916,5 +916,29 @@
     "value": "162,537.99997502",
     "hash": "0x973012dd2345f4cf5db3ae05f1fb386fe85f7dfef1227038561bfc3b134fc7a5",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,202.86507639",
+    "hash": "0x976d3d39f0060ecb97fab6311fabeaff1c75802be6629b202cb02fe23470c46c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "977.330735219241343359",
+    "hash": "0x9200a26718a01a28f89fbb206e51e985f6edd955bf9972729f6a64edfd052862",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,277.319063142069020072",
+    "hash": "0xfb8e92e933d2c6ca8e3fc7f9d8120af1c338edf852a741342a1383cde3f1f69b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,488.819367737930979928",
+    "hash": "0xda4b80a0f3b18efe0f0cd25393a15c7174f17a814bb0dc9e9ba3d5cb8146b6f7",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
