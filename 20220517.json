@@ -646,5 +646,29 @@
     "value": "21,453.3347",
     "hash": "0x327427dd5a26cbe8a0fe6510e4ca6a67fea390b0a31548def8208db2edefede8",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,247.19984061",
+    "hash": "0x05ed6010015a9dfc8695aa12179bb6d77c0cd12ea17e617b232d445628e7b36c",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "432,297.40120274",
+    "hash": "0x5f7680f16db3637de5e1c16ca4b88027ca7f7993ab741ea12bac5614ae6200aa",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,010.2077",
+    "hash": "0xaf7b4ab00137a8809d2b7f667a9e8425787aa4c738024e76ab82c5833591351d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38.35260693",
+    "hash": "0x0db051b8ab42b7cd3ee7b3414302ab12f7e66c8e9118214e1bf83ac5b7a5c080",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
