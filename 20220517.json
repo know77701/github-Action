@@ -322,5 +322,11 @@
     "value": "146,870",
     "hash": "0xb096a33b3ea1b4ec3fdc33eadb75b92595d1ee3a341c6224eff666b54a4b8cec",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,458.290766086948784552",
+    "hash": "0x91ac2b10af9034a34aa968c0eafbcb2a5dd2ee2b832fa38e50ecc068330c6d6c",
+    "token": "ApeCoin (APE)"
   }
 ]
