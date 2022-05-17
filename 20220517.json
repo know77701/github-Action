@@ -388,5 +388,41 @@
     "value": "120,589.195717977591022491",
     "hash": "0xf54f35b3cf374a7958c8ef364b7541702139968d11f3351bf344fe43d588321f",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,686.77851",
+    "hash": "0x4020e9e064d96a439db35a6c7c520eadfd7a4062e64f64b1a43b85b11eb7554d",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,011.67",
+    "hash": "0x8fc8b0a42567ab0ae0a1c48fe8c552e162853f44cc4d300f035ac1edad60fa91",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242.801340721227503353",
+    "hash": "0xa799e6c158f45028c2fa63399f0dbae9d6c85de1091d90b2a4c114563507a688",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "455,912.89675226613162473",
+    "hash": "0x51d92c72344626aa1038627cd3c5418bdafa3778395304af4e092bc27a1aa4d2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57.95",
+    "hash": "0x15c182251a9d5db75a786e20004008ef47ea898cf3e14f73ea5a037adf920952",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,700.73764866",
+    "hash": "0xfceb213f32638b145bef006fabcacc1ba42b86ab6b09c24a32152114ed46bea4",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
