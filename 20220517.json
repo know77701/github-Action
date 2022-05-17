@@ -472,5 +472,41 @@
     "value": "373,375.99992139",
     "hash": "0x44027eb19e3ab17af6b2e6ade4ef0e2683d3795efd42c83068e42b3985964507",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,843.967212042986028863",
+    "hash": "0x77d54ac023b33afabe7324b9ed5943b7d82ba7c5f5bbc2a1d43357443d5b2394",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "192,243.478742",
+    "hash": "0x75f973436dbbd300bbb61cd83c2a3438400ffeeaaa6a915746f62948bed23791",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45.3",
+    "hash": "0xbf02b31f8d5da25e355fa16e7dd54fc3cf596900ac8e6ddccac51a83a26c3bd8",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489,563.068681710275345905",
+    "hash": "0xc5a47f3424dea8d36ab160d612aafe1bdd19aa8a5c03d4ae0a9bf7657a27d8b3",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,713.831318289724654095",
+    "hash": "0x0ebcd881475eab9d9a1447eec3655162a7b06dff28d968a038ea10a4343d1053",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132,050.38448457",
+    "hash": "0x4dff7d23e2b933b4c659f5a7e8d96f4a4c6a7e6d8ff9344ef426913112ffc02c",
+    "token": "Metal (MTL)"
   }
 ]
