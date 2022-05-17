@@ -580,5 +580,41 @@
     "value": "1,296.47346077",
     "hash": "0xc02fbc312ebc18f74f94fd2b5d80bc94d817302ac6b358145ab390defb01735e",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,804.968563165731140638",
+    "hash": "0x8a106127fe16e9f5a96f2c265c1127f573f0629dd06118a03244fadf626717b8",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "457,502.533479705433516864",
+    "hash": "0x7648c397aa13386c5f744c5c2b07bafda2c5409988d2adbe697d8c9cbefafd54",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374,717.275244094268824366",
+    "hash": "0x3a5a11118794cde620034afa42d6f098eaf30fed78a7b398a0f52fa0fac49e4b",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,978,354",
+    "hash": "0x8548ddb5308a89ca7428062a4eba37c5ce000cd0938bff67926c7afc354a99c2",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "408,991.118497924566483136",
+    "hash": "0x7ee1dfce531760fc5756fa6314a6affb9ab4a48e6a804a1097c880fa30c8c429",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,061.28786900244464507",
+    "hash": "0x95cb7e2a670f3e06e7d8eb9b21297e798e01496b9590586790d2eb7394314522",
+    "token": "Reputation (REPv2)"
   }
 ]
