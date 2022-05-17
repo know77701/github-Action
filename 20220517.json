@@ -1048,5 +1048,23 @@
     "value": "1,999.59996882",
     "hash": "0x913e798491ab8a246d5277e0213192168a2067704511d9afd8d84c09350c882f",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,241.184568664517501101",
+    "hash": "0xc0ff00e2a8a626fd79a2e32f4f5481193e02953b4e82f964ac60e3f6e012650f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,275.502349445482498899",
+    "hash": "0xac5a50ac282a518c14ed1cbc516879eb51e1f7c841884036c20bd15f550fce33",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,545.31675177",
+    "hash": "0xc01434d4c65625c9f6ffc5fde6e3861c263be496ed5cb2af3c0359b9cc532aa6",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
