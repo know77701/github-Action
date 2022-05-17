@@ -670,5 +670,23 @@
     "value": "38.35260693",
     "hash": "0x0db051b8ab42b7cd3ee7b3414302ab12f7e66c8e9118214e1bf83ac5b7a5c080",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30",
+    "hash": "0x5ece3cec00f8ef4b1ed3dac7f231854597629d882654aacd009c39ed7e18886d",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,596.99976874",
+    "hash": "0xa8282476afec798d3ee921e3ccaa6eb1f9b555763c06429a489834d2eaeda2f8",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "345.06450585",
+    "hash": "0x3c391db05ed253a22205ddd2ad59ceeb753bc50bd0d1fa79cc2bc98e76c2a0da",
+    "token": "ApeCoin (APE)"
   }
 ]
