@@ -424,5 +424,29 @@
     "value": "7,700.73764866",
     "hash": "0xfceb213f32638b145bef006fabcacc1ba42b86ab6b09c24a32152114ed46bea4",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,000",
+    "hash": "0xf7e2795ef70559cade03b3b721d0afc205c827b5467cb3dad94cb45fa660c425",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,130.95",
+    "hash": "0xc25e6816c37f1a2b1ec1a9579f5e394dac3a01f390024230b638646cd3708d24",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,666.029064789384442043",
+    "hash": "0x6e618d4bfc3f7aee0defbd5194590e3ccea6faf52e73a6c2d5c5e076d77b02ad",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "179.6",
+    "hash": "0x92d89b7957133776a33b9d9b2c5ff91e929e9bcc38aede619aa842be54d17ddb",
+    "token": "ApeCoin (APE)"
   }
 ]
