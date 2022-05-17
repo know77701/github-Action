@@ -628,5 +628,11 @@
     "value": "72,172.373912849487985019",
     "hash": "0x01ba20b0f6808bcb73298f8832c509ff7be6a8057cf9a12fec6700516e979317",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,812.626027450512014981",
+    "hash": "0x316bcdba9ab447c832dfc985a26f6f51886dfc8ea31bb6d314de983938e4c6e0",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
