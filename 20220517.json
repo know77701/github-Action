@@ -898,5 +898,23 @@
     "value": "401,439.57494123",
     "hash": "0xb26ddf2793637f4aeea0cc2ebfa445488da88d6ef62e5a54c74da6d470151d47",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,482.5",
+    "hash": "0xf067e956f60cd6a7ce9d46d5ec7f69c50c8948e818baaa72b57140ef3562bbc2",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "256,182.60188054",
+    "hash": "0x7ba7b5623d0a1667f3f44009630f95de8726166b8f269c4475bc0f47d9a84b07",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,537.99997502",
+    "hash": "0x973012dd2345f4cf5db3ae05f1fb386fe85f7dfef1227038561bfc3b134fc7a5",
+    "token": "Decentraland (MANA)"
   }
 ]
