@@ -370,5 +370,23 @@
     "value": "1,591,042.57715698",
     "hash": "0x622d21a441c76ae4b12667eac5d42046ea53a106a7efd84299c8b5ee7a590202",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,156.89582481386837527",
+    "hash": "0x18021de6b27a73ef349668734fea88f8ef697ae41dae9e1d830a1790b78a08c6",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128.01",
+    "hash": "0x1cc40f66b7cba0369fd4d6f067fda5348891335c2b4e536e3e8ecd24123bc91c",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,589.195717977591022491",
+    "hash": "0xf54f35b3cf374a7958c8ef364b7541702139968d11f3351bf344fe43d588321f",
+    "token": "NuCypher (NU)"
   }
 ]
