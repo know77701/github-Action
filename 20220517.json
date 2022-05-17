@@ -226,5 +226,35 @@
     "value": "9,988.62445067",
     "hash": "0x7c43b2dfda48fe419974578ff2156f7fd55fa776b21f5b0bea6e2e6dfbafaab5",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,056.379588483598449529",
+    "hash": "0x4e451bfc492a832b968917c75549399c436f370c5cde98d68003eb48374ad4ee",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "913.907399111879294198",
+    "hash": "0xe4e6fc679a0736d312e31bb8ba3b51902c6d1a340f3ac22bd00332397ddc02a4",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "704.437006914520923566",
+    "hash": "0x8e5b547452a520c9142f9a621dc3a089403a8a0b5c08b92b14790e29140483d1",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,312.766654518120705802",
+    "hash": "0x802c5630eadfde8e3fb53667d52d72c4927c974d35a3aaad3fa489bf8066f357",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,161.145860234882854658",
+    "hash": "0x447f446186180e1bb07843e8c07b8d7314748ffe5b2421269cc06da2b066b679",
+    "token": "ApeCoin (APE)"
   }
 ]
