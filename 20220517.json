@@ -1030,5 +1030,23 @@
     "value": "44,464.240977080681352667",
     "hash": "0x7189c1386fcb7125fbaf42115c428d6a6dff056f480bf3ee7e70b9d5ebf8f5c1",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174.21481767",
+    "hash": "0xbade91f797c8ba4b4266086b7abacb8efaecdec769df43c0bc49d5ff39fec4d2",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,117.0429",
+    "hash": "0x4c6ad5812069c1695c6824d6989ab2fa9566633dcff52c8179d70d3445d374f6",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59996882",
+    "hash": "0x913e798491ab8a246d5277e0213192168a2067704511d9afd8d84c09350c882f",
+    "token": "Uniswap (UNI)"
   }
 ]
