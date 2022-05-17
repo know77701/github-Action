@@ -304,5 +304,23 @@
     "value": "7,968.434120363648815856",
     "hash": "0xf3e964b6ec2da9a3060a11cee95e6cba49cc37d7d92ecf2ff6a0c9dbd15704d9",
     "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,810.56",
+    "hash": "0xb5c22e69d7d3514ed49889e703b90b4eb621ce1264e9445f55456bc2d8a1a0d2",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,835.074138707165963539",
+    "hash": "0x651c1ae02ea94032e05d5bb482ef491d7d3e7522ff007309ebdfa3ffbf1e306c",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,870",
+    "hash": "0xb096a33b3ea1b4ec3fdc33eadb75b92595d1ee3a341c6224eff666b54a4b8cec",
+    "token": "PowerLedger (POWR)"
   }
 ]
