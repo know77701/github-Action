@@ -160,5 +160,71 @@
     "value": "2,991.937157656133297847",
     "hash": "0x261e8cb70eb4332eb8dfbff9ae1f312ed01a9c6c9ffd1b128350749a49b40fdb",
     "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,219.19973472",
+    "hash": "0xbd3f3b7781bfc5f911c3fc9515b4b92fe5dccb802372c9d587d72b259053656c",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,311.19257772",
+    "hash": "0x4d0ef542dad811d7601fb9f97bafc113908a19d0264751dd723d429471db02d5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,964.067150239192095056",
+    "hash": "0xa108bb0fcdd8d9bf0c8e29304090b7b658ab1e451160745a452cecc54d45d8ec",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "235,860.4110497133942492",
+    "hash": "0x65cd78f18ee56e8e384fb3c482ace7ab860e457b2a25db74fc7743a91a1ae851",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,256.678733101566692375",
+    "hash": "0x6eeeee1c3b50572a26924598944ff200bb7402f391ef21b11458a9e904f38d06",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "421.65",
+    "hash": "0xf42a94bda9c537c7e3aa735045f9713f0e06e1348b3534666dcbcbecf48a8791",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,334.576340554242511861",
+    "hash": "0xd6609f1e5cd9551290dea259004f01aca899b3c34bf9d246709d0839cc6295f1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,168,471.47704067",
+    "hash": "0x7d1d740056cf615ca0410aa0902d35a4aa21c5e436f3b5af5c846621786ce2c4",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "533,685.1829664166057508",
+    "hash": "0x0a3a56cec3f7b2a611d9e22dbf5f8f931491fcdae309ddb4a3e0a2c38d0b9a64",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,591.66912003389345679",
+    "hash": "0xc4fbe464ea775970d73be7826e8d918fbcc6238c0392d202b56a288f2435728f",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,988.62445067",
+    "hash": "0x7c43b2dfda48fe419974578ff2156f7fd55fa776b21f5b0bea6e2e6dfbafaab5",
+    "token": "Injective To... (INJ)"
   }
 ]
