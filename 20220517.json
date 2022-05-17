@@ -742,5 +742,17 @@
     "value": "471,728.54799125",
     "hash": "0x384c30d49feb59ffa2ccb4acd38c866f1306e4afde49cfefc0dfbe79d68f6291",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "139.1727",
+    "hash": "0xb2e6c3c6fa3442194799715c72727a25050ebba4eb630673766c733061aa05df",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,996",
+    "hash": "0x67166180ef56050c9dc9d5b0958af47d7526bba45d7a76b236fc578e11523da9",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
