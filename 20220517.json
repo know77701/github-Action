@@ -538,5 +538,41 @@
     "value": "69,972.02192728",
     "hash": "0xcb7300aba819900f5f1b3d94ee55230b1d283a92ad162aa2191ff260eed90517",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250",
+    "hash": "0xc529481f52a95786c989c90ade85fd05ab016477278b860d615e037ee073ceb7",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,959.99997502",
+    "hash": "0xfd24260f0702231f1870f27e4dc85f82fb1c74c8a2b594d7895e00d178944ead",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,194.50692852",
+    "hash": "0x531d720bd6a92990e106642671a18dcb1778399cade974b796ea0cae52c70b6a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "473,318.274223836072788254",
+    "hash": "0xa68014072b10e19e284e7b78fd1b7781bbb3cd402eecac4e64d81bd380967184",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,877.384588653927211746",
+    "hash": "0x9d3aae6aa7cf89bbb18d875b8a0b0e1d42bbf72fd6ff5010a67dd8415bfe9881",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310.85",
+    "hash": "0x1c1ef875fc206ddddc7478ad7809257ecf085041b2e578651da8e6c0aafe3ec0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
