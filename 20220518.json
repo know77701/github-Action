@@ -1120,5 +1120,17 @@
     "value": "11,833",
     "hash": "0xb0a738cc41766f05cb061650402480f94405d631def5ec1df8a747db7604ae0c",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,963,454.428158521872787518",
+    "hash": "0xc4ec02765c1ccb93eba4af231de16f47ed1bf9d02834be22c815e64a703d4826",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,696.97020125",
+    "hash": "0xdc41b14a3ccc4e989c023c96d0f69efa0f703f243e3aeb9dc122af58356bc123",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
