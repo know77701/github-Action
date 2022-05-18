@@ -580,5 +580,59 @@
     "value": "495.73845168",
     "hash": "0x22dc298858c4bc558f8c352db89d2e53c4ae5c206291dc1f4f0f16d545e6c7be",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,698.01660489948031193",
+    "hash": "0x2a6dada706f8399bc2e4866284f140603f73b32106202e0421eb8bc67aa7de0c",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,234",
+    "hash": "0xa10b6effa8e369d1605cf48333b583ee82a285c84ab68b354d9b41874abcfc18",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,880.886060786737452065",
+    "hash": "0xb007fa184eb27189c4ad1498485ba2a31fc77eeabfccc8dda6abf9321c282c40",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "111,137.020927426226930146",
+    "hash": "0xa406960fe5441788b985910951b9cac857ab7c0d3d3ea7a13be051c4bc74c2e1",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,243.8911209",
+    "hash": "0xaf8622448ef38278def4437c63b05d025f0e569934259f23ad1db2f9e1ca73a7",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100.4891",
+    "hash": "0x2fa7055b4765835b1c1bc6ed9522b996b40eb3da57d803de03502e68bc718a36",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,206.39843441",
+    "hash": "0xed23a205ef7ce4d60ae9ec8626eab7798a5d9406f365bbaa2541a86e86f34b71",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0xc7e77d50d033e0e4241133d7bc371ec50eaab1cb85fd240ddb920a17d4e736f1",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,707.765016711257018857",
+    "hash": "0xd56cb2f8716d171c2b6df779e91509c4d13b81d9b743208d01b780f6b6b8672f",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
