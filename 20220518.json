@@ -850,5 +850,83 @@
     "value": "486,862",
     "hash": "0x0c99dbc198e7ca80540b883ec03b7593bba8eea44f7fdc8844e1841ba7f17889",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "598.6996",
+    "hash": "0x5e62ec0adc037f57c470202e80df916e7e32cd16d70fa78c449d2f7cb195369f",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "710,186.49459919",
+    "hash": "0x0ce18415e2df18597fc73404f560fc536e44fe893cd5da8f499e1c2741f29d7d",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "427.58960974",
+    "hash": "0x039decf5ea3845ca93cd1e3c1071a431649d50f315b394abe6739a70ee3ee708",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,065,352.74187749",
+    "hash": "0x3d54c35441b30228bdc5694f803639ae7143774c64c6f7df898fe39837659e8b",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11.081279020465212225",
+    "hash": "0x176c3f54b84f1f014aaa5e3ec3501c3ec70ca18db43b4b27d9ec75b9d20c2112",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,521.5006",
+    "hash": "0x836cb6587e0e120beedda717fa72c3ccb0854cf7d777b573588d530b48affc4a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,415.96137781",
+    "hash": "0x66631a007aa6b26891c239f602e2efad4f9893ef38ddbf1d022713e02fe63555",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,198.893911927484331174",
+    "hash": "0x61da538630a03a4bb861d686459dd8f150aa278421d4196eea2d9e057a0fc37f",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,793.98438537736074956",
+    "hash": "0xdbd945894fa0bce1f4ecf66d2f291dd0899c23ed437294951dbfb8f6d503e52d",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,189.259720979534787775",
+    "hash": "0x38420eb2338d6cea969a3fb5d3e223d9798d8da10346f6fc5188c2f6182822b2",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,800.99752",
+    "hash": "0x2a1da3927ce264b62c81adcae4987671f540791dd8b8889663371867cee5678e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,596,308.731895742515668826",
+    "hash": "0x481006a4ec0cf18e9dae3c591114d79a5c2139de59865fc6b40fd50ebb84025e",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215,987.65443163",
+    "hash": "0x44171d698cbb377c0d443d119a2757dc971d08932dd1092f92c64f54f116c3df",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
