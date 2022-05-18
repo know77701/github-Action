@@ -136,5 +136,23 @@
     "value": "652,435.537839213667629296",
     "hash": "0xd5d575eeb1af20443774579f00245125d98776bdf46965515a5d383bad2584f5",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "434,737.911627164475067079",
+    "hash": "0x1bc6b40bfbb17b4e13a334f63c63da96a431f81153baa1c8e3759ba1837deb16",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,920.440368615524932921",
+    "hash": "0x587f0dadb49318c442defcb17bf596b0d6dd0947d693bb0ccbdd1876188be97f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,671.288",
+    "hash": "0x1de17c55c079ebd311744c219ee27a88849708d7d6f4f4eab189d6cb7985ed35",
+    "token": "Storj (STORJ)"
   }
 ]
