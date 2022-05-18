@@ -112,5 +112,29 @@
     "value": "101,932.740613211607174032",
     "hash": "0xda840cb56ec5ea36ef97c229ed045830868a49db651f8a1201d981691c2e2cc2",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,148.4",
+    "hash": "0x3e16b400b9daeb65ec1a9456112278eefe3e105b2890cb2dfa0fb01b8f60113d",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,414.8670803",
+    "hash": "0x9507c697576d29817a0e2ec872796cbad45e92ec28e0a9e6d9818c59020a960d",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0xfa50f647df30f5f8796203a09a72fa166577f73302c4542d48b4ddace4ee2866",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "652,435.537839213667629296",
+    "hash": "0xd5d575eeb1af20443774579f00245125d98776bdf46965515a5d383bad2584f5",
+    "token": "BAT (BAT)"
   }
 ]
