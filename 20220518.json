@@ -634,5 +634,41 @@
     "value": "37,707.765016711257018857",
     "hash": "0xd56cb2f8716d171c2b6df779e91509c4d13b81d9b743208d01b780f6b6b8672f",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,768.150463265488364762",
+    "hash": "0x370c63982d4eef9fb582102bbda57bab928758cdd292234ea8082a1b4d1fa187",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,734.99994557",
+    "hash": "0xbeb0be657da918c5a4596465e4976c24431507fdaf180a92838b4ef0728ed413",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,503.281936734511635238",
+    "hash": "0xdd4aefe1f4ee08ba2a2693610b71cd23b6faa79b329e341d335423308a6ac111",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,393.158730070432730198",
+    "hash": "0x56d09308737959bed3a3004ea8ee897e5c372d1f2842f605fc47f9cefa814afd",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,190.12028663051968807",
+    "hash": "0x622b40d271964bbd89ccb72756a2f3feddd19d884c597a1d2802576efd09f392",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,565.692269929567269802",
+    "hash": "0x4e8e2368fe1caf3d6ad824b86516a857fc62b9b7139eeedbd6a033436f36bf83",
+    "token": "Bancor (BNT)"
   }
 ]
