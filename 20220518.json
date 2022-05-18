@@ -1060,5 +1060,11 @@
     "value": "167,299.475",
     "hash": "0x00d8f0fba30d76ac37168762c4f67973bae76c3b60c144245237f92f2e983e1a",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,912.65191208",
+    "hash": "0xadcc36834b60eefa851c46f82fe36a954ed5dc4949435f1aeec167126d204a79",
+    "token": "RLC (RLC)"
   }
 ]
