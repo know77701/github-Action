@@ -670,5 +670,41 @@
     "value": "10,565.692269929567269802",
     "hash": "0x4e8e2368fe1caf3d6ad824b86516a857fc62b9b7139eeedbd6a033436f36bf83",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27.84799292",
+    "hash": "0x7b089ae64178e8f0c9a931bb28a9ba2990a4432c8430907eb3780934570d3259",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,233,102.34964526",
+    "hash": "0xc07bb1704252742a96e4ff976be219f77afe31155bd3e49a4ca91052a31115e1",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,572,095.7",
+    "hash": "0x47fd27397a8672f9675489444fa292372f33a75fca9502beb09240ba38ed0d68",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,669.48987267",
+    "hash": "0xc45ae86309b768abcc397cf87d2371607b3aa34d2f9fe5379a61c658a06a9f6f",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "914,267.22145921",
+    "hash": "0xb766b1ae28e8eb0e6a0131a6fbc4205d24dbcc7936928735930d67c9e6c7e7e3",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,701,920.46667236",
+    "hash": "0x2ddaf971bff2eae53aadfd05768edeab51882b0120cd00dba4afcbd2346f8d62",
+    "token": "Ankr Network (ANKR)"
   }
 ]
