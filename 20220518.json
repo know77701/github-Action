@@ -436,5 +436,11 @@
     "value": "1,466,469.456444418020590639",
     "hash": "0x34d9cd5f341b671e68cab553e702b50afaeadf69778f5245336a1d3964b2f96a",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "998.91",
+    "hash": "0xa0bce38702b82775b61d7ffe6a908d0edbb34157cade299ad766f75f5e924a3c",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
