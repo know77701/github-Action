@@ -238,5 +238,17 @@
     "value": "81,842.198769125017962286",
     "hash": "0x98fb2243a203f1783f3353bf8a32f71758e3b6e07350eb1fe80460714d74d931",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "722",
+    "hash": "0x7556f0d9aa4c4e41ccdff24032bdd8e09bc2d2a52cfb4948efbb498ea8e63354",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,810.742907286765049643",
+    "hash": "0xba603c3f667aed9adb9f4ecb499f5a4fa7f6ad7d74e5ad42a49f6febec876ad2",
+    "token": "OriginToken (OGN)"
   }
 ]
