@@ -802,5 +802,53 @@
     "value": "100,037.91561054",
     "hash": "0x6e6438c1c066ffc450cfe33240310255d51342ec481c1e6dfbe75054f87b782e",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,265.78984493",
+    "hash": "0x8cb1aeb2e09b27a5d1b4f5281950a83b8251bdb4e3c25d8339c764e16a06a753",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259.22",
+    "hash": "0x2f477d0014d6f02b27f10868e9fa703fccd1fe660775bc0c173a93de68689cdc",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,375.98036259",
+    "hash": "0x0c80c5106997cd9410e462390ed22f5f764341fb96d612f9b5c3ecf7003f65ee",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,310.14351145",
+    "hash": "0x15aafa8c1c35b84722e7373b8001f871b201fbc9887ffd47cec2511bc1e64605",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,485.001758920260461206",
+    "hash": "0x96d036365d51fdfc8075b3d0eaa1a5af4ad3e9edd31d0fdffa51d774dea24256",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,074.473102599739538794",
+    "hash": "0xd937c3478e9e0cd960715b21a9a3e3a8bda5760a2fa37b77e5f81a62d5bbc12d",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,182.5044364",
+    "hash": "0x58719b5bf8b36fa12138e1f7642387bdf36e75387a894119349d04d8744e1fa1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "486,862",
+    "hash": "0x0c99dbc198e7ca80540b883ec03b7593bba8eea44f7fdc8844e1841ba7f17889",
+    "token": "chiliZ (CHZ)"
   }
 ]
