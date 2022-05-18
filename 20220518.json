@@ -976,5 +976,41 @@
     "value": "3,121",
     "hash": "0x2cd3ab53649bc05619c7734a6e49ca78c9ad0c5ed0c6c404ee4518dfb250a764",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,748.383781713674592367",
+    "hash": "0x8c9bdb824719eeb9b16c5c8c9dc3a9ab8ff875e37f7abe5e882ed98d052b953d",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "158,170.616040296325407633",
+    "hash": "0x26664ebf7fbebe6e277678e7c6e5eafc47a05b74ab4ed1900b565f8511ccaec4",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,054.1740824973900482",
+    "hash": "0x6f4e894936cb6688e0dddc03eb07648f9a989a882c55ab133eb5f3fa0fef0157",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,895.8164721",
+    "hash": "0xb2f24b87f89f6dfd1b02f1bb428c236fad6e51a959ee321a0e3d919d09ed016c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,628",
+    "hash": "0xabffc9c212cea7a2adf7c18ae57e089e1a775b42307e2bca43c074cd537508c2",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,291",
+    "hash": "0x3ce479d260eb26daef829cc2dd5d4d1d721b537540eee30b64c434f556a25a2b",
+    "token": "SAND (SAND)"
   }
 ]
