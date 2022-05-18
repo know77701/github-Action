@@ -526,5 +526,59 @@
     "value": "304,816.665057116478394533",
     "hash": "0x80139ec988fdd0e032a2cafb2589ec936f66500878a8e062e39648a4afb9d465",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,198.22194092",
+    "hash": "0x14f460d1e0eab306e1e4c88f033d1d22990d357ccae570519f733c2d1040b9a4",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,288.234983288742981143",
+    "hash": "0x8d832bd4d43fb3b2b21d62071afeade6781527457c3802164bde1ffe073143f4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,695.7586",
+    "hash": "0x1b5c934f8ae1dfdbe1c80032bb8ebba84c854ca0469b9d910cbff1c34dcaeea9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,697.07564",
+    "hash": "0x7d76a15f7478269b70dbbd49809afcec8f64f1f6c6bfc35453e01d4097f19028",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,729,437.59969052",
+    "hash": "0x846c38e025f777229360c8f16fce2004fde6ba52cfbf72846974a0c7ab9775bc",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.22",
+    "hash": "0x42a24cd62711a515e2c89c710386ae40862415a201c0c7f4cd0a00ee4a2689e6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,349.658422081698845456",
+    "hash": "0x087101eb2cff9e8955f6c18776c4b6e6e365443b2f4b51a5fc60c3e350a6780b",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,687.74",
+    "hash": "0xe7704909a3e14ae0b0bc3675c1bd3b8e8b68fb9bcfb693853478276fd4c3a33e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "495.73845168",
+    "hash": "0x22dc298858c4bc558f8c352db89d2e53c4ae5c206291dc1f4f0f16d545e6c7be",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
