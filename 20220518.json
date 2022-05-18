@@ -1228,5 +1228,17 @@
     "value": "73,715.402467799729431841",
     "hash": "0x4762af2a4fc94477bb2869088b1e8b612b225bc1298d63697c489edef9808670",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,789.96907657",
+    "hash": "0xc2cab0efc573c378bc4b76f399cb84a6eb5584757055a98048f93fda8ff07287",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "948.6403",
+    "hash": "0x9f0d78cf3d8c75ec4016641ecb59e3f293e27fa59597d6ef9208b9ac7e1cf905",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
