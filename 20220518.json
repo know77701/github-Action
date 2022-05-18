@@ -1132,5 +1132,23 @@
     "value": "85,696.97020125",
     "hash": "0xdc41b14a3ccc4e989c023c96d0f69efa0f703f243e3aeb9dc122af58356bc123",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x3bb51dba3668ae8865e3b8c0f61fa55b53546d5a2c46873ce679267d7bffc04d",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,996",
+    "hash": "0x48a6198b4e25b0ce125f3fa1b86b49b97c8e68a312928fcbfaa9a5c585967b01",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,874,862.575705958127212482",
+    "hash": "0x5ae11677cebc9c77df8b7a93567b49ca850bfed7b6e3b327aa9c7e221976c128",
+    "token": "chiliZ (CHZ)"
   }
 ]
