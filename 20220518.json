@@ -1012,5 +1012,17 @@
     "value": "6,291",
     "hash": "0x3ce479d260eb26daef829cc2dd5d4d1d721b537540eee30b64c434f556a25a2b",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,193.46572",
+    "hash": "0x5c9f06b150a50191aea8602fc1a76083cc9cd541cea2658366765e9844319d6c",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,652",
+    "hash": "0xd73539c48d20fee85fe112655025aff43a40399a72ab2c5e50caede6d6520676",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
