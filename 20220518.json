@@ -928,5 +928,47 @@
     "value": "215,987.65443163",
     "hash": "0x44171d698cbb377c0d443d119a2757dc971d08932dd1092f92c64f54f116c3df",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,384,081.53413193",
+    "hash": "0x59db905c9fad804a84d34eab88f15f59ae10aed73cbec9c1939c9006e87a566e",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,879,778.99992263",
+    "hash": "0x658fa0b20f54723653b48162cbcda222d161e6b6b26f3c4a9ba373e740a86f14",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,159.696",
+    "hash": "0xcfa8af39a8179a0e68f3c927128f6cecb90d257b8a85189f1c4790e774338882",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "369,935.99991922",
+    "hash": "0x89d849f0f206a802dd0e728606d63958939e63fd82fa497ca89ec603ffdf0d82",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,632.99986913",
+    "hash": "0xb3c2c96e045fc9054c3fadcdcf9e494b190de44981392ead00668926a38c408e",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,045.8814604",
+    "hash": "0x099f7e5c531d6a639aa068bd8ae38126a8fbbfbd87c12e595e744e9bab7f52d0",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "379,718.71524805",
+    "hash": "0x53064b9defbedbc0064e6d2bdb7321d0e611475138e5538fc73447f6f7d29215",
+    "token": "Matic Token (MATIC)"
   }
 ]
