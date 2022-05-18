@@ -388,5 +388,53 @@
     "value": "8,912,240.05418086",
     "hash": "0xeee36eb0d005fd707c58b5fccfc91deea190a67dd3e927f1ded522e58f7c80f7",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,858.91896107",
+    "hash": "0xe4a812cbd79889e752a9e2a00475db2e55ad89ca0bb7e9a4386a0b50ff5500bd",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,800.306929992564501101",
+    "hash": "0x171fcf6d61cb8cc21d25e538e380cb50bb3ed71b05958424a91da674d0f24c7e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,835.064811509805644518",
+    "hash": "0x7af2bc73c67c22eb514072dfa8545a79ac796df4d161a7f36f4f893cb435efa9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "186,919.623101",
+    "hash": "0x8fdb4eccd34941572417b1c55e60d73182164a76d587ba0cc1838451485419f3",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,351.859842547435498899",
+    "hash": "0xc9e822381853bd8f1b0a63723513cc7678a8b364032a6c8ef53c014cdb15ef91",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,639,639.400306659561616933",
+    "hash": "0xe7e538d1bfb719f62c78c9b1861da80b3e1be1f269c3c3cb0adeb36f5feae9b2",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,316.024800750194355482",
+    "hash": "0x2753dcc43676b0a8499a4599a77ff782a8ed9315579287d3f9d8aa6db4a8463b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,466,469.456444418020590639",
+    "hash": "0x34d9cd5f341b671e68cab553e702b50afaeadf69778f5245336a1d3964b2f96a",
+    "token": "chiliZ (CHZ)"
   }
 ]
