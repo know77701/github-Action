@@ -154,5 +154,47 @@
     "value": "72,671.288",
     "hash": "0x1de17c55c079ebd311744c219ee27a88849708d7d6f4f4eab189d6cb7985ed35",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,660.43",
+    "hash": "0xa8b75c9e9c473c75f38d9e9977ee8603a439ac7ca9f7444c5dae3a40f7703b09",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,074.294302643059531887",
+    "hash": "0xfb94498884f8d912d7949c1f8e37c0b7b0a3c7fa0e476f8cc761803c2d002041",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,284.49223738",
+    "hash": "0x112c8ec400acc680ebc9b598b0f7deda95ac04056e7ace7143c89b169d67d2de",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,573.681206956940468113",
+    "hash": "0x35fa8e782d00ece6de591c34b921b62b2666e5cb43f593ea138b9497b423b903",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,679.47836757",
+    "hash": "0x337421e017876bf4f121815ce5cf21128fb84ef253fcd0a5c5b4b14b67ff48fb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,801",
+    "hash": "0xd77598f31c90aefb3c769ee54668e83380541fb0310e794bc5cfb640c25adeab",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210.33711612",
+    "hash": "0xd4e47be500e1f07cb7f8f1fc4f3725e3d3c2df251afdd6477211207a1b0cf8d9",
+    "token": "Compound (COMP)"
   }
 ]
