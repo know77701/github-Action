@@ -40,5 +40,77 @@
     "value": "5,674.402",
     "hash": "0x1af7c62f09cc3d3b58bd45ff746b295ee6c9a0b69a89b20f3c3db313d20de4af",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181.13695952",
+    "hash": "0xc4ab55bd6b29c4b211c1963d62efdeee05a4fc631c8c48034fad3f634fbf5326",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "430,379.738934826332370704",
+    "hash": "0x4075c90022eb64f4f6d418dab98c04c01e946c54e45f618a1b77370968112892",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "192,785.368865",
+    "hash": "0xc62f8a3dc9801a0584dc9f3e57349293321693d1a23d49ac7cce25816db40e2a",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "268.5546366",
+    "hash": "0x0f9de46cc90793f37c3cba4140bc1bb57df102fd77988367a805ccc193c5c900",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,219.59980464",
+    "hash": "0xe86cd9478c4044a635d7fa1a16094b2630452a3d11bbdc29ffced1955ae00103",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8.75595242",
+    "hash": "0xbe96c6227880677c8f823f57c3363f85f07fa4a83e06120430d9faa9f0835172",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,025.67243299",
+    "hash": "0xe05ab7e2a2cbb4bd7708005418ccc7feaaf26a5b2045d99ea6f905a762ea8230",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,139.61053",
+    "hash": "0xc86acf899d44d2f648374774f993f7fd538a83f51edae74197ba145f8637140b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "703,855.942699259042482492",
+    "hash": "0xac71bbeef9109e390f7ff18d36fac87e66a1882d81cb303a4b53835da9c0c12c",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,777.393586788392825968",
+    "hash": "0xf7f86de4d9f04c7f0d322c823f6be32bc4dd062ff5c9df41a5b46bf8e70540d5",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,560.033966270957517508",
+    "hash": "0x31f39bbf1fe36137d13f019e22b31fada6fbfa794e0bd834cd80d8d4b91a019b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,932.740613211607174032",
+    "hash": "0xda840cb56ec5ea36ef97c229ed045830868a49db651f8a1201d981691c2e2cc2",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
