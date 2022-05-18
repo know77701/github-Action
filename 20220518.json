@@ -1,0 +1,44 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "149,969.375521939939365743",
+    "hash": "0xbff3288f39c3e65ee727e0187e591f88df9665502cbf09ed25cbd77d7a2b4d4b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "827,458.169255759735200402",
+    "hash": "0x087ca053ad1ebff990d191c52df80e52fb72b43ba5d6929e1f472a3cb54a3900",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,613.13644054",
+    "hash": "0xf7803f5ae689430b8c411267a1a75ef20ae456a4a7ad690e23e7347cababa508",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,299.878504710060634257",
+    "hash": "0x658c75ce9ad03af367384ad82d9fef75b557e30d6fee85ea6c4b911f0d8fe9c7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,634.12225524",
+    "hash": "0xf78ebb2ab939caaa7f8e43eeac5842090c60f9f65d01fbf5c8f607ed8a92d339",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "357,903.73374476",
+    "hash": "0xe70ee03258fc3d3c540fc10a33ae4195a2cca86195d12612975345c3408c5b8b",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,674.402",
+    "hash": "0x1af7c62f09cc3d3b58bd45ff746b295ee6c9a0b69a89b20f3c3db313d20de4af",
+    "token": "Kyber Networ... (KNC)"
+  }
+]
