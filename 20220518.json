@@ -280,5 +280,41 @@
     "value": "1,800,479.452179098621832506",
     "hash": "0xd324071863814234978ea54d4f075f124cf62611d983e56ab35de476366e79c0",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,845.5276",
+    "hash": "0xc538e8bae72eafad9396f448f5559a024416e457ad62478a0e105981e7086983",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,731,137.72902184",
+    "hash": "0xf5c5c25bea36df4ffb5e1e8280a4212a2e8ccfe67cbcb5d37c90e6134387f035",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,889,669.361544790349246261",
+    "hash": "0x9839bf3b1722777c94c983e51c5a01e6af92f02da70ae61933ef4a4364b0c544",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "576,755.35848755084262473",
+    "hash": "0x140d8c87393e3196d1231670322a378f08736b049e7e21f7318fb35bc97c8fcb",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,522,282.148007061083937908",
+    "hash": "0x01b070f273c4baa460ee806ae5403ac147047b53d801fe01528660cf8868e737",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,343.35566168915737527",
+    "hash": "0xa8399c20bb6d9ebc62e4f5a7ffa6be44080c97a5d0f4d88563cd0f64c995ba9d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
