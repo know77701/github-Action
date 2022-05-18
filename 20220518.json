@@ -316,5 +316,35 @@
     "value": "30,343.35566168915737527",
     "hash": "0xa8399c20bb6d9ebc62e4f5a7ffa6be44080c97a5d0f4d88563cd0f64c995ba9d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,381.080910301607990721",
+    "hash": "0x8f7ef4103b15ca924f8e726e0fe87246130bc9793c924fc4e3596abc667d7be0",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,507.40142299",
+    "hash": "0x354a48a8e87e0abb7632a31717c581382fc41d63938f96860d76950d0da9d491",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,631.699006128392009279",
+    "hash": "0x1ab9bacbd9d028e81ea1e53af534afa54ca81ada8ec1f2a823e7239ba947a3ce",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,043.98174951539903443",
+    "hash": "0x99bfc2c68b97d640b09d9ef4bd77b746e04d231cc7ae059978f9f88fe3182b2d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,245.66605409460096557",
+    "hash": "0x1b8adf775f141d892b44b1d49df8a12403c3923a8ef77680b12f9b0a559f1a21",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
