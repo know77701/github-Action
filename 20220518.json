@@ -1078,5 +1078,47 @@
     "value": "8,026,102.81339269",
     "hash": "0x7c74ee2c312caba384c9f82df41ef6c4471274de000709f34b63bfd3b7062438",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,780.14567781",
+    "hash": "0xc355be8473c9f626b6ae428bf0327d5ebc2dfd52cd65514f8988115faa91cc82",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168.9885",
+    "hash": "0x26585e6508f5a8bd33f967d20e9c91596bfb7a0f98d56f54660568e3bf032350",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,863",
+    "hash": "0x6db741cebeeca77e6e0efe94e756417c535d286d086dd43fb83a615441460faf",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94",
+    "hash": "0xa36e1fd315e6950ee3fa3540263941844c94ebdd497e63436c703d193191d588",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,201.3162837",
+    "hash": "0x4dfda46f986f8efd93d4468ddf76987ed8dd126ad6ffb52f8af5f8545d518b6a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,132.4",
+    "hash": "0x7810c42c38f622cecd7cb5216e301fd95e13f7ad07f7e4be8237c512060b1b13",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,833",
+    "hash": "0xb0a738cc41766f05cb061650402480f94405d631def5ec1df8a747db7604ae0c",
+    "token": "Decentraland (MANA)"
   }
 ]
