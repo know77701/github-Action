@@ -370,5 +370,23 @@
     "value": "1,000",
     "hash": "0x38454ced1be917372ab85bd27494f71c17abd2fdd6f146659db5f131b34ecea3",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,000",
+    "hash": "0x6c7fac9608012313f93f2a22e6584ef2a5348d935fa35f6e763f5d65a2c331d2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,798.84070801344202099",
+    "hash": "0x69cd9e89e2d9c2b6df0a55fdefb01bedff73ac6a24dac5708b1fa64ac4772ee8",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,912,240.05418086",
+    "hash": "0xeee36eb0d005fd707c58b5fccfc91deea190a67dd3e927f1ded522e58f7c80f7",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
