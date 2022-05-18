@@ -196,5 +196,47 @@
     "value": "210.33711612",
     "hash": "0xd4e47be500e1f07cb7f8f1fc4f3725e3d3c2df251afdd6477211207a1b0cf8d9",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "562,427.433467113234950357",
+    "hash": "0x1aa4d82315c6c3a1e39f166ef6118346893d91170cba5a5e6f02cde19bef552c",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,414.821271449069729386",
+    "hash": "0x911ef25d53d73bb074052bb3053f9bf05fb9e371a547b02d35f56eb6ce6a7bda",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,676.165077500930270614",
+    "hash": "0xeeed879e7d06c50e3940615285a7e5dbc3b9726c27dfeb56da477be19958d1ac",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "158,420.17397347",
+    "hash": "0xd63242213cdaf9cfcc9a569783850d8edc03a2212afb0179e47ce30f093e2d9d",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "621",
+    "hash": "0xcce3777bf2cc3038b6b9b847ef29da7cdb892931582f5fd7dc6b1bed357855b6",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,145.801230874982037714",
+    "hash": "0xd574c1ce1623a95349011c6f3d727c85a758a1b421ebf904e14859b7ed11b0c1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,842.198769125017962286",
+    "hash": "0x98fb2243a203f1783f3353bf8a32f71758e3b6e07350eb1fe80460714d74d931",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
