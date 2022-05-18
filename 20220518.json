@@ -484,5 +484,47 @@
     "value": "358,825.99990899",
     "hash": "0xdc37795f9816df8a2f5407c4858b24b030fe53f02f6b7ad3fb6160f1fd193cf8",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,359,102.53724495",
+    "hash": "0xef91cad2c99c924b5abb37367b0990e1217913553138d6713b4861feb003d91e",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,508.607688849799855333",
+    "hash": "0x77ff4863fc36e2a41c5005ae2a7d9174b9b5d981045c85387f586f973c4caf43",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,253.640200110200144667",
+    "hash": "0x2c2f878931edcc8e0dfdceb25ad975e36a1204f8bb88ea9b1c91c1dff5ecdde8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,824.48520092",
+    "hash": "0xc5d8aa69a6bbbf547a5c2207c3f6598f0df8539a4806dc6a97685e0a57c2ed71",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,724.3569",
+    "hash": "0x45bbf6c85b09484153ea5423fb6c72dbdf2eb36ecfc43fcb085a2854c43bdf65",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,464,921.775758231613013901",
+    "hash": "0x73d884fcba1ddc38b6b47757af1240a25cb48661d896eb0a6bb4d4bd5604a512",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "304,816.665057116478394533",
+    "hash": "0x80139ec988fdd0e032a2cafb2589ec936f66500878a8e062e39648a4afb9d465",
+    "token": "Golem Networ... (GLM)"
   }
 ]
