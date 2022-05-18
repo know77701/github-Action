@@ -454,5 +454,35 @@
     "value": "48,663.54033906",
     "hash": "0x0ff9246bd44384157e1993fb99cf1f828a684f0776e611385f25e0cef9971c7c",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286,429.43042957",
+    "hash": "0x6133562efb8452d2623828e2cc36b50be8715974a8df8ce79440ee8d5abd97ba",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,691.138620962283814254",
+    "hash": "0x921b5ef42c4100472f949e830dc8d2452f520f8fa07fe723a38a3c1791277909",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,226.457660787716185746",
+    "hash": "0x6efee74d6fd7403a2ebb4a81964f0cc223c90d092b3ef85bf0b6e26087a197f7",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,344.99956646",
+    "hash": "0x5fad8e07cc7c3b1734c8117463949f1afc48418029ac76bff4a5d575da670432",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "358,825.99990899",
+    "hash": "0xdc37795f9816df8a2f5407c4858b24b030fe53f02f6b7ad3fb6160f1fd193cf8",
+    "token": "Polymath (POLY)"
   }
 ]
