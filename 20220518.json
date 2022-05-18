@@ -1252,5 +1252,47 @@
     "value": "10,588",
     "hash": "0xc7f755f6e4685d5e720fc9e6a2a88c4e70e5574c09bd0193870508a26ca297f3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "270,151.5",
+    "hash": "0x63c4a2d66bdd4841d7ce7d75a8421dbfd7848af18e62393bd8a7b2150addf643",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,465.469029177113165413",
+    "hash": "0x08c3e0f93ba445be326e9957e971fa157d661b7497fae674f5c03d5a2356bf8a",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,412.5",
+    "hash": "0x7fbc70795571397a4c3db42582a52ae2563b32228d48de3ca957a4c94d31087a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "532,553.01641791",
+    "hash": "0x00ba70b0b0ef9065226c342558d4fe48288332d76f432d849a7240f3d99946c2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "853.693049872886834587",
+    "hash": "0x0985ecd5e1bf6445b0638491fffa6cffa49ebecae17fa5d2f658dd53e4c181c0",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700.85",
+    "hash": "0x96c089453399fa72af98e760e842519d69ecf793772bfe2de8658b41202cd823",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,986",
+    "hash": "0xe452938c3019c0cd55cd72cce821bfe268a3db8d43ce6d9ffe51f2237a656b00",
+    "token": "Decentraland (MANA)"
   }
 ]
