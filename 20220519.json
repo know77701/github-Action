@@ -1114,5 +1114,17 @@
     "value": "120,372",
     "hash": "0x4cb0836520750dcad2a63648bd9449496097d903100f82e742adc53d5b7000da",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,000",
+    "hash": "0x86c0320a9686575a09b620d78dbbd041e100075e8e60fa23f0b38be3cc00edf2",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,000",
+    "hash": "0xc67ad7d19ba281d412f378ef2090472721e1ddbe0b2f86af04f07261a1f8bef7",
+    "token": "Decentraland (MANA)"
   }
 ]
