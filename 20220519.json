@@ -970,5 +970,35 @@
     "value": "291,078.839158453437517508",
     "hash": "0x21fe0e9a75fcedb19c060bd97215a9c31ac4700cddcc46db944559da67bc9eb6",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,832.960938",
+    "hash": "0x3029bbf601679c539c92b17ebf5e059dc32b169cd56406a0b3e5298a3433e7ee",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,782.237487768895437243",
+    "hash": "0x6d8d82564672e49481f00ff2b17c48e7a1ff9b835a9bf1451431c44d2fafee8f",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,799,395.85743671",
+    "hash": "0xec8a2b57ab21412d7293d1e17d074824a4d88d6cb7372144e946eba4726f8228",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,832.886689071104562757",
+    "hash": "0xa23ae35ea44397f1a5446a8bf0ec4eaf07cb8a2b3a15927062f25e3d2ea41953",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,810,602.58950842",
+    "hash": "0x5d0e3cbb1ffd7284e6ee34c5c9ccc93b1dd6b840fd66ced5084662fedbbf6dca",
+    "token": "DENT (DENT)"
   }
 ]
