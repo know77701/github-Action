@@ -154,5 +154,17 @@
     "value": "291,674.71071842",
     "hash": "0x494a1f1b794856ba74bd059b6016e69aff4296a09b59fd21f05fb0aa98d02190",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,790.86656077",
+    "hash": "0x3ef06c8345ba27eb4b5528d83b9161e375e5e92044d0b3d28c5d85ad7fd04e21",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169.64646479",
+    "hash": "0x73cae157916637f2b6bc788cf30500e1aaf470452f277268f8b17d209796df88",
+    "token": "Compound (COMP)"
   }
 ]
