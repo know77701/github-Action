@@ -880,5 +880,41 @@
     "value": "9,395,384.99982666",
     "hash": "0x63f5137302bb21515188d7508db14a0e3b0b0f76278e4aa0f5f333770d5ea408",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,268.764292",
+    "hash": "0x0545689bb29ccee5bb147eb235589739e9c591176c418ef39847a0a8ce329b00",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,115.979868361343050439",
+    "hash": "0xf259de8538de8eaf1c82f45432b4fa1bce9d2f5353c76acfb7994e09c13298b9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,312.656829086438364762",
+    "hash": "0x4e65aa836927aaa944a95a3e15610644a4254c9f83d37d23298888be7b2c6541",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,369.64814249099890257",
+    "hash": "0x02275a4f140a7fe4599fd7ade513a3b50f5373ba65245e1f270486d5ca520ed5",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,130.907268985751952916",
+    "hash": "0x9717d677d1fb68ab29408d1648633336e20f332761d7c3ac04030409ae18642b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,687.343170913561635238",
+    "hash": "0x38a5fa6040edd02b06c3319cf4dea6d254f589f9a032718baa0b4bc9abeef6dd",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
