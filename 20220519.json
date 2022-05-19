@@ -580,5 +580,35 @@
     "value": "1,000",
     "hash": "0x336568190e6fafe8426085a0ac9505a7fa7865e3ed139907d96ac1a56f6e8e0b",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x5dcd1d448cabc6bf9acc725669ace8757602c1b5177c036e9f36087dbfc0f94e",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,544.564388609295919933",
+    "hash": "0x7cddf69c086435b5c9c66f2cb2da1e3e7698b91c1dc1cdd756057189fcbd0713",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,437.477",
+    "hash": "0xd973a2e1d29086e11c58d72ac5ce0b5ccbfbe9611dca959dcc9a55cf95af2ede",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "158,044.485163232460109109",
+    "hash": "0xe705661c2938469de5cae3fc730db5ed169f02c1be686e94f84a082686a6eec7",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,900,670.514785437539890891",
+    "hash": "0xba2843b6513c051bb162c7b5f88294c699c984086fa05a61799ee9ae32c8a22c",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
