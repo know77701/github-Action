@@ -1060,5 +1060,23 @@
     "value": "54,278.00422",
     "hash": "0x152cb18cedd7f4799cdd609d2eba930a05a428077f3e26b0a3327e8ea6e65b12",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,442.98296902",
+    "hash": "0xc920b049bc7733918dc2d40c5b3222c737a060eb5aa470bf94c8f955d165bba6",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,911",
+    "hash": "0x26a89c31fda0f4345ee13cb338087d6eb6d7398a23c2d6e2937f648eac03b19f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,872.795148365424654095",
+    "hash": "0xc22bb6af604d0187b21b7495971e4faccaa4bcbb37153de4d562cfc25099d239",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
