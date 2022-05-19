@@ -916,5 +916,59 @@
     "value": "74,687.343170913561635238",
     "hash": "0x38a5fa6040edd02b06c3319cf4dea6d254f589f9a032718baa0b4bc9abeef6dd",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,508.16184699",
+    "hash": "0x667722fde88ccb5047d768e2297cf3f4a03bf99d3ba1093786a4ce5b027ec32d",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "982",
+    "hash": "0xa169b5f36eb2e1c5bd2f6b2584ea4a486f29376d8c729045476df6556c310f33",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,625",
+    "hash": "0xe9a6b1c48c5875e1f0d1d8557449a2f43efabae4dcb2fe1151e2f75907671906",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,398.731904063959501101",
+    "hash": "0x8a8a12099f99f9d64437ea2cd42993534c3cd60b51f53e182362b93f369e6feb",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,914.629145976040498899",
+    "hash": "0xe8833059172d7ea6aa8858c73acbcebc9f0544f48b105466d8e572357e8e192d",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,710.38497607",
+    "hash": "0xd47140cb64e6b82df073f6ffcfe6c63698de57a53f27f6f98fd5fdb7cebe40ed",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,382.729450536562482492",
+    "hash": "0x8f406342eca9353b9dcffe58574c24d5a7682e7018b5be9378c05af97ff88a1d",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220,000",
+    "hash": "0xc60048fcc4990cc1f49797af64662dc5e907d89979fda58edc8e0849d0b5401a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "291,078.839158453437517508",
+    "hash": "0x21fe0e9a75fcedb19c060bd97215a9c31ac4700cddcc46db944559da67bc9eb6",
+    "token": "SAND (SAND)"
   }
 ]
