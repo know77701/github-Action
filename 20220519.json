@@ -364,5 +364,17 @@
     "value": "596,734.40248968",
     "hash": "0x72dfdf67d93faec0dffbe2762c700164a489485c719fb1549403f8c80a303b11",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "442,920.49561866",
+    "hash": "0x00833485f004277757cb0936fd879c3c503d2dd10e25cf303e218ed9163dd1a6",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,043,562.634476010301166416",
+    "hash": "0x2619bbc7d98fe1ea978137f7b57d1e1990487a544d8af121be8d32feecdfb242",
+    "token": "The Force To... (FOR)"
   }
 ]
