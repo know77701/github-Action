@@ -706,5 +706,53 @@
     "value": "54,816.562354583813721155",
     "hash": "0xd1b948ae24fea4f1b4d8d766dad7661cacb7f0557882db7c037ea4b2dbc6dfea",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd4ec12192d28ca77af464fab901992a88ccc400e1555f69440a4418aa14ec08a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,365.99",
+    "hash": "0x3fb36bcf692cc1ff96c8ad77bea86feead815fb5d93ddac19bc40a162904ca7d",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x7101bfa108708d932d31418de18b96e15ef370f524eae40e2412193fa902d020",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,717.055820132206676714",
+    "hash": "0x535938b4554a836c740ad4d27e9dfd6ed11f1d1a293563cdf19b60b4e71e525d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,326.50877006",
+    "hash": "0x9c55f6517fe0e67e30c476b64793d57e8bc220d4023ce17f1d54bc4de4360ff2",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,963.054526",
+    "hash": "0xb67c29c2b93a2ceaaac27a8566bda64bc40732480f69427b942cd1be4683be43",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,358,428.656210242498898959",
+    "hash": "0xe03dc7157cc3b2a082d386dd2f6c6ae49d023a7ff0b79ed5f9b0bba4e707db4d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "928,363.081507957501101041",
+    "hash": "0xf464d69bcfa3ad5c0b5c413941bb37a2c915eec5513c3b31dbb63cefaa33974c",
+    "token": "Threshold Ne... (T)"
   }
 ]
