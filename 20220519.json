@@ -52,5 +52,71 @@
     "value": "320,931.99087409",
     "hash": "0x08c87d1f709f47eb5da535b257b09106748eb8d72f087af793bd59f73a0bc338",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,690.407931344948754747",
+    "hash": "0xedd32646037b36c77f8b2a6b042a500b875bce1bead620110db7f41b14c37062",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,360",
+    "hash": "0xa7fa7ce62ce44f61e95b2094b96440f0b79024511c1cd2b56da4dad617c5a2c5",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,961.998",
+    "hash": "0x1420015a304a5630f3181b6d809cc239f1be99989361baf285d1eaf2725b55d1",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,659.63412045",
+    "hash": "0x7b55e26a12833f15de5e5439be7967e059d77683bdd6cc653ef120ff2ca4cf73",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,120,054.470967662684184356",
+    "hash": "0x912203512198e604f8be6eb93c0b82d623c282a18e834cb6cc36c5fb51370d7a",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,041,142.322120197315815644",
+    "hash": "0x1a7ddfb503069e0920714e5b433e0cd46eb4b545376008a676f5624ce78334f2",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,601.169807455390379705",
+    "hash": "0xda5659107134a1a46e99a1be4d36e292a1abf05f5770f8def3ba476a6c380931",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.28",
+    "hash": "0xa4275586e7c9fb902d856d05ccf592e2d1a60513cb1e0bc14322a661cedbd9a1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,715.39982696",
+    "hash": "0xd8d40391874163232acb6d598e6e37e8f5aba9e327038f36c18ec31ea04118fe",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,109.499708640403626361",
+    "hash": "0xc8bc45aedf046a1f5203db46adf329a8556a598e87c0e149e76668bd25e0bb4a",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,430.574195525871895437",
+    "hash": "0x45e4c5c6c61312ae2b3c348b82ee2970cbe6d50f196ff26d7fbc7728a3939a39",
+    "token": "Gitcoin (GTC)"
   }
 ]
