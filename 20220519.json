@@ -406,5 +406,23 @@
     "value": "10,782.5",
     "hash": "0x749057f1ef3f1c4927b2c3796eea1ca44eb44e9faf92c4d28f3e101c154d3c92",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xff6d1d3ab9c359b9221e1830d355a002691939905fd3f343b3ec6c63be7b5462",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcb037ded65455c43aa6508c5e8fa812216558f6fd17220ab47a1805c8db9ff45",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,414.022228671767895437",
+    "hash": "0x016c2c5b7623c0950938dda9c25fb14969bba802bc58925f2271160f7af364c9",
+    "token": "Gitcoin (GTC)"
   }
 ]
