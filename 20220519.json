@@ -184,5 +184,23 @@
     "value": "499,360",
     "hash": "0x2e37523ca5583c946be745dbc592ad1429d9b0e785a393d356fc01fd1b87f11e",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "978,629.158993",
+    "hash": "0xaee76594d1276419be4ac7075e47a491ed2bca733ffefe2200406b959b4a5e61",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,023.745806770368140679",
+    "hash": "0xe096614386df4d2b247bef57046bb231a8559b4a50ee69b8c8055ef069a8017c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,078.09662696",
+    "hash": "0xf276f3e9aa5e4a62acfd3cddfe165a505f50ff53031b08ae2184a1a2537e11ea",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
