@@ -202,5 +202,47 @@
     "value": "55,078.09662696",
     "hash": "0xf276f3e9aa5e4a62acfd3cddfe165a505f50ff53031b08ae2184a1a2537e11ea",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,564.28538742",
+    "hash": "0xb498de880ff9e1e712d0f666c3cf76236acf6828ee6de6aa930af6c2062af8b5",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,114.095273315000266919",
+    "hash": "0x7f65c23c9ba356bbff9dccf2d4a8a7aa1be1f4bb48050f537080459ebbe7a6b4",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,560.8757",
+    "hash": "0xe7bba609236c6a40239e47cd7b15d08d98ff3511f9a68585a0c09a6a06a14899",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,527.755002",
+    "hash": "0x1ea6cfab53a3a5dcbd108bee7af31563cbc31539d4402519f2acd9a81bed16a3",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "222,306.192614",
+    "hash": "0x36c784200eb9d3652c058bbbb70aaa9cdea77ac1f0e65d995e745212e58c8ed5",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,192.188",
+    "hash": "0xb6ccef3fcf62b37ec88da938d17699606019fd0068dbeb2203ab38c41d195b65",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "296.537640471242252979",
+    "hash": "0x2e9e8a86134225d8fdeefe0b0f888e1991628553f0fd25e2f8d04d3191f20247",
+    "token": "ApeCoin (APE)"
   }
 ]
