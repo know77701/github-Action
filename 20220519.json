@@ -244,5 +244,65 @@
     "value": "296.537640471242252979",
     "hash": "0x2e9e8a86134225d8fdeefe0b0f888e1991628553f0fd25e2f8d04d3191f20247",
     "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x650f20b89701b30d8e0f36b0f9590a9a0d15ab85ff8ee7f55fc324b6dddf002e",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,424.228680983463895437",
+    "hash": "0x85a95ef7ce7055d5be913a551b1e4371d270e7800ccd0665fda0d7f7d2e2628e",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "716,474.951484604759019696",
+    "hash": "0x196e06dc525b1c2a2cd60ae9c51df7736db78baaa678f2a62f2e2bd7c6f8c341",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,751.892308991789502216",
+    "hash": "0xdd68dcecc7c02570a50ead80b55e8310d99d4be76bc2438571983bd89cdf606a",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,401,348.466243345182555868",
+    "hash": "0xd7a3bd5073d6549a0c6cc16e06bbc0673d0fa740f7c3fdebc8364fa804f85de8",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "590,351.42377329",
+    "hash": "0x4dc4afaa7322e8d6cf2ec1845915320457185069e63f092bbe18719d8bf97393",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "952.926854356536104563",
+    "hash": "0xd42e74023666a104fc894f83ff03432ca317ec2343b9f43296cdf887c2291ace",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,561.58002435590281764",
+    "hash": "0x0f4c87b547dc016dff362ca3fc7c968921c445e3108212814eb57a9475ea2081",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "410,248.107691008210497784",
+    "hash": "0xdf6000d6f4a2382b8dde58defb6f2e94fdb32bb4d48067818bd9595ebf194395",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,828.81757471",
+    "hash": "0x0e64c66049a997b334453524e602fcb77d1bcbf7e46a85b33270e3c3c6dc3d49",
+    "token": "Orchid (OXT)"
   }
 ]
