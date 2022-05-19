@@ -610,5 +610,41 @@
     "value": "1,900,670.514785437539890891",
     "hash": "0xba2843b6513c051bb162c7b5f88294c699c984086fa05a61799ee9ae32c8a22c",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xf37ada3fafa1640f8f42740b76d8578d0e3239b3d0b70fbb98fdb58ea566edb8",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,052,523.6923",
+    "hash": "0x45c8bfac21531d14c10ee80b32aa8f06f645542c83463d38f904bd59c0cb6dee",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xc6f2d9a6d229ab7a3dabdd0eca70418b502d9778f1ec5de377e864706771447b",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,712.244413460911491865",
+    "hash": "0xf45cdb71d32bb5c766b2d5c83ec4d8540c1dbe88aae9c30dc490bc49665e8e7f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xf798ba4e5827f6c8d758d9254cef1742db58c477f77d08dcfa9a2bbc20208ac5",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "796,487",
+    "hash": "0xce89c83666170cfb416ea92bf1b3fafc89c3177e0e05728215f5d9356fbe1d22",
+    "token": "Ankr Network (ANKR)"
   }
 ]
