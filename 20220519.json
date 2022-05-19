@@ -490,5 +490,47 @@
     "value": "39,457.867",
     "hash": "0xee011f284d9e31f6a0e1985b4081a55edcc703c71381f01d3e39398be511e946",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,345,843.12369089502082952",
+    "hash": "0xb634d455a30617fafd3ed9e5e995786f62ea903178f633c58b34033a390273c0",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x9b88945e3c8f20b9b7cae2c5296472981de0c5258fcb37918cecea8c4aec1441",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,867.70860201338534999",
+    "hash": "0x5e34e5d70e44a6781ee985c1157786590db6698cb65b395b2ddf2fb862f84e23",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700,692.437136615739831351",
+    "hash": "0xdf2473d5a7c37ee8d7914fa5b866dfe6e0013cd507ebbed7e63a711bc307bbb0",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa5960ad885384256c5176c82ebc9c3475062c48b16e7bca98186ab8cb0f2036a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "272,677.330135423955480063",
+    "hash": "0x43be491edd26c90b2721197c91079f0eb1332ba27a07aeb83a86e63c9dfb0063",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,785,671.896179856974397789",
+    "hash": "0x239b1db5d0424098d64d1077e415fcb48b48c84dee42ccd72bb67f86c0224fe6",
+    "token": "Threshold Ne... (T)"
   }
 ]
