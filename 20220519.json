@@ -166,5 +166,23 @@
     "value": "169.64646479",
     "hash": "0x73cae157916637f2b6bc788cf30500e1aaf470452f277268f8b17d209796df88",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,759.59994774",
+    "hash": "0xaabf657ee0c8070440e6de3bd218d6eaa11a58cd95cdaffa86b9ba37188727c9",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,676.652950332561785939",
+    "hash": "0xeb4a5c80523ddedd3f965f09c2604ff9fa1e2fd066aae80ddf13abc156c20296",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,360",
+    "hash": "0x2e37523ca5583c946be745dbc592ad1429d9b0e785a393d356fc01fd1b87f11e",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
