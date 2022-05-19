@@ -646,5 +646,17 @@
     "value": "796,487",
     "hash": "0xce89c83666170cfb416ea92bf1b3fafc89c3177e0e05728215f5d9356fbe1d22",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,489",
+    "hash": "0x258df733238343ccdc5f62235cf41f37a6208f6d23a7b3639ba8d26e24d5df59",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,197.21846861",
+    "hash": "0xb4ed6d64374f561bc231c0519b7d562478fdc2192006ecfcb23b45badd715ede",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
