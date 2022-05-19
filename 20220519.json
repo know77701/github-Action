@@ -376,5 +376,35 @@
     "value": "11,043,562.634476010301166416",
     "hash": "0x2619bbc7d98fe1ea978137f7b57d1e1990487a544d8af121be8d32feecdfb242",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,950.36766169",
+    "hash": "0x6cc253880dd41806673daf5e56049e7d20206df6139c73f8d88cad5436cb4c71",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "961.777814408232104563",
+    "hash": "0xea9288f2a46c33e626ad9c04d66e4da7d0d59c6b57067cbe024427f4478aea89",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,867.22682572",
+    "hash": "0xae71600836273cb7b854c7ff4def639aeb0dd64fe085886e29e98e45b7b639b9",
+    "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,642.90003224",
+    "hash": "0x221b4dcda94f2d7413ea17bdf2b07c7fb14bd69f0fdf52c170f59c0c90dc5047",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,782.5",
+    "hash": "0x749057f1ef3f1c4927b2c3796eea1ca44eb44e9faf92c4d28f3e101c154d3c92",
+    "token": "Decentraland (MANA)"
   }
 ]
