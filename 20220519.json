@@ -1036,5 +1036,29 @@
     "value": "2,000",
     "hash": "0x82278893131b41d15ff570be846048e6f116927b24278afab4a6bcf6e08d56c7",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,786.55500232",
+    "hash": "0xa630fea44e7920c66ea20914306256a97a74dd7103a1db97d4cae977f8fa98ba",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,579.631932704916428625",
+    "hash": "0xffd56593a8280f63f37b11a5825e776807bee1531c7e63a9f022f6840db1c2d7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "799,680",
+    "hash": "0xf560d5986b996ce4cf7b4d734b6a1512f7de782e10c6826348264727ab8bca81",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,278.00422",
+    "hash": "0x152cb18cedd7f4799cdd609d2eba930a05a428077f3e26b0a3327e8ea6e65b12",
+    "token": "NuCypher (NU)"
   }
 ]
