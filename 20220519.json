@@ -658,5 +658,53 @@
     "value": "60,197.21846861",
     "hash": "0xb4ed6d64374f561bc231c0519b7d562478fdc2192006ecfcb23b45badd715ede",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,254",
+    "hash": "0x3c011ccf3bbeb56629bfb609fd82135ecdeaf46659969fe0a9d3f8ff0525f0da",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,530",
+    "hash": "0x9263076ddb43a8f8ccfa927fd9e56122aaf1f48d1cd1eef9e62c8e3eaa3bb3ee",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,435,261.035519264129933527",
+    "hash": "0xd3dbd12c51b4f13aff5c0f01a0da2da86f636759a08b8d004b774e55212276a9",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "233,696.567703322820974473",
+    "hash": "0x5d3aa07baee877a486fe494d4fa3ed360fc10216a88367f0b7fb92ce1bfe953a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "705,144.464129404429077266",
+    "hash": "0x1fb399a5d00f9af2e863c7a9216a6d658d9765b0a8b520ae8eef1258fbadb71f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,361.00057981",
+    "hash": "0x027d24b39e3058183fdf3d1c9be04e0ab1104a8bc2703fe546f510a9ce0d332d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "287,177.425395996184812214",
+    "hash": "0x007b5f657d3fbe598f6bdd844323f7d31da31dac182ff646d28e84b6872b4290",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,816.562354583813721155",
+    "hash": "0xd1b948ae24fea4f1b4d8d766dad7661cacb7f0557882db7c037ea4b2dbc6dfea",
+    "token": "NuCypher (NU)"
   }
 ]
