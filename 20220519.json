@@ -856,5 +856,29 @@
     "value": "2,422,305.83387600842135311",
     "hash": "0x0d063b9c411ac16a6ac039418b8aaa291a931e88b8b22b34595d56b92ac7ebff",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,922.896076",
+    "hash": "0xcc987aa5287551dd86c45d8d73b52f10df1e6082718ac1aa367c51c25dc9fb53",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "629,823.27605",
+    "hash": "0x36d0a5e971dc05c039cf43e45c32d13d517e481d84aa234d24e6c74c8ca27711",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,311,679.99995704",
+    "hash": "0x046c529e21958332f175a03187be06191de42a5d370d2501753e743cdf3eedd7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,395,384.99982666",
+    "hash": "0x63f5137302bb21515188d7508db14a0e3b0b0f76278e4aa0f5f333770d5ea408",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
