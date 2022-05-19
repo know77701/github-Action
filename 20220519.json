@@ -346,5 +346,23 @@
     "value": "388,039.83276215806069001",
     "hash": "0x96b999f35ce378e69b454ed462c4aa5c50d6c30be4b2ce7a24c72db99e837219",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,273.302669413066295728",
+    "hash": "0x4c29cdb20b1c4d273dc46923083e6a2926ada4a294441a59be000d44847ae84b",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,849.270641386933704272",
+    "hash": "0x9636b0254e2ce6f9e07380d8c2f9ba07e6583c3ed56e44d8ab983bef42ba99c5",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "596,734.40248968",
+    "hash": "0x72dfdf67d93faec0dffbe2762c700164a489485c719fb1549403f8c80a303b11",
+    "token": "DAD (DAD)"
   }
 ]
