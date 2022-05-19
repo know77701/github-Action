@@ -118,5 +118,41 @@
     "value": "6,430.574195525871895437",
     "hash": "0x45e4c5c6c61312ae2b3c348b82ee2970cbe6d50f196ff26d7fbc7728a3939a39",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,640.963830642203420661",
+    "hash": "0x10dfe8f42645bb7022733cb76746598dca6a1b0e61de3bab3fa886cca936052b",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "314,817.761369357796579339",
+    "hash": "0xe5fee57a47f78e42c697918ea794653cae8772cfe62e890f91a3c7d2d1d23c50",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,178.884376350587190572",
+    "hash": "0xa5a76533396d94b16f112c9abbd60bb79f621731d57adad1073626fc87568243",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xb2e105863c7fc48366cd0b6817bce03201a3021945205be200277703d0c3ebb0",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,053.432779625051245253",
+    "hash": "0xcdd7f064fa8ac206c70694abfd8c5db4ed6ea8ce4ccaf2d431d9083382b3117a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "291,674.71071842",
+    "hash": "0x494a1f1b794856ba74bd059b6016e69aff4296a09b59fd21f05fb0aa98d02190",
+    "token": "BAT (BAT)"
   }
 ]
