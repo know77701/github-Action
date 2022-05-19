@@ -808,5 +808,23 @@
     "value": "2,000",
     "hash": "0x2d7745929e1b5428de4580ecc54815122ebf72c73ec1b9a9066096c11c77eba0",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,623,648.44640188157864689",
+    "hash": "0xd2728230524a9212c5ebad448e65715cb3a682c2bbd3c5fdadcada0db6a26ade",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,984.86929397",
+    "hash": "0x5f84798d94c708abe6cc0c887e835a8c6442396fbf1611e6cfa9b2eb7a465d52",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,766.250867328836088292",
+    "hash": "0x07b3a62d3a23c6d993264536c7d8b4e045530f47ddf33a4fc8444d3853ec21e1",
+    "token": "NuCypher (NU)"
   }
 ]
