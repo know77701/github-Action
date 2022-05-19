@@ -754,5 +754,59 @@
     "value": "928,363.081507957501101041",
     "hash": "0xf464d69bcfa3ad5c0b5c413941bb37a2c915eec5513c3b31dbb63cefaa33974c",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,671.17835545468691331",
+    "hash": "0x752428302d84111fa424ebe2aefc3c6cca84ae01967661368f809027c90768ae",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "268,334.047794132535340836",
+    "hash": "0xb07089aa4b092b9788b0f5111ba915b15bdf4a24253a0f84c5aa144f5f03ce4b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "358,835.9999744",
+    "hash": "0xa2ef4323f1133557aa32a676c929116985a057f6e74186b43d1a14792587de12",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "264,432.237064632316515154",
+    "hash": "0x6c41025b15801dbc421a1890eca81300c6778c2bc8ce718ad6c9aadd94f5b1f1",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x98fe854ca5b641f5bc7595251c8d52bfcdd99c21bb4291693f7220c0133a5a25",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "208,923.84123",
+    "hash": "0x00fa5d6951e674e376db068d6e51461fed3f042a0a07a8ef22245a4a3a577419",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,833.07300674",
+    "hash": "0x55c9f981d8c4fb86d352d1d5637f46c8bb7b2e742158d1ce4684068c71064d1b",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,229.279",
+    "hash": "0x47b3a3fb74af05134650c44b6ce19048b0200ffefe6c61acadcade965934999a",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x2d7745929e1b5428de4580ecc54815122ebf72c73ec1b9a9066096c11c77eba0",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
