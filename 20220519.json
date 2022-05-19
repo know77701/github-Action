@@ -1090,5 +1090,17 @@
     "value": "8,747",
     "hash": "0x5e614717ffc0cfa77363133d8ec5e40968646674af7b598c4614a38ffad7b52d",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,717.78771364",
+    "hash": "0xa65ccbeb1f29d711cc756bdfb55c22cccf24b8b26ac64b639548580940426cb4",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,964",
+    "hash": "0xba7c1fee211b4ce44af3358e6e03935721cc3eaa48e41f3140429cf202236183",
+    "token": "Decentraland (MANA)"
   }
 ]
