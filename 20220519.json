@@ -1000,5 +1000,41 @@
     "value": "10,810,602.58950842",
     "hash": "0x5d0e3cbb1ffd7284e6ee34c5c9ccc93b1dd6b840fd66ced5084662fedbbf6dca",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,534,034",
+    "hash": "0x2e7924863ac1d50d4f32b457ad38b2289ee078f89c3e26341617020d24af9464",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xec53562d569cb38cdefd99141561bbe1fe3eda8cff286d9ac4ce3f7d4a8dbfc0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x444a3c1a202e54ac25fa98b3b29d219cc2606c8562a73e683e302117a9246990",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,250.104816075301018555",
+    "hash": "0xdc6275cfe5d688700351a1372dac13314135dd9a059aab876ab889209ff826e0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xfec1811c66a519e20de753d27a12fdcd6c1525a40d9029e09314cefd8b9cbefc",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x82278893131b41d15ff570be846048e6f116927b24278afab4a6bcf6e08d56c7",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
