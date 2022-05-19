@@ -424,5 +424,71 @@
     "value": "6,414.022228671767895437",
     "hash": "0x016c2c5b7623c0950938dda9c25fb14969bba802bc58925f2271160f7af364c9",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "741,632.45048891",
+    "hash": "0xa540c19586213fde81183b0dae1a00dd00d645c273beadd86f4609b52d1e7c7d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa8f475ea44bcd7dc0791857119b3a998217a18cf663d6f922b4aa4d8784cca72",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,238.99987471",
+    "hash": "0x3bdcfc81df4e04dfd7371ae4aa82573223c9d23d38df9f8ea3f3dfa6a1f0df1a",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x1d6fccef3388c204b148dc902a55941eff424b02b53ee568fec3b1c5cf2fbdbe",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "932,995.935058889622727946",
+    "hash": "0x43ce66227225928b9a335b33b0a17ab4fe38d9cf54950239850c3ac87fd64120",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf5cd524fb5c07070844557aec0586c92cfa25876fa92c0ea5111470b4cde39ca",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,741.235049719106311729",
+    "hash": "0x1ecde6fb467a27e9819b8428b7ea2733e264111e5c4039003191dec17cc6a39f",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,895.71958463",
+    "hash": "0x137beb8e2ce9e4aba52f2d5eb0937166bef54695ff97c3af0e44c30737ae6654",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,478.421685930893688271",
+    "hash": "0x376c941957e575db5efc2c451fb71ce9a26b572d21f61a96a237874874ec5814",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x2f5dce8aff00165ae2c1fccdc54d1f5befe54bbc37309727581fa01f94ccd3c5",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,457.867",
+    "hash": "0xee011f284d9e31f6a0e1985b4081a55edcc703c71381f01d3e39398be511e946",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
