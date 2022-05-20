@@ -796,5 +796,23 @@
     "value": "38,674.534",
     "hash": "0x8f6ee5301074cf229973df9774e77f06c1c99bddc510829d68af0b32b4996e07",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "613,578.156",
+    "hash": "0x96655a557d73b305050671042248c0456c450f2582523054bc41700e8418606d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,059.3805403",
+    "hash": "0x06e1d7f6c67bc5757ac0593bea6f09b066f3cdd250a64576b32e2a2243f81f97",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,292.81262524",
+    "hash": "0x0517364a6d0cca26b095d02043feb03782921c6b1e1e291d0e8ee8b927f62bd6",
+    "token": "Uniswap (UNI)"
   }
 ]
