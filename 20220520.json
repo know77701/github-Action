@@ -1060,5 +1060,29 @@
     "value": "980.006852926908104563",
     "hash": "0xd479f078f5c696b68d088976f650057e2c096df39e6a50f27ff4fa56ef3568e1",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,011.630653595631820343",
+    "hash": "0x0f7931b3bdf901ca13f51a723d0939e33b7c628d24c0a0c8af5776e2cdd421c4",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,448.873346404368179657",
+    "hash": "0x244ecb265609b92646f1dccb45b18195439ce100428fd09bdc09d90c334498ae",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599.85",
+    "hash": "0x6320991b618278d31d9ebfdbdacc7da7cb86ffd2a1dae857b1f1f2b6e6fc1379",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,710,523.47800899",
+    "hash": "0xc437b28333c1d7aa1b6e385cf90af03619391e006e3a72fc1714e648b322b853",
+    "token": "Linear Token (LINA)"
   }
 ]
