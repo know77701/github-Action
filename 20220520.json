@@ -1042,5 +1042,23 @@
     "value": "144,135.88123441",
     "hash": "0x9660779fa679201917a08558e4dc76ef2da32995d0af00c12b1dd60724f20bbd",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194.01733",
+    "hash": "0xfb6b7fab468f859929733bae04bc0484bd96d1fe7a54212d7a67eff1b500f575",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,621.717383033091895437",
+    "hash": "0xb4f40bacc0d1cfcb49880b175fab1d908011faaddeac2a4df4046aa188c0a407",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "980.006852926908104563",
+    "hash": "0xd479f078f5c696b68d088976f650057e2c096df39e6a50f27ff4fa56ef3568e1",
+    "token": "Gitcoin (GTC)"
   }
 ]
