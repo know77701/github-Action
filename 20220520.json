@@ -394,5 +394,83 @@
     "value": "14,366.6",
     "hash": "0xe1a7062a2450dbcd0b5243574d777f10a4f16dd22bd8098deaaaca27ede94655",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,087.922",
+    "hash": "0xd22aa1b1b9e3d8e2fad4a4b64fe739f928ace34819c4f58d7b14eabd123bc59a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,600.3430775",
+    "hash": "0x0bad0daf4333a65e2669a725e6605f961619e8c63506936fe2fce55f06c4bf05",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199.7",
+    "hash": "0xbf02969d4be3080aef4e1de7e35206bfc791478a884bd19a012059f20d4efd9f",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,600",
+    "hash": "0xdaa28dfc9ec73300145868fc8616faf6622158bad2d424f9e1ba8d997ddd4fdd",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,705.46921209",
+    "hash": "0xabe8ef87ec9cdb0f758bfc1a6109160925ac297447161236ba2b814ca10d191b",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,428.40704495",
+    "hash": "0x2d0c17860bb7757fc6dbf5d0c2b30791db98b8e2141b19d596eab2553b1ae035",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,631.056462656243895437",
+    "hash": "0x8bbac6e5d19e18e92232ac744eb98c31fe0521e6f12cfc1c92b38cb73fcb8156",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "306,789.078",
+    "hash": "0x7f5c8d55d2b1320f68a40625ba2266d4d8cde684e5477de9f5893e3e3ad0377e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168.85",
+    "hash": "0x7bc084f6d2aeca06fdd06af5d12e909bcaa0b5e8b93d49341ef9b6cbeb62025c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,249.11919796",
+    "hash": "0xbc243ee4ebf87e73aa632e4c31e9921493c5370d11fbbb4916810272cc1152ec",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "970.884783843756104563",
+    "hash": "0x50a4af40ce26c87e35e8e503c8c27fcb55abd23bd55542fb6f7a702d86c35c12",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,610.2939",
+    "hash": "0x72ffb9387e86c6d1af5ce39abd574ff994e60cacf30332edd61a350adbc714e8",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,000",
+    "hash": "0x3c63358b2b4c33da8e1424929ba6f6c6f2da34e15bf7d3e50bf8e2bee3a8a9a1",
+    "token": "BAT (BAT)"
   }
 ]
