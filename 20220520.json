@@ -616,5 +616,23 @@
     "value": "1,254.75",
     "hash": "0xc159577a5ef221b899f5b0289923769d168c2f6b842efed10259d36c8daa37e5",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "269",
+    "hash": "0xf5d85b2c5d789755d8f3f4933ea65ebb6d9f6a1542fca84dc7a629b63676b890",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,215,944.905648479557541373",
+    "hash": "0x03289485ae248cd52a09ead4691f7008ef889dc3cb3975d38bfe465ff9ee0c32",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "226,712.299186415787194967",
+    "hash": "0x3790d47ca372f86ea302d0b84c1b0f89c5ff3c66d5a999b67beadeb8d10180f6",
+    "token": "ZRX (ZRX)"
   }
 ]
