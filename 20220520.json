@@ -184,5 +184,83 @@
     "value": "160,059.23484",
     "hash": "0x06768024523ec1c60652a8846732c760b9d0c75e06bc3720db279241f97cb1f8",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc41a8a5c747c4c77b265ecd84020632ede0f250f68d68a133fd31be1e5e105b0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,004.3",
+    "hash": "0xc60282d860079e1a836bc2c4077b26dad4600ca2d8f33e62065b9d1e10f8f4e1",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,489.9999558",
+    "hash": "0x548a700a4883decd5c0582efd615b556eef433d28f50b03ce84fbb22bee1f397",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "331,705",
+    "hash": "0xc6b4084da124d663e91f1519b4b9bbc6b475a98501ccc03989a5d37be687e58a",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x32997b1057c542e36022fe6556fd91421f7c5a00b4d0452bedf57c7bbc131413",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,296.433389",
+    "hash": "0xf2a825beb51c2b9e0068199e21cfadc899d9a42d4b2dfe2978fcb4474459c127",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.7",
+    "hash": "0xbdaef82579df1068100680f54542ea65bd76691a7847056a3b87ca79a81ccac5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168.9",
+    "hash": "0xbb0d843b30c7adb963b3abdbc99c3bf620a7f299e91857796c69ca935abf03a9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,981.99992542",
+    "hash": "0xcb598c27869587d1c3ba53251910ef040c437507437c396a429fdc96fbd9d946",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,128.32545518",
+    "hash": "0xd023216c48121ba4e57806f6886f55db9d0d58c3eac510c15b3e6b85bc40c6fc",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "678,526.242005388665540036",
+    "hash": "0x1a95e780c3f165b138d392395151e5f2175d2a2d0c432c84e34f4afb1cd2ca37",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,050.5",
+    "hash": "0x527a404438951cb233c7bf259c026f738ba2866b83a4812d904e653146ffbde8",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "255,525.606433981334459964",
+    "hash": "0x7b5d9ae08a795ff11d3bdedb1b3dc25d1f13467a2ff9fa81378ac3d8736c5cf2",
+    "token": "ZRX (ZRX)"
   }
 ]
