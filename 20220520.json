@@ -904,5 +904,65 @@
     "value": "110,258.83225363",
     "hash": "0xea46588cdf18f79e45e8e148a70959efbcd1674e9e0b77c21bb6fd3aaa48df4b",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215,195.57950783",
+    "hash": "0x046f9b58c84379b7da1c1a6782cf93b0a2bb4012ce23751001f7b0c89ffc3ae5",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,080",
+    "hash": "0x752c0ab8659b3a3e8b46ff8e617bbc2ac44c4e8bcf5775a524d391b1f5d578e3",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,801",
+    "hash": "0x9a1322d3e6547096c11a506cabb4a7f722f39a4e90868491a9572507b3397482",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,381.041627820277285038",
+    "hash": "0xa7c142489d5a03bc7da7f76b441a7e3eb9667d1db016ee797fcc5bab75f2f9fe",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,128.587988269722714962",
+    "hash": "0x8e07a16630eb438c059dd3241c0618ebc010f1d74b8de9268ca195865f6f7cb0",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176.26252542",
+    "hash": "0xb4bfcee3b6d983a33fac11a0a86ceb2976fcc14841fa9e4bdf31fb0581720121",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499.96575679",
+    "hash": "0x9d96376d7225770964fbb0688313ea955a7129dcd24bc865bc693a31697a0f66",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "535,144.4654",
+    "hash": "0x7c7b713a9501f1daccb029b9abdd7e53edded0b05b2b3eedde399a85423d4cf4",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,534.24508432",
+    "hash": "0xdcd2a5530982227ab142a135a49715d3b60c13ade3d29d6adf8ced0acdb44e3a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310",
+    "hash": "0x5c84aa9353310d252bad14428f2fa0532cb8890aa73ccc62e77a696ff71a5866",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
