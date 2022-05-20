@@ -856,5 +856,35 @@
     "value": "53,994.110602058019144667",
     "hash": "0xc1355d1ca4de77951ca41b05419c7e70d5f2b6a3f5c44d4d4edd1d3c5f78149b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,000.175",
+    "hash": "0xa4032ac39908ef1d059ef8a9c75b721c6a7af4b551249e9f669f6aa6438a7645",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,100",
+    "hash": "0xbb7cc91a75c58a26dc13e13da9cc1201d7a538388c763aec1dd6025f8598b783",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,452,891.3482191711686558",
+    "hash": "0xeb3aa9d7e86df544f7ef15a0bc6689b5cbb76d4bb9e3a537c4594b1c1a07bcd7",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,533,039.461086242656142567",
+    "hash": "0x459684e6733132989e265e31bfc0962f93f766298feaf839c9a592a2179d5886",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,546.99997068",
+    "hash": "0x9c65c2151f614a4564310cf88323066d5467166102f5a24201fad694bfb86ca5",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
