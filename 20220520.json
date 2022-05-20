@@ -1024,5 +1024,23 @@
     "value": "290",
     "hash": "0x3225d2cd90e4e215d0df593909123694246426bc01fc06810757fc4d6d56c6a7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "493,382.25395331140675782",
+    "hash": "0xd29215de03ff61219af6ad8d16ceb8da4c18d0a6a4505778a092d11aa2078ff5",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "338,717.71831383859324218",
+    "hash": "0xa6d8815f1a044d7b6afffe90c8ca11210c6113c7be51d5b1c904a4b7c8a6be9d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "144,135.88123441",
+    "hash": "0x9660779fa679201917a08558e4dc76ef2da32995d0af00c12b1dd60724f20bbd",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
