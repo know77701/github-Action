@@ -676,5 +676,11 @@
     "value": "40,698.01713224",
     "hash": "0x8c1d0c73c99b4b53a1e81284f2b96ef626989e97a65e01a1048940bbc3fcc345",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,934.63746008",
+    "hash": "0x22d7f76d2adf4295f723c040819d8504dca07dff1267ce0f5380d5e36dd359fa",
+    "token": "Civic (CVC)"
   }
 ]
