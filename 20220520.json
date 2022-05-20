@@ -718,5 +718,35 @@
     "value": "56,431",
     "hash": "0xfe310938d31a81fce7c461c14c5f8eded0c4b4dd8eec087e8b097a94d686917a",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,436.344287840680635031",
+    "hash": "0x1a6a04b33a81dd23d196181082653918f285e50362898eae192db3a6cb4ec8a4",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "731,435.91872462",
+    "hash": "0x887fc40e3dfcb5730e154cec23151063913eed65483534f3229153d0698337bd",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,206.652560954636027206",
+    "hash": "0xdb21c8aaa863d4983f794c16f770da1bbf67344db02dd855be4b9f328500b514",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "212,679.533512159319364969",
+    "hash": "0xf55b5bae0ebeaabf16cbdc2179f961e9f4df05635a1883dcae6b1d04cf1bbd8e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,908.53389639467675054",
+    "hash": "0x7acbf0f03e16c893d9a9993143ad3b0b1950e49e87edb16af6c532fbc546694d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
