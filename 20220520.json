@@ -970,5 +970,35 @@
     "value": "2,000",
     "hash": "0xb2ae9fd01a4011c7e26896ca3a6ef7cdc0a8a8a10fa5b160a0f4c6d43fe35152",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000",
+    "hash": "0x9e139e67c21fe04510a7779d0041ec6f8b0b97f40ba20b6d26523dd9b9dbe3ec",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,315,427.44329635",
+    "hash": "0xc8ac435551b6b30a082e2e6afaed27cb15da065a46cb75615c9c3bb4d3e21c97",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,544",
+    "hash": "0x781132b2dcd2316ed317f41231f0e4a7f5ec60b35871deea4dbb95d3215244d1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,802.779246767990195609",
+    "hash": "0xa320acd0bfcf3cbdb5ceea114e5573cf7792611a4a7a406f31cc557db85cab86",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "219.26815952",
+    "hash": "0xf8427a0a26da8eaea5b43d15f63e8337c7b750ef2c13ff1b8d363228513e6a93",
+    "token": "Compound (COMP)"
   }
 ]
