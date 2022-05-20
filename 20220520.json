@@ -472,5 +472,65 @@
     "value": "160,000",
     "hash": "0x3c63358b2b4c33da8e1424929ba6f6c6f2da34e15bf7d3e50bf8e2bee3a8a9a1",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,952.99617595",
+    "hash": "0x1107b219087feb70c81d765fe9bb909219ac94c87f19431715d39c449428dd78",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000",
+    "hash": "0x082a9d067a72a4545c922b738f503bc020ed29e3a5be37953436f9564588dd03",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "306,789.078",
+    "hash": "0x66b9487a99e2cee6eddbd5b588b378f3546f17b17c4dbe45fbaaa66e78844043",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,378.295",
+    "hash": "0x14f40d322991d4b272f6f6c07e8b599c4460504a01c26c4e6e8db41486d9ea71",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,739,380.76924835",
+    "hash": "0x5cbad384dc61eaf228906bde411e19f96c7129313fb885c72a3a240edeabe3b8",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,939.6661",
+    "hash": "0x9787ca79b36b22181029bd77b8c7623dc87a824753f2f6581f7c05a7b9a96b4a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,818,663.646",
+    "hash": "0x026495fa14d560de8a1f917aa10463dbc23d909f48e9a6dd3e0da78909c9e9f1",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,007.476",
+    "hash": "0xa54873f1353a207529d6e66855f0ee346dd018ca04f1ca7bc663b1d598133011",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,536.3445248",
+    "hash": "0x63c8bf002d92fbeec6a929ad7ce2ed85717073258a9eaedee9d8561dd09541e8",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "642.85863153",
+    "hash": "0x00b29e48aedd4b82ead0ff52c85764f536f2fdb1931883f174bb06c9b4939958",
+    "token": "Aave Token (AAVE)"
   }
 ]
