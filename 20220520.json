@@ -1084,5 +1084,35 @@
     "value": "1,710,523.47800899",
     "hash": "0xc437b28333c1d7aa1b6e385cf90af03619391e006e3a72fc1714e648b322b853",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,261.491709329182886723",
+    "hash": "0x1bdba1e54dc425174b2e905fbaead5720ec916c8584536a54d1706a41389b651",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "654.8732",
+    "hash": "0x5f01ee42ee03df467169ac15844cfb67ac04d3a5e2d93cdfa4bd092cd554f69d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,072.508290670817113277",
+    "hash": "0x1247e7eda9f8139d58633437adb7d601b6cbadbe11ef5f4d321715a2c4d19fc8",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,034",
+    "hash": "0xe9066cfe27922db632ab43da0fc3034a60b38d6e8a0d6e1a0360e6b2f2222cdd",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "372,670.08753844",
+    "hash": "0x7752871d2088d9180365eda543d4579971739464e396bd487a1eac14cf0ccc08",
+    "token": "ZRX (ZRX)"
   }
 ]
