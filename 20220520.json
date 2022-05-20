@@ -1012,5 +1012,17 @@
     "value": "242,717",
     "hash": "0x723b3f2fe856cc5543a840834e7e16ef25b03c71b41a67ef264c1589300e67b6",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,607,469.5359744",
+    "hash": "0x5be0c6d16057080156762f5fe4988af91da196f0d190a727489932e0f370392f",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290",
+    "hash": "0x3225d2cd90e4e215d0df593909123694246426bc01fc06810757fc4d6d56c6a7",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
