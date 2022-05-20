@@ -748,5 +748,35 @@
     "value": "66,908.53389639467675054",
     "hash": "0x7acbf0f03e16c893d9a9993143ad3b0b1950e49e87edb16af6c532fbc546694d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,990",
+    "hash": "0x376b0eeb22163fe872d4f8e909588f4d89ec0060a46cd67e3bdf5a15f0299c75",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,596,902.78175903",
+    "hash": "0xe2cf356a441becd464d5b0ae6be7e6bd06ba8c1e170489cf09d391f7647c0da8",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,653,106.37538928",
+    "hash": "0xfc2860381215339c45398b29403b21ef135b1410009a3eb303e9af3d731a5c80",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,197.033238237337501101",
+    "hash": "0xda8124484088d81251dcf8fb39df42a53e351047008a6d1f33595a14bd76e57d",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,056.966688112662498899",
+    "hash": "0x9e426e9a1f70dfebf60cf2d897e480ed0539a22188917cc5cf864be400c39eb0",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
