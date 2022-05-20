@@ -1006,5 +1006,11 @@
     "value": "98,022.85522108",
     "hash": "0xb622e8221fe707bcdf8da65cc8396a3349d9bfa987c5cde1c5baa88ef63e7aba",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242,717",
+    "hash": "0x723b3f2fe856cc5543a840834e7e16ef25b03c71b41a67ef264c1589300e67b6",
+    "token": "Decentraland (MANA)"
   }
 ]
