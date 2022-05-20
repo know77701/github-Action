@@ -358,5 +358,41 @@
     "value": "2,000",
     "hash": "0x1112d0fc394d41476a98da33c0a182a7cce8a8d3f90b37d472a2dfa72d13d9ed",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,379.82896913",
+    "hash": "0x1100844eed977ad81c594b7b43400e5e4c66d6bada83077ff58534a8fa1ac49b",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0x818de5af2b26a552bb4e56c6a40148e03820f51a6f3e986d3cf2d6228e9985ed",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310",
+    "hash": "0x5233be4845826a5d1831b8685bfa69497fdf2541a88e52819a02b630d52bd363",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,299,546.77654402",
+    "hash": "0xe5f02d6ac70dc0737331cddcac84c43c102a1028d42163b780e607735a2c8b57",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "638,305.87005934",
+    "hash": "0x68a4ec695c766b369d83fd65fb41f8267b62d598788f85d8530723c879badab4",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,366.6",
+    "hash": "0xe1a7062a2450dbcd0b5243574d777f10a4f16dd22bd8098deaaaca27ede94655",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
