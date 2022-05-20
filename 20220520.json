@@ -148,5 +148,23 @@
     "value": "710,466.5252",
     "hash": "0x05eb04a0f03f166b414c36c389847b0032af62dda6a8b1252860f508c0f35eb7",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,623.99997967",
+    "hash": "0xf6ef396dcebf0ceb403b07eda49346c0d4db296be36a5da92ab37d2124346e8a",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,320.95279822",
+    "hash": "0x5b01abbb975044c102d0cb220048452bb3d6495a09739de54e169275467195d0",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,709.057",
+    "hash": "0x17c60c00b81ac21d268d22905b77524c7282be4265fbcda79d2268f91b2cef4f",
+    "token": "BAT (BAT)"
   }
 ]
