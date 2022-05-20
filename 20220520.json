@@ -682,5 +682,41 @@
     "value": "21,934.63746008",
     "hash": "0x22d7f76d2adf4295f723c040819d8504dca07dff1267ce0f5380d5e36dd359fa",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "272,655.02690943",
+    "hash": "0x0bf6835e4173d685665845b30856b662fd1337f1945df01dbf12bc920d940f64",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,863",
+    "hash": "0x6b6234dbe43ad82825e29fc279e4ec602435d6b33b8ab32d43b0d1a5d0e4a809",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "136,708.631942650687222254",
+    "hash": "0x91b0236e58667443149b3427ae024f9c0ce0a876e87d73dc6cdaf806bd74dd4c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,353.33818091",
+    "hash": "0x149589b8c32d7b74561f041be2eb816448db36d02c8a7110b72a47a2be5b7de8",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,148.43956851",
+    "hash": "0x6f4ba334c79d91b25d6f1799e7d3b4efd657c82b8e8142bca24df7eca086d99c",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,431",
+    "hash": "0xfe310938d31a81fce7c461c14c5f8eded0c4b4dd8eec087e8b097a94d686917a",
+    "token": "BAT (BAT)"
   }
 ]
