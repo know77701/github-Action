@@ -58,5 +58,59 @@
     "value": "29,336,541.2620773",
     "hash": "0xe4d7ce2a825c665f4aa0071e8e0f9323846f99797b991ee8f15223b8753a8304",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,006.76054929",
+    "hash": "0xbbca202332d30e17148c35e00ecd47e5d7d9bb8afc4e39a13c8c2f0c39086bdc",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,245",
+    "hash": "0x1e4a1ac29adf56bba905eb77b6639906ff82d6deb936f4df6ab5e8c0e47e617e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "943.442788502227294198",
+    "hash": "0x396895bff8cca21a197fcd09e068e9ccb237d04a218ca067048709484a01eea4",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,432.205654577772705802",
+    "hash": "0x8594797f17d470b85ba467b5f592219c0b022f6880ac670cd72acc25df9aad88",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,768.07694464",
+    "hash": "0xd252aea6c31197351509aa5324106b875b6bb04e9a1a0b2158a1ae62dea6e9b3",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "517,714.229337568022788254",
+    "hash": "0x5693b1b8c72082aed0fd03952c89ad2656dbca77ad26ba69cc44b6937b863781",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,520.317740721977211746",
+    "hash": "0xfa9e549e8ed3253dabd7d7a7e7158b7bc6e0db969beb6ea6e12645f676c3e122",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,306.764923646004339474",
+    "hash": "0x8634c11c9ea2151621891ccf6bcdc604d408feb60707688771d7460765348a36",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,232.365099853995660526",
+    "hash": "0x9ff770436206e0a373ac65f646df6cdcac236234581c6d07bcdcbec314fd1788",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
