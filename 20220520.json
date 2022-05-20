@@ -1126,5 +1126,17 @@
     "value": "1,535,000",
     "hash": "0x76d52fce2c69be021208b3b73c6615ea7ed2d581b7174acf6298a61ac447dff6",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152,154.56690589",
+    "hash": "0x2644771c0476af512981df1dc28fa04d13962f44ef38a217a506bfc31a351eb6",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,309.097218156092966043",
+    "hash": "0x417f80c55fd1c01d1b73d51fde53f6bdb23a329c15068813f1b8c40f98efb48f",
+    "token": "NuCypher (NU)"
   }
 ]
