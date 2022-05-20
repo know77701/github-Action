@@ -532,5 +532,35 @@
     "value": "642.85863153",
     "hash": "0x00b29e48aedd4b82ead0ff52c85764f536f2fdb1931883f174bb06c9b4939958",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,936.996572",
+    "hash": "0x5a67df49ee0b7ebd38bfad8b22a2ed294f4a4cf7ea2d5346521434e359226209",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,982.617041467320922413",
+    "hash": "0x1605181846f57070d5ef47c3995a8a9564d69db36a6ddfa3500036c66113365b",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "134,072.502",
+    "hash": "0xeade539f2368ed0e877ee5e7e1701df161133384baa4465d4ecd9df338cb96a0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242",
+    "hash": "0x70054815ad1c84603c84c095a41dba7195f92019a308d967022876556194e282",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,109.720576682679077587",
+    "hash": "0x6e88b0b016be7eb78224fdc9609c47240cf41a2cb843a4e1c7020f358e824cd3",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
