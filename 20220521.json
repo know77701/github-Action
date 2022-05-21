@@ -124,5 +124,11 @@
     "value": "79,832.833667534592822752",
     "hash": "0x579ff789df543a6c77125d90a740c6c494839e815514daffdea08c21e7aa7218",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,356.227549161121184619",
+    "hash": "0xb8b4913f5dc0321c7eb5a8d4d4cac822b61f2c4eb850eb1f7179fe80d72a6c6d",
+    "token": "HUNT Token (HUNT)"
   }
 ]
