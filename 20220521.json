@@ -238,5 +238,23 @@
     "value": "28,742.645692966544155045",
     "hash": "0xf0b407b70123daa218d0b069e3016af951951374a579a3173961805203c9e9bb",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,078.743",
+    "hash": "0xefca71af33e82d728328f26988aae7d58de5a61a3cccce2b779d621aaf2ed27b",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "518.6431368",
+    "hash": "0xf2e3a53ad8e82c9709e04cc3f151ec5c7dc4e5c55598c91ba6b6bf169c80eae9",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96998742",
+    "hash": "0x678300c75ed50459021abed4ae68eb8409ddcc5b35891b527dd22d9d9fa9beec",
+    "token": "Compound (COMP)"
   }
 ]
