@@ -232,5 +232,11 @@
     "value": "63,022.803914020711175634",
     "hash": "0x2ee050634504a89ade8e751cc6a00af8baedb163cedb15ddf46f477b96624896",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,742.645692966544155045",
+    "hash": "0xf0b407b70123daa218d0b069e3016af951951374a579a3173961805203c9e9bb",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
