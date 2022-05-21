@@ -442,5 +442,17 @@
     "value": "220.22384556",
     "hash": "0x8e80a3d1248266f161fceef8a5cd6fb80cdecd6d458ab71eec790208fb160384",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,838,965.21384588",
+    "hash": "0xa4cdf888e88d979e6a3062a7562616aecce3797952d3b1051e4f0c7716b9928e",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "732.42324038",
+    "hash": "0x172770d32827d39f213662af943041293501dba2748d6adc17229d625da239fe",
+    "token": "Numeraire (NMR)"
   }
 ]
