@@ -496,5 +496,47 @@
     "value": "33,779.71266539153303443",
     "hash": "0x7ed9cbf39a7303ad3935f2481ac5a2b140b59ca09610d5026a1c27ce57d53932",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,490.729762216475902339",
+    "hash": "0xa7a96c690597f0cf921c2e97f7d6281bbe166dff9ef6d5ea82c5920fc349bd76",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,003,521",
+    "hash": "0xa36f2751b12b129e78394b0f9a12b20c781cce0dcfb9214558ac7a712f5036be",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,337.964237783524097661",
+    "hash": "0xa687950498f18547a445ff748bc3e77b5775b62081b11b0661a5fbc9511d0d26",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,642,979.80311829",
+    "hash": "0xf01be905d72a9f000c8f2bf86600af206a9c6ad6732da5a34b0420c219f70f42",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "401,172.762812483542691809",
+    "hash": "0xf2c84115c2d330659b8a5698056faf610a34e15f40132142fe3ac594223a2d97",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,145,547.81246479",
+    "hash": "0x83a0c94c1efa0d64a8413505cf3ae447bf1140da0039d4dc25ca72031f739901",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,741.350437426457308191",
+    "hash": "0xd90a2552908c173bd4e36264cac8c4a303dff169a036f28af7882aa1cd5db56b",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
