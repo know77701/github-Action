@@ -130,5 +130,11 @@
     "value": "14,356.227549161121184619",
     "hash": "0xb8b4913f5dc0321c7eb5a8d4d4cac822b61f2c4eb850eb1f7179fe80d72a6c6d",
     "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,687.936792935599677364",
+    "hash": "0xf6fabe3718c0b39057185636dd890883da55ea19e3f460ab6097f5398473ee41",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
