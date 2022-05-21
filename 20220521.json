@@ -28,5 +28,53 @@
     "value": "736.825",
     "hash": "0xcf21801e0b124a10c0a17173cc41a603245f4c940c47699cb57852f92e744815",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "105,130",
+    "hash": "0x96211fc69e545afd80bf556ea5a5929f9306a44205c7ee55574f3fee465d7f00",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "403,050.448831739353201238",
+    "hash": "0x43ee486078b682fb5c36a25cfa0855888afd4bbfeaf52e37f8850bc8c9be9257",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,463.283405330646798762",
+    "hash": "0x58306f8abaf80d31c619e95f54ebe71e04373766bc8e82d1f8b1b2d8b10277eb",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,275,892.799784601545637551",
+    "hash": "0x77396c7fd3f568f7734a3bc8f207dfafa7919b79a663df4bd8ca29c3e31646c0",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,375,069.823057798454362449",
+    "hash": "0x0b486579af799cd490301fef6574602f385d2c25507c9d59bd719ffa85b2c401",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,220.08861519",
+    "hash": "0x6ba237f51a539bb317752edabdaf61bb606d74497c1630382382c68325928b41",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176,166.68290434",
+    "hash": "0x70d65aebdbc17ca0bd0baa9f7a222a0cdb49589b89494f8545be6516b5ac53f9",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,125.25",
+    "hash": "0xed2b5d0ff840ae6a5cc1c1d0aa8f16e5d1a3e1b6645810ce1fbddb17fa7334d9",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
