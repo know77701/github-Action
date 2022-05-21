@@ -340,5 +340,17 @@
     "value": "309,868",
     "hash": "0x8eddb2984da887e89cc4c01359d4cf5e00f3d58dcfdafa3bb0622acd4b82992a",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "425,000",
+    "hash": "0x492e8e8ad7d98307c36dc82fe0cb60add1dcde099548118dbeed8e9e494c16d1",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "907.50560208",
+    "hash": "0x1253dc71240124941bfdfce11b6118afc44713b9ab4740efe79d1861f838196f",
+    "token": "Aave Token (AAVE)"
   }
 ]
