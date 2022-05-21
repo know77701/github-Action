@@ -1,0 +1,32 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "912.5889308",
+    "hash": "0x0abf5871dd9578c20d6169127f4159217f91e826e3433689a982cbf1da93427e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,034.93445025",
+    "hash": "0x985f25ce695c30ff72fbbb6a1a5fe7490223bb3ad7e20d6bc068e7b798625112",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "716,476.383128",
+    "hash": "0x05a88a8b48a8e9df9b2c608ec455d79534aac7574e6189bd4322d9b48a3dd95d",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,330.50208767",
+    "hash": "0x96e1ac77a15a0a169f333ecf8b0da1fccbeb5a37926c4299d9adf993bbf7e1cf",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "736.825",
+    "hash": "0xcf21801e0b124a10c0a17173cc41a603245f4c940c47699cb57852f92e744815",
+    "token": "Aave Token (AAVE)"
+  }
+]
