@@ -400,5 +400,47 @@
     "value": "1,662.431522233638534554",
     "hash": "0x3e543766bfd831d5608a48c6a983fb7baa9d83a77217fb884ba6b595b5605e6d",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,543.168",
+    "hash": "0x39b404c9002e421c7b061fab715f15e96fb0c74e8aac8df4681bac885f5cff71",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220.21362108",
+    "hash": "0x3af2ba52f3c394b5938c6cdae2a5ea8a54879c2fe5330fb6af59582476404b82",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "316,266.256550055134550082",
+    "hash": "0xd2f88b207094ab5c943a0cc57de0cc1562d16f5ca0203f2bb04ef50385bdc780",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "137,856.990440993632879747",
+    "hash": "0xfc523a66ba4e1a3a4103717af277c862b52caf8159ff8b25a14c745d9b851516",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,477.49421891",
+    "hash": "0x818f1d60062caab2913945f611f0dd83170bb8e2ab60c8c67c1ba98f702dd84a",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,790.192",
+    "hash": "0x78a765e2a289f20350d1513bbd357dbbcb8f53746ccf4f8fac8ae58c4106e64c",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220.22384556",
+    "hash": "0x8e80a3d1248266f161fceef8a5cd6fb80cdecd6d458ab71eec790208fb160384",
+    "token": "Compound (COMP)"
   }
 ]
