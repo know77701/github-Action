@@ -106,5 +106,23 @@
     "value": "3,165,884.99971656",
     "hash": "0xbb90fce4acc7232f88c535cfe01abb29b26ef5c29f40bd434c4f9a07ef7b0d78",
     "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "283,536.590041234448375087",
+    "hash": "0x5537426bea347657a50aedceb5c1598f3727caf67a5a778c58ec9946c2b1c65b",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,231",
+    "hash": "0x14eccc8a9df24a9ca83635ca97e48cd3db7c352ccdbcbba90c43cd081a626db9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,832.833667534592822752",
+    "hash": "0x579ff789df543a6c77125d90a740c6c494839e815514daffdea08c21e7aa7218",
+    "token": "NuCypher (NU)"
   }
 ]
