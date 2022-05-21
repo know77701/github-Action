@@ -334,5 +334,11 @@
     "value": "149.96990372",
     "hash": "0xc1e3de1c11bd1da43177d05ceda9265d5f728720312b943790fb8265a7f7c156",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "309,868",
+    "hash": "0x8eddb2984da887e89cc4c01359d4cf5e00f3d58dcfdafa3bb0622acd4b82992a",
+    "token": "chiliZ (CHZ)"
   }
 ]
