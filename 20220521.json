@@ -562,5 +562,11 @@
     "value": "1,020,631",
     "hash": "0xd8e141fe01bfe632d4905705c1611b3047a5db80dea3c9c9a9f615611a5660e8",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,308,236.36417749",
+    "hash": "0x93bf44ed2050de807765eed103f5a0b0521d21648e9e6f19062bc5060224ba9d",
+    "token": "Threshold Ne... (T)"
   }
 ]
