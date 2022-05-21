@@ -274,5 +274,35 @@
     "value": "367.32914012",
     "hash": "0x7e84f812459ea819ca9dec97d43d8ec6a4490390064bf8da03253e8102f0deca",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "177,290.25960652",
+    "hash": "0xb0fd790e10bc06cddfec0de8c2aae93abc2000f6e46c5993f6a3b848800f44fd",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96992945",
+    "hash": "0x9bc0d30e1cee3664dd99304c69560946984d7a87f6783eb515615d64bc011e22",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,682.94154",
+    "hash": "0x466e7496565819083ffe81669495823d6195cdb56ebbf1d257dda0c51bd34254",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "638,078.1042227",
+    "hash": "0x3bd284e97679732e8e65b26d93197a693b6e68d3378212600db6a01534354120",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "253,361.67127314",
+    "hash": "0xb018c13f57399aeaf688ebbb86c85f7fa0f6bfcd8f77869510fe12e51e955c85",
+    "token": "Storj (STORJ)"
   }
 ]
