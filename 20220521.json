@@ -304,5 +304,29 @@
     "value": "253,361.67127314",
     "hash": "0xb018c13f57399aeaf688ebbb86c85f7fa0f6bfcd8f77869510fe12e51e955c85",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,597.98983596",
+    "hash": "0x6b09d2b59e847c24f217b522512c7f06b394a237c39f18cf789ce146d0801baf",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "370.2835468",
+    "hash": "0x1ebd35619fe050e9a995be9d41e76e7ab09418399ccff638247ad5f5f0e96fa4",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "701.85",
+    "hash": "0x1a934fa1c9d1d720c8030b4f0caf121f70bfca755d0bc42de0ff98f5e16eae70",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "243,894.99994123",
+    "hash": "0x9907f06d6251ed739a25016496d80b42a5c6c26e0d0f5ee76a6ca775b84d9aef",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
