@@ -166,5 +166,17 @@
     "value": "69,450.26422328",
     "hash": "0x9cdb86a6908b35142355cf24c0f3b37e1bf120f56ce687a0d78e0a28a048ddb4",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,247.1373",
+    "hash": "0x30d9f2a31d82a913193d966147492ff26afe57aec271252f669b92bc5c155662",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,566",
+    "hash": "0x8b5fbafeb67dc8c1b365fa4dce1e554c3c484e042643c37deea9c89f016321c6",
+    "token": "ChainLink To... (LINK)"
   }
 ]
