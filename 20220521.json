@@ -202,5 +202,17 @@
     "value": "25,024,375.62490199",
     "hash": "0xc47a53916ed5c086bc635f8d0149992e4db847c9644eeada7cef2e8080407d08",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "376,932.590638679288824366",
+    "hash": "0xfbd64d6ae0409b0b0cd159bde931fe3cf8727acde2db5e4bb6c159c5b035ed72",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6.81",
+    "hash": "0xee792a6b9f7bffc45685352066211c0d16bc17c5b7e5b1203a33594b9c9edeea",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
