@@ -460,5 +460,23 @@
     "value": "2,572.64444681",
     "hash": "0x65551f7d91280ff9c846f2bffe2870f2ed3dc0fdfc799e8cd190e740255501ee",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,794.66143460846696557",
+    "hash": "0xcf5e6472f6ff84c9735c4b5a6e08e90d8e73211f1e7d24e49512b30a4a8ac6e9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,402.489291415155372167",
+    "hash": "0x24cf5c30deec8d65f46981c01555b38923b3a3c5467b1a82dbd2aa930c4f2874",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "369,701.829413364844627833",
+    "hash": "0x192592bee08e810cb155e5829edc0944bc24e8c533e5289dec28d967ed038e24",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
