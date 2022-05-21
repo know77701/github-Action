@@ -568,5 +568,17 @@
     "value": "3,308,236.36417749",
     "hash": "0x93bf44ed2050de807765eed103f5a0b0521d21648e9e6f19062bc5060224ba9d",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,603.299286238439095352",
+    "hash": "0xf0c730cdddfe917f168fbd842c3e00e549a51dcc9d744eb6045b66a6c25ecdf9",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,370.700625231560904648",
+    "hash": "0xce0b5ece15a91223becb05c2d40a42dcf40ce547277c6370dba8ca3f9bd69d3b",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
