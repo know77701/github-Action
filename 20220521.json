@@ -214,5 +214,23 @@
     "value": "6.81",
     "hash": "0xee792a6b9f7bffc45685352066211c0d16bc17c5b7e5b1203a33594b9c9edeea",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,030.035637173455844955",
+    "hash": "0x93d2ac83860977878ce62cc5edcda4e787c396b5fc4d2152c4939ccaeea49277",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,917.99982231",
+    "hash": "0x3ebebc2333464f1a83b010a1fd289d3b94b04abef47d456455e0b391bea1676d",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,022.803914020711175634",
+    "hash": "0x2ee050634504a89ade8e751cc6a00af8baedb163cedb15ddf46f477b96624896",
+    "token": "BAT (BAT)"
   }
 ]
