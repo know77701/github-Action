@@ -610,5 +610,23 @@
     "value": "152,931.37910093",
     "hash": "0x609c41695def26c4f9dfade4ea7b4f45ed54dda8283546ac7c5b6cc34de786a9",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,043",
+    "hash": "0x73bba30721ee1e0bbdf48c675349f8ffe6e2e5daa5eac2e64dd2c1015b23837d",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,042",
+    "hash": "0x530dafe5b9017c4483e86abe692fb160d5589e743b0490e4344d23836007c9cd",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,358",
+    "hash": "0xed15520c1e843e3d48a892d8d3ca704021960d2dd4fb8e7840f6b0278e0b75f2",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
