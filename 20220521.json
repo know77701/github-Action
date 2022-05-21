@@ -592,5 +592,23 @@
     "value": "1,420,000",
     "hash": "0x498cec36ea37e49562d77722735d59ac2a7d088df5f0a3d7b18d307ebf715ca0",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,754",
+    "hash": "0x7d4c8818e46f7e03f74444089db10acc607ce5bbdbf5b95543e073bbdec8ec5c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,059.90006293",
+    "hash": "0xf9a65f84c66c6182f656ecf7f0397d756212f6eb1ebc39d86903150a9ae129d6",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152,931.37910093",
+    "hash": "0x609c41695def26c4f9dfade4ea7b4f45ed54dda8283546ac7c5b6cc34de786a9",
+    "token": "SAND (SAND)"
   }
 ]
