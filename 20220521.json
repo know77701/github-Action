@@ -652,5 +652,29 @@
     "value": "3,631,856.50006572",
     "hash": "0x9e61ed61c8760c394ece97f77f4ce47aad501afbbd7d24621f218a431103a892",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,303.612893156034388494",
+    "hash": "0xa9aa117f7ea261b8fc8d23fb034fd50dc40857140bf653a765bb937676b9d30f",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,009.308106843965611506",
+    "hash": "0x7369681f98915679b36d6b7628a1981f956cccb4ee0e3982a8bb8308069d13aa",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,149,346",
+    "hash": "0xcf8323e1130b90318ae879ff9bd3c3ab97bfd59a88e8be7de52dec15c778044d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,585,547.46364673",
+    "hash": "0x21591ff48516b650cfd02e18d0a279dd69944516f6d02fa34f8566ba38ec97d9",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
