@@ -538,5 +538,17 @@
     "value": "63,741.350437426457308191",
     "hash": "0xd90a2552908c173bd4e36264cac8c4a303dff169a036f28af7882aa1cd5db56b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,779,313.30613269",
+    "hash": "0x9582198be5c0c3794914dc7a1c06faed5d75730578d6bee292c165cc8bf5aaa3",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,646,582",
+    "hash": "0x56e907d0d4e0ccf017dd8d40d368ffe97e7b142e51bf075f47ba62ca5bfac62e",
+    "token": "Mainframe To... (MFT)"
   }
 ]
