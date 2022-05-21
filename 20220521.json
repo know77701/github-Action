@@ -160,5 +160,11 @@
     "value": "6,673.539934",
     "hash": "0xb9332dcdc1f8d547771dedab20edcd08a84659db45d11f0a80ad5ec0e6409a07",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,450.26422328",
+    "hash": "0x9cdb86a6908b35142355cf24c0f3b37e1bf120f56ce687a0d78e0a28a048ddb4",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
