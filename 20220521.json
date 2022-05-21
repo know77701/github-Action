@@ -358,5 +358,47 @@
     "value": "101,252",
     "hash": "0x24cc8662c2ffa4ad0d088f1a11757625fba4f63a4cc10d34d09fe0dbfdfcee27",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x3d80b446716dff6b8a5ef660b7fde66ec30411a27ab25b3bb33aa1fa1f86603a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,078,264.35921829",
+    "hash": "0xd5910ff4eb94307bd1b76086d033f41b75397309c19a45ce61020ed16166d390",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x2af49b76a49190176589632710db3536ba95c1a009d43d254b414d57dcb5aeaa",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x8204db76e505608d834dd59ab14c45685bcef66fdf0920e3b8b0347c112bfbd4",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x974ea1d9646ba4a027058f733d6219ffdc97d2ca169fb4ca515156993ce4b53f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,708.78735549",
+    "hash": "0x3fe2cc73a51c44cfd0d01efb92816a0c1179247a6aa53e8f9caa0aac7e26a628",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,662.431522233638534554",
+    "hash": "0x3e543766bfd831d5608a48c6a983fb7baa9d83a77217fb884ba6b595b5605e6d",
+    "token": "Decentraland (MANA)"
   }
 ]
