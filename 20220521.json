@@ -454,5 +454,11 @@
     "value": "732.42324038",
     "hash": "0x172770d32827d39f213662af943041293501dba2748d6adc17229d625da239fe",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,572.64444681",
+    "hash": "0x65551f7d91280ff9c846f2bffe2870f2ed3dc0fdfc799e8cd190e740255501ee",
+    "token": "Numeraire (NMR)"
   }
 ]
