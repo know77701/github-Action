@@ -676,5 +676,29 @@
     "value": "22,585,547.46364673",
     "hash": "0x21591ff48516b650cfd02e18d0a279dd69944516f6d02fa34f8566ba38ec97d9",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "584,135.879490896367052305",
+    "hash": "0x59bc62a69e33b4393b04f2a2b78f4e7aeddca79c5e5e3073ed009ee8f015d1a3",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "138,276.024755714449067079",
+    "hash": "0x3c95bd45bc5857a1279b1aad8a54fe4598899a489d76bdf03f87d819cde50172",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,114,883.120509103632947695",
+    "hash": "0x7582a5322bddd33364ef4bc961b6751c87fd4e15f672508552f10dc6424bac86",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,381.820326115550932921",
+    "hash": "0xdb140b7c81cac8a85de216f41c605c73278e28f17f4b3dc3b25dfd937727f8ba",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
