@@ -580,5 +580,17 @@
     "value": "121,370.700625231560904648",
     "hash": "0xce0b5ece15a91223becb05c2d40a42dcf40ce547277c6370dba8ca3f9bd69d3b",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,589.990592550856801652",
+    "hash": "0x0f7089c85115bfcf8137b1b138177b8917b4692c742aa5a6619f5615018d128d",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,420,000",
+    "hash": "0x498cec36ea37e49562d77722735d59ac2a7d088df5f0a3d7b18d307ebf715ca0",
+    "token": "Threshold Ne... (T)"
   }
 ]
