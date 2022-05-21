@@ -76,5 +76,35 @@
     "value": "3,125.25",
     "hash": "0xed2b5d0ff840ae6a5cc1c1d0aa8f16e5d1a3e1b6645810ce1fbddb17fa7334d9",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,104.078899834220649965",
+    "hash": "0x31ac74f20b958eae06c74ad26923e17fd0e0641b7214c0c174f58044bd28f729",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,656.118349751330974948",
+    "hash": "0x3822cb2e3586f85b47284a2b9f990be5684a9c7912a8e0840dbf0fd8d558046b",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,426.14158616124",
+    "hash": "0x203e5a02593481cfe43f512d4ea61ebc09cff5cdc1635c83e7a8a7ef93b216a5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,587,312.01679523",
+    "hash": "0x104fe7caf9c70d0e6e21c6a42a9677d5ca2e5fa453a5473538853e1642451452",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,165,884.99971656",
+    "hash": "0xbb90fce4acc7232f88c535cfe01abb29b26ef5c29f40bd434c4f9a07ef7b0d78",
+    "token": "STPT (STPT)"
   }
 ]
