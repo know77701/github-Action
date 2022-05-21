@@ -148,5 +148,17 @@
     "value": "293,838.622452280581517508",
     "hash": "0x138a2b5a4e6c1e1fc8da5af4cfa3a2797bb0bc382ddbd2243446c9996d548764",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,000",
+    "hash": "0x8416ed452e2d49298dca19ac0095a154c619ed860f52f5bbcd0b72025be2b375",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,673.539934",
+    "hash": "0xb9332dcdc1f8d547771dedab20edcd08a84659db45d11f0a80ad5ec0e6409a07",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
