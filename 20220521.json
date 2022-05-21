@@ -550,5 +550,17 @@
     "value": "4,646,582",
     "hash": "0x56e907d0d4e0ccf017dd8d40d368ffe97e7b142e51bf075f47ba62ca5bfac62e",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,554,681.9999186",
+    "hash": "0xc52a6d74b99ae88c469a240d167456e356ace20525978d240e6204691e8c2cb0",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,020,631",
+    "hash": "0xd8e141fe01bfe632d4905705c1611b3047a5db80dea3c9c9a9f615611a5660e8",
+    "token": "Mainframe To... (MFT)"
   }
 ]
