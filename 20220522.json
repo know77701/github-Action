@@ -232,5 +232,17 @@
     "value": "9,283.003401335632930303",
     "hash": "0x06ec1826c7f55e44e8a4049478b255996df0171f8597a2dfe7e7e3afb88c487f",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "432,340.789629150797820068",
+    "hash": "0xca74812398ecdc254154fb4afb1575bedcb996166f51e0e26b817773669f41aa",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,314,623.052242529202179932",
+    "hash": "0x9164502167c2b98c10e1a7f7d0cee5a8952c10365aee899c3658dd204a20ce80",
+    "token": "Loom Token (LOOM)"
   }
 ]
