@@ -280,5 +280,17 @@
     "value": "17,011.790224",
     "hash": "0x3d6bad765699b7b6c65c52648c66012f75fde95aec47f5db8633b20cee6db9d7",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,497,146.96190992",
+    "hash": "0x2474343b841f5b79fdaa179231f43df50ff86c3bcdba1f09d3f90465822c588f",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "699,594",
+    "hash": "0xce6fec5e781ab1d864b740ddb84028b03e892c41a54406ff20b05bad335cdfcd",
+    "token": "Ankr Network (ANKR)"
   }
 ]
