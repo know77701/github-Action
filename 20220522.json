@@ -184,5 +184,23 @@
     "value": "6,477,160.938080573641540941",
     "hash": "0x97480209f94a2717788c9ee12f44de812e28b5e060532cbc14e855697de17681",
     "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,281.046398964367069697",
+    "hash": "0x99c97db26a902f0d130d6bcc60e7ffa301d3a6dfda9f246c6d56dc4c0ed62def",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "568,585.731637681766495141",
+    "hash": "0x8348b3909260cca57322173771403822225a6a3852d49c41761670ea070bd890",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "297,424.320210308233504859",
+    "hash": "0x4d3277a2f463da34e9fbe1724b6db6c0201361669e8e92aed8c7a9f2827f3e25",
+    "token": "BAT (BAT)"
   }
 ]
