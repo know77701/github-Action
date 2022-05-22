@@ -244,5 +244,23 @@
     "value": "2,314,623.052242529202179932",
     "hash": "0x9164502167c2b98c10e1a7f7d0cee5a8952c10365aee899c3658dd204a20ce80",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,988.76126849",
+    "hash": "0x31d21fef816b8ab4a69a503d1ef4cf3846e6a2d2be2104379b67519babb8d27f",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,835.57032356",
+    "hash": "0xf2d7ebb5fc83cae86aacb09b4ac585519b44973ad1cee79ac691216990d31e77",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "746,240.547176",
+    "hash": "0x65dc8d07c037c6c6e436a06d21ba83beb20183f1a65cffe0b8e7037e1d4ccddc",
+    "token": "Serum (SRM)"
   }
 ]
