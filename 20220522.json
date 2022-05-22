@@ -262,5 +262,11 @@
     "value": "746,240.547176",
     "hash": "0x65dc8d07c037c6c6e436a06d21ba83beb20183f1a65cffe0b8e7037e1d4ccddc",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,456,363.1999434",
+    "hash": "0x092eab5060b3cf4331f142c30ba702b1320d4a9f1d067e48d9ed911c200ac869",
+    "token": "Mainframe To... (MFT)"
   }
 ]
