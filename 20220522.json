@@ -406,5 +406,17 @@
     "value": "65,900.7",
     "hash": "0xb2df4391b79f45723a8eef04a6ef1377ebc91ba7fef6ea556f8c906d0741f3bb",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.51068549",
+    "hash": "0xa3ae8678709fcfdd0becfcefc1c96b839205580f77373ad00567cb0497e31c96",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000",
+    "hash": "0xabc3baf2b37e9c66111c14bc1bb3c2448a12c3368d29da5aee19287fc60090f0",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
