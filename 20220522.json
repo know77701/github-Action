@@ -448,5 +448,29 @@
     "value": "144,811",
     "hash": "0x2355123afa9309f8b6b7742819a72f3c6b74902d3c5e777f267d15ccfb98d3c2",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,600",
+    "hash": "0x30fa6e3a846f9ccf01af584cc235cc7b2c1178174535e20331f2effc2712739a",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,602.7",
+    "hash": "0xea73bed97d2ac212834ba5e058fd1c252c6fd1023ca7a1f496113d131ee887de",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "850.32",
+    "hash": "0xc08690074105e8cffcaa29fa5ffb0441238cfc5291d521a8c92d98d21a62f73e",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,711.00742883",
+    "hash": "0xe9aeae114094564059ff4e1d20438cdd25d5d410ac91cbb1346a7a0d7f295720",
+    "token": "Reputation (REPv2)"
   }
 ]
