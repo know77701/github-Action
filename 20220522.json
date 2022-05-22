@@ -70,5 +70,23 @@
     "value": "23,462.3282",
     "hash": "0x054efecc0089277609bf55dfc302944d1cf1294bc1d3c12dfb079ae3ab836583",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,105.024401031342194158",
+    "hash": "0xbd92030de2f950669fb69e22319b6701386c1a19edf699f3be361ce019781e37",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,937.779598968657805842",
+    "hash": "0xfc1910540407cf7658e1c9191d38ec4075165b86a7b0574ee6204d4364434cc4",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,064.385056753713765066",
+    "hash": "0x6be3d3ad584cd25821aeb517928f593508c6e67b0e176c7baa374937a7b5a2e4",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
