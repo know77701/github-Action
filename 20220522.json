@@ -292,5 +292,77 @@
     "value": "699,594",
     "hash": "0xce6fec5e781ab1d864b740ddb84028b03e892c41a54406ff20b05bad335cdfcd",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,520.493078",
+    "hash": "0x0082070c49692d463bb92afee3dcfac41df6b72f59746cc05030feb33dd7c916",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,673",
+    "hash": "0x0585658a08a45569dbf36f343a96a797728dc2a1f29f04d96bcd5b46bd70fa48",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,514.654030542021482434",
+    "hash": "0xca8d5f5244c68e76fbceded2d9a2bf0bbd9c1799067534257a93cdd998f96bbb",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,130.838350608512171479",
+    "hash": "0xb3b9dc251228612d39aa82072d49330801347eb35406cd7536251e120b728338",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,685.065665",
+    "hash": "0x5bb051db85665575dea94ac6d1e5a5eb1e191a53074e2e6ae8faed3b40fe5abc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,131.820839083281467459",
+    "hash": "0xf047b9d2fe4bf1fd36b911161fcdbbda8a3b6141f5ca2465083ca80c202c7fc3",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,567,975.706082477147081539",
+    "hash": "0x915b8b973d3fca85157cdfc84bcbbf8863c1241ba1afc22560b509d1f3a3a0bb",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,044,000",
+    "hash": "0xd719caeb113084df237a482bb1c0b764a22135d02dbbe01d806095d7dfb8ee50",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,390.086163205615608327",
+    "hash": "0x6eafbe76264aeefb11308a0376efc6e848e851e5479e502fbc19d8346fc06acc",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,396,936.551638852852918461",
+    "hash": "0xb043ca3ecf614b261c16f52e2f987e8b36dec21460e6616d71799f4b48369522",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,792.99994154",
+    "hash": "0x33d71c88c85de18667c7f1128a46cc3f294c06a723303679a7bb95073eef0756",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,916",
+    "hash": "0x898b579c98abba208e15b2c34c21ffaa2088a271f9fa1ec41e26a952f25aaa1d",
+    "token": "Storj (STORJ)"
   }
 ]
