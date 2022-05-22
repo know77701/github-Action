@@ -478,5 +478,11 @@
     "value": "625,596.899",
     "hash": "0xdc4eaae23515c5267a2e7fa12587c41a8f069e1bad044926f50cbcb3cdbb7aa4",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "579,511.022031736514581092",
+    "hash": "0x4feefe7fcf24a2ff898e409a3fec1ac90a6cfbc7e39794ef81ff0cd21b5ce811",
+    "token": "Threshold Ne... (T)"
   }
 ]
