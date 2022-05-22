@@ -160,5 +160,11 @@
     "value": "564.4711",
     "hash": "0x59c44062c2b142759c0655446ff95de563ddba08c58b1cceb985cb50ea26ad79",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,613.307865729143198348",
+    "hash": "0x766d08ecc50261401b475c98a3a608184d2658e40fff3d016691c12a13a58165",
+    "token": "Gitcoin (GTC)"
   }
 ]
