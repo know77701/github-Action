@@ -274,5 +274,11 @@
     "value": "4,656,736",
     "hash": "0x442a6f198aef0f374af5ee1736cb13fed58b8ba1d049d27915767243aeaf1408",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,011.790224",
+    "hash": "0x3d6bad765699b7b6c65c52648c66012f75fde95aec47f5db8633b20cee6db9d7",
+    "token": "NuCypher (NU)"
   }
 ]
