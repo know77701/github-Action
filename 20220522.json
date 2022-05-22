@@ -472,5 +472,11 @@
     "value": "1,711.00742883",
     "hash": "0xe9aeae114094564059ff4e1d20438cdd25d5d410ac91cbb1346a7a0d7f295720",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "625,596.899",
+    "hash": "0xdc4eaae23515c5267a2e7fa12587c41a8f069e1bad044926f50cbcb3cdbb7aa4",
+    "token": "NuCypher (NU)"
   }
 ]
