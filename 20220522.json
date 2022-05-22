@@ -166,5 +166,23 @@
     "value": "7,613.307865729143198348",
     "hash": "0x766d08ecc50261401b475c98a3a608184d2658e40fff3d016691c12a13a58165",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "329,220.531353930058120253",
+    "hash": "0x855fd844c23387747e9b9ddacbaeefb316d250d74d2db9cab4bafb4383f4454f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "138,947.811439679941879747",
+    "hash": "0x379bf2892f188553bfce0988d6dc1524e29fbf22a53ceae5445e6312b86ee843",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,477,160.938080573641540941",
+    "hash": "0x97480209f94a2717788c9ee12f44de812e28b5e060532cbc14e855697de17681",
+    "token": "dKargo (DKA)"
   }
 ]
