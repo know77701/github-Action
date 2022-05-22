@@ -418,5 +418,17 @@
     "value": "60,000",
     "hash": "0xabc3baf2b37e9c66111c14bc1bb3c2448a12c3368d29da5aee19287fc60090f0",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,136.343",
+    "hash": "0x3bba244b43a3e06449ed454809b01563429fb5578a4f3428d868a4609e33634f",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "572,409.06889652",
+    "hash": "0xdb795658013411639dd7f4fe85e4c54a0c50bcb9c3f01ed0da0986c361a5a246",
+    "token": "Bifrost (BFC)"
   }
 ]
