@@ -118,5 +118,47 @@
     "value": "4,338.9427",
     "hash": "0x5657348a24ce0de5705661a8b80f7cd6366110cffb784892fe69e4700ede8659",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,387.611691268632232966",
+    "hash": "0x128cadddf527baa2e884190b35671c35a9e303d20b7ef53eb8239e30b0585c42",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250,137.810994291367767034",
+    "hash": "0x60f3d0d2faacaf1d0b97427850ab11d1658b264a0f7f52da690a27227758317e",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,893,949.500500656773963401",
+    "hash": "0x498c5c0026675d86068b701e8d0b20f3cadd9f2f7efad3b3491562fc1a06a99e",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,359.348959782009644518",
+    "hash": "0x039b2cba8537c6eeb1c4b9993fa28d7e5754da2795f6ea000a033f102e113739",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,270,349.037712983226036599",
+    "hash": "0x312e81e3ba2dc8924be2b465637116eba1902a05452b4b9c404c57dd4945f186",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,762.537077107990355482",
+    "hash": "0xe421119191c11e88ea9c5e0b4815a94e2de7fb33b0225b5ea58417343e29b917",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "564.4711",
+    "hash": "0x59c44062c2b142759c0655446ff95de563ddba08c58b1cceb985cb50ea26ad79",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
