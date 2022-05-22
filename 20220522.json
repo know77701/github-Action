@@ -442,5 +442,11 @@
     "value": "15,024",
     "hash": "0xe88a1479e470170d915dd0510c7317a189e5bb89df1db89d0a69ab2572cb2673",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "144,811",
+    "hash": "0x2355123afa9309f8b6b7742819a72f3c6b74902d3c5e777f267d15ccfb98d3c2",
+    "token": "Graph Token (GRT)"
   }
 ]
