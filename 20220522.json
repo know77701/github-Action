@@ -364,5 +364,17 @@
     "value": "159,916",
     "hash": "0x898b579c98abba208e15b2c34c21ffaa2088a271f9fa1ec41e26a952f25aaa1d",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,541.4",
+    "hash": "0xc60044faaf6fc02e497708ee0e84853054c5574ad8c2f2ee51c59ec8ac7974e7",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,975",
+    "hash": "0x140960a2670f3d7e77342e799d949e2b4ed966b96782989b6ebc9745a6a4024d",
+    "token": "Quiztok Toke... (QTCON)"
   }
 ]
