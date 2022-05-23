@@ -532,5 +532,17 @@
     "value": "227,287.41915735",
     "hash": "0x86f93937786f5ade5affadb0a856d7c0446a64daf513c928e23290052656ecd6",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,773.888282999203071669",
+    "hash": "0x6e999ae3575d21e38ffd36ac3fd55cf7cc6d6b96dc592de625f895bef3bdd5b4",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "282,161.17709053",
+    "hash": "0x0290e40a47ce2b6d406f62ce3da3da2658536d140b70054ad1e92db0ef3261d3",
+    "token": "BAT (BAT)"
   }
 ]
