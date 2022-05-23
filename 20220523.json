@@ -646,5 +646,23 @@
     "value": "2,999.29",
     "hash": "0x400ac41eb2aaaac1608c62cdf1b8a32e5ef6274904ae5a8d5484b6591d1ccbb7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,279.29",
+    "hash": "0x0d00b1b0239b13fe9812d41f4a7f337e51b5c4cfcb2dbb3666d6b86a5661fac9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,940.49946859",
+    "hash": "0x2975b8cc885836ebbff3706b8accf3201fae9ab1d18cffe45d103463b4c49fa1",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,500",
+    "hash": "0x4ee4cd006e0dc4f54e73908d45f3b8461c72d60c1f7d1f4279327c952b07a295",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
