@@ -460,5 +460,29 @@
     "value": "15,952.317333775407813889",
     "hash": "0x5de275bba96851ffd535307ce088603e678bda07216aad7d29bbca90c10265a2",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,587.99994495",
+    "hash": "0x3b37c07336055385f31bf0a9152d0619b5047b89f3bed66c3ae7d651e8aa605d",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,456,490.19997284",
+    "hash": "0x235e39d2f82513fcd43cec4529c1e79905fdbf8384d474115ffa6d397954eaeb",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "535,450.028028722380275618",
+    "hash": "0xf1d59e2be09206de12a2f2c0537737761c4e0a6244dc68ae4d9b19a5563640ba",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.29",
+    "hash": "0x9098cd4c6eb16001fb1c67da17f1774b3df9d1cb0ec2c3344c17e5b1c0f6c93f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
