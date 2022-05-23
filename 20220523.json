@@ -286,5 +286,35 @@
     "value": "4,712,754.03364339",
     "hash": "0x58bfd38c69cec8e365769e7a2d35a70240b108dddc69ae6a30abe707f4bb0dc2",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,587.878553830339143574",
+    "hash": "0x17e2417c58d80a4fdfd91b56f628eeb3b1cf70e0118af8f832109fdf3e2321ed",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,415.20393193",
+    "hash": "0x48d9b280d77849d2fae1ac8316a8b503cfcf6a6367986ede5956ed06cea11d17",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,811.376283901056506436",
+    "hash": "0xe3498eaa46f75edb7f3a61cf1e37ace0c53ebde130663bc8abf32121c645dacd",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,958.351386410892439098",
+    "hash": "0x5e77c3b4b75a900dadbb8640892dc9d4ca4c0dbe5a0b72482244e7bf2e6799cd",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,717,114.3044868",
+    "hash": "0xdba7196844855916ed0a34d1da88b78230e75be4e7f9b501e8c55a5c6c739252",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
