@@ -628,5 +628,17 @@
     "value": "3,798,414",
     "hash": "0x5d9d4d000e5472cbb969a45d44204cfb24b879271bfdb072d7ce30ea0ab87b6c",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,938",
+    "hash": "0x0f0b9ebf0f70d32229afdab185d2b3e672d678d8f1fbdbf43dd02f96823e9374",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,827.91269511",
+    "hash": "0x8d13359cf96f4511a0ab2fdae4268394c7125dd7bf3ed9444226a3cdd810ad5d",
+    "token": "Bancor (BNT)"
   }
 ]
