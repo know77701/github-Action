@@ -568,5 +568,11 @@
     "value": "148,581.566653700796928331",
     "hash": "0x01b359efe6028b8e953db92f12729f427d3e6f8c2f286222f590128f23971f06",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "532.89999998",
+    "hash": "0x2b47cf6dd84744e457b96b42faa95a9fcf3b87969324934fe467766a8aed9bbc",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
