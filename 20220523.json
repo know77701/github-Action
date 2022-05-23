@@ -706,5 +706,11 @@
     "value": "14,099.1",
     "hash": "0x9ba61bbd952780c1a1480cf1b3550889a8946dfe6ce73c1bd89ee0792b9a99b9",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,971.158635543208514366",
+    "hash": "0x39ddbf031b4a39481d28dac4c6a8ed982e5a1ad481b8564a786d9d255395e900",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
