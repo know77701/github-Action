@@ -322,5 +322,17 @@
     "value": "76,683",
     "hash": "0x691eb5d10303713cb69048ba788501b7e82ae9e34d78a9d6a38c25b8473270cf",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,725",
+    "hash": "0x5491a096ab222da6c37485fbcca5cc202f54e102081e3d91990badae66b84bb5",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,123.61585797",
+    "hash": "0x2a9d03b736592dc5f160a594916c96f2b4d74419f4e873366c368710897b5cc6",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
