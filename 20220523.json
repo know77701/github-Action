@@ -184,5 +184,17 @@
     "value": "17,923.353533239365404177",
     "hash": "0xceadc4ab4329fa9e7410b828db3a465081d2f694cb013772d9b81fe664a30ba7",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,587.1788716",
+    "hash": "0x64d3e15ce48c1767845b4cbcbc5a99218e4f2d73b896db8ed8b4551971e0e869",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,984",
+    "hash": "0xf2a2e6816d47dd7928e4285f2c1902c30e3448c643c232f8b6030a683936ba68",
+    "token": "1INCH Token (1INCH)"
   }
 ]
