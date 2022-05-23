@@ -640,5 +640,11 @@
     "value": "50,827.91269511",
     "hash": "0x8d13359cf96f4511a0ab2fdae4268394c7125dd7bf3ed9444226a3cdd810ad5d",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.29",
+    "hash": "0x400ac41eb2aaaac1608c62cdf1b8a32e5ef6274904ae5a8d5484b6591d1ccbb7",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
