@@ -202,5 +202,41 @@
     "value": "6,047,946.6021",
     "hash": "0xe732e02a2f9063341be469612c0dc891411992c4171e0f92cb6f78b42b0a3955",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,309.95547092618751017",
+    "hash": "0xef6686159a565543dfd671e716a6f13ba5feb163288019dc4fb6b98b12d387c1",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,146.31273299",
+    "hash": "0x8407e5ecf519132f712d0f2d7259e2cb6dabb85c8ec93ecbe97522c186978146",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,011.59781836381248983",
+    "hash": "0xea2fa9eaadf6a3f942ffd9f1493668be3849ef06f1cd90c06700cf184b06fc67",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,745,112.13267704",
+    "hash": "0xf95c321f085300d817accb9fe2a5654f4c9de9c812e1d0e86b6f0cb09ebe47d2",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x4f4bafc45d58dba23de8d8dad2e3b7f2087f221c632b700a9e9334e8fbf42381",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,996,863",
+    "hash": "0xbc9f12837b5f821a83a7105af48df04ebbc4ab366e59fd70c327451335d56d98",
+    "token": "Mainframe To... (MFT)"
   }
 ]
