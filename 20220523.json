@@ -172,5 +172,17 @@
     "value": "41,620.339666760634595823",
     "hash": "0xf67ebb20a5dc55a10326da8e6d96954d036b1bb442910f755e7e02cf4c41e8e0",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59994092",
+    "hash": "0x17d44342001a824ea226b4e884ebd7337c5910a7a0226972d0151fa0c8300ee8",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,923.353533239365404177",
+    "hash": "0xceadc4ab4329fa9e7410b828db3a465081d2f694cb013772d9b81fe664a30ba7",
+    "token": "OMG Network (OMG)"
   }
 ]
