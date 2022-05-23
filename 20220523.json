@@ -46,5 +46,65 @@
     "value": "2,772,630.582943978866750387",
     "hash": "0x007270112debd6c677f3edb5b4ae0866749c6f10b60840c5ae9e71d374c466ea",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,648.553922595388614021",
+    "hash": "0xe8d2d64f7ac259e3abe6a11f493247955c6ac7904492d7d7840e5615d18c9344",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,034",
+    "hash": "0x1085c9d1bf9851bae0e6e469c98e0f28e10fc14ee25090a11e7fdf77a54be1a4",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,959.99992479",
+    "hash": "0x704c9789584950dac4f345bc18496819b9288503f82374bba66f87c30e3fa59d",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,500",
+    "hash": "0xd342994cddbd7bcad07f55b78f26813383a7d249047c759ed36c230fbe5652a6",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,659.5596054",
+    "hash": "0x28c170e4670445c33942ed3de135a56cebd625d4623c87b6b07c5c7ff2b2025c",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,873.8351279",
+    "hash": "0xe6f1ab588ee950325299e4e2792b70e21e0aefacae01c525fe97cfd4693bd707",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,496.29997966",
+    "hash": "0xa8db9e8de8bddd4df9c9c1c37e946082d9d18acf88d19efa30bf9c762f983719",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,976.72408445",
+    "hash": "0xc19ba7b85abe2d1c8ce3102a5658040dcd449aa97f05413514ca02ec16faa309",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,898.5",
+    "hash": "0x70c06dc90440b5282388b9a6282ccba8ceda745e1fe16634384fadfbfde4a9eb",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,489.99996882",
+    "hash": "0x7ca79ab47df50606ad1e6a4a3777a514318ab9a40b6ef76b21e73ea569885ca1",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
