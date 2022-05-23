@@ -196,5 +196,11 @@
     "value": "28,984",
     "hash": "0xf2a2e6816d47dd7928e4285f2c1902c30e3448c643c232f8b6030a683936ba68",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,047,946.6021",
+    "hash": "0xe732e02a2f9063341be469612c0dc891411992c4171e0f92cb6f78b42b0a3955",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
