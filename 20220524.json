@@ -820,5 +820,11 @@
     "value": "802,636",
     "hash": "0x9ffb604b68d975d1221ad2f86201590f012f8430e40879b8f5633655d3dd65ef",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99994278",
+    "hash": "0x935bffa12ee7fcab3d5dcd8d74885e3d19ca9bc22ff15364634c55881376b6ee",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
