@@ -544,5 +544,29 @@
     "value": "15,481.064",
     "hash": "0x80134b97e13b0791b269ea3083ff5bd593f69532d8ff16b43e99e1633e28382f",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380,156.511171701378772117",
+    "hash": "0x7d90a6762a195f58dfa86457eb5dffc26c5691e5c37ecaf66b299ecda9f62bba",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,500",
+    "hash": "0xb8f663daf89082d1260950f3e3414b4599ef06179d478e67e01e0c550bc6cca6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "370,999.944138290489866771",
+    "hash": "0x5d9b7777e6e7389ea58994c5c45d9a0cc752cc52e02219ddb845d6143c2b4fdf",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,018.211736611307154785",
+    "hash": "0x3256ce530dbd15c024615d9e27b527bb2f96609438a654dfd7e6c14f5a115072",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
