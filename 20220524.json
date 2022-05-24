@@ -244,5 +244,17 @@
     "value": "14,110.723661642153433063",
     "hash": "0x6206f18b988710acdd896f2ced3f2ad119ce3f5b986f94fb6ce930c8427e3b66",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,631.65769852",
+    "hash": "0xb5e4af9ffc6690b4c2c504a5f8a4f6a8265b105cc0b73135e53c5de396a98b92",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,276.99992479",
+    "hash": "0xf8ee81a6d89b6a071ad2fb71cb5bd9f98a84b708199700a76204f2ee980d4c51",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
