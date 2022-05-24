@@ -568,5 +568,17 @@
     "value": "12,018.211736611307154785",
     "hash": "0x3256ce530dbd15c024615d9e27b527bb2f96609438a654dfd7e6c14f5a115072",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "690.35263137",
+    "hash": "0x5b6d06dec261acbe9f72a01c44e815c69c74adf972635e639c446797ea607b0e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,748.49724061",
+    "hash": "0xc86d6ce6bca3ac6cf5b93cbd1561ee3d211af057102ba704224f10ed38d8e5e6",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
