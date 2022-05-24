@@ -730,5 +730,11 @@
     "value": "2,000",
     "hash": "0xb16272ef211d4f8e8ee1ce6169f7cc9b8568175e0c897f7e4b9331a0dfdcf010",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x714e5fa948db182a9a31102b4bb37af37069a6249089c6ed192868cb00701e46",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
