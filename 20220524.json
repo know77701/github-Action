@@ -826,5 +826,23 @@
     "value": "59,987.99994278",
     "hash": "0x935bffa12ee7fcab3d5dcd8d74885e3d19ca9bc22ff15364634c55881376b6ee",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "854,497.895091504778684109",
+    "hash": "0x3d35329b3c67f7f4f8757a56e0a05e6076a80f817125092189d6416f3820a4d5",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,041.19558809",
+    "hash": "0x74045cbd95bf35f670c37eb4898bba6855dc9fb539fd73ef808715ea1b522d7a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "443,523.32674775",
+    "hash": "0x50ef09ae60a485dacae67ead9a81eb85dfcea24fab0cbb9fcb586cc856beaefe",
+    "token": "Civic (CVC)"
   }
 ]
