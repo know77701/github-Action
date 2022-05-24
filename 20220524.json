@@ -46,5 +46,83 @@
     "value": "30,344.912101631054693977",
     "hash": "0x9a06f911d816a77ffa1ad022ec8a5918a19222e646ceb9cab7da6de76c19f2dc",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,111.8352025322416339",
+    "hash": "0x18655edb2b81bf6aa48e4e6ef065e179eb8c848f43f45ced940e6bdb52db84f6",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,043.982338539581740032",
+    "hash": "0x4eb4014446dde6bbe29423970f1a8b334d37ea83a6d61d0be8a6073c52c5a8f9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,971.99998649",
+    "hash": "0xdd586011bfe14227b177896a56e3b4fe1008683c7ecedd2d970eb00e0ad6f157",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,665.036604240418259968",
+    "hash": "0xb3f952f2c8139e0bc54885bb6b3432821033d7816b7e00be8e46886be733ceb4",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,972",
+    "hash": "0xe707624bacc1770928ba2c8fa9a03bbfc06b942ba30738331fd933cef1e18565",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99991332",
+    "hash": "0xac7f469a58181d2694e2ac5e98e9c76b070e8c6e800dc465897caaa397466cee",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310",
+    "hash": "0xfc2a242e999f0e8118a3c7b883aa76b9b2aaf9714973c880288ec0265240a597",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,060.005",
+    "hash": "0x3f6e0f8e0994542cfdbe992e179fb0bca519d42a75c37803589054bf88ff9b36",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,407,311.35475796",
+    "hash": "0xaa0b7178894fcb8e76c374c2cfe6eefd39991c6765b8073b0c9ca92ada93a8fb",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "224.0017155",
+    "hash": "0x9897c6614fe1bf49e837565978e7be45408861927bb722a0e3cbb642ff6e4f42",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,676.32037037",
+    "hash": "0x70e4f15b3a48196497b5ffd887312984f6239b376759906739684642f19f4ec2",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,978.881773736264514366",
+    "hash": "0xbbfb4cdb21a72e223af94b72d3b7bc3aa2ef7c9ab2bfac68cf6bb1e69be523d2",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,453.799959354100234915",
+    "hash": "0x7edeb04f6291c1e13e40c719ebf0c2cc5e056cce48a86c688ca2499bc8368c52",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
