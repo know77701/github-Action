@@ -796,5 +796,29 @@
     "value": "78,415.20391426",
     "hash": "0x2d7f31fa00ba979cc92bd678c71a7a2d09083a0e012591be3f0dcd0491ee89da",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "632,275",
+    "hash": "0x048ae1f8cd910aef2eac43fdda97eb7f02a4b47e97616ffb8d748aefb36cb132",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,985",
+    "hash": "0x911f0a9bdd5ba24a74ad4571dfe5ded1dc3bd8c7369e6811ce144d3e5dc30e19",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,538",
+    "hash": "0x3135b2ed7349522bad81de01c460d2fdcb0cbfad2a05ca5808c51cabc1a9b549",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "802,636",
+    "hash": "0x9ffb604b68d975d1221ad2f86201590f012f8430e40879b8f5633655d3dd65ef",
+    "token": "Aergo (AERGO)"
   }
 ]
