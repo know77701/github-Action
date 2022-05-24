@@ -586,5 +586,23 @@
     "value": "355,006.50020478",
     "hash": "0x825bb35ce5762beacd85bba58e90a1aeac5ff272dac9d692bba4d4e1cc4cf1b9",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,956.93988895",
+    "hash": "0x7224c3c20b694522533051bd5bdae34873d1d39fd68d9fc00a837f603cb432d1",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,435.05562631",
+    "hash": "0x42bcc748fa9713830d0030fb58532ce00e9b86a71a9d313d5e37f604bf106c6f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,418.11444154",
+    "hash": "0x88a1c62fcc8aa28053981d2bc5450530f5c9246643091d3726128b395fc5de9c",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
