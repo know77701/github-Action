@@ -160,5 +160,23 @@
     "value": "30,844",
     "hash": "0xfb6bf2309fb754a8d5c1ed08d9e03ea8d69f1c16aac8c3198d9b7ab805108f64",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,656,863",
+    "hash": "0x1d6d90c44eacd34d9a53f88c4a4015f817fdf5278ea6d8abbc5164ce42e2ef8b",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,167,821.31774582",
+    "hash": "0x766867671f9df4e99328860e1cd51c091ed94f29588141dd072758f94f100623",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,338,976.30241717",
+    "hash": "0x46c498d94fe2494796328d79db60e8ff3f7574478709d96b3d43c581447d3b29",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
