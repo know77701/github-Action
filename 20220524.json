@@ -268,5 +268,17 @@
     "value": "815.06295262",
     "hash": "0xc1a7898c775e3a4eefbcd422ab8e856237cdc44235bc6fe139ef434a136a6101",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,367.17932680038377768",
+    "hash": "0x22e4cbab83a7921f1e624a121b8c62387c631a38af7c166f4886bf18236c11d6",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,221.00595009961622232",
+    "hash": "0xeb85d147dca92732a436988c787ee2b3b090b5c7d31cebb2eb7e0e8ce2e773af",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
