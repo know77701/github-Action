@@ -430,5 +430,11 @@
     "value": "21,345.458781865644566241",
     "hash": "0xf0de7bd6ceceb51a5141a3607c0a980e3d90456d30022ccd7d4168dac847b215",
     "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,041",
+    "hash": "0x5af14f42b5d4ee2e4d82d60e1c2c35d6d3cd31ba9ea0467e98a2d2a8fbdeda2a",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
