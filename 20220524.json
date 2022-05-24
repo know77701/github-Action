@@ -616,5 +616,23 @@
     "value": "17,705.06605371",
     "hash": "0x96a9c71578ecf4ca54d4d372286cb66070b6f97800df3f5362265445f798b6dd",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,299,526.80737812",
+    "hash": "0xe09621f515904e383daffd0f4370e1050f88ad227d41e8b929cd67c6de27592a",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "467,633.57655581",
+    "hash": "0x7faad7363c0c02c0852cc326d5118983dd368d5d5f9424611ab0c07fb270e08c",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "656,380.81687876",
+    "hash": "0xb782da4dfbddb04f6960ce7f4cef1a092e4cd5cc8cb9cf26ecee924fdeebee3d",
+    "token": "Civic (CVC)"
   }
 ]
