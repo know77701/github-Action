@@ -316,5 +316,23 @@
     "value": "7,720,783.335572006726562281",
     "hash": "0x0fd2e3c86c82a833f8e2e3c9e319526353cb17b65302837353af317455852748",
     "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,456,490.19998184",
+    "hash": "0x9a2ed2163ec7a47efd5734fa3cbda6eff773565997807ea94e4a8f6fcaaf8c7e",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,398.93952",
+    "hash": "0x8cc5537bdfdc274b3bbd4977244f3d2212c97de887c2822edbecb250476c696a",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,862.20005114",
+    "hash": "0x31dcde132f5af4fe16ffcaf62ce6f1f7db9f1d1d72bf64da87a5b581bf0990b7",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
