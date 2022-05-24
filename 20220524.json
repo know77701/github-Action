@@ -604,5 +604,17 @@
     "value": "33,418.11444154",
     "hash": "0x88a1c62fcc8aa28053981d2bc5450530f5c9246643091d3726128b395fc5de9c",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,954,543.26424582",
+    "hash": "0xad5710aa20d8367048bfe9c89ad293dceb48da8ae138e4dd0e64c6ef10597d7e",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,705.06605371",
+    "hash": "0x96a9c71578ecf4ca54d4d372286cb66070b6f97800df3f5362265445f798b6dd",
+    "token": "Uniswap (UNI)"
   }
 ]
