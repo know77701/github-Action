@@ -298,5 +298,23 @@
     "value": "298,790.279709556423504859",
     "hash": "0x73f98c9423f7075b72a3551ebf27a952b887bde27187748dd8cc372b1a54306d",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,410,285.2460589",
+    "hash": "0x5252a731dc832c3d4a7d8f8ad383d739f6fcab86357769620b01e2174106a1ea",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,176,842.999811503273437719",
+    "hash": "0xc0f4c15bea52c90d67b4af444f1377505eefb90e5618197241d74ffb8ff97fd6",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,720,783.335572006726562281",
+    "hash": "0x0fd2e3c86c82a833f8e2e3c9e319526353cb17b65302837353af317455852748",
+    "token": "STPT (STPT)"
   }
 ]
