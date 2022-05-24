@@ -748,5 +748,17 @@
     "value": "15,685.95075983",
     "hash": "0xc317053ff31c2c2b939be41b82e8f7d6d2e51db9cfc3ab8c673f9b4b1f456888",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489,946.511459447563066709",
+    "hash": "0xb8be4f36a94c869cabde675b95ce32aca94eb4ee587b5e4445041e7d8b34fe33",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "332,879.913777327189879331",
+    "hash": "0xfd66b5abe838956c95f8d96c340c776159fa0e5e1aa3ea0289eff3c62d05edaf",
+    "token": "Golem Networ... (GLM)"
   }
 ]
