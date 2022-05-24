@@ -502,5 +502,47 @@
     "value": "13,883.65",
     "hash": "0x3e95f9a260453b67220e0570030da5e332b1a083348da44613db2cbea0dc81e9",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,197,625.84345434",
+    "hash": "0x52de21255ce16f933af12f7c321ba0a43a464653489703d5598df7c2b78e2ed6",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "670,056.751",
+    "hash": "0x5f6ce93684c59ea2a475deb9e3a76926660099906ee0f153e6ec29e6bb8d9de2",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,285,537.6122574",
+    "hash": "0xe883b50775e177316eddf34e8821f34a6367e754a51fe371377db47e9429d713",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "265,282",
+    "hash": "0x6f457c051fd4b543187a0ed55ed8f8ddb2595a6c1d932aa0ee2b3e1821bfe2de",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,470.68237471",
+    "hash": "0xd77b5e7b87ee162dffd151cef5b605c58ea42726e0a022ce26fcb7e19ce3fdba",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,419.00062",
+    "hash": "0x1ef769b6c262c5e4e7524717651f8a8628fa94fe825615312b0a9aa51ce685c9",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,481.064",
+    "hash": "0x80134b97e13b0791b269ea3083ff5bd593f69532d8ff16b43e99e1633e28382f",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
