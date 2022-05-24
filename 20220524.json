@@ -178,5 +178,17 @@
     "value": "8,338,976.30241717",
     "hash": "0x46c498d94fe2494796328d79db60e8ff3f7574478709d96b3d43c581447d3b29",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,298.14755151",
+    "hash": "0x78673fa984b5d6d97f368ad6b4975251ed12e9bbaf21ff87bee576d1bae5931f",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,160.79649733",
+    "hash": "0x1d5841dbab74f9f16b10a764072409aca64c1cfab59eed1e51a133382ac50aa6",
+    "token": "API3 (API3)"
   }
 ]
