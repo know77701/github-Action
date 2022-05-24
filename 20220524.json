@@ -220,5 +220,11 @@
     "value": "699.6425",
     "hash": "0xb51dfdd24c5cedb5e218ba8f84eac8f361757cfc87c4b01142438b26cb60e8e1",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,119,027.5439",
+    "hash": "0x0d0e4b5339c824f55763118b00897ffda6cc6a673bb8b78452a6415c64689e95",
+    "token": "Ankr Network (ANKR)"
   }
 ]
