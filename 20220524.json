@@ -634,5 +634,29 @@
     "value": "656,380.81687876",
     "hash": "0xb782da4dfbddb04f6960ce7f4cef1a092e4cd5cc8cb9cf26ecee924fdeebee3d",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x1b57271296eeb001a51578f1a5a5bdca087f9674aeeb85087ed27f04a4c7411a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,081.99991922",
+    "hash": "0x070bb7b54dc3c9e6d56a41b980d4c4dab42d666232b7c203401b8862d5b535a0",
+    "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xb15b5f9a3e878035d929cd88ecaf953d788c6d7d33f092b4f83712d5181c3b3d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,191.00364649",
+    "hash": "0x7194f94bf17a3fac817c01598606b01c816e6d5c5b9e1ad62a0bee042990b1ad",
+    "token": "Uniswap (UNI)"
   }
 ]
