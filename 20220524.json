@@ -280,5 +280,23 @@
     "value": "60,221.00595009961622232",
     "hash": "0xeb85d147dca92732a436988c787ee2b3b090b5c7d31cebb2eb7e0e8ce2e773af",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,116.99999",
+    "hash": "0xb1fece41ce9945270340784f704f41eeb29a2b184e44e0567e1cdf26b5331ef6",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "602,034.204687623576495141",
+    "hash": "0xb174690c0052d99d1ccdcf4eef2b1a519d39c1c9ee74d0ba47669b22f5b8f0a7",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "298,790.279709556423504859",
+    "hash": "0x73f98c9423f7075b72a3551ebf27a952b887bde27187748dd8cc372b1a54306d",
+    "token": "BAT (BAT)"
   }
 ]
