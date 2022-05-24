@@ -790,5 +790,11 @@
     "value": "3,300",
     "hash": "0x476c2404b41adca5d6835b641778c0c1bb47554667e1ea7886c0899247489939",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,415.20391426",
+    "hash": "0x2d7f31fa00ba979cc92bd678c71a7a2d09083a0e012591be3f0dcd0491ee89da",
+    "token": "Function X (FX)"
   }
 ]
