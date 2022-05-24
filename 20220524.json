@@ -364,5 +364,17 @@
     "value": "599.471292557488567999",
     "hash": "0xcd44191f012cdc40d5afa1f7d543e8c16676f4529dbc93c3e75bd8163f97c3a3",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000.01",
+    "hash": "0x0f947ce2b1292c76d8b0d581bb281901513336df4088f7c887de2e01aeb34350",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "555,590.297524726735363958",
+    "hash": "0xd48cadde3d94ceb6c2046807c1af3d2530a4ed02d9100757c1c528e5078575f7",
+    "token": "Matic Token (MATIC)"
   }
 ]
