@@ -1,0 +1,50 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "537,363.86978525",
+    "hash": "0xb003d980ea80aeadaa08d6fa5a1db45ee2681e4fbc792ea9c8738aeaa1162419",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "684,218.57920434",
+    "hash": "0x15b368d3d37110b16b705540ff64b94e36a1cfef33191116138d99127497113f",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "701.8547",
+    "hash": "0xf713ec35e31417e1b1d67b444cd2af09ff50346c2e0f07abf47e07d5e621c5d6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,971.158635543208514366",
+    "hash": "0x39ddbf031b4a39481d28dac4c6a8ed982e5a1ad481b8564a786d9d255395e900",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184.40346975",
+    "hash": "0x379e37c61c33db8745332020535378a297ed55a46fa226a7ccf1a175ad084a80",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "827,170.026388796968027753",
+    "hash": "0x8c46328fabae2967f855913e0dc228bfd37d6d235caa0659f4b6357a1358180f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,099.1",
+    "hash": "0x9ba61bbd952780c1a1480cf1b3550889a8946dfe6ce73c1bd89ee0792b9a99b9",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,344.912101631054693977",
+    "hash": "0x9a06f911d816a77ffa1ad022ec8a5918a19222e646ceb9cab7da6de76c19f2dc",
+    "token": "Tokamak Netw... (TON)"
+  }
+]
