@@ -226,5 +226,23 @@
     "value": "1,119,027.5439",
     "hash": "0x0d0e4b5339c824f55763118b00897ffda6cc6a673bb8b78452a6415c64689e95",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,992",
+    "hash": "0x713846de4077881a66f8a598ac64526b4e69fa5fa0bb0d0a28866d20f4fc1e82",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,413.746002193790769769",
+    "hash": "0xce20ff0552ca84d11fcd32b4a2cd70fa6eced6bafbb4536afde08ca421dc6c80",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,110.723661642153433063",
+    "hash": "0x6206f18b988710acdd896f2ced3f2ad119ce3f5b986f94fb6ce930c8427e3b66",
+    "token": "Reputation (REPv2)"
   }
 ]
