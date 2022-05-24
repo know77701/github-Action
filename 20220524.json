@@ -580,5 +580,11 @@
     "value": "2,748.49724061",
     "hash": "0xc86d6ce6bca3ac6cf5b93cbd1561ee3d211af057102ba704224f10ed38d8e5e6",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "355,006.50020478",
+    "hash": "0x825bb35ce5762beacd85bba58e90a1aeac5ff272dac9d692bba4d4e1cc4cf1b9",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
