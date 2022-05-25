@@ -910,5 +910,11 @@
     "value": "102,213.663973651103404635",
     "hash": "0xd58b2f994715f6a2cb038f20e256734cb2bcb377cb14afbd2e472b9857a29fe8",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,200",
+    "hash": "0x05cf91e652a97d90b745ce89d107a9719cf88f2b6e5180334e94f60cad5967ff",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
