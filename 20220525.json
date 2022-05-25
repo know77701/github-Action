@@ -442,5 +442,47 @@
     "value": "168.9",
     "hash": "0x98b7fbd062d95882b032f739bf72e04f6a9ad6ac44bdcb1f0808302bfc296042",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,805.41756045",
+    "hash": "0xcc694d18641cc219074f6a96e0ea643c952d0f66a2f0c400c9facabba41d3788",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,184.39032511",
+    "hash": "0xc009f382f8346fb0e0c77b694bec0b634950c645b30a127aa4cbd54d9532e331",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,384.518625686600883414",
+    "hash": "0xef8b899639b0813ae72b113f17ce7ecfd135954ad7bd2efda1b7b5c117b1d9eb",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,124.409448043787995248",
+    "hash": "0x94fcdef14a3bfb6d254fd509eb3195b0216e13f10669a1bfa656c494cc5a37f4",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,887.44406819",
+    "hash": "0x8c1e48a0e4ae4ad8d0eca77f27c4586cb9ee3f210d9ab6ac0e3f0a4dad9f099d",
+    "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,493.82",
+    "hash": "0xea02eccf9765ad35080a8f321063ecfdff2a2e3d8f70adaa106d85987f9fe138",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,713.097673484465647694",
+    "hash": "0x184e3de821ac8cf8819729509ef90f3b831ed6b0b005d9c2a1c0048dcbacb286",
+    "token": "Radicle (RAD)"
   }
 ]
