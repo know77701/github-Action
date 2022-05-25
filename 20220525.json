@@ -754,5 +754,17 @@
     "value": "12,714.921950330104217626",
     "hash": "0xb2f02652dafc557651b66aa7ae45f0526f12f4ee6150686e21864ced7c36f11f",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,415.20398308",
+    "hash": "0xe1113c46214c69487674c5fa2942be45517fbe31d3be0564ad024de150ab1173",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,184.39034464",
+    "hash": "0xc4ac932b910c2c68803c2a1a6134da8cc92c7a1661893aa70b5ebdc81efb84a0",
+    "token": "Audius (AUDIO)"
   }
 ]
