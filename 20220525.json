@@ -568,5 +568,11 @@
     "value": "1,000,785.29077463",
     "hash": "0xe0a53388517adbe7c754f1336f9e6cc136a227e1003c80fe6b2025602087d2b5",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,546.99994278",
+    "hash": "0x35666db5067cdcf7968d067cefaca4c537a069682484011a0fc8c1192cca6f15",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
