@@ -484,5 +484,35 @@
     "value": "10,713.097673484465647694",
     "hash": "0x184e3de821ac8cf8819729509ef90f3b831ed6b0b005d9c2a1c0048dcbacb286",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,936.21911583",
+    "hash": "0x44f0de11d963b80b4ae71694a5143b8758f428279752878c8bceb4540127348e",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xb4d425dabd81038e4c6903679df943acf1472ea14cc264cbccf2e435d8fdf40f",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,551.07350877",
+    "hash": "0xc8e4938ec68633f7009acdfe134bb3a14fa8f85d802f6f301958ddb7ce88faec",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "835,001.762092183586245361",
+    "hash": "0x27de2a4cb730520cf5d0e4b406f1949e5cc5ff189b6e6f3c372b84ff941349e4",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,233.2",
+    "hash": "0x5dfaafecc7d3847896eb630a09997ae43c88f2b412efefbacd34f0d68eead018",
+    "token": "SAND (SAND)"
   }
 ]
