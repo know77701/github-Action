@@ -766,5 +766,35 @@
     "value": "73,184.39034464",
     "hash": "0xc4ac932b910c2c68803c2a1a6134da8cc92c7a1661893aa70b5ebdc81efb84a0",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,305.847",
+    "hash": "0x613c786411893cb99becdf50f719ab965aeec328bdb484473195437773c31c05",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,697.37781",
+    "hash": "0xaa201c9937627f67901cafce095a068ffe3c56b3583ad8f8c509f75bf68d668d",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,400.508671426600143875",
+    "hash": "0xaf107f3e1bdd01bbbed2bd4e2335309330d3fe9dfdd703263bf8119ae10a8c58",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,432.92976",
+    "hash": "0x8f604f7b3ba0b6e6a5fca6c043fb75a564dbd7af228e52155836bdad5471717b",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,884.222046863399856125",
+    "hash": "0xb572706fe9914804d0449aa1256d0a9ab8ef5631b4ab36ffc0dfb854aa44f14d",
+    "token": "Token Promet... (PROM)"
   }
 ]
