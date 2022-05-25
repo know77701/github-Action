@@ -838,5 +838,23 @@
     "value": "300,314.528011090413517508",
     "hash": "0x76da6a641e677aa00464ec0735ab69ea0221e50c9c532a26c20e7e848f7eaba6",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "294.843",
+    "hash": "0xda4560b7175eed4d085a1375d348c6e85ebc51cddfd5cf134afcd465f890b26b",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,977",
+    "hash": "0x5bf13e9aa24ee365817e2dd2fdedf0430d47de5dc79d08691b9b97b3295377b9",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,486.755",
+    "hash": "0x5a897ea09b8298a5033928ba0cdff44b27308d2a51ad42b1855670117e349194",
+    "token": "BAT (BAT)"
   }
 ]
