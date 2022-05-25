@@ -916,5 +916,11 @@
     "value": "34,200",
     "hash": "0x05cf91e652a97d90b745ce89d107a9719cf88f2b6e5180334e94f60cad5967ff",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,470,707.85129641",
+    "hash": "0x86dd632c35d91d5ec116b9c8f8b32efe6d07aa3d4b3deaa074cda28ba959a610",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
