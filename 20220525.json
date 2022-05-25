@@ -976,5 +976,17 @@
     "value": "35,977",
     "hash": "0x672424c2b056b41183d2038c3ad0643ed8e9468b006cb7c8fc7d471df2ddd26a",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,565.5",
+    "hash": "0xdaa214ddbced0db0ceb2dea2c5ea56529f54d0677e81018fa41ad6cf92f9937a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,252.5",
+    "hash": "0xb6f9a5ed4a969fb918fbdb453f20ce1384b662ec28bc9a6a0dfd52cfed1e4de8",
+    "token": "ChainLink To... (LINK)"
   }
 ]
