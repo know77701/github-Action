@@ -52,5 +52,53 @@
     "value": "40,056.120047129770817619",
     "hash": "0x7d9989aa50115c9dea7ef78d88526f6c629d0f1303dc801377a13c457494bba4",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,977.99996448",
+    "hash": "0x052e113d26dddc3e5f65d5ea26ad1a5a8a173098789871c1a00a02ff8c8559e6",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,996",
+    "hash": "0x97aa02826e3ae96bee3b778b715c25cbed563ad5ec2b9b58d054a799740a96a1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99995177",
+    "hash": "0xb1870eb72f6f7233c4abffe80226018a248b4d9784ea6cd60e3d212a00879c91",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "396,293.254040081631821164",
+    "hash": "0xc77428314ced8cfd1c71cadaae99188c6830e07e56ab4c28ae3444173d36439a",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "296,114.745959918368178836",
+    "hash": "0x80bec2111aec06bbe8e909824b71a6aec3312d7c70669888d7661c407af728f2",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,131,491.3098",
+    "hash": "0x0268afa097ff84972c4795df9b78b0e1948e45bf3726652562f62a5c44863737",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,001.161650823131415928",
+    "hash": "0x3edd85cbeb23e0b83a8983d959e53d8ac08891624f512b01728aa44b1f143588",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,555",
+    "hash": "0x51a137fa59b561f984001da222e6ae4b1dd68bbb2dc384ece3d697f35e3f3dc5",
+    "token": "SAND (SAND)"
   }
 ]
