@@ -670,5 +670,29 @@
     "value": "484,192.78463937",
     "hash": "0xedbbcf894c8dfa52a8fad227dde7993f7cabf547afbad40ed333610797ad5e50",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,937.599813",
+    "hash": "0x11246566e842c5e4c5834bd8ba71bea6005654ee4755833eaf49384a3a463734",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140.96995766",
+    "hash": "0x3d7360229058cf8837033b854d4062f356947afd8d76520aedec2013d38bb783",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xc2a317d4b7913b16f02dbcdaaa94a667a78d29678fa4d70d44add6b25aebbb04",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "227.11913534",
+    "hash": "0x9bbee8390954b684eb7a899d6d15ec592b3e58d1fd70395e4890ebbc57968935",
+    "token": "Compound (COMP)"
   }
 ]
