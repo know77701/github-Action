@@ -370,5 +370,17 @@
     "value": "27,000",
     "hash": "0x88da30898bc0ee5d97105bcc1c9d940adaf3ec943304b2b34b2fca3a726ccfd7",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "906",
+    "hash": "0xa173259f9a40d77e3000f37509ffeea3d302faf002aebf47a536cceebc69b284",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,760.40000774",
+    "hash": "0x9df3a192810e086253d95588fdf83e8e4fab547b6c7f069977959877b72423b6",
+    "token": "SAND (SAND)"
   }
 ]
