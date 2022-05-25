@@ -604,5 +604,23 @@
     "value": "350",
     "hash": "0x34a519b3abe1f9f505701d267122c8e7bf2e81dc10f268725aa72d79e331547f",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,162.96673485",
+    "hash": "0x71ff42152dc7a536cd262933f64fa2cd04034bea07f2386b728f201d5b3e4cd2",
+    "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "330,973.676604459260844812",
+    "hash": "0x953363cc33ca1facf7eac8e991232e8b296fe8073d1cefc2d307053412a59d82",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,820",
+    "hash": "0x39d63a4cb825d3d4fafc5b943dc09c12a105fc29ae915c0fcfe2bb6f1047d6fa",
+    "token": "Quiztok Toke... (QTCON)"
   }
 ]
