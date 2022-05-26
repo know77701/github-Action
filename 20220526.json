@@ -1360,5 +1360,29 @@
     "value": "169,794.1930341",
     "hash": "0xd7b592be8350ed6c6b69e820a99b6da3b1eec71851c928222b28190b8e04d902",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,941.991829",
+    "hash": "0x3f0eb83251bb529750c971b681a96913dced6638dbd0953cdab0716b31429659",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,998.74876",
+    "hash": "0xc8591c7c9531f300e04c89cd58aca10af7e89183cacd2d7633c86d6db45c1759",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,842.95777779",
+    "hash": "0xff1e8821692eb3a5710fab7e02b641210af9d012e4cd22cf77dbdd9bfe881db4",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,315",
+    "hash": "0xeb894323c86977826019fb456440d05ebe2976a0136732e56667d7d1441de8b1",
+    "token": "SAND (SAND)"
   }
 ]
