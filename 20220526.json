@@ -430,5 +430,47 @@
     "value": "1,402.75",
     "hash": "0x55709aeff384cd1574fcf1af423ba8770a9640c1b3273d5c0c4c362da714ebe7",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "460,445.79156518",
+    "hash": "0x6a20f2e34ef2fbc85649a0ee18a2b453f9584e5be278d74ee6227aed8376b4e9",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,382.225105365252365138",
+    "hash": "0xa78c00c911238b9c736d6e786043f34c20b6367aa51a28b2e10b819931c26e8b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "207,222.314130662133029157",
+    "hash": "0x00172fe606be5e223ef9b527a2d5aba9f9cb261d42ce96152bab10cdf7a1eda5",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,839.33831023",
+    "hash": "0xe5c9b2c7f14ba816a3c0d870d4bd1fc10f074a6440414eefef3c0d71e6c2c254",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,220",
+    "hash": "0x88a8095cb0928daebbc910dfccbeae2ad50dc018f4bf06fea76516955103f5e7",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "699.85",
+    "hash": "0x7d8cb3da55e6bad80fadd7e30d2cb0da70aed08eb7a541a7fbddc3179dab2b98",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,960.135000884125354254",
+    "hash": "0x5f425102eb8781a271d72e921fb98d8df0d5b962c3d3b1d70f87a6aaccd2d75b",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
