@@ -520,5 +520,23 @@
     "value": "56,716.028",
     "hash": "0x0d246108a49a9162dcd2b622de9c515a16f148b351d5c8fdb1361d21f6b92db7",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,607,721.012040318583253949",
+    "hash": "0xa0fee42bce3c2928e3c19ec511c31f029c959573f57bc7509877aed47230d78b",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,546,002.4978968",
+    "hash": "0x52f647677f53a33116e954d1d97c50d9b72d45538ffea2b6d43bf2ae19bf561f",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,088,756.5021032",
+    "hash": "0x4af544a31560bfef5cf9d38b1de7b64214c25b40bfb82edc7269b3fd76b1074f",
+    "token": "DENT (DENT)"
   }
 ]
