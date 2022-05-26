@@ -238,5 +238,59 @@
     "value": "104,044",
     "hash": "0x7c930bf6a37059c472340c3bfa2104eddbedd05408aaf5dacdd1cc8fc220f2e2",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0x079a7460968754165365a6f344bbe129f6ad75e1bbf5c51a31483aa93e6ab00f",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,984.42383346",
+    "hash": "0xe1ac5bac95fb960718472752335d56ca20e9e754455ca1268b75983390485ea6",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,667.76997719",
+    "hash": "0x2a0e7c5601b50acf1f2126cdc4506ec6f8b8f780b43b9c0ad91f66273dfca37f",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,680.598",
+    "hash": "0x3db1287486b46986377b582a5ab1402792d9d91c7fbf739d234ce6e903c827b0",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "186,907.54189544539821145",
+    "hash": "0x5b83d081333a7eca8f6996a3d3ddd27ae0b56eafc7807639a37048e88c09b56e",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,581.285",
+    "hash": "0x703bafc2c8ab40451fb7c40f5eeb4743d667d259cb798bd2b9a834309301c84d",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,959.28244759460178855",
+    "hash": "0x85b062b11b17f579dd55e1637d796423bafd5688c46cba0c0977d0123a779150",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,768.40983565",
+    "hash": "0x96f35a8175b8a5359453c49c1987cd353e011975f457a4105850ee77e4ac5e0e",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,404,584.0310764",
+    "hash": "0x9230c885e37ab0504e714db2c2bf27cbe1a15ae6aaa46c196f0e4f88934ecae0",
+    "token": "ZRX (ZRX)"
   }
 ]
