@@ -388,5 +388,47 @@
     "value": "45,035",
     "hash": "0xcddd73a300e3243a589f229b21c5ea4391ff2dc646390b58217582bc8c0b9771",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,996",
+    "hash": "0x80840f2f6bbfe80b64adb15c53e1532b36de672312783ced116459a9748b7061",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,670.759018730732159725",
+    "hash": "0x5cca638edbc3e8390c35f7f5fabc3dacc99b4856687335a23112aa4a5d0468b1",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,365",
+    "hash": "0xa8f17ada2cd1e77d3c9b90f77bb3831e032b91b2111a4eab72675c7e105b447a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "196,511.499262935874645746",
+    "hash": "0xf79059a10239e6bda02c2756a99ca1ae48f3178ab09c9fb516f0890d8bfcd74e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199.26",
+    "hash": "0x93d0fdb2fb0538f65ad603cf71cd3ff9cbd5c6b1307654624f2aae25252281f0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,561.314301065769198513",
+    "hash": "0x7eb92f5c8cf8b82c63a4c90913d9a6314004aa4441fd2bd351b1a6daf1f94baf",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,402.75",
+    "hash": "0x55709aeff384cd1574fcf1af423ba8770a9640c1b3273d5c0c4c362da714ebe7",
+    "token": "ChainLink To... (LINK)"
   }
 ]
