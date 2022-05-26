@@ -94,5 +94,29 @@
     "value": "9,733.5",
     "hash": "0x44fe846678b2fad95e88a241a9360f709c47d6a16a118c2fb4b4855ad49007a3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,573.49",
+    "hash": "0x1c03a9537b7d9de70f02bcc2107994dfff669579a44a030ed61a7d1a6b43c30b",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,263,459.208651659272562385",
+    "hash": "0x90e220dfea237ce46b7e8be39ac41a278d3f7f8b99f1ec2365e8d351b5d47516",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "186,698.327141780727437615",
+    "hash": "0xcc59c35ae2ca9b75f34aa693045ee77f631bb75958170823996228c09142006e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,905.033827093232346657",
+    "hash": "0xdf1f90c070be8b64bcac7abfc45507bef64fc19a0bee87f591fea1932d07e984",
+    "token": "Radicle (RAD)"
   }
 ]
