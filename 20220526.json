@@ -1450,5 +1450,41 @@
     "value": "858.01540911",
     "hash": "0x02e38480c8cdc59e994fc1273eb09d0864a4abce79c5decd62a9ce3e3f8afd60",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "222,000.17095843806578313",
+    "hash": "0x5ca16525df77af0102bf1c565b6b0bc4e2823317486d68aacd0c1e9e7aba67fd",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96994061",
+    "hash": "0x825490f536ecddda5905032241395e46e33270183404e752e0945211a6d53e1b",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,881.9999096",
+    "hash": "0xdc7fab1976b7b2e6f81be609ce63678cd1b99e7be5c7efeeceb9dcb853029f74",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "946.38",
+    "hash": "0x2b4f4115dcc6051dedfcf3407b80c6211947519effbeb662574c3014d8bb6eea",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "272,493.3392754",
+    "hash": "0x732cb0efec5b3b4ad58e4e912dffb30898332958cbe44be81983e56c011f4478",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,360",
+    "hash": "0xe8e5729c7f69ff734bf9d0f3722e68af4958c1da81203f18ab21574122a58ba9",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
