@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "620,762.814562167787608556",
+    "hash": "0x3f05ce2a3b0ee1f4913e3affd7ece26ee52dbb318240fa314cd722c73d977bc5",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,682.52631705",
+    "hash": "0x8a38710f43a5d927658240405372c929f0e7d7684477fc017cf8d10a088db766",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "313,853.403634062212391444",
+    "hash": "0xf6cd2419dec27fa049f4cc08113ae6b454aba5074bf1c1ce90778009e7300c7c",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "177,674.685295",
+    "hash": "0xecaf57a21c4548a03825cca86acc97aa803285e90aea63d7a1e30c8f915cc5e6",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "138,282.33036572",
+    "hash": "0xf67a1d10994073d8b9f30a6279671c241104ebad9068e576fbfb69315b485bae",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,185.3903558",
+    "hash": "0x6576999a7a4c7609faa77781adf8cd6692a4450827a551979c725d78cedaf685",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,665.372439",
+    "hash": "0xfee697c72c8d5d76edf3119b0a3258e640f0ea1d9c20b1096b372960deebd9e5",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,170.059",
+    "hash": "0xbb4d08fa1792583c140dbce577c7b50afdc994f810641716f2fa37db53203367",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,435.23027626",
+    "hash": "0x2b89dc347e7cfc52529881ff48e7688ba536bd6297f4f9406031cfe0ae81ab12",
+    "token": "Radicle (RAD)"
+  }
+]
