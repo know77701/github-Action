@@ -472,5 +472,29 @@
     "value": "17,960.135000884125354254",
     "hash": "0x5f425102eb8781a271d72e921fb98d8df0d5b962c3d3b1d70f87a6aaccd2d75b",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,798.27991085",
+    "hash": "0xd9e26646021975ef64862f6c259063451e81c11b1b452a1d50f1e64709366334",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,153.01993564",
+    "hash": "0xbb1b7ae1c9550146b7ed0a21e2dd2b171dd58711270a4bb01e840de8402ea693",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,556.366607777706919543",
+    "hash": "0xf45b72bb3e08d3cd08030bc0071179089464f5ac01c81f20dd2530be9914332d",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,465.00029",
+    "hash": "0x975e3e8adb62f8e982d3b405521c59755df329838f6de71af1cacd792c4bb20e",
+    "token": "ChainLink To... (LINK)"
   }
 ]
