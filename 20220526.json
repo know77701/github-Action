@@ -1312,5 +1312,11 @@
     "value": "77,106.79991612",
     "hash": "0x40d197bf15fbe8b9961a601a91009d0a96a2249eb01108b29fea6e4158ca1427",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,622.97453089",
+    "hash": "0x3c07f3fa7eb8cb0cad048dc380bba22c549ad2947c0cf426ce1fc59462d21d97",
+    "token": "OMG Network (OMG)"
   }
 ]
