@@ -1120,5 +1120,29 @@
     "value": "4,899.2894",
     "hash": "0xf26aa5cae40755ce234342f0467799907899be647f7bc94d3dab97259326cb83",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,682.95518",
+    "hash": "0x5d27d374562b700d5218c357c780a9d5fc835116ff55cd9c62ae64c8faf502a3",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "694,295.029",
+    "hash": "0x4dba1a670f919383a59f75e3e5941907a3f6e310f6b031b7ff8ff3b8a9d4fe7c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "558.12140902",
+    "hash": "0x5f77e1e07746f42fecb712772d4b7f4a65a55f59313cc7622e2c0c728a2b40a6",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000.02",
+    "hash": "0x009caa8a0c956660d2a81ac21c699937f12088a2f0c23a178396931eb7a3e738",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
