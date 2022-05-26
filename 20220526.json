@@ -934,5 +934,59 @@
     "value": "28,986.205323201636097808",
     "hash": "0xe055f47893041e9a56be4f11a4d84c01c675ed1b534412d775a396c8b7cb86b7",
     "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "114,076.65444867",
+    "hash": "0xa7f8bbc60c4ee459ddc5be25200dc103d9d80bd845ff5711aeb77085a2fde289",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99991519",
+    "hash": "0xb9e6472bec2b0d1d10caf9c990455c428ac1f566a3d21128d063be7fb74eab92",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "841.538259525705208105",
+    "hash": "0x9ebed38b8094f0201860692a9b9e66ae08667f7109edbefa77c09fa08bc7f38d",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,385.07",
+    "hash": "0xc6a9f5bd1141cedbf231364c00c1851ef122f93763b1ee9691f26c1245c5b555",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,839.17506417",
+    "hash": "0x80e9ecf1a00a4e6032d2fd405ed1a93ce3a7845a602933fabb4661f6f56fe61b",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "659.154128324294791895",
+    "hash": "0x1d626d0cfadd53bc9674fcc2e653c66e72157a94a059cf099ae4730b1e1ef193",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,215",
+    "hash": "0x7fc78e79dd9e914a314feb20745e92fa04126920b4f2f8aaeab46efa90efdc95",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,612.797",
+    "hash": "0xb210692bf18405df111d6716e588f8b6cb441681f1e7a558be011b11f103db46",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,798.27994867",
+    "hash": "0xa38eefc51cb4fb6a31567681520e4777436ffcf377e9c97d5ae06e58a84379c4",
+    "token": "DENT (DENT)"
   }
 ]
