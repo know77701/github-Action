@@ -1414,5 +1414,23 @@
     "value": "73,185.39036541",
     "hash": "0x0e20e4b033570b9d5069d522b6540a08411f5f1a94f967140e6c1fc6ce4fe0f7",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,006",
+    "hash": "0xb5c241518273b45bbc9850af3c02958a222ac32c3da480b15da5d5bbe8892c69",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,433",
+    "hash": "0x30cac0adcb2b5309a24d26000602c9cd6f3e5c82adffae47aab9eee936da398f",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,391.07270114",
+    "hash": "0xf6a284f723ae880724cbd2da6ae93c90217addeb502f9c34339ff9891e33aed7",
+    "token": "SAND (SAND)"
   }
 ]
