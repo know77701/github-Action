@@ -598,5 +598,23 @@
     "value": "5,378.40366926",
     "hash": "0xd42ad24a2f42a4d966e07f73b2a1a0780b248d822765fa12858449192fbaeddc",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,034",
+    "hash": "0x93cc7b798abd0be5401c488484773a755974d44e825f189ea358310d39224310",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,714.0685015",
+    "hash": "0xf70f7dd52755a95e8f87ed68fd9bee367757daacc19bbb1f594d2a5d7a3866f1",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,140.54076882",
+    "hash": "0x3f5500d03136342d65b1929a301cf2a2ac24398e713a9744cd9b825356c850a4",
+    "token": "SAND (SAND)"
   }
 ]
