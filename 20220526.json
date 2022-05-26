@@ -1318,5 +1318,41 @@
     "value": "29,622.97453089",
     "hash": "0x3c07f3fa7eb8cb0cad048dc380bba22c549ad2947c0cf426ce1fc59462d21d97",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,798.27993162",
+    "hash": "0xe8291886203d193a8d27a5327aa7c1f2cc065c90b2e679f44148d26f117e5dd7",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,620.989919881319330036",
+    "hash": "0x79b39fc4b3b9329d124e1b8c941759791f9ad26750f485b26280df1e066cb1e3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,193.91",
+    "hash": "0xe488ea2acf9e629589e2ac369769714290bb96fabc1a2b0857952b0a2fc97819",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "349,518.996380118680669964",
+    "hash": "0xa06cd15f65032b9f88f0df0b15e4144a5fba6910778b15b00d51814aa1ad456b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,000.07",
+    "hash": "0xc72248e121a77c412bd9d9e08530e533e7eac824ac0d59af99d6bd497fedff61",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,237.57982728",
+    "hash": "0xebeb83907922412adcbc799e8bd855ff16c585b96ed9673ed2fa8b7bdf969e5c",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
