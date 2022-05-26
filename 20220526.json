@@ -118,5 +118,23 @@
     "value": "11,905.033827093232346657",
     "hash": "0xdf1f90c070be8b64bcac7abfc45507bef64fc19a0bee87f591fea1932d07e984",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "600",
+    "hash": "0x7e8d0650e74c437724cc9ae98fc7d7299fd84709738696d071f7616f3f58a45e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,006.164195502091023583",
+    "hash": "0x3fc597b3df06058d04f3ff98f0f3fe58bbcff6ee674a5bdf823d0e99d82d5b7c",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,918",
+    "hash": "0x1eee1cc4669d79a695887870e99ca9097ca4a782479d085bf2fa4730ae542883",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
