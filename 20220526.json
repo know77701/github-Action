@@ -538,5 +538,29 @@
     "value": "49,088,756.5021032",
     "hash": "0x4af544a31560bfef5cf9d38b1de7b64214c25b40bfb82edc7269b3fd76b1074f",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,810.5",
+    "hash": "0x4e3f7f7576dc911c73179b83d9fdca578b6e655a8e9e80fc389c2da9085bbd1f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,086.56659107",
+    "hash": "0xcd7d55bda5f08bcce3941aa68589f48055822694dd6c83bbedad1b47bd22a579",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "478.9",
+    "hash": "0xd8d77f7d04e1216b2f43e77f01a6d4f7f0c0cef649214b007d87910568db0fac",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650",
+    "hash": "0x6580cf0ad0df01bf2a0efcdcc96e04bc2264c209ab4e2e5dc6ae2520fc6c70dc",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
