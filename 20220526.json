@@ -352,5 +352,41 @@
     "value": "6,889.83412835123340106",
     "hash": "0x6e2a9245e75f6539ccec3c1df4487508afd3c5facb8fcd95fd2c2afdb343f0a3",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,485.813582",
+    "hash": "0xcea60637b34515b9013280b1433aca6b1d04a8cdeb39fca974e145e509674786",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,717.5",
+    "hash": "0xe73a26ff7afb6d8918c890477be2ef9789383ff03c5f0cc005dce77b44376138",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,909.437",
+    "hash": "0x2543b0f47f08659a25ab1730331c40d703fe798b5d1567a302a7573270880caa",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,635.27499491",
+    "hash": "0x1472b9beef2d95dfa8c265b18da4287339f0924c2869687a12cf83acaf2a75cf",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,996",
+    "hash": "0x5a8b914d8ae91f68f7d25bcca506b2d35f48aa7a4f8ed7426cf134b068da4b6b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,035",
+    "hash": "0xcddd73a300e3243a589f229b21c5ea4391ff2dc646390b58217582bc8c0b9771",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
