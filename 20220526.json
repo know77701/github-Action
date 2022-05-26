@@ -166,5 +166,29 @@
     "value": "10,000",
     "hash": "0x16b18b62a3297e509290bc14c050f9289789b277f30becb3cb083ccdad771478",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,111,994.91777254",
+    "hash": "0x9e29b02986fe743781e4fe2b445cb56509a55086ed92e9f8cff7f5f1dd0cd41a",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57.7",
+    "hash": "0xcb31113536125b4a906c4c0800f2f2d76b594c8d5599a68d2cf605f6939059a4",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "459,414.36802419933975782",
+    "hash": "0xde530b6015a2b9a98ec5d0b734dcd37b5531d2785791c208e2abf9bbce066c38",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "341,057.04990702066024218",
+    "hash": "0xf12b9894cca79cb26dff73a959854ee861eddbef1672b5a7bdbce16f73962d9c",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
