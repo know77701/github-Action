@@ -1042,5 +1042,11 @@
     "value": "75,772.1",
     "hash": "0xc9968bf6757719471d81430269f86dbe72ba89c26ef713639c9b23673322d927",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,640.6",
+    "hash": "0x33f6771e3fb610839c80898d1d989ad6e052af08df24ab40b351b2d0e8ceafb9",
+    "token": "Radicle (RAD)"
   }
 ]
