@@ -52,5 +52,47 @@
     "value": "18,435.23027626",
     "hash": "0x2b89dc347e7cfc52529881ff48e7688ba536bd6297f4f9406031cfe0ae81ab12",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176.33",
+    "hash": "0x6eee6cf81dcc7686c589c86cdbfd5015252f0d297a4585ceafbcd8cdc1f05141",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,414.384183416393899123",
+    "hash": "0x9bf4fa62727599e9560e3a4a2762ba0a103d1dc6b8c9818d878c83ba6d2da2be",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,185.39036293",
+    "hash": "0x8d042bf7e80f7e7aaab320479fcf3e02db3c09c254ed11f63fe399ffa8c83c0f",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,626.052193273606100877",
+    "hash": "0x8f00d6bdffe678419b55f4584bef5d9c272c4954e592723dac38903b67c79dcc",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,829.16808215",
+    "hash": "0x359f8b0fc3361a6c56d34f83304f52c678fee6a72d29195d1c39abddb08b3e07",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,352,268.386310891783409447",
+    "hash": "0xf1edf0f35848dbf16df5e26b9286f765324bf2832a8c1fd944722b0601b723e5",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,733.5",
+    "hash": "0x44fe846678b2fad95e88a241a9360f709c47d6a16a118c2fb4b4855ad49007a3",
+    "token": "Decentraland (MANA)"
   }
 ]
