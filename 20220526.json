@@ -1048,5 +1048,23 @@
     "value": "10,640.6",
     "hash": "0x33f6771e3fb610839c80898d1d989ad6e052af08df24ab40b351b2d0e8ceafb9",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,312.1",
+    "hash": "0x499d373406463db40b1d89c155c000099db90a39f5ee7088e460f589ff93935c",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,000.084",
+    "hash": "0x4fae831b7768229efe04cc7c0502520c1aa85ccd47d3c15034d53dbb855c60df",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,456,465.19995301",
+    "hash": "0x616dd102b60d90367e1a56c6c889870702ea89ff3900d617347411cb5e24597b",
+    "token": "Mainframe To... (MFT)"
   }
 ]
