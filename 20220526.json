@@ -190,5 +190,53 @@
     "value": "341,057.04990702066024218",
     "hash": "0xf12b9894cca79cb26dff73a959854ee861eddbef1672b5a7bdbce16f73962d9c",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,887,271.60456605720815205",
+    "hash": "0x6b6ef991bcbdffd2c8fa07481970702072eb92768bd0fa405c4fe41d46151e95",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,031",
+    "hash": "0x1f1c44e6ea533b78d62297a2a8cd999bbe2314f58a54abc0348d5618eafa345c",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,993.91",
+    "hash": "0x3215ab6e645aef9d4f517973f4a39c4506868313f71f7df73887df4f8beb4a1a",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,383.447182626821425009",
+    "hash": "0x99ebfeb4d015c22569ea1faeeb23757bcb726e50766a918d5bcef931667d2eb7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189.23061736",
+    "hash": "0x22ac06843b904605b29f3f451537525afcaf60169df686bdfd75f258d347cb17",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,021,685.56086987",
+    "hash": "0xdb2f512a634eb13955ef2a89cc47b8938d60e6411b19ddd94fa8c3f32b15b1c5",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,614,661.9784",
+    "hash": "0x3d7a65cbb6239f69ced98a3504b06251912b895302bd1039f7839cf437686f82",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,044",
+    "hash": "0x7c930bf6a37059c472340c3bfa2104eddbedd05408aaf5dacdd1cc8fc220f2e2",
+    "token": "Polymath (POLY)"
   }
 ]
