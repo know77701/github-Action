@@ -1090,5 +1090,35 @@
     "value": "190,960.53759336249378855",
     "hash": "0xaedcf470ee61d93f9919e394aa91410e15181a9665e766eda1a3398d9ec9b757",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,153.44064126",
+    "hash": "0x0a1abb1dcf4789cbf85a0eed7df55c3d6f51aa6a74cd4e4f58413937b1242f8e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "208,732.670448086620213553",
+    "hash": "0x37bde8b3cd3ba03e946e6d22583286e44ffc6cfab87644723c384893f429a664",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "225,100.067073613379786447",
+    "hash": "0x7e3e125e0e8f5bf7d6df566bfecba3ba0792014329695bbf95c0258c1a0b997a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "271.873",
+    "hash": "0x562197db5d0d1ffdc5330a338e6c6c82155821eb80a27a1a75230dd3510bb659",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,899.2894",
+    "hash": "0xf26aa5cae40755ce234342f0467799907899be647f7bc94d3dab97259326cb83",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
