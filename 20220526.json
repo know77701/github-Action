@@ -1264,5 +1264,11 @@
     "value": "11,470,276.08190588",
     "hash": "0xc20b571733805ea8a841d589be20bbfa411b6cce2b59bb84e8598b543d704778",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "410,478.576610661696597535",
+    "hash": "0xc1de73e771a092d217c9d3bb9d4f41dbba3e2a4d5e2b3946943566e2466c43e4",
+    "token": "BAT (BAT)"
   }
 ]
