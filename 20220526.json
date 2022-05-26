@@ -136,5 +136,35 @@
     "value": "49,918",
     "hash": "0x1eee1cc4669d79a695887870e99ca9097ca4a782479d085bf2fa4730ae542883",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "370,261.534447960105120255",
+    "hash": "0x566a98d8a054ac086c2d3d0e3907baaea8c20db7bf714757573b88a39fe3f0e8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "332,720.048865889894879745",
+    "hash": "0x0c138b0e83c500cc49ce139390363e4d0bea1e1cd9458dc76299b90f5c20911b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,647.235077444161622279",
+    "hash": "0x36a820ab90147f0f37e2d752fe91001ff9c7ec7238067969167d42d8f8033276",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,633.82893574",
+    "hash": "0xdbf55ba3f522bf65a624ddf6c4d4ad8d80391795c9893ab9c13da4291fc0449f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x16b18b62a3297e509290bc14c050f9289789b277f30becb3cb083ccdad771478",
+    "token": "Radicle (RAD)"
   }
 ]
