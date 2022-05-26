@@ -1174,5 +1174,35 @@
     "value": "281,789.394457958773590553",
     "hash": "0xcb6f807dbeb713022609fa95aaf7448aabed3687f6f5ebc76639df23c2ec2673",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,238.79984308",
+    "hash": "0x37b65c01a0d8cd3228651d42f475f0fa0176766802ffbf08017e8a0e5b1a454e",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,684,666.99993286",
+    "hash": "0x81a958760871db3cfd4ab29048787ebcb428d74d43fe9acb1bff7c5fea227d16",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,748.625",
+    "hash": "0x5309d035fe110eeb3efff1d8c03ca66a79e304796db601a94136ef8f049e6271",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,369.79912573",
+    "hash": "0x9db1752db658ccabbb14154423c41f7e2f58aed7d93f871f6adb2cc6cf0ede7f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0x02e47c72fbf511d225ee039dcb92b8438611e89a73fabf7d007f532da02775a7",
+    "token": "Storj (STORJ)"
   }
 ]
