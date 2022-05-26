@@ -304,5 +304,53 @@
     "value": "124,020.34132540876659894",
     "hash": "0x463325e6d1e34fc4e571f5a7c23a7baa8de7468470d14fbbd556a0555c7e99cb",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,731",
+    "hash": "0x092a7bfc2270f2482bb207ac4327a7500981d279ad8cc407b895a3e6a3d9a5e8",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "702.3108",
+    "hash": "0x23b60ad4281a1b37c269e2c7348d20ce6d26650642b1a65f0cedc670a7d2648b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "105,912.67923069",
+    "hash": "0xdba1baa81bf860a183a27f039db2fc5e810b52a21aa9d247f9c85297bf91acd7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,773.197",
+    "hash": "0x9668df7402d4e31e3887580428efe148c3a8962f6cc4f58b04d2678dbdf93e11",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "563.25985425",
+    "hash": "0x3b9dc20833017e82086a7942309695b49046b4ee4b26326e5ac26cec919fd000",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,004.37406654",
+    "hash": "0xc8625a0fe58b5f1c8af76cb666f04949e8741593f8dcf50a445067fd486e95b8",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,333.50229871",
+    "hash": "0xb20fcf7e05bbf8c87fa8b9f17435f78ecad9274b7b1552c871b985f20a369c64",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,889.83412835123340106",
+    "hash": "0x6e2a9245e75f6539ccec3c1df4487508afd3c5facb8fcd95fd2c2afdb343f0a3",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
