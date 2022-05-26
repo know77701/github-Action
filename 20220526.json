@@ -694,5 +694,41 @@
     "value": "16,060.225401003621765947",
     "hash": "0xf0d77b5c43a4ab657d4c7ec996c2c5c28b9a9dde600e8e6806ab69b656979ba6",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,883.1710496",
+    "hash": "0x2d11fec9b8524d435917c5a02e6d7ea5c57841ead012090aeec0e5aeab9d90ae",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59992511",
+    "hash": "0xb26ab74d01690e7b5e38c8714ad9e2e655c1c68c75ce7baa419b07444ef32483",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,860.31540766",
+    "hash": "0x65728ecfa44a54766227eb111de45b52e5f878ae12f038dcfc6cea0e8bc33cc5",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,634.36236448",
+    "hash": "0x9b8d89d4bb0554c1bcfbc1797c4084a1389457595e5b9d74005dcbdbdc2aaf4a",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "904,635",
+    "hash": "0xef9503eb5a12876801901807a8ee9ec01d8a113adfa540a6f9e0ae26da90e023",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,677.99998804",
+    "hash": "0x2f2024df8aa7bc6cb89883240d3fc60402271552d7ecf2298a8ba5c527a73419",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
