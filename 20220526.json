@@ -988,5 +988,47 @@
     "value": "25,090,798.27994867",
     "hash": "0xa38eefc51cb4fb6a31567681520e4777436ffcf377e9c97d5ae06e58a84379c4",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "227,005",
+    "hash": "0xcbb2ffa65372cf4478a5f0faa218564a02e2746b3c7f60bdc210b03f1d587496",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,001.135869742735432157",
+    "hash": "0xe6975248a12eb06a8f40cf4d4f143e228dac47d8c7480624e97c051a6611e878",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000,137.26",
+    "hash": "0x4d7e6f1f9caad1dd5670d7dd5e40d415fcd7dc5c0172088e89023c189ebcca9a",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "445,954.64089703",
+    "hash": "0xb9646e6a612866705874806da3f9ad9125793c5118d21c66ab29b72f11673e3a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "109,028.88615301",
+    "hash": "0x555bd4376a9fd65cf116efc8e6292726338d4e6d50b5d6cd3751a5638ec4dd64",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,914.4043468",
+    "hash": "0xb98abc4ff0df938ecccf313cff72752701b1c0ecc6cb1bea168bb50dddc4d460",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132,819",
+    "hash": "0x41dd69574fa1adb52b7c3515b655099c3066368e3b86405fe63c8370290852f8",
+    "token": "SAND (SAND)"
   }
 ]
