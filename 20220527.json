@@ -436,5 +436,11 @@
     "value": "121,601.38956758",
     "hash": "0x30cd8696fbf05e879cd35c2fbf4466e90e89fab80764cb0b3a592587016aa242",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,939",
+    "hash": "0xf09667fa857d466627fb22b551f483bdc47da0e5ca609a3a2aa9fa01c038a1fb",
+    "token": "Polymath (POLY)"
   }
 ]
