@@ -616,5 +616,53 @@
     "value": "56,313.81031798",
     "hash": "0x5e52e9cfde6cc8dfc2fb8d7854eec22144270dc8cc980cae3a87ff5c968d06a9",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,868.951",
+    "hash": "0xfebc33a41409fee6335d6bb5da667108cd424d3d732c445d0c8bddb06df10877",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,019.25917205",
+    "hash": "0xa5d453918a733a49b429087a2feed0857e26764e35a45a41d896d29806a0a828",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,202.4",
+    "hash": "0x5c21823aaa1979b2e70be01457b86c1355b97357b7de0ca34c89fbbce4c747bb",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "851.91221994113441621",
+    "hash": "0x31e6466e4b674327f50bfcab9c881ce1ab91c23f8b76bb22ecfda3aa886a8623",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "690.118647038806004142",
+    "hash": "0x44b94f6fcc934c14402cd7bbe7c86d1c52b0c37e02e86a9e4120c769abf76065",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96994092",
+    "hash": "0xd9725d0a6489e9c4a1003e14593ee29b76f4fd7fce9bc59444eb949cc95d32c8",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,673,121.29377371",
+    "hash": "0xa108d60bc99f8ddfb0213b3f95e619416bb92b20adf5f83a08f0fd9ec836d8ed",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,996",
+    "hash": "0x20d6b213616946053a562bb86ddf2211f1219818dd0d752ea644695203132889",
+    "token": "SAND (SAND)"
   }
 ]
