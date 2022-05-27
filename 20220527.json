@@ -70,5 +70,59 @@
     "value": "35,477.532998108347865386",
     "hash": "0x6cad2787c54f255bcf8da70ec5ad077b244fe38578fcbf9e323f9e01fce3bb88",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "749.46029899",
+    "hash": "0x0673a44d689591c765720b8308b1e41bfa981e4c3956d80a63f5f25a4155a11f",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,000",
+    "hash": "0x3772195bdcd024b270ccfc0207d2124bceed21f12ff7d0aab150ad5e9143bc5f",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "479,530.99995084",
+    "hash": "0x6693b74924d5dc8962274f1bba069638627a10aa1baf59ec61902279525eca23",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,744",
+    "hash": "0xd4abc0b415416e9be13f45b679ccce7b7a42e2defddeaf0e6f9a6f5d22ad06d2",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,006,363.383",
+    "hash": "0xb4fb57740b0199d081e18b57c358dc654e0372dc316b3ad066c057d3db265c33",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "653,643.0256",
+    "hash": "0x8696ffeed0bc3a36ae77773868966beef0e4a84deda51bd65b48c421582f8144",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99996913",
+    "hash": "0xd0c44ed0fecd94fa3e5cc2583fe610214228e45da132cd1b769ee2fcf926fd87",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,912.96434495",
+    "hash": "0xbb93cf6cc8afd4fe24454d2820500b3748cd7c171e06101d79a04554abd9080b",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,499,783.992351871998409447",
+    "hash": "0xdede9217e75dcd1509c690d3b1cc1559e86c182855982e08dc1db71080de75a2",
+    "token": "SAND (SAND)"
   }
 ]
