@@ -148,5 +148,23 @@
     "value": "3,950.096837439411785425",
     "hash": "0x894f50e78046816acdddd84cf75b40c97805ac671da0590197e5ecf2166c9230",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,396.627507946355729386",
+    "hash": "0x9d400e490ce49eb1c5c37b96b66085f156a8004b365717a9a112cd408fbee2eb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,742.21948269",
+    "hash": "0x233a4469e4b07a6e4818fc960dc874136f05e19eb78efd0855049df4be086be1",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,504.273896703644270614",
+    "hash": "0xfc2d326addcac79b7dd82a475c66097973a1eafcc1d7ca20bf6bd7f5625c72f2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
