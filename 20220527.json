@@ -880,5 +880,11 @@
     "value": "60,989",
     "hash": "0x44a878a7f5a81e0e03aeb3b4bf7e8a685ae742b550597935db67b2a101d2b1ab",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,341.168740396812220734",
+    "hash": "0x368a642fe231b74de7cc58dde7b6e139ba307232a45a63493a718fa648433383",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
