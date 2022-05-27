@@ -466,5 +466,29 @@
     "value": "24,606,604.85853596",
     "hash": "0x66b7a79bb4d8a93885be17b39f2a772a08307701435e0e4d1a6f2a83329ff261",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "990.62348867",
+    "hash": "0x36aeb8a78e3944db9bacb2f00eb0bcc1d13d9bd69d2111d2366bb255bed0c946",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "167,415.66082758",
+    "hash": "0xc7b5aa3a1bb64019a09394e5ab0f46a0173245e9726906791c59d34274317437",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,938.438",
+    "hash": "0x5ee9c058d73ef9787d841b18f7628dc0c8b4282c034dbe66ded14491fa85f7f2",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "193,945.50817242",
+    "hash": "0x4c92589f828c358c6eb7e0683f2039a3c6d07b86083e8a91c5b4d377f45fa1d5",
+    "token": "Storj (STORJ)"
   }
 ]
