@@ -490,5 +490,35 @@
     "value": "193,945.50817242",
     "hash": "0x4c92589f828c358c6eb7e0683f2039a3c6d07b86083e8a91c5b4d377f45fa1d5",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,230,103.84866374",
+    "hash": "0x5d0d13414e26b68a672a40f47c8a7bd206d1be18bc152886c9491a4ea586b0c7",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140.9699372",
+    "hash": "0xf751f1a10e66e02b82f1fcbdf590bc64a3432ea409b37e6b024c50a67c66d6b1",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "222.54155053",
+    "hash": "0xe3eae1468527830043b5ebea0c03e3c99b91b41dcd27fe745a800d57407cac1a",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,452.23917936",
+    "hash": "0xf0adb2ffa341bc733fdbcacf945693593e8e2fd30fad91236a2b42f707dfc4a1",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,202.27998711",
+    "hash": "0x234ae0ec2d955b8abad6cbc6cfcdf8e59f4188c972a4c6aa4f8d205e88a87f1b",
+    "token": "DENT (DENT)"
   }
 ]
