@@ -1,0 +1,74 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "94,182.33906",
+    "hash": "0x180209fcd93adff2c29f0263571d415788d7500e396a10174383b469b0ad594f",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,104.101432188731638073",
+    "hash": "0xc62fc29c8d4466b89e2638ca7b3bad9397808abca0d1ec0592158ab4a6ad4b1a",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "627,323.21178834",
+    "hash": "0x50a1f4237b166de5b25c0e628caad74f04dce417930a4aae513201ac0c0b88db",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "463.208428261268361927",
+    "hash": "0x84632200a5a966c87281e9af97fd5d40bf4c314d43c808f3dee823006f0c7a8f",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "405,243.99982077",
+    "hash": "0xddf08c50700698b8a5f915c59ef20d91da47f6c1e316dd04753bc75a7ad026e7",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,798.27998835",
+    "hash": "0xb55d7ecc7edd99904dede194bbdd6467c13ef6640f87217714aad174aba5f2d3",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "465,000",
+    "hash": "0xfb41a32e45893b7248fbf936d77497c677fff95c2fb3dd2107853f577304fb2d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,420",
+    "hash": "0x098524d6a92823d77dcb3ad47885d2bfa1e572557d11c450e83da4dec4cb53d8",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,058,489.681578388390441545",
+    "hash": "0x02fbc496235da23e49ed353b7abad90cd9d8e614bf9dfa4910699f43fb9b31fa",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,813.32996479",
+    "hash": "0xe85656eae391fc75c0e7c00289cdda53873e51b5fb0e38c5dce7b8c2d92cc2d5",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,489,723.456284959218313889",
+    "hash": "0x9c95dd4ffc4399bc14cba68b500a21b4148b1809e402f6d7a4c940cdc754ebd6",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,477.532998108347865386",
+    "hash": "0x6cad2787c54f255bcf8da70ec5ad077b244fe38578fcbf9e323f9e01fce3bb88",
+    "token": "Function X (FX)"
+  }
+]
