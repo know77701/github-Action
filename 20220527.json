@@ -346,5 +346,11 @@
     "value": "286,572.807820840498590553",
     "hash": "0x73af3d0404b59fe954c910bb4b2b3d9a0b20e79a720907eb07772f0ec21ef9a6",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "648.298867860059579648",
+    "hash": "0xa172711527d4b00ff05ee45d80b5307ad771dcf7fcd1d031c65f9dbaec5ecc0d",
+    "token": "Aave Token (AAVE)"
   }
 ]
