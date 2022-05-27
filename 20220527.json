@@ -898,5 +898,23 @@
     "value": "9,340",
     "hash": "0x7721cd12e8332f07cb86689895d87168ee5088e05f14540fdbc0d7a49590ee3c",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,452,018.420674893600326683",
+    "hash": "0xa9369852fbde9b332e9f92ef24b0645a2800d80c74a02241f51db890bbfaa7d6",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,310",
+    "hash": "0x386bf0039ffe8e095b4f8723641e734f0d34f8f83df50c8a35b7ff89f6dcf722",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,383,927.30682694681574084",
+    "hash": "0xf17c864cb8a322913a6b0ceb3ed82d3482d7914688673dbbac9356ac98a164d6",
+    "token": "Mainframe To... (MFT)"
   }
 ]
