@@ -124,5 +124,11 @@
     "value": "2,499,783.992351871998409447",
     "hash": "0xdede9217e75dcd1509c690d3b1cc1559e86c182855982e08dc1db71080de75a2",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,943.74134061",
+    "hash": "0xf78c792264f18606e01a250faa00c27ba66e7922ea1d6b1a0181486b01548da4",
+    "token": "OMG Network (OMG)"
   }
 ]
