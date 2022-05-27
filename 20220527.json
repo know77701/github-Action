@@ -130,5 +130,23 @@
     "value": "18,943.74134061",
     "hash": "0xf78c792264f18606e01a250faa00c27ba66e7922ea1d6b1a0181486b01548da4",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,981.99993255",
+    "hash": "0x885fa6bc0f4635a6b908ca6f3ad36c84f8f7d254863755a57ea6f88b48858865",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35.212992630588214575",
+    "hash": "0x16b30cf6629adb3874db944046a25cd1c20fd1c3635703a45dc0dc3eb0e3a5ce",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,950.096837439411785425",
+    "hash": "0x894f50e78046816acdddd84cf75b40c97805ac671da0590197e5ecf2166c9230",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
