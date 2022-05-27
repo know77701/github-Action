@@ -394,5 +394,17 @@
     "value": "1,661,273.704978409395447293",
     "hash": "0x7c1276cbb811447313c5b8135f6494fab4f9c3f2af0442ae129ed59930f914dd",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,213,933.63364905",
+    "hash": "0x41b04e4c76cb4c922817c69500175fb83f837b9ce0eca6e4b77e69c67615438b",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "806,453.696765274935635383",
+    "hash": "0xfd52f0b92d82b112da6cb5fbf5ef5b97beeb3b77441060163cf0c1d97804f3b0",
+    "token": "NuCypher (NU)"
   }
 ]
