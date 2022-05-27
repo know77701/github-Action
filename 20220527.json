@@ -520,5 +520,29 @@
     "value": "25,090,202.27998711",
     "hash": "0x234ae0ec2d955b8abad6cbc6cfcdf8e59f4188c972a4c6aa4f8d205e88a87f1b",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,816,312.44640513",
+    "hash": "0x5172e46e5a80eff4dfb238dffd2f2ef40e684ba584a032588fbebfec77cca7ac",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "968,569.27659487",
+    "hash": "0xc424905364555453ed2ae8cc7df517c51904a8c5e0d5d542fcb24c48f60b2253",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,852.497612439159409447",
+    "hash": "0x30a1d14b8c478f7191abddc31b260b8fa1b05523f8db678534da000babfbcd03",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286,605.781887560840590553",
+    "hash": "0xa7007a77ad8e7c3c3e1e5fae440f93e0af43216791c0b2aa2a92ecc41e0da8f5",
+    "token": "SAND (SAND)"
   }
 ]
