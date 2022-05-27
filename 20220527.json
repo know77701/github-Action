@@ -166,5 +166,59 @@
     "value": "7,504.273896703644270614",
     "hash": "0xfc2d326addcac79b7dd82a475c66097973a1eafcc1d7ca20bf6bd7f5625c72f2",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,952.669183172594240919",
+    "hash": "0xcaaab6328fd7a4d152c04cbb5ce874ce7f3b816cfae85f2ee0c8d97f24b26c07",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "680,779.55497006",
+    "hash": "0x0458d2a76fab46cd2ab3154033f153a55ecb48972f5cf6a9423526a587aa6d35",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,680.980816827405759081",
+    "hash": "0xb59ad13059db97ebce9857db2c90178e8b424898bebbaa4085899dc6b34ec53e",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,027",
+    "hash": "0xdbab207004cb3b1876786e45a2c6306d9e52c135c1806196ee6b1f7520d2f8ca",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "657,310.488960549524381725",
+    "hash": "0x3c519e8fb28b17bae438a634a5ebd13eda33ee4c3b9fe3e70b9dfedb76b3cba5",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,657.65495673",
+    "hash": "0x1095d9f51e58e1b87d73f8402387ca086dd6c3b0117b519f361abc711e433a81",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,090,202.2799279",
+    "hash": "0x9204ca2df5516dde97387bb2634efe6683e1d4b2fd231e6e29432463b3f50364",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "288,870.418364810475618275",
+    "hash": "0x798c2f5cb9fa164d90926ac5cb44b2020f3aea2bf9f623a94432e3f66a172713",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,487.95228959",
+    "hash": "0x092691e2aefd4cf246556ab6e39e6b149d8ba983d0005ac6d0c567979556a80a",
+    "token": "Orchid (OXT)"
   }
 ]
