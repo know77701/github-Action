@@ -442,5 +442,17 @@
     "value": "129,939",
     "hash": "0xf09667fa857d466627fb22b551f483bdc47da0e5ca609a3a2aa9fa01c038a1fb",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336.46363636",
+    "hash": "0x899cfc4abb5ef4db152dacc8d652f0564fde667b323973102fcc388fbbbfd212",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,625",
+    "hash": "0xedc45bbcebf643349fa28309f046371937681f56367ce347ef299885e15c7d1c",
+    "token": "Metal (MTL)"
   }
 ]
