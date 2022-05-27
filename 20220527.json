@@ -868,5 +868,17 @@
     "value": "9,460",
     "hash": "0x6ec382885dfba4ee93b8b1ccf1d348a9f717804977061cff036d45c131bc6cec",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,171.114281743187779266",
+    "hash": "0x9e34eba78ccb6249e5190d5ec1b09929c1cea6432177631ad9c3f489716b2eff",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,989",
+    "hash": "0x44a878a7f5a81e0e03aeb3b4bf7e8a685ae742b550597935db67b2a101d2b1ab",
+    "token": "Metal (MTL)"
   }
 ]
