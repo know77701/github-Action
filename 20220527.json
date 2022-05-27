@@ -406,5 +406,35 @@
     "value": "806,453.696765274935635383",
     "hash": "0xfd52f0b92d82b112da6cb5fbf5ef5b97beeb3b77441060163cf0c1d97804f3b0",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "324,938.99993968",
+    "hash": "0xa82923c780d0786e736fcae54ab40d0b14bb219227aeb3a670358e0da73929cd",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,015,678.16929484",
+    "hash": "0x0cb5e942f38e455b57ba77c0ca84ba74e16a1ed324ea02f2821d3b882d6613cf",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "606,766.0330066",
+    "hash": "0xb6f304d0ad400d22b6c341176feb552c24e705d388f1846c7ca848a08b8e7ff2",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,912.96438773",
+    "hash": "0x69860404853f04c8b7945f03bbd0f0937cdbf99bdff88fc645d408cd77f45115",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,601.38956758",
+    "hash": "0x30cd8696fbf05e879cd35c2fbf4466e90e89fab80764cb0b3a592587016aa242",
+    "token": "Orchid (OXT)"
   }
 ]
