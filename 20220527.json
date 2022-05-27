@@ -580,5 +580,41 @@
     "value": "8,577,111.06588928",
     "hash": "0x850c5389cb0df26ed8dab0be0d22e6b6e6595f1292016408f93f8bb265e8ae33",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,988.900338240390986514",
+    "hash": "0x895a86ac2ae67359cd19756b9271c600788ae4318652d645323b052cbc3cb1af",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "403,286.290717199609013486",
+    "hash": "0xd4643b0111c3090218c0178d7e239421879815a7e6857c54a2a605f3910b240d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,786.67",
+    "hash": "0xe79cff0461c353992c38b5cf9bbc4afbe3f1e39018c2ff1ffbf08bbf289a6a47",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999,238",
+    "hash": "0x08ca02d2be80fbc8b41932c2b1a5f54123f3afee2aefd014aa8c9968acf69991",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,545.92271848",
+    "hash": "0xfea1c82fe3d22a5ed989a485509fd36b1d66bba9ab04419e8b8f8490b4340cb5",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,313.81031798",
+    "hash": "0x5e52e9cfde6cc8dfc2fb8d7854eec22144270dc8cc980cae3a87ff5c968d06a9",
+    "token": "LoopringCoin... (LRC)"
   }
 ]
