@@ -352,5 +352,47 @@
     "value": "648.298867860059579648",
     "hash": "0xa172711527d4b00ff05ee45d80b5307ad771dcf7fcd1d031c65f9dbaec5ecc0d",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "372,147.329136640482379054",
+    "hash": "0x7124200b9fb58de999f549bd3f1d409d65660f7808c20cead6ff8e1502ac295a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,704.00749916",
+    "hash": "0x80bb838bbf544538cdb594d7c7e995ca41ac873013bb4f9cf11c5ad6cfa65b4b",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,034.764902197977879082",
+    "hash": "0x28d94e2a0ac69d9d33c1d7eff673f10f2cea5d5a2ad957531aab8d14352e7479",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,511,569.412552294465938846",
+    "hash": "0x10776c0c87927d3d569c02c1423af50bce899d907693a6450d95799a5666c289",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "137,142.505510012022120918",
+    "hash": "0x8a00f669fef76c5d72033a620a68ab9030bb27f4397cd52fa30688b196c3b11a",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,974",
+    "hash": "0xdb8dc44ff122d0c3407d3d68e2b2ef31cf2227219456fe1091f3de2d164a3969",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,661,273.704978409395447293",
+    "hash": "0x7c1276cbb811447313c5b8135f6494fab4f9c3f2af0442ae129ed59930f914dd",
+    "token": "chiliZ (CHZ)"
   }
 ]
