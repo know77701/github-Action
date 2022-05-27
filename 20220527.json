@@ -916,5 +916,11 @@
     "value": "30,383,927.30682694681574084",
     "hash": "0xf17c864cb8a322913a6b0ceb3ed82d3482d7914688673dbbac9356ac98a164d6",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,884,746.36778891",
+    "hash": "0xcfe76763bae3c2c4a10cf0eb9dd02354aaf601e300ca0bb8d989445f7922f6c2",
+    "token": "Quiztok Toke... (QTCON)"
   }
 ]
