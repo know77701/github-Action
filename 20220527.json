@@ -286,5 +286,29 @@
     "value": "2,000",
     "hash": "0xe45174ebba9519f929f4bed5381dc85fe8c92d745f2527d27c4a849540096962",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,910,813.274439736972007573",
+    "hash": "0xdf01d68a4d0b69e2750e168eca55fe42843fb0fa667eaabb520fd611338d755e",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,332.245",
+    "hash": "0x79ba1937e8c3509c716b4b43132f25db8567ce79d32f8cec7f22da8bb63f671d",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x28ec2d24a3b78f70b98c235ba698694047d4bd436643e4f94f3253ab419bcd36",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4956871e5c4651a93ffbb39e711697149b5a6c117bc5c431e69a3ea2d92098ce",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
