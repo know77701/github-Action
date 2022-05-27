@@ -310,5 +310,17 @@
     "value": "2,000",
     "hash": "0x4956871e5c4651a93ffbb39e711697149b5a6c117bc5c431e69a3ea2d92098ce",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "709.7",
+    "hash": "0xe72a8c8d53e2aab0a85dbd8f7d5ef48e1ad22f306032dd24482bc918caf92343",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,297,182.527678113027992427",
+    "hash": "0x0c649317cc3b69002c75b3c5fb0c13b7006975b8c1d11949befa991c624ae627",
+    "token": "BASIC Token (BASIC)"
   }
 ]
