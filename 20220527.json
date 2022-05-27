@@ -454,5 +454,17 @@
     "value": "33,625",
     "hash": "0xedc45bbcebf643349fa28309f046371937681f56367ce347ef299885e15c7d1c",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "483,597.42137396",
+    "hash": "0x52076fa0969810284526254c5316b6c27eea048bc72df2a9d5da20b4f9380448",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,606,604.85853596",
+    "hash": "0x66b7a79bb4d8a93885be17b39f2a772a08307701435e0e4d1a6f2a83329ff261",
+    "token": "DENT (DENT)"
   }
 ]
