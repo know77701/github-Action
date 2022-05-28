@@ -406,5 +406,23 @@
     "value": "16.139370594240519131",
     "hash": "0x75c0d287d6ada486cde6430448d0d5b94b76aeeb65173ff6128b9d4d3aca3f30",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,787.189133234593289035",
+    "hash": "0x3f51168236420ee38e5441a6924765d2d2da19551389290e7fc0bd2f7abceb1e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,906.430890325406710965",
+    "hash": "0x1879865a71f3cfb4b009f107a91d7a7bfbfafb5baf1a7f74bd56d061d72f3bbd",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,570.799722",
+    "hash": "0xf49cdcb01d0c2747452701d46753d7adf54f6c1a699aadc2c398d1d29f187f85",
+    "token": "Bancor (BNT)"
   }
 ]
