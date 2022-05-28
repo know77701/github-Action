@@ -166,5 +166,17 @@
     "value": "1,939.59991983",
     "hash": "0xea46c5ca017c05722df0bb08f43e9d884f9791e60a305222e81f2981fd882377",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,160.182138732757294518",
+    "hash": "0xb3e8a4f8ba6dc5518d388e22ca57c0000b3f9badccbf06ad1c7d4b9f83d0ba54",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,000",
+    "hash": "0x130ea34625f4e7ba891dae9727e17e93d68d65f3f220c70bc36fefa7cce87d2b",
+    "token": "Metal (MTL)"
   }
 ]
