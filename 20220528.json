@@ -154,5 +154,17 @@
     "value": "588,270.762273223065927669",
     "hash": "0xaf056de11728f9cef26985351fd5158149f286b14793b41596cc4852b1005d90",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,604.57070384",
+    "hash": "0x19ff83bdd1268bcab4bb2391ca821fd1f86da6f1b7e1767baca9b3ec8edc6194",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939.59991983",
+    "hash": "0xea46c5ca017c05722df0bb08f43e9d884f9791e60a305222e81f2981fd882377",
+    "token": "Numeraire (NMR)"
   }
 ]
