@@ -304,5 +304,17 @@
     "value": "132,121.2927",
     "hash": "0xc76eaf1f3e101da344389ead3eb0361917203ba8212fa9bba525d772d6681cdb",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,937",
+    "hash": "0x9e12a7f32866e24f6207e37ed1a3f3d7b6033d0eb54f5bc45342e9f7ca6bea80",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "671,798.01646988",
+    "hash": "0x0ddf007ea3e6a1eae8c2b5c531b222019be58507d4a7314019e7a59e0f958d11",
+    "token": "Decentraland (MANA)"
   }
 ]
