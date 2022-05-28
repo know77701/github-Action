@@ -214,5 +214,17 @@
     "value": "6,996",
     "hash": "0xcfda8b90340d727c778712896d07ec3cf17a91e2b98ef609f2a1b736054427e7",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "171,100.085",
+    "hash": "0xe2984ea8c7c56b03800706c283cc4163f028c7951cd6233cabef7c7f6ae79658",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,708.8045496",
+    "hash": "0x8b552a91383daac528af47dbe6cabb2410084145eaa6972af21d62a9f0022bcb",
+    "token": "Metal (MTL)"
   }
 ]
