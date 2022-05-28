@@ -106,5 +106,41 @@
     "value": "335.75988245",
     "hash": "0x1a1642ceb4e9e6ed33819aa0000843bdf8a95403d7f72a5dfd0732e1d73a42c6",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,406.62120155",
+    "hash": "0xd80e62931580df02b0286a4f6d536ee9d9b8c40e1661fd6604ef6ae77273557e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,886.41221333",
+    "hash": "0x4ee7295a0805dbf0172cb947f8d59e602ccfc45e666a196e3b07f4e01b945297",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,000",
+    "hash": "0xaf5dc5c06d54f9bc0c3fc4f32d8546a3ed8a8bf9118274da08f822a73c9366ee",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,815",
+    "hash": "0xf700317bce3f7af6b1d773a0ba793cad3d1c5192a980153e6cd97a72e38e9936",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "167,143.80145641",
+    "hash": "0xb7b3695a1d6498c160f1aacdac3aa6848ce151737c6f264bea3aafb9adf0fd0e",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,585",
+    "hash": "0x75e9617e42e7f90b1429a3aeb31549ee326e2666e7ada879643105d453af274c",
+    "token": "Decentraland (MANA)"
   }
 ]
