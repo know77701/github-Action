@@ -52,5 +52,59 @@
     "value": "24,884,746.36778891",
     "hash": "0xcfe76763bae3c2c4a10cf0eb9dd02354aaf601e300ca0bb8d989445f7922f6c2",
     "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "671,589.426317392422590054",
+    "hash": "0x27a33dc0e6fb46fb734bb610f8a7a71a88b2b6a3e567194ccacfb18ce18606ba",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "374,465.509772187577409946",
+    "hash": "0xf875d2269bce6de03b82c8fe0601929acd30f26375763196e479e7857321de9d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,300",
+    "hash": "0xcd637ed1c09f6a989d1553ade7490fbcc0ae975bf97a7579521e1ab2a00549e8",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,447",
+    "hash": "0xe9c727d7b4c784723ab38b77b7d3ad93b29e4a454cd7dfa234a94c4ca27a388b",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,857.99994307",
+    "hash": "0x885237e6f08fa23a226eb5a6f9116f13262076b05e6cbabd9a6201e51b388355",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,968",
+    "hash": "0xa48f050673e2269ac0e92c358c23b29acf5132d71251a2eaecf2df3d3a7a77ed",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "624,991.061455206402934743",
+    "hash": "0x71097e014655f1b71d56a7c2e6fc9aa356ae5b44257eeb011436c76d8b3b1a1d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,380,125.938544793597065257",
+    "hash": "0xe926cec73ce873fd4d594a22e7311e6ecbfbb5fde5b134beaf8d8d1d80fea3cf",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "335.75988245",
+    "hash": "0x1a1642ceb4e9e6ed33819aa0000843bdf8a95403d7f72a5dfd0732e1d73a42c6",
+    "token": "Compound (COMP)"
   }
 ]
