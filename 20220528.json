@@ -424,5 +424,17 @@
     "value": "33,570.799722",
     "hash": "0xf49cdcb01d0c2747452701d46753d7adf54f6c1a699aadc2c398d1d29f187f85",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,351.06",
+    "hash": "0xb795ad7e2081c17e8a104f037ef18d4b5a390ef70cef63c3af87b505d0f91c40",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,910,066.9237723",
+    "hash": "0xb00a893f2a0b591de5629b405d7b8989e65d437edc861361d667010aa830c368",
+    "token": "Linear Token (LINA)"
   }
 ]
