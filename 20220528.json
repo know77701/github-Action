@@ -328,5 +328,17 @@
     "value": "28,048.811",
     "hash": "0x8ad6cff24c4169d6754f22a9f5619de545103be22be04c27c70ffc4272f43376",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,705.676",
+    "hash": "0x65291dad17e2f28b447c846243b85a27ce5fd874572902df307fe308585ed0c6",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,925.33047914",
+    "hash": "0x975e14fae8a8c438d67f629bd578686b388ddfd42d5339ca9da19134b1086e05",
+    "token": "Decentraland (MANA)"
   }
 ]
