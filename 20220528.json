@@ -178,5 +178,11 @@
     "value": "27,000",
     "hash": "0x130ea34625f4e7ba891dae9727e17e93d68d65f3f220c70bc36fefa7cce87d2b",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,131.0743",
+    "hash": "0xd5282a1d6e2066f20e3950d4e6b834aa469cf41dbc1227b88ea420915db2835f",
+    "token": "SAND (SAND)"
   }
 ]
