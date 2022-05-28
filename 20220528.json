@@ -346,5 +346,23 @@
     "value": "10,393.43412326",
     "hash": "0x0ba167d129b8e37c071ae8358b72432a71b83cb54f60a39f9c053faca4b33493",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,874.161010112629950092",
+    "hash": "0x9e9475b091d9e42096cbb5393a67945741ece3cd5765a63b9e3b516ab3ea21b3",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,073,317.90525239",
+    "hash": "0x7c051994ed9582720174d803a02f672b20dac1e4fe00e0f8e8561c39fe8995c0",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,329.28107781",
+    "hash": "0xbaba08778a2373091039eb8b3148ea6b785f5bb6677189e2c7b2fe9a247adfa9",
+    "token": "Reputation (REPv2)"
   }
 ]
