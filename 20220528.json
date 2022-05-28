@@ -316,5 +316,11 @@
     "value": "671,798.01646988",
     "hash": "0x0ddf007ea3e6a1eae8c2b5c531b222019be58507d4a7314019e7a59e0f958d11",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,646.82112086",
+    "hash": "0x4121f9c77606999067432344a035100c47533bbd3395535900a34d1204f4454c",
+    "token": "Golem Networ... (GLM)"
   }
 ]
