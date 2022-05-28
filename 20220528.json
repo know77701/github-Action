@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "284,564.272122350994061229",
+    "hash": "0xae9fd7e412f847200bb042fed4dd01658df6f04218a9df817a971e0dbf8f703d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,186.78657262485609512",
+    "hash": "0xc8ee0d16a97bf28fff899cfd1c8117aa6425157b1e6bac648063703070e440f1",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,662",
+    "hash": "0x67626bdd9959c30a7defd4b74d9da47db13fefed95bca8d90adadcb14e1feeec",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,351.761232284800004902",
+    "hash": "0xb2f66596fc6fe255a3446cb7e8a40c5b0c1ae361a1f6595896f74b3872e12bb7",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,719.139713136114062218",
+    "hash": "0x1c0ceb25dac31bf73f8260e3a62b67f89620f1b27a78742b0bca19498ee15c8d",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,459.59995332",
+    "hash": "0x305b1b22ccf57801f7c434d7f0b94752e3fbb7923b5d82da5d5a28622548ed00",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "371,697.189996233885937782",
+    "hash": "0xe093b345bcc71849b277c5d0aed512a7abdc172e87e3f46a3839522ecf52087e",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,076,646.99996044",
+    "hash": "0x5c906789dfea2c3e8bd433edd973b83ce30bd2c4d94942b6212b91aea1ac831e",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,884,746.36778891",
+    "hash": "0xcfe76763bae3c2c4a10cf0eb9dd02354aaf601e300ca0bb8d989445f7922f6c2",
+    "token": "Quiztok Toke... (QTCON)"
+  }
+]
