@@ -394,5 +394,17 @@
     "value": "258,391.0802498",
     "hash": "0xdb388d00ceb96fe5179bf63fc6d3da7b46a68de61992b24cfac41938836562d2",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41.565347925759480869",
+    "hash": "0x067887c5fb70bad564c776ee467f45950a283af4167c35469cbdcbcc56d75f3b",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16.139370594240519131",
+    "hash": "0x75c0d287d6ada486cde6430448d0d5b94b76aeeb65173ff6128b9d4d3aca3f30",
+    "token": "Maker (MKR)"
   }
 ]
