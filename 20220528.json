@@ -208,5 +208,11 @@
     "value": "342,698.794",
     "hash": "0x18f61b6e138959dac7fbab6240055d5251e16a3e9e27c1123e77ab7cded5e0a9",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,996",
+    "hash": "0xcfda8b90340d727c778712896d07ec3cf17a91e2b98ef609f2a1b736054427e7",
+    "token": "SAND (SAND)"
   }
 ]
