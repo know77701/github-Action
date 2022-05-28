@@ -370,5 +370,11 @@
     "value": "106,967.373310787370049908",
     "hash": "0xdff1f8a130caa0ec8b6fb166a939b8a69b65e79dc9f07da157618a3d8d0f4959",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,100",
+    "hash": "0xc4ecb2f4b7bd6b9b137d883e2e5eb16961e753b058097380cf2c54be1819aae2",
+    "token": "Serum (SRM)"
   }
 ]
