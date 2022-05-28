@@ -202,5 +202,11 @@
     "value": "36,848.403221959698472784",
     "hash": "0x8023af1cde1ba9f2b03ec575a934d0a23efeff3f193a01db21edea6f67d6099b",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "342,698.794",
+    "hash": "0x18f61b6e138959dac7fbab6240055d5251e16a3e9e27c1123e77ab7cded5e0a9",
+    "token": "Aergo (AERGO)"
   }
 ]
