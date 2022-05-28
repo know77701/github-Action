@@ -322,5 +322,11 @@
     "value": "102,646.82112086",
     "hash": "0x4121f9c77606999067432344a035100c47533bbd3395535900a34d1204f4454c",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,048.811",
+    "hash": "0x8ad6cff24c4169d6754f22a9f5619de545103be22be04c27c70ffc4272f43376",
+    "token": "Immutable X (IMX)"
   }
 ]
