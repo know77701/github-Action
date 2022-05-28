@@ -436,5 +436,11 @@
     "value": "6,910,066.9237723",
     "hash": "0xb00a893f2a0b591de5629b405d7b8989e65d437edc861361d667010aa830c368",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,067",
+    "hash": "0x0c03a55253cfa73e06c368fc7f5a8ffa938b1868591c4fb12f34115ddb0d7309",
+    "token": "Decentraland (MANA)"
   }
 ]
