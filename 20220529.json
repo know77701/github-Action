@@ -514,5 +514,11 @@
     "value": "244.03813844",
     "hash": "0x7d8a54ebb662b8b02e28ecb497b0e848897418e38025f33995b319933fe9b663",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162.68157223",
+    "hash": "0x5df76951d0ec79f55c87556eb06f0542675d86e685cc661905637ba85f88c542",
+    "token": "Compound (COMP)"
   }
 ]
