@@ -148,5 +148,11 @@
     "value": "381,746.20353495",
     "hash": "0xd37a99b6867ba236ab4506e16b3f526259a3c85c83b765696935542d83116f67",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,996",
+    "hash": "0x8ac94d4456e2e5e1ecb8adb2ca4340331d2bc4b32e3fb4b511f1fe14b7d34a48",
+    "token": "SAND (SAND)"
   }
 ]
