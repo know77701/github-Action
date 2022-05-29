@@ -220,5 +220,17 @@
     "value": "184,961.9999558",
     "hash": "0xdc6a817143f7a231141c755c70678b790712e91ee84503aa33616f9de19614d4",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,155,710.39944091",
+    "hash": "0x9ced3cdad664f8a8cecba481d4dce96e9b996888e10ac0eb3d9bb5d32eb7501c",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,788.51093999",
+    "hash": "0x531d8a94e33d0fa8d2995375a4ac8aa5bf71bb996e941bd323fcbe7edf2fbba0",
+    "token": "SAND (SAND)"
   }
 ]
