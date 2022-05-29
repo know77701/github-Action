@@ -526,5 +526,23 @@
     "value": "20,387.099",
     "hash": "0x5a66604c87084304dad741537b180679a7cabfc7edded73994c0a9e921d81174",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,501.002561444609620295",
+    "hash": "0xe387770f2730203bc67e33fec1831e0517fa36ad6c5fb181cc496b189759f119",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x718d8f035c23eb29dfaae1bc5e1f61794c8be6385ab4b5d145a18a3f843f29a4",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x1e09c525d204d450bce67db8d960ea48eee87ff78f5aa754f5f11c37d30e6d90",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
