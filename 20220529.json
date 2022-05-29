@@ -568,5 +568,11 @@
     "value": "54,820.82351569",
     "hash": "0x32eeaf69cdac50e7150e0e14c05568c8bcc32644b110a4c3098767b8c605bc38",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,852,691.483575486204740786",
+    "hash": "0x75981bd4033852e171898072e38d09fae96e12684c45e45164959ebec8b87056",
+    "token": "Loom Token (LOOM)"
   }
 ]
