@@ -160,5 +160,23 @@
     "value": "163.71",
     "hash": "0x29d4c10710334f18e6a58773c0c36c29cf2fa0c5857e65b504f3ddebf0c3cbd1",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,867,768.360106005579547945",
+    "hash": "0x94fc72b21d2eae80fb3e3943590a7309c3270fff8b14ac849646ab6df4fcc660",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,807.19822717",
+    "hash": "0xe84237a1c17f342d0e030ac25c7f67f552294ca2a5286656d2d29919e8b87eb1",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,005,942.432459114420452055",
+    "hash": "0x3b353c009ecb0e57c6db6ebea8a1a93fc6f04e9ef97781e883a120a19735c60e",
+    "token": "Ankr Network (ANKR)"
   }
 ]
