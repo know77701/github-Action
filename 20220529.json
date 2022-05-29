@@ -484,5 +484,29 @@
     "value": "19,996",
     "hash": "0x14881a11156cf45d89e33210ae0e2ca8b6da2f3177bd47bb285af34effcc18fc",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,272.604",
+    "hash": "0xd275909f01f20cb2f9fe854e9dd752f50f6863363c1bf0f7bc929f753547d69c",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,261.44264252",
+    "hash": "0xd5e0d3c2bd23212a8e61c9d004f34fb6525cce64f8d7a53306f059522ef75987",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x7d279897c5b0a7a05d2371c6329b8c444c08822c543f7f5b1dfc56143e3400f1",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xdd7bc9c9c1e752003dcf029dde36e26f0c7847bd7b92543707633cc05527469c",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
