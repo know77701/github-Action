@@ -520,5 +520,11 @@
     "value": "162.68157223",
     "hash": "0x5df76951d0ec79f55c87556eb06f0542675d86e685cc661905637ba85f88c542",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,387.099",
+    "hash": "0x5a66604c87084304dad741537b180679a7cabfc7edded73994c0a9e921d81174",
+    "token": "OMG Network (OMG)"
   }
 ]
