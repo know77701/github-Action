@@ -130,5 +130,11 @@
     "value": "200,047.99319019",
     "hash": "0xa853f0e1e47b3ce9caf7f3ee8b792b1981aafccf32af6ad5e16eec2022fe44c4",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,179.0468382",
+    "hash": "0x19f71e91481abc2a7c98484d83840e7ad927dd3774b48313bf15f8fa2edbcff0",
+    "token": "Decentraland (MANA)"
   }
 ]
