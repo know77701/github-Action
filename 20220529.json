@@ -250,5 +250,35 @@
     "value": "11,241,605.20730806",
     "hash": "0xcb2dddadd48488893bc2e94799fc45c0b50295a0caec265fdec635fe258bd980",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "293.73781",
+    "hash": "0x5b33c60d2fb1b287f54ba96fae901291567269c0e08c87a099eb8abd3534f710",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,955",
+    "hash": "0x5b03749a4e11703e37c57aa8930107f2a406977e0e276561549caa416c5e3729",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,799.88917626",
+    "hash": "0x864789a3685ca8e37a02035c06e379e4d9666b297085602019e681ebe5a56186",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,791",
+    "hash": "0x0425fb99e2a3eb2048aa729e8230569ff7c2d6a17024e06f38283e546cfacae5",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,480.803528809681879082",
+    "hash": "0x2ddd616e9c64d119ce1a2d736da9312f18c8c2630e871b5400885d81183e6cc4",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
