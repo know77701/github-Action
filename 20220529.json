@@ -88,5 +88,11 @@
     "value": "122,703,898.54705231507014352",
     "hash": "0xfed505c4407788f54ffbcd7ed09b64a55857f4fb19fcc89e7c47b43e65f0c6ae",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,260.3764",
+    "hash": "0x1fb8a08d681c1339abac39b907adfec090de4cb56364726db28161d26a90fd2b",
+    "token": "Reputation (REPv2)"
   }
 ]
