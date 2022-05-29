@@ -136,5 +136,17 @@
     "value": "3,179.0468382",
     "hash": "0x19f71e91481abc2a7c98484d83840e7ad927dd3774b48313bf15f8fa2edbcff0",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,866.01946505",
+    "hash": "0x8fac387829eec68d7ceedc8f51c8084ab724da55935170232743336b0f8caf64",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "381,746.20353495",
+    "hash": "0xd37a99b6867ba236ab4506e16b3f526259a3c85c83b765696935542d83116f67",
+    "token": "Civic (CVC)"
   }
 ]
