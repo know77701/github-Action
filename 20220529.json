@@ -574,5 +574,41 @@
     "value": "2,852,691.483575486204740786",
     "hash": "0x75981bd4033852e171898072e38d09fae96e12684c45e45164959ebec8b87056",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,626,694.38642376",
+    "hash": "0xae1513920b33d18c800e76199532322a1a235883fa477550d9ac820a61e1dea8",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,774,701.10968781",
+    "hash": "0x0918b545838a681fc31537f83f47b8a4847cab7f99d22ab69662df25fc0a25c1",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,876.70484397",
+    "hash": "0x02ec1baae041faa9b72a2d0fd465c5a2730d639fb045a86c33b98264644703c7",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,943,602.37037761",
+    "hash": "0x8eae0900af9b4a33a269520a5541b3320ac5914a9c4ae48c498596677960aa77",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,529,459.83210638",
+    "hash": "0x05c9928cbe934175e2e7414ca39046d69715b58b920e8d7aa2a9ad846f2e2d84",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,096,219.229854693795259214",
+    "hash": "0xddf98d9be108e61c09ebf09b2664783b058c837df404bea4763e5c845b4beeda",
+    "token": "Loom Token (LOOM)"
   }
 ]
