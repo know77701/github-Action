@@ -118,5 +118,17 @@
     "value": "81,173.27635673",
     "hash": "0xad6b048707171a0a3b445ced854e33665eefd10e567e2d49f4adaec9f76948d7",
     "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,548.00678204",
+    "hash": "0x3b42911638444ba18a565a564ee1c79112d80cca3ea555fd43f0f5c530510a97",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,047.99319019",
+    "hash": "0xa853f0e1e47b3ce9caf7f3ee8b792b1981aafccf32af6ad5e16eec2022fe44c4",
+    "token": "Storj (STORJ)"
   }
 ]
