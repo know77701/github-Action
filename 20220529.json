@@ -286,5 +286,17 @@
     "value": "26,297.578",
     "hash": "0x6d3fed3095bad2c790287782f433b049c8e66c14c6e195b7e583ceccda337d77",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x9dec3b03e1d9d8d348ae932537de1b6949db97a987a07142313458c2cd93109f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,412.198098070991840534",
+    "hash": "0xce748ea431059d32af88855114b1fc4ee7510adca7277f92a949fa8049c24f18",
+    "token": "SAND (SAND)"
   }
 ]
