@@ -184,5 +184,29 @@
     "value": "11,241,605.20737068",
     "hash": "0xa45b122228696ae964a9e17f503644dfc64ac143269ce854c9c92eee5d5da943",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "989.10503",
+    "hash": "0x43b8232af125792f5c6cad808ee2c092c54a41ec3bc8ae1cbc90ef78e2a61697",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "812.5279",
+    "hash": "0x6875c6857a8a70f85bcc5be121835c10720ff18557aa4a7ed79302b31eaa1c56",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,032.11",
+    "hash": "0x4fd954ddda89f8f905af0f18e695adf26838d24622ad070091ed408ee78d8257",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "518.11040155",
+    "hash": "0xa51b61da4e0818a54c34a51fe5659a3844a90cd0e7b11b949e330739327cb395",
+    "token": "SAND (SAND)"
   }
 ]
