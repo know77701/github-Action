@@ -298,5 +298,71 @@
     "value": "75,412.198098070991840534",
     "hash": "0xce748ea431059d32af88855114b1fc4ee7510adca7277f92a949fa8049c24f18",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x84e2d5b19e15662ca4830b124c20512dc7574905ba264f6ca4e7398ac49aa7ef",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,086,970.51203968",
+    "hash": "0x7cbb15949a0c7e9e58a49d73cea321ca5aba8b0f029bb98f2aad6ffcea5b2a88",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x212329b41637f654e6e3f294716cdb7254a1a9917028e40123e05ec7c94c19e8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x35ecf9659641ac3b876b446eeb101a1b25958ab6425d77d7d9154f8ead81698a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,563,052.18326908",
+    "hash": "0x399706461cf748042b2159835300825583ac56084330d06c7ad259ed9fa81d16",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,394.250228586608310622",
+    "hash": "0xa6197e10d44033f51eb00e251b8218451b3fefc6bd441d3675241e54afb06b0b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,241,605.20732913",
+    "hash": "0x2455e5dd126018da05c562cdbc099a7c85c59c77b25e68839b204a5a89a9cb6a",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xf131a9458a4e5ee6c46d5fa9bd62d57e50867da037676e538db8719f01b407cd",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "334,723.168992803391689378",
+    "hash": "0xee8f1cddeb3b9c604f9d67a88606d547de349182fff86f011dd5342a2f56138b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4468a1f0145aa80522e8ae16c92266f63948fb8423acad0be3ce74708437d6e4",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,215,213.46683982",
+    "hash": "0x95d558994dc60b45e7ab9b5512c220ec76f744eca007dc24f040eb969780a47a",
+    "token": "ARPA Token (ARPA)"
   }
 ]
