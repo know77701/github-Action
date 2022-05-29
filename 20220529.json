@@ -94,5 +94,29 @@
     "value": "1,260.3764",
     "hash": "0x1fb8a08d681c1339abac39b907adfec090de4cb56364726db28161d26a90fd2b",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,199.22027266",
+    "hash": "0x40bb28d1c90e85b6b657e757ae42c28d6c99c75f455e9e7c85fa4ed90b5c0e9c",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,496.8095561",
+    "hash": "0x611db11eb1a8860f242ac2f49aebe7d213b1ec88b5876b90014355e0e16f37f3",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "900.20629794",
+    "hash": "0xb8a44aee6481f956fb2775a112e22c02a8b0bb324fff0b3712cb4ca65998054e",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,173.27635673",
+    "hash": "0xad6b048707171a0a3b445ced854e33665eefd10e567e2d49f4adaec9f76948d7",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
