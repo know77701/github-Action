@@ -178,5 +178,11 @@
     "value": "9,005,942.432459114420452055",
     "hash": "0x3b353c009ecb0e57c6db6ebea8a1a93fc6f04e9ef97781e883a120a19735c60e",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,241,605.20737068",
+    "hash": "0xa45b122228696ae964a9e17f503644dfc64ac143269ce854c9c92eee5d5da943",
+    "token": "Mainframe To... (MFT)"
   }
 ]
