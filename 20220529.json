@@ -280,5 +280,11 @@
     "value": "95,480.803528809681879082",
     "hash": "0x2ddd616e9c64d119ce1a2d736da9312f18c8c2630e871b5400885d81183e6cc4",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,297.578",
+    "hash": "0x6d3fed3095bad2c790287782f433b049c8e66c14c6e195b7e583ceccda337d77",
+    "token": "Immutable X (IMX)"
   }
 ]
