@@ -430,5 +430,35 @@
     "value": "5,400.08269233",
     "hash": "0xd2ba931e057f6aef47bc3c5c86a96116585d3ad8da6bf14fa8e23ba07c04d579",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "360,772.743814",
+    "hash": "0x575bc616e7c18c9589194448aa2b17575beb6b15c3e37e2e0e3cba0ed72415c7",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x305d1291a08ce785b3984160dcbf8e46cb601b2af7123b58919782f108842fdf",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,395.56707027",
+    "hash": "0x38db340b7e2623ebb8aedba40c7888d938bc8c64a0eb0a9a36c8779069b52d49",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x9b81e887e0f505a173b5ec6230e6ce04d44c111b73a5a29e3a0d9cf975e1eb5a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc865f96c122ec31fa998db24784735fd7a6c477b5a32d60e60a88aa054e3e4ec",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
