@@ -286,5 +286,23 @@
     "value": "2,400",
     "hash": "0x3589e0dd2ef6200181342df78cfb6ab1fa04e6fb856c8c933b612c52ddb2960b",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,472.0095713",
+    "hash": "0xdf62e1017ada2c6b250dbcf1992918633cf22bdadc3181326eec0376fe94c2ec",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,293.80679687",
+    "hash": "0xdad0fc7625bf10ae042aed2c65ff07d9ca9ee93961e27e3bec224a076ea5b8b8",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "154.08482046",
+    "hash": "0xe50efc6915534f5e7d6f6310d306c73e00f8e82ded98e409e019d58267d53cb8",
+    "token": "Compound (COMP)"
   }
 ]
