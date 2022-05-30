@@ -358,5 +358,11 @@
     "value": "748,074.38854371",
     "hash": "0x398298007cd0a672725c332332c9614cddb0e230763e48a74c13e4c5a49207d2",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "509.57340206",
+    "hash": "0x923faae9ce4ab1430839f5745223a5487ea2a739562be7b9141d9abd8459c058",
+    "token": "Aave Token (AAVE)"
   }
 ]
