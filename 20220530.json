@@ -712,5 +712,23 @@
     "value": "308,443",
     "hash": "0xf242a9642a3ee2df1e89eb45f0a4547e56cea167c661a784399b92f27181fb57",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62.34206292",
+    "hash": "0xcdade168fcca46c26890af84e78ff28205008d133eb94144bd39ccdee06e4ae4",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,927",
+    "hash": "0x8830fd8147bd72222850b5f6ff208ebe57755b23f60e74d2e7ca49cb75235644",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,999.70021209",
+    "hash": "0x0da51437a69e45bdfa77dc620e0a7141da62eac9847e05e6b3d3249be09b8cb9",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
