@@ -622,5 +622,17 @@
     "value": "241,000.31",
     "hash": "0x4e1989eeaa7f8574b57a43568aa1c759d613c6b7daee1bab1ca18d7d6f30377d",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "685.69039",
+    "hash": "0x5bab2cce4b56b21217174bb85a0542d4940d84ec9b605876070c000454755e9e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124.9",
+    "hash": "0x019d433bec600b00de1934b166ed4f4a7771d7e4d25be8362d4e7cae9dd6d2c1",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
