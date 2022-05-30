@@ -256,5 +256,11 @@
     "value": "209,181.361759757005687846",
     "hash": "0xf95614921f5f65f5b3cdce39da95cc25bdc5f1f30d23c77f8529a690ed93df23",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,000",
+    "hash": "0x87c8ce6b838dd9b70812b4553890bfb2ccaab2e140f3afbdd12cab87c6698168",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
