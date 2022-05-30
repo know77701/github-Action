@@ -244,5 +244,17 @@
     "value": "74,044",
     "hash": "0x0de09eed8aa65725fca6d9d60062e4c0202e7105ca29bfb21fcaf8725b2f119e",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220.76307905",
+    "hash": "0xd2a2887c7c034b0b44f7dbd7d3ff55bf3bd2b43938140eacddc7385801e56dda",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,181.361759757005687846",
+    "hash": "0xf95614921f5f65f5b3cdce39da95cc25bdc5f1f30d23c77f8529a690ed93df23",
+    "token": "Matic Token (MATIC)"
   }
 ]
