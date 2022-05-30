@@ -640,5 +640,11 @@
     "value": "1,039.38",
     "hash": "0xed69a0ddc4a926bddea56bd8277b472bdc05c13395f804eda7236692c3a816fd",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,883,292.09716354",
+    "hash": "0x88171d7de983f913d1c948f1d3c753009bab7dea8b9d49d015a2c17763cd65d3",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
