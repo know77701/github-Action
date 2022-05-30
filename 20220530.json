@@ -172,5 +172,35 @@
     "value": "17,000",
     "hash": "0x525f84dae96e930dca276930aeb21387cf8da764937675cbeacaf691c6a74d9b",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,238,710.34568293595474",
+    "hash": "0x0fba4de2e76e208e0a4c1a0ae66abc207b475aeb9423b4ce64de99849ef0a8a6",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "477,831.589852651780194139",
+    "hash": "0xa5ee6b5d2b8b27be9de25f522e707b4661c5f87ded5d5a31ea4b435ced5d74d5",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,568.471395128219805861",
+    "hash": "0x2258c19ab64132cb025bf08fb04392ba160f0ec456f654177b7612a652d85032",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96997161",
+    "hash": "0xcadd60ad1ebd84e5d3c31d6368ee9cf69a357da30877329667d8f0a8d4e73c90",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,824,073.99991302",
+    "hash": "0x4aec7d27c9a67a237ec4df0cc0a8d2a71e0d4390a78487320ad52f1671345a48",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
