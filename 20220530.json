@@ -364,5 +364,17 @@
     "value": "509.57340206",
     "hash": "0x923faae9ce4ab1430839f5745223a5487ea2a739562be7b9141d9abd8459c058",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,222.08882573",
+    "hash": "0x0099981cbb7e7001c2de6dab2637988a813a635aa0b0ce72574abdb45fd149cd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,395.519",
+    "hash": "0x7a672f188835f44433a6ae12c80a2cd81fd38112e8c04199fab83193348036bb",
+    "token": "ZRX (ZRX)"
   }
 ]
