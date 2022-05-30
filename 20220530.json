@@ -340,5 +340,11 @@
     "value": "10,428.6412",
     "hash": "0xb9e432d63f6eabd9e47f147773e80d824ccfe98b756c5e87903d9e8172aa610b",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,968",
+    "hash": "0x2132efb20ee21ce56c832bdb9ebaef65078aca7ccd7ee893f04c7c6a14d1c664",
+    "token": "Function X (FX)"
   }
 ]
