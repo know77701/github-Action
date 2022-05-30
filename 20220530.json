@@ -346,5 +346,17 @@
     "value": "1,968",
     "hash": "0x2132efb20ee21ce56c832bdb9ebaef65078aca7ccd7ee893f04c7c6a14d1c664",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,000",
+    "hash": "0xe6c37afef0d5d5bff758f79c2269f3b482b15d5ed590d4b73ff89dd571fe62fc",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "748,074.38854371",
+    "hash": "0x398298007cd0a672725c332332c9614cddb0e230763e48a74c13e4c5a49207d2",
+    "token": "ARPA Token (ARPA)"
   }
 ]
