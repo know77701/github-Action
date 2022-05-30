@@ -376,5 +376,23 @@
     "value": "254,395.519",
     "hash": "0x7a672f188835f44433a6ae12c80a2cd81fd38112e8c04199fab83193348036bb",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "312,432.355056943465005737",
+    "hash": "0x13b422ea1ca292ece798a270acb009273b809b5c738d269bf2bc28249114bc2e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,604.861892966534994263",
+    "hash": "0x65aafd177c59287f63a1acd3a85fcdf2e6eee40c96b0f1d7277b898249120e11",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "600.154",
+    "hash": "0xb117a99618405f089dff58f6f891c11e04d463d29980b37c0c95a9d4552121f9",
+    "token": "Aave Token (AAVE)"
   }
 ]
