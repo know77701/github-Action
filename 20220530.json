@@ -592,5 +592,11 @@
     "value": "37,693",
     "hash": "0x986095dec8fb19e7c11c8393f2adce75f7abcaad858b2f86e9e543cbebd68bba",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,981",
+    "hash": "0x11581c5b28537dadaef70ccfe3f0d34094523a3989c1556a6e6314522ae65821",
+    "token": "BAT (BAT)"
   }
 ]
