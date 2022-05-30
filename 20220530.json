@@ -586,5 +586,11 @@
     "value": "562,405.662739932645390101",
     "hash": "0x9d43d3d65ba14deb456373c98785b1162d3f4aeb5865a8ada88d59331f9df4be",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,693",
+    "hash": "0x986095dec8fb19e7c11c8393f2adce75f7abcaad858b2f86e9e543cbebd68bba",
+    "token": "DENT (DENT)"
   }
 ]
