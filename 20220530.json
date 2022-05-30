@@ -610,5 +610,11 @@
     "value": "62,774.05586014",
     "hash": "0x3451ec232be534ef20ec2c225f565d5e3dc5e735db0231073d065c6b244169ac",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "655.07001057",
+    "hash": "0x2f4344c93983d23bac9fd5de46b7fd641d18d83cc2ce704b2d49c67d65d97f27",
+    "token": "Aave Token (AAVE)"
   }
 ]
