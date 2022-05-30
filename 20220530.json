@@ -568,5 +568,11 @@
     "value": "34,049.87617195",
     "hash": "0x26d5f8561e70441f8eb9c43245591ac521ef9d1a5c86526835aeee6cee164759",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,076",
+    "hash": "0x8549b69598bc2d07c76e90d141c5597defcccd652ab7b36a0404d1b94d994fb9",
+    "token": "SAND (SAND)"
   }
 ]
