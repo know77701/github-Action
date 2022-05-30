@@ -664,5 +664,17 @@
     "value": "17.90426654",
     "hash": "0xe68ed803bc4390fb682b359a42662f646f00059aa898cc66b624e3ecdf4e15c5",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,736",
+    "hash": "0x58ae239fc05ec614f366250c78e33c81a3a49605cf98e7265a54d4a1cb9af318",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,494",
+    "hash": "0x5b874133b0402dcf9a731dd619ac1b03acb6faebb570819bd9993220ce25aa32",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
