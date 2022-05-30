@@ -136,5 +136,29 @@
     "value": "21,976.576364615587668611",
     "hash": "0x8805ddf8ff5be23b6e4f6b90dc99c641f41706f47b0763c16d760a3ecae39a91",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,986",
+    "hash": "0xe05d37fed49a0e7c304b7e44ba0f4d91242cdbfd11b5d0cc4a80bdba6d2b26bd",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,274.827484782663177084",
+    "hash": "0x76094c152b685f657b6e9cce986e8305cdeb1d2687d9fd8d9f6e5ce156d2d309",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,921.660242557336822916",
+    "hash": "0xacae83315d7ea7c33c45c1946f0e11ed41642385c70f3cff25f31de162ed6e59",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,319.80119578",
+    "hash": "0xc65cd928868598e52490124be290beba2839200be8738a8a4d5d1224cd1366a9",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
