@@ -214,5 +214,35 @@
     "value": "5,999,359.99998804",
     "hash": "0x85d8772eca9a38ac92f1fba4c41f6fe5c9f04f9c8f3371d20161266b27bb8e27",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,866.955761",
+    "hash": "0x9107866696c9593af18ded7a626ce25692a2e388ce8c4293bfc842ee0a81bc04",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,563,061.41724241",
+    "hash": "0x503b828780d0078947d8df9f4ac331edcf6568ac623464bb686d53428e593728",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,988.98887863",
+    "hash": "0x074f37588b11f9f25c9fa0b491ae6e8245c9a91aba55a5fcc4a2f48b862db173",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "234.9880279",
+    "hash": "0x115fe2e0964d213b738e5d4bccf27b9dfd9f56159dbbd8bcf896a30171f3fcad",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,044",
+    "hash": "0x0de09eed8aa65725fca6d9d60062e4c0202e7105ca29bfb21fcaf8725b2f119e",
+    "token": "Storj (STORJ)"
   }
 ]
