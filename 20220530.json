@@ -304,5 +304,29 @@
     "value": "154.08482046",
     "hash": "0xe50efc6915534f5e7d6f6310d306c73e00f8e82ded98e409e019d58267d53cb8",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,668,640.916382841007917527",
+    "hash": "0xbbcaaddc32a81bbf6aba28aa204b58b7849209f4038d3ecab296a3608c7446d9",
+    "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "0",
+    "hash": "0x8c9213a129d9d2c861a92be132dd48ca12f81301388d715da5818be976cadf69",
+    "token": "Wrapped MIR ... (MIR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "576.4441",
+    "hash": "0xbfed8c6e833bc275010706fca3e9c0b5489c9d8a38dd4c52d906c02125da9546",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155,246.34054861",
+    "hash": "0x3c08fe4f299ed24825a93461bbe7502ad3aa05ff8b5e084bec842691f8f9026d",
+    "token": "Decentraland (MANA)"
   }
 ]
