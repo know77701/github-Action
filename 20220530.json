@@ -58,5 +58,83 @@
     "value": "7,163.14110416",
     "hash": "0xac2356ef525a11d5927e0fa8ffa9753ccddb9a0d2c25fd98558f852cf6586bdd",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "114.2492271",
+    "hash": "0x427a0dee26b81b035bd3ce11cacd3d7bdbccb17c6c8e9033ac8f622be5267b85",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "482.4",
+    "hash": "0xa73955bdfcb29801409ab27d41a0471e9c31027385eca8583e01e790dff066f6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,273.926",
+    "hash": "0x1c7fa5670f85fb474d4504cbea50552bb5001306c96254a840cb2a597fc5d2fe",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,708.917657",
+    "hash": "0x2a34f3ae93e080faa2fb86817f8c6e21e17a9e02d4f86a31f23fb4b9e13afd2e",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,848.037710618447729386",
+    "hash": "0x46aa9caa676b6b6c1c7d846d59df5b869307224cd5ec37e836f3ee04684a3de1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,688.615301831552270614",
+    "hash": "0xa027ab5866f7d350c01335509a12c7810a2101b15840cc5a1365eb0a195ebf74",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4b2a9de0bcbc003434c8ae2cc18db6d7411050c5a27d9f83a56a6aa10abcadd1",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "908",
+    "hash": "0x4db8ac582aa0447c3b0acaf3e47897e558b6c5b3f453ff6b0fc1a342d5398b5a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,954.222166936755925261",
+    "hash": "0x875e2043f7fd3cc54761c1a962e2d8aad86d10ebe681576cee5f2c4fd7ae2a3e",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,631.558350497010241389",
+    "hash": "0x612054972400c1a5d589a17d8b167e22eb20b09e2f0e07eb7c423698795fa73e",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xca164b88d590147a6a61350f387a88b7a1026dfc81cf6493c8a578d355dc5d8e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,010.32349705532375172",
+    "hash": "0x7d7ae453b96d33f784c3d7b4fe00d8abd0bfb736674ab2849751fb077fe2a802",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,976.576364615587668611",
+    "hash": "0x8805ddf8ff5be23b6e4f6b90dc99c641f41706f47b0763c16d760a3ecae39a91",
+    "token": "ChainLink To... (LINK)"
   }
 ]
