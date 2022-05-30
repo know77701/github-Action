@@ -328,5 +328,17 @@
     "value": "155,246.34054861",
     "hash": "0x3c08fe4f299ed24825a93461bbe7502ad3aa05ff8b5e084bec842691f8f9026d",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "338.98068",
+    "hash": "0x13eb8e8ff55b261e7316e474382c404ef3f774e1dd29885a90cae58c7926a99d",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,428.6412",
+    "hash": "0xb9e432d63f6eabd9e47f147773e80d824ccfe98b756c5e87903d9e8172aa610b",
+    "token": "Matic Token (MATIC)"
   }
 ]
