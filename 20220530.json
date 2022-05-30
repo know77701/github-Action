@@ -574,5 +574,17 @@
     "value": "20,076",
     "hash": "0x8549b69598bc2d07c76e90d141c5597defcccd652ab7b36a0404d1b94d994fb9",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99.67185208",
+    "hash": "0x21c144362502847f8f6884c4257cf1901bb449f0be2f39b22d92726f3488b28a",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "562,405.662739932645390101",
+    "hash": "0x9d43d3d65ba14deb456373c98785b1162d3f4aeb5865a8ada88d59331f9df4be",
+    "token": "Rally (RLY)"
   }
 ]
