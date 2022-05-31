@@ -460,5 +460,17 @@
     "value": "99,043",
     "hash": "0xbcceb50a15074df96aacd4404ac9482a602ec248c17e6a8f33ac2c843e2ae3f3",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,281,216",
+    "hash": "0x2ba0719e37b1339f566b114102c28406a1b50acd3ba6d8ebafc89cdca4a4534c",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,709,039.156",
+    "hash": "0x5c4ac81b666b4a6998294d8cdd25a40004680c81b86042c039914e6a5b63d304",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
