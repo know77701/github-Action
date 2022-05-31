@@ -640,5 +640,29 @@
     "value": "55,628.436135210018476524",
     "hash": "0x6c7d9b6ed8ae3890c3ca82f7fe0d2dc71ebc2e12b891e54ae8017aac821eb37a",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,846.846",
+    "hash": "0xbae6677676ef94e068ba2e1ea9005704be0e21d34f2efb47f27cc979894a450c",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,032,462.73604858",
+    "hash": "0xc7e92bbf557e002e440ae1e923f5420dce7d49f13ba87f2b5f554adb71dfe9bc",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,450,591.26395142",
+    "hash": "0xdbbd64fa08eb6c79e11f0a1ca44b0bfa6b62942e06a4f185ef9e73a218d4671d",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,988.99992046",
+    "hash": "0x2e5ebc424925ce68de0ce7787381e070d3bf7a80ab1a043a9b74d3394b80f936",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
