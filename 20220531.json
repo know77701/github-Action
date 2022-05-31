@@ -352,5 +352,17 @@
     "value": "20,137.05485781",
     "hash": "0x184ca00613aeb552d23d40782c08ff08945b0dc598452071eb53b85a5d853363",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,275.711122761508374724",
+    "hash": "0x1d821e43a62df4c206d41517d889cbad6033e784c59c7e28ff0597d545347d19",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "610,000",
+    "hash": "0xc6c95b40f813d977c525006a96071c6de93501e4f6bb174977b633c1ba0ba7ae",
+    "token": "chiliZ (CHZ)"
   }
 ]
