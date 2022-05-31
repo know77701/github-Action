@@ -418,5 +418,41 @@
     "value": "57,996",
     "hash": "0x322470a41f11cd62c348e12c4f5a768c205c17e5948257b86a4a12fc21296300",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,945,724.14068843",
+    "hash": "0xdd6355612f73aa71f682553168de428d51b89441a6beed31bb5e416ff6bef43d",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,543.357637984871294954",
+    "hash": "0x4a901ee607dedf2f9eae41b728033edfc5ea4c93bbb8bd57a9896078f7c465a0",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,987,939.85931157",
+    "hash": "0x311566b164c92b455ca80b6efb94822d19ff186ed7911fba80ba80d7a972d0fa",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,447.617362015128705046",
+    "hash": "0x11c4d0653b8f84197026a49afcf75b1504dab4ae2a5cbefdabef33122d2d8cc6",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,131,392.48071352",
+    "hash": "0x114309efbab7a91501ee3222564c730df7cd093e395ecae3fc25c6841192f989",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "255,479.96143632",
+    "hash": "0xdd82e1f1986092c7a5593f8af9090713a16ba981c5c5333eef2f0df824bc432c",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
