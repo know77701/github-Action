@@ -952,5 +952,11 @@
     "value": "343,607.00494684",
     "hash": "0x3b79fa22ec66d5fba498afa97866088143bb1919c33766bd7679428350513668",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,469,602.26585146",
+    "hash": "0xa74ee31f44ede31474b4c74bf277194d2277691be74adef78a490d7bd31a6f13",
+    "token": "Mainframe To... (MFT)"
   }
 ]
