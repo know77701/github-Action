@@ -412,5 +412,11 @@
     "value": "141,405.1036991729032806",
     "hash": "0x2b90a2c5e4f17d89316d511c9176529e514e508b439d158dffb7a203f61837cf",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,996",
+    "hash": "0x322470a41f11cd62c348e12c4f5a768c205c17e5948257b86a4a12fc21296300",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
