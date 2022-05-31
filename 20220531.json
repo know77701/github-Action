@@ -196,5 +196,23 @@
     "value": "161.669258",
     "hash": "0x680837db118a0168d791d54709078044cba4edef5c53a257475b85df781b08a7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "165,335.13452572",
+    "hash": "0xcd2b01479ac2394cf7ad646d6af010ed96b045d7d80e7bb62d302ac115d903ba",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,008.337",
+    "hash": "0x1b8bb119b9cd79d525827c8af9d3869a6f100d2c10487701c3ca8904a90db59f",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110.84891116",
+    "hash": "0x86fa03882f64e5ccbed4602fa299cb1f136e18d7e965228af7e98d35d7bd60ba",
+    "token": "Compound (COMP)"
   }
 ]
