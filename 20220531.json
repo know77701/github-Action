@@ -850,5 +850,11 @@
     "value": "249.25100868",
     "hash": "0xd7b36d75be65d9bf23411dc9a7c564be14d7ffd70ee725788458f8d6b3cef938",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,508.45906727",
+    "hash": "0xaed6274f6b4acb1c537206c9ec62a5fa44552c01719b937951f0b16dc8cb5e6f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
