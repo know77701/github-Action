@@ -214,5 +214,23 @@
     "value": "110.84891116",
     "hash": "0x86fa03882f64e5ccbed4602fa299cb1f136e18d7e965228af7e98d35d7bd60ba",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,506.182314110026009741",
+    "hash": "0x1a88c6e028e57a97fb3aafb9d6cee8e6fc8e69628423df66a8c26bcdc47aa17e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,456.4937713",
+    "hash": "0xefa2e6c521ecfcd1ccf61ff1ea4b196a9c4d218d91f08656b32e635eebdce884",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "312.63967781",
+    "hash": "0xd138297b58c59c3358c29fab5839d011aecee6f93b092bc996f682507728f347",
+    "token": "Compound (COMP)"
   }
 ]
