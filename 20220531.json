@@ -382,5 +382,17 @@
     "value": "18,814.2",
     "hash": "0xc4e55849e4aaded1e0eb2736a562bc8eb6511ecb8b5748292de14387e0f4dac7",
     "token": "Wrapped MIR ... (MIR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "173,187.32624061",
+    "hash": "0x2fac94fa15087f69c78a2fb60795af5340cd253abff5bf2334f0438692f66b8c",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,169.881366",
+    "hash": "0x6de77acee6daf56e9ff096ce001b72934f9667e0c2d1737942ea85961b12e1d5",
+    "token": "Chroma (CHR)"
   }
 ]
