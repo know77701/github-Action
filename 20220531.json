@@ -454,5 +454,11 @@
     "value": "255,479.96143632",
     "hash": "0xdd82e1f1986092c7a5593f8af9090713a16ba981c5c5333eef2f0df824bc432c",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,043",
+    "hash": "0xbcceb50a15074df96aacd4404ac9482a602ec248c17e6a8f33ac2c843e2ae3f3",
+    "token": "BAT (BAT)"
   }
 ]
