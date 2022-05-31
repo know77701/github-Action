@@ -298,5 +298,53 @@
     "value": "27,527,881.43823626",
     "hash": "0xb510681e712cbd8b1fcccf516c34c2c7828580b4b95dfa5a02ea837384074585",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,259.925",
+    "hash": "0xa95c1b60525f61e2e1820008c3f8f50788af97cf1a047bbfc2b6994594660df9",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30.86",
+    "hash": "0x73eda456a15ae24d77e6e2a8515f584e5826344c5422a5217e2364bc0a76b8a3",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599,000",
+    "hash": "0x47f2d484e2b2f1c17a7202aec8459f262b3d53d9cf03ee5c25d149f302965142",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,337.421276742433329762",
+    "hash": "0x30e2fc0734abe1e931a2c53678003e875242a68c4032ea5b2703eba78231fce8",
+    "token": "HUNT Token (HUNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,402.86410332",
+    "hash": "0xe4c04484e71c4fcf2f26a2ba3ab73c4303450e8a8673f75f6be0663e33318d4f",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,635,512.31906814",
+    "hash": "0x05020bd1c96e9762657de54c24384899ec31e8e953099da7e1c72a5a584df322",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "659,870",
+    "hash": "0x1ee99d7a01025642d6fa57b39ce11bebfad49611b95f26e10d898c109cc83d59",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "674.315",
+    "hash": "0x6e0e9165a1db2005b9a5d9026338ac74ec2d81eedc80c3040ed9db4d69d1722c",
+    "token": "SAND (SAND)"
   }
 ]
