@@ -364,5 +364,17 @@
     "value": "610,000",
     "hash": "0xc6c95b40f813d977c525006a96071c6de93501e4f6bb174977b633c1ba0ba7ae",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242,204.23937",
+    "hash": "0xdb9c45b59271e37b088ecb53b97b852bbcecc430646e79134a8d016d67adfc04",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,005.524428388491625276",
+    "hash": "0x46b432b00874a78477fc5d6446707eaaf66013e8f239dfa6e1faa97207ae893f",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
