@@ -376,5 +376,11 @@
     "value": "147,005.524428388491625276",
     "hash": "0x46b432b00874a78477fc5d6446707eaaf66013e8f239dfa6e1faa97207ae893f",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,814.2",
+    "hash": "0xc4e55849e4aaded1e0eb2736a562bc8eb6511ecb8b5748292de14387e0f4dac7",
+    "token": "Wrapped MIR ... (MIR)"
   }
 ]
