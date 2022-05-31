@@ -394,5 +394,23 @@
     "value": "112,169.881366",
     "hash": "0x6de77acee6daf56e9ff096ce001b72934f9667e0c2d1737942ea85961b12e1d5",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0xe29d577b11b1e21eb8790adda3e440d741e63e053556b132b25bd21b865f68ca",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,404.85372474",
+    "hash": "0x03a3d2d0fb5b19b34230f9c008b9f7dfe31b46668843d4d7369e28689385ce8f",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,405.1036991729032806",
+    "hash": "0x2b90a2c5e4f17d89316d511c9176529e514e508b439d158dffb7a203f61837cf",
+    "token": "Threshold Ne... (T)"
   }
 ]
