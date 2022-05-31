@@ -232,5 +232,17 @@
     "value": "312.63967781",
     "hash": "0xd138297b58c59c3358c29fab5839d011aecee6f93b092bc996f682507728f347",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,189.4606341",
+    "hash": "0x99cfd27e167d2c6c6e9ce0a889aab15a4899230a6008b7820d8bfbcb641c2deb",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "690,470.755257151715120728",
+    "hash": "0xf667e5c68e1e76763c0fe6c5fad2d5cc532c0253667624d1e7970ef9bda5acbe",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
