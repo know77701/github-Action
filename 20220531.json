@@ -964,5 +964,23 @@
     "value": "56,520.00757792",
     "hash": "0x3c2411ba9617556637ca5d7fc79b101e68214660cdb3f1eb146524642c94b531",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "350,440.291",
+    "hash": "0x59321a09631764523c28b8e6c303c6eaa8871336fdc71f814e3f4342199faff9",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290,816.825485022703176147",
+    "hash": "0xc9d160c08aaf4ba97a5c3e92e9e6627a408a7ae24dceed87bf34d95da94f6ab8",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,889.24425921",
+    "hash": "0xa18cc001eee818b3bb5ffe72af030ce1c0ea0beb95bd2dba6797476881c7f59b",
+    "token": "BAT (BAT)"
   }
 ]
