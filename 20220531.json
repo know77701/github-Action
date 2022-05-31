@@ -256,5 +256,47 @@
     "value": "45,978",
     "hash": "0x62bc2d82d0ebd133f0f54641dbe6bdd4eccca24b364409934470e50ab417f1a3",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,288",
+    "hash": "0x114958dc2dcc2c669f2246d759db74336ee0370284d30a0e333919b8048d3ecf",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "219,870",
+    "hash": "0x1f71cd0257845c213e058e3ecb98805a8d9e1e83be6b96b248b3eec7e1c4e64e",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12.56136065",
+    "hash": "0x0978987ac424d8deea304fe3a82688e45dcd54af659b744681b9a4cef1047e34",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,080,246.55281736",
+    "hash": "0xa2d66c84116b705b2c62e5ab69f19af7365e17b4a1c99ba272ff7491e9a85536",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "858.5082144",
+    "hash": "0x5a18d62c109fb82a9c8259f5b705ea4737029f84baa3b9c637d142bf974be79c",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,814.2",
+    "hash": "0x15cc1955c8c0ae00c4f8581a0629cb91e5372c4e98a4646ed64517b852ca9c2d",
+    "token": "Wrapped MIR ... (MIR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,527,881.43823626",
+    "hash": "0xb510681e712cbd8b1fcccf516c34c2c7828580b4b95dfa5a02ea837384074585",
+    "token": "DENT (DENT)"
   }
 ]
