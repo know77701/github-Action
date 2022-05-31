@@ -958,5 +958,11 @@
     "value": "11,469,602.26585146",
     "hash": "0xa74ee31f44ede31474b4c74bf277194d2277691be74adef78a490d7bd31a6f13",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,520.00757792",
+    "hash": "0x3c2411ba9617556637ca5d7fc79b101e68214660cdb3f1eb146524642c94b531",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
