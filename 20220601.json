@@ -346,5 +346,59 @@
     "value": "1,018,785.369281928161652573",
     "hash": "0x8a96fde88eaa820d6ef03ac5bdadcbf1ed34d316f02c7afb2cd0e49cb26f3f6d",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "283,003.247890650253640893",
+    "hash": "0x3fa63433d09457d1122e6ace8c9c0680fab6bc7cce80c8adc4061e9e6b3a3426",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,291.58019006",
+    "hash": "0xce1298257114361db8dba2e77d823007766f67797012ee3d6e797cdcf4276c3d",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "329,649.476237256344089768",
+    "hash": "0x30768c9a09e6175c4605528607af2250cadc6d16a0a65e6313b525077a5fa6b5",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "271,196.78872045",
+    "hash": "0x1421e452624909a4fbf6452720ba79e340253dd180672e0e31ddbd6362c028cd",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,972",
+    "hash": "0x4a98ed4b3e06388997c488acf0117e22c5c8e40b6498c4ee9a2b443afae2ff73",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "552,806.99988804",
+    "hash": "0x6d90680488f23db6ad57080343a5c63fe69566d98a80412bc72bc723ffb2e6a3",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,981",
+    "hash": "0x11922497bc52e254e6709f16602d07f811121c60ece8d62b0d9a45f5c0588c6f",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,533",
+    "hash": "0xb6ef99b61156c78e1c0c1461a38e6da795f5a59a678c8c90ff7cadf79a13f3b7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,555.9474341",
+    "hash": "0xfe3072c7836b1a98a31273907dfc3cc04f57c5cdb508db9a8b122bdf6f00b58d",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
