@@ -1102,5 +1102,23 @@
     "value": "4,999.32",
     "hash": "0x42b45d9f22cd63007613bdd64396051b512ec2ecdf92d1d0ff3e1a77849b1d3f",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,080,031.573977796776077774",
+    "hash": "0x6ee86ed42d8aea401143566dcc34a5d2f7416051eb5dd741dc8478b22fc33bfc",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.32",
+    "hash": "0x3d159af15b7d8e921b2039f6763c07b0d2f94aa720493c5c0f25d2fa96f47b5a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.32",
+    "hash": "0x38910b430873dd648679137abc960548c06a4717e0ee72aea4b1f3bae5c28014",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
