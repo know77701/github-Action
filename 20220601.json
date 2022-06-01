@@ -1060,5 +1060,23 @@
     "value": "297,233.967599858336389489",
     "hash": "0x19edeab8516982e55d6b0c8e347a1ca28b74f82219a183eb38d09be357585e62",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,681.83385363",
+    "hash": "0x17996f3b88007077882421a1fb688cbf21ebeda9b938acfd04bc8477b0317c3a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,360.0000428",
+    "hash": "0xf103568369d0a888e007f5ea1f5a46225638f7ad28f8dd1e2b6723c5401fb24d",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,655.699",
+    "hash": "0xba339bb9674f7937e457b89cce2c9fb436de9882254c8428283c263e977452dd",
+    "token": "SAND (SAND)"
   }
 ]
