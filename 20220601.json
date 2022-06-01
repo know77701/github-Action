@@ -1198,5 +1198,11 @@
     "value": "786,098.472260743131516833",
     "hash": "0xa5130f594ce810b658bb532e748302f077a5d57a5701567fb1eb155bed61617a",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,254.00003751",
+    "hash": "0xcce8e319faad7a709931fa5a1b8219ecd7b5ee47f068985155b675d55239b287",
+    "token": "Bancor (BNT)"
   }
 ]
