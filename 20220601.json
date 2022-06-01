@@ -946,5 +946,59 @@
     "value": "156,748.59551796",
     "hash": "0x3ba8452d31d8473d8d3e65bef4f533832cba10697f4ff868659faeba0e38238b",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,990",
+    "hash": "0x80a84a778d54047c92b003fb4d17552a446be98bf8be50cc926e522b3d3aeceb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "648,645.007852346390377372",
+    "hash": "0x1145c482d0bc14049bae4bd72d624eebbb749b6d13e4c6a003b0f2cbf2a0ed58",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,013.470598",
+    "hash": "0xb9cdb56dc9e9c8a21a241434647a6e64179ee5eda52046035726d6b78ddf9a8e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,044,778.626940038002307322",
+    "hash": "0x5a65045548a25529f51b6e86c7e6fb152bdddb58e98c8687120114cb78bf179e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "443,342.717530985298584293",
+    "hash": "0x49d83755ad2e947df53c56b9a74fa1092e56d4967e24f2fc038636075ba26342",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,580.730558",
+    "hash": "0xf60de6be74e4b692b0c0ff57ef2467a403f0e33fd4e44da156cc0de3bf6334ed",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,679",
+    "hash": "0x8636d4c38df12c7b004ec2a4244c79aa6ae859fa18a3d42d6c5a3b9ef697fbe7",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,709.456250670875349421",
+    "hash": "0x791cadcbff8c2c408505645b2d442c07dc5393f54201159526712d767a4fc12b",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,475,587.11412511",
+    "hash": "0xa0bce04a9abee6c56159326805077617c8ebcb2e1f91672c89625524534e05b3",
+    "token": "The Force To... (FOR)"
   }
 ]
