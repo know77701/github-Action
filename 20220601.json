@@ -1042,5 +1042,23 @@
     "value": "159,809.41274779",
     "hash": "0xd4bcceed43fbc071f40e83237c46e6d08a6e530b80237ed59b20e62f74c55be6",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,205.17203813",
+    "hash": "0xe901ecba067e4d3a3294854997242b08df48f1b3b81bef155bb201fcc3fb6009",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "134,349.949348643621708469",
+    "hash": "0x7bd964594f80ef014ab1b158461812fe5d8747575fce740aeacad94ec35ea743",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "297,233.967599858336389489",
+    "hash": "0x19edeab8516982e55d6b0c8e347a1ca28b74f82219a183eb38d09be357585e62",
+    "token": "NuCypher (NU)"
   }
 ]
