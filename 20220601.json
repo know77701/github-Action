@@ -400,5 +400,35 @@
     "value": "1,555.9474341",
     "hash": "0xfe3072c7836b1a98a31273907dfc3cc04f57c5cdb508db9a8b122bdf6f00b58d",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,681.64985952",
+    "hash": "0x02619c4d593514c0291ec85faa84d0f7ca5f2a9ded8218152b19b6dae2ec2535",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "239.31234",
+    "hash": "0x67c4bb0ba416aa16699482d00707af992266da72e6aa5e61dbc10de7a8dae08a",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0x640a00a94ac7d45d20617a8351c97fc798f24d820793c4356e32531fc6033115",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,008.16036563",
+    "hash": "0xfc601263733075001ef9b4641387d64107989f4edcd4143f82bd3344940cc649",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,204,918.112113483159425616",
+    "hash": "0x9d86cee48d4a781a07a4bc89922be71eea617782aefeefe180789f9d59ff7616",
+    "token": "Threshold Ne... (T)"
   }
 ]
