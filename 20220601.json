@@ -142,5 +142,23 @@
     "value": "102,005.072",
     "hash": "0xd5a1cab1a00d8198023d40524052143fa2397ae7074249a82f5750ab5d670e5c",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,591,855.22386076",
+    "hash": "0x3f956129528d2dc3d7fa9580f961cf1c42e5adc7d9ec57022e02b3ed1eff8007",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,563.234",
+    "hash": "0x53795e108ff269e85e9fae35ec5611b52c0bd826f34f16ba29fcdd6e6e4e2a35",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "156,033.219048614452798752",
+    "hash": "0x1b9a8d459a5eb90e6de9c8241b625cff7124da3dfb6bd5a37e4dfd6194ad5f77",
+    "token": "Threshold Ne... (T)"
   }
 ]
