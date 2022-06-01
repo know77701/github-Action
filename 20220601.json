@@ -712,5 +712,71 @@
     "value": "444,488.780693760003336403",
     "hash": "0x0f700f2533ede6ec83817d778e4783ec96cc83e18992d450434f93e9cb7bcb1f",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,230,353.78669605",
+    "hash": "0xa9175a31adbc691d1cf12299c19c8a58020dbef88cdf59845484d3d417ee880e",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,529.98870056",
+    "hash": "0x8997fd922148d97e874c8e663b57196b6a42d3913c49e2281e8306e533ea2489",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000.53",
+    "hash": "0xce8c495c4c29e542c49a002d011e99db9043289120dc165e02eacb6b3bfb74cd",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,142,250.010524884599829638",
+    "hash": "0x9770cb54b94809e57bf8ac9f66ee67d9fc1ed9c5644eafc089fad298f80309bb",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "652,007.83379579",
+    "hash": "0x4643622a884d7cafc9d34ee80f29359c8f0725023bfd329fdd4a70efdf38091f",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,452,848.090238153007092446",
+    "hash": "0xefa247c7e0092a7084cd653c2116f2ca863f6e05035a2d382ce1fa851b3eefc4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,205.90987575",
+    "hash": "0x5c8e56cc58a296b5b2954ca9e730b78d7c090316b0aaf8d0049e3d7c303c4e11",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "245,220.16618388",
+    "hash": "0xaf4819ab30a7d63e67ea92e035e7f1cf17f45da5870a641d3c9fcedb591a53b2",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,131.333",
+    "hash": "0xd3035a473696c405eba440feceec59de17759b71a4424dda784a16aa9a1513fd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178,730.589064705400170362",
+    "hash": "0x9fb356d030f6f433a5ca4806c3092c584b51afe9299bfdb54431ba97c37ad562",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,083,851.7266",
+    "hash": "0x92d677bd8ad80f3a2d447bd5386831cb1bd633de30d9b7cfb17a1bfb82b2837c",
+    "token": "chiliZ (CHZ)"
   }
 ]
