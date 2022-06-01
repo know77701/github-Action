@@ -220,5 +220,11 @@
     "value": "630,375.99998649",
     "hash": "0x5efc38798910eec3c28558774fd613a0e9bc28516cad02e5de886350a790c097",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700,065.39913415285387637",
+    "hash": "0xe3c129ed1a2ff83c344ca40013f5ffe91afc1536d516652dcc0c986bb2af5df2",
+    "token": "Threshold Ne... (T)"
   }
 ]
