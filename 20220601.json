@@ -184,5 +184,41 @@
     "value": "701.8207",
     "hash": "0x37225ae4200c77cb76901f882bee203608b0887f8443eeaee1ae4509d502acab",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,018.68623144",
+    "hash": "0xe69cfbe651202741cd967642ecf850c0bd6d24e6e63d65692638be1cf015f98f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "204,000.92",
+    "hash": "0xf2b473ed32fa81dae911c2a5c2cdcff5841d55d44da5cb9eb781795d0c729a13",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,167",
+    "hash": "0x953ba19651f2f97329ef7b4817de1d06f96a22f0ae47cbb95edeb0ce2717202b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "319,876",
+    "hash": "0xf42fc891c9e2710880685b5c5b3805a837e692a6404d625da8456f7f395d2f9e",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "717,520.663857951837106209",
+    "hash": "0xe5dbb6d3760e197895a09ee961706a01efb0f809f46edcd4a595114994596239",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "630,375.99998649",
+    "hash": "0x5efc38798910eec3c28558774fd613a0e9bc28516cad02e5de886350a790c097",
+    "token": "chiliZ (CHZ)"
   }
 ]
