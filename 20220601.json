@@ -226,5 +226,71 @@
     "value": "700,065.39913415285387637",
     "hash": "0xe3c129ed1a2ff83c344ca40013f5ffe91afc1536d516652dcc0c986bb2af5df2",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,473,311.274826084250457445",
+    "hash": "0x2f1217f6f8908adc0fa3ae4abe2ba25adc2a81b3d9bd33ab21bdb770ee4a8f54",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,191,203.445946928359774534",
+    "hash": "0x7037ba29b433f74003b89464c0905a3d098b57588d1a9972e558596a31fb53b1",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,623",
+    "hash": "0x323b9ce4055e6908823c3adfbae55dbaa8e84b18fe8416d0592c6e5941144191",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "888,139.811959463698337032",
+    "hash": "0x81469ade4dde607c3ae803c0237c5723890be04300d0dafc29bf9d3c5b0c5ff1",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,810.601",
+    "hash": "0x1c65b8cc75843e728f88fce5ebc779e47efe9df39c484fe51f896c40ac6f3af9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,986",
+    "hash": "0x098c87ece07031ce9fa5f5e2b0a4cbedff5eb594128213598301a82d3a78912e",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "331,188.912464523924655043",
+    "hash": "0x2aa7464d150408d2f4c5ced8e542551765e605c0cfb2adef01eba5d41bae6a97",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "408,905.16663688",
+    "hash": "0x1ca829f732cd4ab6888f68924eb1b3b1c89ee14155844a8358ae7895297e67f2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "263,208.0107209",
+    "hash": "0x5a88a57ebeb40e4595260d9b8d24e540c2f5c92c96399314f5864e51f1637728",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,924.071184786232784903",
+    "hash": "0x3385380540c9ba3f844c182311b4aeb0301ea14ea59634195b2f0bf12bf7a78f",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "298,573.488381176075344957",
+    "hash": "0x12ab74f62c1e488ff40df3389beaf2431b5916d1372c3d7efd47fbb304e6c508",
+    "token": "ZRX (ZRX)"
   }
 ]
