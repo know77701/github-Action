@@ -10,5 +10,77 @@
     "value": "355,618.471161751590576354",
     "hash": "0xc619fd7553367898f5b03db2a7400a470df97a93dc79a0c0b269413e691537ce",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,588,334.258165110092264016",
+    "hash": "0xa0c5df6a99f502285e5f43bb96285078c97b9cca0d7727262e227b971779fbdd",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,350.839",
+    "hash": "0x9e7980c1d4136d392d1fbcf2959299a1521a859f2082a1c244a44f0932009070",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,129.40495863491100725",
+    "hash": "0xd379906bf7537ca63df5c7e95b32d5144c6ad6b76d7f7f5e2f188266a4f08b7a",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "994,468.810604365522528257",
+    "hash": "0x31534c144df4dad82af5883f2641b31337d796c4d6f550b50d32b2aae6e9b84a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305,191.26497339508899275",
+    "hash": "0xaa44fd19a5bf0e27cbda4c5261c56d2ebe802b04f417e6696477dd3f2a78f53a",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,344,079.601182001983420583",
+    "hash": "0x614291f6b2a35455f1b94543279beeca9ec6e37f20438385ad797231c766902e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,086,623.63994520826475782",
+    "hash": "0xbe94196c1ca9833892e641e62be22a137a4c00c6c8ebaf57c19975f9d75ca690",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,759.54278690090374352",
+    "hash": "0x8c63d2bda568a41ca977077879bc14ded74e8432d33c55f2ab57d90aaad10f86",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "442,113.80539726868153824",
+    "hash": "0x51d6e89e469a685b379aeab77a5f6729dc5d64f4621a341e7e78e4426021895b",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "756,671.186722",
+    "hash": "0xa62c63600a90ae9e37624bfde6cc636a77eb25500fdbe02620b9ecfba24553e2",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "342,605.20806673173524218",
+    "hash": "0x974e71d6545be0aa77e600b3641bb647bde500681bf2e814aa64aac6a80de212",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,894.62758462",
+    "hash": "0xb2e8173ab5af97e23fe656b3bca8e2a577741d57246dd69f4ef2649d23204836",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
