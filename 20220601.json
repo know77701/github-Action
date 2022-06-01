@@ -430,5 +430,23 @@
     "value": "1,204,918.112113483159425616",
     "hash": "0x9d86cee48d4a781a07a4bc89922be71eea617782aefeefe180789f9d59ff7616",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0xb66727ac073fcacc57df63c170b76a5614a9156a9fc8f81bc871b0de144402b7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "146,135",
+    "hash": "0x92e55ed847fbfffebc52d7d28e42bf869242c2aaedab20a258da150e74398995",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,876",
+    "hash": "0x1cfafff4da9647163a8cdf543362498b983c69e415689766849a3095f3058d82",
+    "token": "Decentraland (MANA)"
   }
 ]
