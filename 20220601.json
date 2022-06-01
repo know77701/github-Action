@@ -778,5 +778,35 @@
     "value": "1,083,851.7266",
     "hash": "0x92d677bd8ad80f3a2d447bd5386831cb1bd633de30d9b7cfb17a1bfb82b2837c",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "570,584.379247278895761297",
+    "hash": "0x794c16e1fd0057bfa7abb907d8c73a2262b23a8ab94d51fd48eeac951ee10866",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "335,391.15127985",
+    "hash": "0xe485aee0fa6850f43917ea3354d3c023e37e17123372a1162cd0f67e1d0aa7be",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,566",
+    "hash": "0x9b8411a253481c529cfca9f74eb1de4df79b50bc608cb1ff6ea9ad71a3cc07e0",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "365,210.33698215",
+    "hash": "0x870ae5108d4089a1cc1c2a54582fd59c9c49a9bc0103517869628683523af1fc",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,804.61891097",
+    "hash": "0x618505f21a58688c65d74f7e62c356fd471b88592396f77e2fb874765ef83908",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
