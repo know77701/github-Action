@@ -646,5 +646,47 @@
     "value": "237,146.131194181646391396",
     "hash": "0x3253a17c709d1bb5ff753015ab235a31fba041c1d8a90e5b32df3102dea294f4",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "594.21403761",
+    "hash": "0x330617001db744335a0821f3375279f53e5e329c13a30394b6dfbb4ac6927e04",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,262,239.6515844",
+    "hash": "0xc02c0b0e6dbc2477814301a64d7d55f4efb1563623f723ed43a5541c219ae3a7",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,926,128.36684154",
+    "hash": "0x8b162cbbba55d1d69e944fb8854726d9baa986ca25de07972d3a396ce2f5e5e0",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,857.9",
+    "hash": "0x9d95866aa88ad0f9d3559b87d45a8bc00bfc9ef1d19a4526a5379bf6e399f21b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,721.210579",
+    "hash": "0x075fcdda90260511c3b6611dab3065eea1d46e71ce9579831426e0e49f9aa76c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,771.60597099",
+    "hash": "0xec21abc10cfe880c6f2080c5352cf2f62a0c7b2f13a4e5846d391e0db76aed02",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,000.052",
+    "hash": "0xd052523700014098f39cdbb3f4542e0ebd77031ded4a01967ed14511450ffd38",
+    "token": "Decentraland (MANA)"
   }
 ]
