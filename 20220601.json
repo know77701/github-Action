@@ -316,5 +316,35 @@
     "value": "479,280.951113972397185017",
     "hash": "0xebcc14a437a5521104046b6d6bd00f99ab8d791da6bcd5ad529b2eafdbef3ec0",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,069.596",
+    "hash": "0x403a92e27e289b32eafb9c3aa98f4fe206de120e0224bb4e089b3fe0e1fcd1c3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,673.99995921",
+    "hash": "0xba9d7817f3b05be7dd20801f22e5d4e583aea4028d72f600467344224e1484e8",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,613,071.426763413118090229",
+    "hash": "0x79f5b316df5866f413000c802b6a4bd02f93b9c764873ea03c10433c2f6b9b63",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,355,731.00000353",
+    "hash": "0x53adf2d94432628c45e44561d3d528b53a1be91d5621e513e847b975caf92dc0",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,018,785.369281928161652573",
+    "hash": "0x8a96fde88eaa820d6ef03ac5bdadcbf1ed34d316f02c7afb2cd0e49cb26f3f6d",
+    "token": "Threshold Ne... (T)"
   }
 ]
