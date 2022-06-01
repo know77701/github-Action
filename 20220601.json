@@ -1168,5 +1168,23 @@
     "value": "1,456,185.211311796000520104",
     "hash": "0x7fdc0e167d2fc2f7c56a4ca574a360e5209adef7323bccfbd841b10e04889973",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,125.23821419",
+    "hash": "0x3540bbdb6477aa68daf49bced0c2ade1d2a481912cad5dd7bdee4a13cccef2a5",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,831.644429008555814254",
+    "hash": "0xbe594ed5fb92c4c26ff2f335815116a399716e8905bf35af5e9cb6f9b95ba2d4",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,565.265970991444185746",
+    "hash": "0x6e5406996b71e660c757ffc537fb1fa423234ed97b8575d0816de3fbce97c548",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
