@@ -604,5 +604,47 @@
     "value": "400,000",
     "hash": "0x50028afede6a2f30c1aab08f070a641ba62e8dbaf89f8b2d26583d2926a58ce2",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "302,731.378667265031299409",
+    "hash": "0xe47ce2fbad900100fa82e1de3f533719b15d580575e4e369132f6725e49266bc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,315.90944929",
+    "hash": "0xf8ca67bd10bae0dae3a489338adfa87a078c6ab0e5a73d94352971cbc2bc52bb",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,631.33354742",
+    "hash": "0xba12f594b6f33072a552ed3ab629f778b530454ce355247b8ea5bd741cdcf800",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,800.00003835",
+    "hash": "0x460d38e54a6bdda3f008d8290061f75a6611b3483e1e01390fc61cde67141182",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,998.64",
+    "hash": "0xe5e94b2cfd1b4c9ee58b9c47e7dd141712ba6a19d63f9f66624fbf90e3d5170c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "291,159.04619176",
+    "hash": "0xaaac33d21374b338c04451bacd20441567fe4068cd6ceb90da416d26df9d098f",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "237,146.131194181646391396",
+    "hash": "0x3253a17c709d1bb5ff753015ab235a31fba041c1d8a90e5b32df3102dea294f4",
+    "token": "NuCypher (NU)"
   }
 ]
