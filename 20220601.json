@@ -1018,5 +1018,29 @@
     "value": "7,156.11516194",
     "hash": "0xded626bab39c08ff922c95bcff628a6fe56b73a907d9f6ecf801aef151403464",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,000",
+    "hash": "0xc179b366f57794542f74a3becca276475bb6ccba802a04c1f8e99f8a55f09636",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,423,426.566334370275031162",
+    "hash": "0x2fed0eab8c9be7334d30570fb21b3356aef80e040618134137ecb8f0498efc5d",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,607,034.646620029724968838",
+    "hash": "0xb35386dee809bd78ed799cf679b1f823952a59167c2cad7bfe91469cbbc7be46",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "159,809.41274779",
+    "hash": "0xd4bcceed43fbc071f40e83237c46e6d08a6e530b80237ed59b20e62f74c55be6",
+    "token": "Storj (STORJ)"
   }
 ]
