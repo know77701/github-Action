@@ -808,5 +808,71 @@
     "value": "64,804.61891097",
     "hash": "0x618505f21a58688c65d74f7e62c356fd471b88592396f77e2fb874765ef83908",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,912.15687595",
+    "hash": "0xcde20ff37eff04330c43ef8eb591407817ed70583a8d48054dd801cece540a69",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,920.79969889",
+    "hash": "0xb94b6b9206eed09b1d524f063d66bc611f49f2a4fa8b9aca7684be28629b6cee",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "109,735.641235185825569647",
+    "hash": "0x85a58db6a4772ddad3b7a3d6c21f86e97753c8cdd7578c06c81506726d91fa55",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.32",
+    "hash": "0x5d37e02c9dfb5299b4ff75c29bd3acbc88516faaa969d10992612c55b66dce4c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "269,432.7702465",
+    "hash": "0xe508c87e88e06455d5d47b411cfdf417f974074cfa235b0a0ef40fddad283e03",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,800",
+    "hash": "0xe19b07e5d15e07470d1335252c8f50b4800e8be079d5193b29bf5f965284975c",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,638.358700774174430353",
+    "hash": "0x0c7b1139c58938d9a7a5e945a6e810936f7510ac189741ac26572b92378d6c8e",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,486.99984309",
+    "hash": "0xd17f9e70bba72e54806d05b1142ae945b1ced7af73bb47ee61fb4dba1c36ee91",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,766.9",
+    "hash": "0x67ef88d53df317afdaee272a687d1a6920fdf9a63160f6359205b9da6d2245b3",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,268.504760313627363642",
+    "hash": "0x2ab1a937ce20de82e8df0f274c14e004772699a5a1fd1535d2e8c5d6e16f4aab",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,920,767.18929722",
+    "hash": "0x1728191823f9cad2f22d00b8ced667d2ee0080cc8fa267c6df64d3a014591523",
+    "token": "Civic (CVC)"
   }
 ]
