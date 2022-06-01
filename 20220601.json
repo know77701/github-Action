@@ -874,5 +874,77 @@
     "value": "2,920,767.18929722",
     "hash": "0x1728191823f9cad2f22d00b8ced667d2ee0080cc8fa267c6df64d3a014591523",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,628,328.38881811",
+    "hash": "0xde9d895369e27bb9b87d51212d80b9f69191c3638bcd0619bbd097564e83000b",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,456.191693969124650579",
+    "hash": "0xc87945831e888ef70165576e93b9562a1665f16288cae1e363c1436b4ed0db35",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "810,047.444426205116047771",
+    "hash": "0x78d59868f5f65ca8d1f92c8eb4e36d022f9cfeaffcca28ffc0dab49e4d411b3f",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,451,562.272527994883952229",
+    "hash": "0xe85973f987d7b8b8b45e998c6d1cc48ca1e87b3dd3d714ac519d9f7663c08a11",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "257,174.14861736",
+    "hash": "0x23ec80eef42d8d55f4dde8995728085bb0e66eaa38765d274fce681ce207e673",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,408",
+    "hash": "0x5ce434ca3c4531376f011e7c1c5b813e2bb81f8f8fbbf4b21a71fbd25f68e39d",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,000",
+    "hash": "0xb3588c5607a79ae998e20a4080884c9f72798c6326898cbb4939043a69801bf8",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999,799.99993627",
+    "hash": "0x52b242ba928d5e5d9cab59b6af0ece9db0419299447df14bcbd5b9ee528dcd0d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "768,971.675384",
+    "hash": "0x77945da1a1c3526fb64f8f22334741b78ec48d6cd9503606a119da979a9b1cf8",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "279,944.99558",
+    "hash": "0x8a4f59518ad16b4a3d5c769edece96ad426d386a6e7c2699079e65206afa1fb7",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,966,131.0723403",
+    "hash": "0xbf601ab33df18d7e49eb3cd02dec43f6559be89144d44d1e6df4317b875a5e23",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "156,748.59551796",
+    "hash": "0x3ba8452d31d8473d8d3e65bef4f533832cba10697f4ff868659faeba0e38238b",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
