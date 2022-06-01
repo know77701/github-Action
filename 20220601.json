@@ -532,5 +532,17 @@
     "value": "84,017.94335026",
     "hash": "0xcd920f70356744afdc89a971315837a91c025a8e806cd2a4d64bd7a6a2dd14b8",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,000.44",
+    "hash": "0xada8a7f14dc8528e9837502de3e5f4a8bc998cfc43d0d8a98e9f24ae65ca7bd0",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,000.048",
+    "hash": "0x49cf1ec968e3b263b8732e77ddcc306745960b5d86b38f3e61f6a9a6a29e860b",
+    "token": "Decentraland (MANA)"
   }
 ]
