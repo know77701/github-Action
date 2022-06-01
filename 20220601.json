@@ -448,5 +448,17 @@
     "value": "13,876",
     "hash": "0x1cfafff4da9647163a8cdf543362498b983c69e415689766849a3095f3058d82",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,892,526.483513970536199677",
+    "hash": "0x9d395b12be9b4e49e7760181069f00a0f1613e84599a6234834b3c3fd793f9ea",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,908,592.201822319463800323",
+    "hash": "0x69ac2be25ca05047bb0fc73397e9787db8d3bd4653b595d24a7211b83aa64181",
+    "token": "StormX (STMX)"
   }
 ]
