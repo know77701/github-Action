@@ -460,5 +460,41 @@
     "value": "15,908,592.201822319463800323",
     "hash": "0x69ac2be25ca05047bb0fc73397e9787db8d3bd4653b595d24a7211b83aa64181",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,863.00023779",
+    "hash": "0xf3afd8871787eacc6b6fb296f7eaa2318d6d204ffb0a5be52a13998fc6a6c22c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,134",
+    "hash": "0x7d60da4001617e89d5bb0ef772a02d3272a08ca9294825ecb93d40255b09d59f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102.64163749",
+    "hash": "0x4a4f52648d8dedc2a8aca59d5101f143700935c918493f0fb7751f18fd7c978c",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215,446.255608211073818759",
+    "hash": "0x281f39f388f8433651b0d0fbf05699a31acbe4c0cd0207ad2e58c40dba586910",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "611,374.06747100757394138",
+    "hash": "0xac259c83a5637d6915a08a922e34af0b62c4833de614ed6481723a29b75bbd1a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,330",
+    "hash": "0xbf4c8e7d05fa7f8dab978bf27dd7f76df73d34f7c7bbc53eb70ba78e853139e5",
+    "token": "SAND (SAND)"
   }
 ]
