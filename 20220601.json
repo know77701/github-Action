@@ -292,5 +292,29 @@
     "value": "298,573.488381176075344957",
     "hash": "0x12ab74f62c1e488ff40df3389beaf2431b5916d1372c3d7efd47fbb304e6c508",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,797,856.534026932049975128",
+    "hash": "0x4b77713c2da67be223c4bd04d19e9a5d33d843cd94ce5636699f1befcb1d1036",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,921,771.249762776285498381",
+    "hash": "0xe5b5ed84101152d35060f4d976f4238375806fd92d78e950746648042af9e670",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,159,576.993868901103970154",
+    "hash": "0xf4f3cd13948c58b0901ed214bd8862639575bd24a77b018a619dfa18a933af58",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "479,280.951113972397185017",
+    "hash": "0xebcc14a437a5521104046b6d6bd00f99ab8d791da6bcd5ad529b2eafdbef3ec0",
+    "token": "NuCypher (NU)"
   }
 ]
