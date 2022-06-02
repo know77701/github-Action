@@ -676,5 +676,23 @@
     "value": "35,393",
     "hash": "0x183e3d5cb64703d8afa0629da195b26a85516dfd891b0bd66e08a9c1a7317d93",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,053.02105531",
+    "hash": "0x9592cc9b628aa2c28e2aa302ddcb7d2fa127ba5559a2de9dcbb8cbd76d956b32",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "799,112.913841",
+    "hash": "0x71ad0ff9f98d2f33b06116dfa31aac14e69a279cf86f226de84d882a8e7d47d3",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "795.28324167",
+    "hash": "0x1de677e0f5f0cb1b456f14877ab69e2e2c5c6e21d1e5f0aaebba6ed08c14db2f",
+    "token": "Aave Token (AAVE)"
   }
 ]
