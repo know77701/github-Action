@@ -616,5 +616,59 @@
     "value": "90,288",
     "hash": "0xd5e7d8bb69d791a162cc63347091a2628535720778756864201fadcc9ce5096b",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,500,681.46148276",
+    "hash": "0x5d00e13adc3fbb20b69c99e514f0afc1d2ce5dd6ef02d300e633afeda8f900b9",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,273.209610282266203205",
+    "hash": "0x0737dba406eb9f96ac04a4bb6436c76006bef966643b81f6b2e9b73747a29e10",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,090,713.60507112",
+    "hash": "0xa39d10934d6e9bb7288e919724162215ea479432e39728f4098cf2d4b448ab7c",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "234,805.501",
+    "hash": "0xd84005f5bca2386dec87e0379aed0d80fb48fc5d9805e1eab43d560114816831",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "123.09806837",
+    "hash": "0xb206cd98098db8705fe421e58e5788f419a7db9c28413c984a34a1147c303fce",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "233.93848742",
+    "hash": "0x9a5d8ffe29e3fc284bcd6072101ec8ce06e90a19109eae6172636022fd92c64d",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,799,533.7",
+    "hash": "0x0bbad41c6f89881a7e3ea3d309ee3e387c689f48ff429ba16c35b45c0097e4ab",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,287",
+    "hash": "0x774d95a31095edde24b13f8d9e9398726e41ef3c950965cff853acc45ac93be9",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "283,662.69062232",
+    "hash": "0x2cde5f3704799dad80a1d0f0d406f91b4915f725514b96ca8850ff14988eddff",
+    "token": "Golem Networ... (GLM)"
   }
 ]
