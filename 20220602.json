@@ -562,5 +562,29 @@
     "value": "33,891",
     "hash": "0xfc4fb931139f83b5284fd78863ab11622f41dfb265d434ffdb3f25cb0ee5accc",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,834.078",
+    "hash": "0x2a70f1156779199a058da8147563a8cfa87f89f045b955359a057a6b052fe1de",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,025",
+    "hash": "0x1b6178b62536ef5f48cb07d170bf88837e72636cbc22754d88b631363e66e763",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,943.762284",
+    "hash": "0x1304e63fe746acead78d16c3de82fe6c75752efe2aa8d3b021ca0b362d0d1779",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,821,080.47824464",
+    "hash": "0xfbfe4182c936d28b79ce86c359fd045d67dae53b10d9d821545d106a457c7b97",
+    "token": "Mainframe To... (MFT)"
   }
 ]
