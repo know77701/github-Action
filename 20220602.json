@@ -670,5 +670,11 @@
     "value": "283,662.69062232",
     "hash": "0x2cde5f3704799dad80a1d0f0d406f91b4915f725514b96ca8850ff14988eddff",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,393",
+    "hash": "0x183e3d5cb64703d8afa0629da195b26a85516dfd891b0bd66e08a9c1a7317d93",
+    "token": "NuCypher (NU)"
   }
 ]
