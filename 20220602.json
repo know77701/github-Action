@@ -586,5 +586,17 @@
     "value": "11,821,080.47824464",
     "hash": "0xfbfe4182c936d28b79ce86c359fd045d67dae53b10d9d821545d106a457c7b97",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,625.000000000000002451",
+    "hash": "0xbad6cbf1b57a8a633b00f4384dab9bdef8e37d2f4ee76cf0f5bbb6f3c903a523",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "224,919.91993534",
+    "hash": "0x0906a0a70656660a88c34efbb51f76fbc47787aa69c7eba718f27fe01d9301f6",
+    "token": "Golem Networ... (GLM)"
   }
 ]
