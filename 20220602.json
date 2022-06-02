@@ -478,5 +478,35 @@
     "value": "677,745.934423114656832464",
     "hash": "0x9ff65d179b5a7501f7a57cd911ba4c556494ce71858ac0b9b60166437e680da4",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,602,360.265994403680636989",
+    "hash": "0x5de99f7a72785f6723bddf5ddb861e706a90e55b5f1243f55aa7b6f80e7354c8",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "521,009.122406881727291864",
+    "hash": "0x3ccb1cb6ffebb827cb6daa22c99764b22e34abcea59175b605ff35e48a45ead9",
+    "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,401.040693151265487372",
+    "hash": "0xed5a20c7ca723ccebbdee6cc07b014464ed13bc4d96c8902f9a3a9aafdcc06fa",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,767.261",
+    "hash": "0x4216bc2e01605cd6dec86b0d4d98bde1d539a3abc8547524891fa5f53d0c5fb7",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499,360.00001854",
+    "hash": "0x34ddc237129929daa7fcfc193c88daebf0c6ae638ccb5234b44b11689f32a04c",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
