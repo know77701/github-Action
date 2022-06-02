@@ -340,5 +340,35 @@
     "value": "26,077.581615689391232682",
     "hash": "0xf3f10f9fc98390385b2f4bd4fd60274ec34ce4897d6b5f667001d3045cb4a1a4",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "475,369.249386754356389962",
+    "hash": "0x020aa70df57899fcf6ddc726fe32d4c5ce7050e71b62db8f14f8787c25bf8b2d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "565,470.748938",
+    "hash": "0xe944600115899d934fa2d9293ae9347e0d8ced237eedc54b7d35e80ea78185cb",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250,613.779119849602621219",
+    "hash": "0x975b437eae2861fea0fb769c5775e77e4bc69392006fd559187c3b4e8e7dd8fd",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,000",
+    "hash": "0x011efb132269b25127d9290107212306ba7ea18e746ae0a353920768f9c90d18",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "795,855.903138",
+    "hash": "0xeacefacf7055ee1c445fd8c51f47812fa58c1aee2142c8f8e5c4a24d81acad1e",
+    "token": "PowerLedger (POWR)"
   }
 ]
