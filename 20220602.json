@@ -58,5 +58,53 @@
     "value": "252,072.81745611",
     "hash": "0x4967afe084d0ce0d98f009b85419b0ae1ddb568c3ded83b8a6c7fadeef80f325",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,126.55472325",
+    "hash": "0xc7953e0e48578ba18c3667fef578be1a2b487c0b2277605118fb31624b8a21ba",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,000",
+    "hash": "0xad034b461737979954dca0692310121ed5e55e31acf28dc6de016d54e6f9982a",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "284,947.99994215",
+    "hash": "0xa5177da94c4b616e968a31e4b2d3b2a47eecf67060cf4a14bf15ee07038e806a",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,061,840.781747300191829638",
+    "hash": "0x7eb5d0f15cc0299f6742af8cdd1c59780646e0d41f0380ecbab2a574d1b45e55",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,231,657.102257512217871216",
+    "hash": "0x63c10301e5352541617e863cb70fbbe4f953ca1d19abc5714f6dde225a426757",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "179,450.351303649808170362",
+    "hash": "0xe639b2a79ae4d894865180388857be391432075ae12f3ace219a531ea630aaae",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "321,967.335675787782128784",
+    "hash": "0x1c464dbff1de8a1f1d0e05bf2cc22ab5a8e97762e621f797cbb23a41af97985d",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,484",
+    "hash": "0xef2f2cf57d405fdc1272b549a82fb9644e5a7449e7f93667f4f80aadf596f53d",
+    "token": "NuCypher (NU)"
   }
 ]
