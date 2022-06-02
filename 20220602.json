@@ -136,5 +136,59 @@
     "value": "170.13791921",
     "hash": "0x3674fdbed7f9805ee29836e4ffe44f1cac2e08d028fdeb659bbb76ab15ed4335",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,390.599",
+    "hash": "0x8e180fc225c43222002e37a7a96074ccb29002410aae0b1a3be4e9c6066f2908",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,696.76063382",
+    "hash": "0xb16f9078ecb5ca4ee38dd7a8cb8d90e4a9b77f9f01dde16d4f0ab72b8b2ef20d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "625,700.69613874",
+    "hash": "0x3082c1fda6eb2f03db51e151df93acdd9b16b8b79c0355975cfdf363b4bb6a59",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242,498.502222377590769027",
+    "hash": "0xccef62cc5b05982603e78b38432d324563a993798dabd94a5691b7556d38adfe",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "245,000",
+    "hash": "0xca09d6bb17d1397cae160b617e56edcecd1d4809f98b63474aa679dcb17eca69",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "426,716.99991023",
+    "hash": "0x7dd70e29497acce6786fc2013d42753e41f9deb292de5b57ca63838c71cc45a7",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "800",
+    "hash": "0xd139e83a912efd09937f1e18430b43d5c76f91ad1f54d3a226db204d9b50b1eb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,586",
+    "hash": "0x4186b246e286608b9049942fcbbe6f34dd03d96d39b147e131dc205e800ca7a8",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,939.698844890367698922",
+    "hash": "0xd671c329ebfce4d3227a6995835c9c14fd79a9249787ac439a6161d610383d88",
+    "token": "NuCypher (NU)"
   }
 ]
