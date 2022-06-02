@@ -724,5 +724,23 @@
     "value": "25,983.601451764437956096",
     "hash": "0xd3ebc1d2bd07814e9071f4e7662f6beff938391bef4adeb788c66588cd9641c4",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,869.33196851",
+    "hash": "0xbd93eee295b1980d1c7021f388b53fe8e0b82c4c6f17fe75df1d77087c8c8015",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,276.467023520572697404",
+    "hash": "0xd754620fdb13d0c688d4bd5df305ce4a340d6c0c444d077bcd47733d9bf29016",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,585.504945299427302596",
+    "hash": "0xdd559b90eba15f75f9f973c21b70b11d724074504386ea033df20adcb9f65d1c",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
