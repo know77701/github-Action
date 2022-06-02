@@ -298,5 +298,47 @@
     "value": "955,269.136083127926805033",
     "hash": "0x7b38e26699967e8a80407e0089702f0d780a3c55af546b4de3db7939e58d221a",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "303,110.988552412538441746",
+    "hash": "0x1610be1d9b4113da046a61e02a0d73c12f3088ed054edc74a3f80637f52beea3",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,232.000000000000002341",
+    "hash": "0x1bdf74b8f3f65a1e15593a208ff25857cda596d0df45021323f5857ca4e90294",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,264.871388195329709331",
+    "hash": "0x33ec9f3d1008fda402d1ae76b778e177a0486f77020a1bbf3d110387a156b2c2",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,000",
+    "hash": "0xea576968a641c13e0b78190384973d1b88f2164ef6a20499c790534778946d0e",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,338.99994185",
+    "hash": "0x9634b35d0dea798b9267d75c925214d1ba3c07f79ef820545828e4b99952d285",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,030.3012",
+    "hash": "0x3a729112cc2e9d3cb0dbdbf90082fbe67531a200194dd1ebd758cb3083a41da6",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,077.581615689391232682",
+    "hash": "0xf3f10f9fc98390385b2f4bd4fd60274ec34ce4897d6b5f667001d3045cb4a1a4",
+    "token": "Golem Networ... (GLM)"
   }
 ]
