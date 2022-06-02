@@ -256,5 +256,47 @@
     "value": "820.477",
     "hash": "0x93a591d10e75a39e7b30998c015281caf65a8979c3baa4b9009da2b0673e59a7",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,954.090928380000006992",
+    "hash": "0x3c7e66fa953b917d04a6683d255a4ffe0167ef56b5b432fe6522c7e86656ec86",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,886.866",
+    "hash": "0xd8857741bc90c3206ef565233804c1398d31839a7a8cde14826a3400bb461887",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,075,075.56799384",
+    "hash": "0x7093156b0d16a11040ee02910bf7c030f79415948fdc3270b8e03612f03b1e8b",
+    "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "191,224.99993472",
+    "hash": "0xceac62915850ca1b7e3784dd04485888342d72ab9e36d4a834e00c9a3210607a",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "439,425.430134615457708153",
+    "hash": "0x888102f514a928127a47fc2e8945f0b88ec46850c5d6b37e3e073ec3ea96b48b",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "766,049.568048169033698927",
+    "hash": "0x6a7e6029e8d1db1d0bf959b7b0aed39bd10c0933709e4a7f5439590517129d5d",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "955,269.136083127926805033",
+    "hash": "0x7b38e26699967e8a80407e0089702f0d780a3c55af546b4de3db7939e58d221a",
+    "token": "ZRX (ZRX)"
   }
 ]
