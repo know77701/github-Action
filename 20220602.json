@@ -700,5 +700,17 @@
     "value": "7,565.37443038",
     "hash": "0x6f9209b4a60092ef7ba7548269225d95fd9600183e1ee140c758b5cd9eba0248",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,065.86790032630298984",
+    "hash": "0x90a2ba80558780fe6bfad34383ca1cf4272b4a6c37a566fa67588d66e90b04c5",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0x8d9ab7d165da3c9a84fc2fd119b0f68fee5d809f70ccc03d909a639b0110048b",
+    "token": "NuCypher (NU)"
   }
 ]
