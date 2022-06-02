@@ -400,5 +400,41 @@
     "value": "221,876.93231679",
     "hash": "0xd58a5e8e425c5ff80e21fa65c230ba629adc18af9c78537cf13c05e4e26fa33d",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,212,803.18330961",
+    "hash": "0xe9830d9b86c52e3cab3152210d2ecaf30be186d30dbed6e417c8cfb475fd5c6d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,886,310.825255788107187125",
+    "hash": "0x4354338df4bb7eb391de2ee89c8961bf7f5acde0312b0f7a5110bbc933da3013",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,578.237215739858928203",
+    "hash": "0x31456241162b2e0a28259f2da2f92cc7a92dce81d49d7dc5615116fb24c74b84",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,098,069.202479801892812875",
+    "hash": "0x3203ca4d0867896d9f620e4d329f61cfdb3a63e9a2521b6c071b9e8338669265",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,552.773129757651554947",
+    "hash": "0x510c4d17fbcfacfc72721c26c58525be56a8df31a22193a528649203f41b365f",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,204,859.50022697",
+    "hash": "0x0468b53a9c9aa222ebba749b786c779df4f0cd6cc2541267e588d0a59530f7bf",
+    "token": "Mainframe To... (MFT)"
   }
 ]
