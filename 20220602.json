@@ -598,5 +598,23 @@
     "value": "224,919.91993534",
     "hash": "0x0906a0a70656660a88c34efbb51f76fbc47787aa69c7eba718f27fe01d9301f6",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,131",
+    "hash": "0x42ca06da7d6e38c67ebd5e9e9218b553c539ca74ea6ff69e307d7e6d01032755",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,044",
+    "hash": "0x1720a2ee2a4371e8d17b8f32d1ac0ef9fc2d01f7f512401e26117868c53c1e42",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,288",
+    "hash": "0xd5e7d8bb69d791a162cc63347091a2628535720778756864201fadcc9ce5096b",
+    "token": "Golem Networ... (GLM)"
   }
 ]
