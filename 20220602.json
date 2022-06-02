@@ -1,0 +1,62 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "32,163.24084852",
+    "hash": "0xdf0c8cc1f62a797661bda9631f0d5d39a606b97a082d8f8bba853cac2ca092d0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,523.924316036405649783",
+    "hash": "0xe48da1719c7c1ef1bf6bb04149fb6b19e66147c39416db6528d9d3fc7b1fa3da",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0x4cb131b3053509e5b405c2e0d297aed0a180659e148f7c739e76b21150394f7c",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,120,230.843985582612041619",
+    "hash": "0x96e27bf1b95443bce4d5b19be2f5c9d0bc5b37ee97cf4eb175e2627ca2fedfa7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,838.16548333692491561",
+    "hash": "0x8d407d73a6475ec192785b98273670ec1c0875a6e411893c82893678fb37d759",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,997.169818686682431555",
+    "hash": "0xbd5cf6f8d5876092973807223ed4583950d633af4d88bd70372f51968a0eccd5",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,195,709.920649046806179651",
+    "hash": "0x253d70be860c49c83c66d6de4ace9ffc96bb38dafb673ae8d92d729a7ae371ef",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "508,359.614031882566858613",
+    "hash": "0x7232fa98aeb80be9f45c38e00f3d906225b56edb88d3393f25e4779d89ea35fa",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,426.198680513317568445",
+    "hash": "0x965fcc88acee6af6a50c192c25772ea7626bfc975f457ae0d93f8dfebf27d50c",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,072.81745611",
+    "hash": "0x4967afe084d0ce0d98f009b85419b0ae1ddb568c3ded83b8a6c7fadeef80f325",
+    "token": "Golem Networ... (GLM)"
+  }
+]
