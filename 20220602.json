@@ -508,5 +508,59 @@
     "value": "499,360.00001854",
     "hash": "0x34ddc237129929daa7fcfc193c88daebf0c6ae638ccb5234b44b11689f32a04c",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "272,744.2590093",
+    "hash": "0x4afc7961465a79ba2557090a872ca34d25c5279b6e7e2fe310a433a23032b2b9",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "669.12397675",
+    "hash": "0xa19e165f6adaca44664c35de07f9ba48dcfc8301fff686b6ab3ac2ed59865990",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "583,412.472807735520463114",
+    "hash": "0xff1db4ba77b55b98ffaa165d4169d8d49fc372c2ae8961e5ef118ca4ecd0710e",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "245,123.478392206344364203",
+    "hash": "0x89a6923aeedebbf9d2a9c70ee1c949364b499031401b5fefcf975a4449dba912",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "182,823.243386488494758633",
+    "hash": "0xe0e600f3cc16f4142161988ed3696a1d0658ff43febdd62399512b5f8fd95eda",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,922,798.914000506319363011",
+    "hash": "0xdaf47ee82507ed08086d1e40da34e92e644d5398307b78650b2fb6b8769dd58a",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "365,523.111470954479536886",
+    "hash": "0x4648525b808827a2a3d239dcbfa7b80cc422799a3344c374d5ebe6546a4c17ed",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,750.971829142746770174",
+    "hash": "0x9465522378c3aa75c859d2bb12d412408358522773383da16b853244429b07aa",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,891",
+    "hash": "0xfc4fb931139f83b5284fd78863ab11622f41dfb265d434ffdb3f25cb0ee5accc",
+    "token": "Golem Networ... (GLM)"
   }
 ]
