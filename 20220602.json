@@ -382,5 +382,23 @@
     "value": "31,849.416498",
     "hash": "0xe706c3020dad591a481e206b6823663050665363fcb037ffef9a7f6687a5920d",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,294.76093808",
+    "hash": "0x26fcb69b2d131f4c7c4f10d2b3063438557189713373811fec7f71f029341430",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "324,480.701",
+    "hash": "0xd65d20022c8df749d10f67cca1beb12d9af5c22b22295cf2b2724956efe2977c",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "221,876.93231679",
+    "hash": "0xd58a5e8e425c5ff80e21fa65c230ba629adc18af9c78537cf13c05e4e26fa33d",
+    "token": "Metal (MTL)"
   }
 ]
