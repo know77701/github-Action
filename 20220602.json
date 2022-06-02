@@ -106,5 +106,23 @@
     "value": "5,484",
     "hash": "0xef2f2cf57d405fdc1272b549a82fb9644e5a7449e7f93667f4f80aadf596f53d",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "792,028.983854",
+    "hash": "0x210cd857885442fcf5cf9e4bbed61aeb341973d3ef4e182eaeba49918698099d",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,832.098595931508076391",
+    "hash": "0x5e65ffb65f1947afa4857f49eab1961f0b9c78ceb140ecf6a2e5da13abe7f5f2",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,722,675.458553782723894895",
+    "hash": "0x40f214768096bfbb94fa831b7720fa37b17a2abe95d56cd384c85f2a8c47339b",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
