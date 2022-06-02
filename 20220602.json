@@ -190,5 +190,35 @@
     "value": "41,939.698844890367698922",
     "hash": "0xd671c329ebfce4d3227a6995835c9c14fd79a9249787ac439a6161d610383d88",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "448,036.420385664163793923",
+    "hash": "0x9030976f3237c84bc51ccf3d89846d34dd9e62ccf131a922dcc59c03b89a3dcc",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,141.79605548",
+    "hash": "0x5015fff6d2047e650eb1b09d1d5eeb5403c2d45baefc2563e434381f42921a37",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,385,566.097796275836206077",
+    "hash": "0x9635b68542534d42f063c6a7e53636b44cdb8547a5139516b1c1fb1a3f0a0b5a",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,282.24291592",
+    "hash": "0x54a4b63fb944b151a7f7a22e1c7fbd3a1f5e043c38567aa8aac652328353a9f7",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,512,684.127",
+    "hash": "0x1e4001ecfa701666c09f3fb62bb7f1923d45116dc86327c4786bab2ebd31cfb1",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
