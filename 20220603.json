@@ -670,5 +670,47 @@
     "value": "196,751.66453782",
     "hash": "0x34530fdd969fe53d6c661ef1b695b8303e88297e23c278e125536d3990145a31",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "775.285944671628489534",
+    "hash": "0x56e6b5e7bebdad526b8ae3d500901ef9c09db945112d5e732c58084a45ed7a88",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,227.642070828371510466",
+    "hash": "0x5b2b47f7f2f8fd5fdd818c60da65e24e4ff3d4dd1c45d48b9d4dc59010c2f654",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "927.67734447",
+    "hash": "0x009c7dd73d6f34ba6e124e9d525e401213386f7f76f0efbaf575353aa3b12e1d",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,961",
+    "hash": "0x185eacb1b566ef9b49e8d6babe91e1e14537fac38f0ec6477f4646decd30ad4d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,896.48271966",
+    "hash": "0xd286ac4107c6927da038b85cb04fb285ac775efbd2babb3e34ec7940074f776a",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,434,281.98973967",
+    "hash": "0xf3fb6b362abb63afd63a452b81cdb38c52a72f9e8254fe5ee88bdc8841c5664b",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,529.89572243",
+    "hash": "0x350c9e7fe6f0c3e4f696fdeea97a4a5bde3d7fca068047a18cdc10a72ef71859",
+    "token": "OriginToken (OGN)"
   }
 ]
