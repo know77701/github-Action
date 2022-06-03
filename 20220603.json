@@ -22,5 +22,23 @@
     "value": "317,202.982434226053842216",
     "hash": "0x44ca5d17008cc4562ea2bbea63f588021b0e960c1476a769b22da4fa02726212",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "955,308.485041757177014612",
+    "hash": "0xb3e98554abcd4d283f629772c4399f1781ee71ad4f30214595d9a6259b609e95",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "540",
+    "hash": "0x5466878fefce4da662781dc734d4f36ae75d5885743bacfa425c81fa8c4d6255",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174,469.49034229",
+    "hash": "0x908001c34955b2bdd9040ba8893e0611d7a7a78e8c1eacf2831ef2ffe9e91f38",
+    "token": "SAND (SAND)"
   }
 ]
