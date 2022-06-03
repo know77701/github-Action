@@ -586,5 +586,29 @@
     "value": "2,139.75760194",
     "hash": "0xcb74dd931791003e420a44e76a94c2cda242ef09676758a6d2f026c0ef9210cc",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,478,796.24865607",
+    "hash": "0x14bab04b2fd822272eff217b6d31e0ab768286e367b3a2e107dc97c6f33e4002",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "758,012.946831948809980738",
+    "hash": "0x992c71edd935b4594a9e3edfdcb52d8f675b21949aa89d45b601532211d8b8ea",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,122.148289565329314617",
+    "hash": "0xcac5096ff528164d47c34c298ac0ce35f7abb7068778663516cb0fc0fdbb00c5",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "274,087.79740279",
+    "hash": "0x693b2c3a61fd1281c2cb4a0db999a4fc0b831298187fc8bed38ba626f883c8ad",
+    "token": "OriginToken (OGN)"
   }
 ]
