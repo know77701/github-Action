@@ -40,5 +40,53 @@
     "value": "174,469.49034229",
     "hash": "0x908001c34955b2bdd9040ba8893e0611d7a7a78e8c1eacf2831ef2ffe9e91f38",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,341.959834957934324507",
+    "hash": "0x39fe4c26d911198b4b385cabcf563ad9a73ecf8a454449528d3579d7c5d04b39",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,951.09005797",
+    "hash": "0x3c30b1488957b292bb7248235a63fce3c1c400503c9f36f246ad4bcec66d4fd6",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,210,159.93460684",
+    "hash": "0xae0d2748f83cc7cb9634d2f92819b57639b4e0efc3597b41663d2ff070b2c59b",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,555",
+    "hash": "0x372566913e5c0d979e192bd710388e20bfea11f689a260373dfdc014055997ca",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,000",
+    "hash": "0x22091bb5b4d08e21a7bcb8df0f5bc331587ca0a192c9cac07ecb5013558eeac4",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,000",
+    "hash": "0xe5210bc3897233dff694aea18af734742d2a608902845b646e7235ed7298884e",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,445.890459238017198689",
+    "hash": "0xbf015f9900bb06f2073d9f21a64a0b33c4bd49e91785ee981dfc6c0cfe6997a8",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,381.462344211982801311",
+    "hash": "0x143dc50ff2c9322afe739d317407529d1a03ff0344dcd1dadfb1f3131d4634fe",
+    "token": "Reputation (REPv2)"
   }
 ]
