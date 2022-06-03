@@ -562,5 +562,29 @@
     "value": "345,146.07755514",
     "hash": "0x1975eb055abb34518eb1943167422bcc31172f49e261de19c3551d1e8e683440",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,138.510150731965309341",
+    "hash": "0x25aa56684479bb469068b9d76101766a64922f3d51bbb7c107219665693aa479",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,314.10553659",
+    "hash": "0xf863d68311118d2aa681dcee397e124a361f81160a2d273589954475053161cf",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "837,101.033992672413933899",
+    "hash": "0x9515d41ae7e7ad583eb5b04a8cb645694ac6d10252da9fc541f0bb344fc066a4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,139.75760194",
+    "hash": "0xcb74dd931791003e420a44e76a94c2cda242ef09676758a6d2f026c0ef9210cc",
+    "token": "Numeraire (NMR)"
   }
 ]
