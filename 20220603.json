@@ -802,5 +802,41 @@
     "value": "127,863.133656905987109223",
     "hash": "0x6209b12be21761ee5b93cc06e2ad8071342c3f8edf38b878800dcb48e24ccaaa",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,930",
+    "hash": "0x12a78271ccb4ef8e3e171f654b1f6b9ced7df798c165a9cf2fb80d208a2f21a6",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,617,371.390817887921066749",
+    "hash": "0x57ae943dc381be705270044be39f651241cd721b0f4deda35227afbd4064be0f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,255.825579740710553995",
+    "hash": "0x9639604c88bfd449306428c9e2024376f2d8bc1b89373e32e0b332ec858216d7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "198,330.058643025044109289",
+    "hash": "0xaa4f1f3477849b0476aa901c747163424fb64b1c583c66326fe6d0db5eba0325",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,700.86043121",
+    "hash": "0x770067d8e69707fc8ae3154d29c6b7c948854b504f38df0ce20c9dd85a9e8147",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,043.02",
+    "hash": "0x59c8a38bcb2e8e08186e8399f2b96367937ddae222364f0841fa3e7b2a2e16ae",
+    "token": "Matic Token (MATIC)"
   }
 ]
