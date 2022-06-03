@@ -922,5 +922,11 @@
     "value": "146,204.267888931329620772",
     "hash": "0xe67f98cea09c5f5a9699d5748a1fb7bed59f85738502e35a4c665284299684d4",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,061",
+    "hash": "0x129fcdb2970eb47b0e9905c113fe8b94ca437b53eebd17bcf59c05dfd20c677c",
+    "token": "DAD (DAD)"
   }
 ]
