@@ -478,5 +478,23 @@
     "value": "4,461,237.38574983624128469",
     "hash": "0xbad2f64c33b44ea0555ce52950a896433aa281b59a4f30ce0c74d61a3df346dd",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "171,229.230953540461733639",
+    "hash": "0x0d2f29b481d069973bb758cc857f300c8f42decffa2651d1ccd66ea4867be500",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,649.012",
+    "hash": "0x41b525d9607b18eb660bf8775fad1e82b84a6ab357eb2b6f69bda2712f227bf9",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,018.465973859351599105",
+    "hash": "0xc33c4b09b03b01cd4060f18810f70fc69d955eb4a89c53ce06e0295fde652453",
+    "token": "Numeraire (NMR)"
   }
 ]
