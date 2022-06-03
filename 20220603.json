@@ -232,5 +232,65 @@
     "value": "199,843.684414482808469173",
     "hash": "0xc8b7a417069a106de6376453f9869b6fea9ed39a3ae2f3a32d5a2b4a5ea40e49",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,563.395476386854922829",
+    "hash": "0x7b77fc1edcdd38c823918f74381f52372eaf2144e4441b30e9128dcd5040bfb6",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,974,230.850241785757281278",
+    "hash": "0xeb860e9e25d9b3f34287e9fe1093a8cc1e7392972db2c4a015b2a1abe873e2c4",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,216",
+    "hash": "0x2f84a109fe3ea7a2d2fa03b166bf5989a9a95e9fd307696641edff4128eb8924",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,112.075581646947013972",
+    "hash": "0x1097418c6bddef1778bfee7dc185ffbe72e7bad7efbbc0525e986a16cc69f202",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,784.575165414573400895",
+    "hash": "0x04f48f5f501f0e59895ddfffe17e005dca9d04115899a78f99a6628de9a4500d",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "284,502.514817120456309832",
+    "hash": "0x33d8f3a3d9f6da091ffbc9ed3116986c67a2ccd44d388e827f2c8e73dea873d4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,805",
+    "hash": "0x7d7648763672eff88f2fb5fa37af16dbc592f0a11b2a3e690857fe8cb5f3ab31",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,311.960505578161285038",
+    "hash": "0x949cf5122e4bb9e2751bc04e3b5763c580c9e82c57bc09adfc0766198359b76c",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "475,224.388298255682800154",
+    "hash": "0x8d35dd562ef8e5fe26ff1f905a9eca0c8d459863b80af6f89fe8916c63747656",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,918.502646501838714962",
+    "hash": "0x4fed4984aca5f4ecd85505b7e9f9b1883cab483ef631b15a9e299e8adcbfc4b8",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
