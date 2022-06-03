@@ -1018,5 +1018,29 @@
     "value": "32,000",
     "hash": "0x529f721dbcdebed36702548528655876b213d8ce4397f59df3bbf5eae045696e",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "443,507.772224115361133219",
+    "hash": "0xfafd1d67479b1a19a5c372084f31b398c996bcdabcfd1d8661bd41a0f14c3b61",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,862.91203",
+    "hash": "0x010b6a5e3b37fd2279687ab8fce802fb43b521a9cd418e19808411dd95abf04b",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,383.70447008809250508",
+    "hash": "0x24c6f5481c270fbfa9663a244bac86a63367d8025dfffff4d8b92ddcd0875931",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,250.22136711190749492",
+    "hash": "0x95be1a6699a0b78e181bc074141e85819a66c6435536f25d405d49bfe8856c7e",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
