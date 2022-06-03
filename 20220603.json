@@ -940,5 +940,23 @@
     "value": "630,000",
     "hash": "0x78377f4e4e6903aa263708a8a365af5cbdde67d71b4b5351d45834b8215067e2",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,985",
+    "hash": "0xf65d387e38efb9e6316b63ad8efc330193f27ecd8abdd34d911bbfdc5efec91b",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "196,280.387625282116488626",
+    "hash": "0x73220aaf881181c8327d0d19282c1f5892cbb6910cdc78e74e6f736f5f792c51",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,043.09",
+    "hash": "0x399ea7e6b7f668028f971dd6a014408ce499f45ea3a491e4276b8502bc772564",
+    "token": "1INCH Token (1INCH)"
   }
 ]
