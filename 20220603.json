@@ -964,5 +964,35 @@
     "value": "78,402.69742604",
     "hash": "0x2e0c1f743cfce12e31971fc7ee40ead238cbad25727bf82fa2bde8517139f02d",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.9699158",
+    "hash": "0x962b8283e719c907a404a6f2b764e0729599249587ebeb5035add07609eca387",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,772,774.02163037",
+    "hash": "0x97dc7e7358ec7e3825e16d23515213ffa69131771d8b2122359cc36151a7bf18",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,000",
+    "hash": "0xbc253a084931d4b98141fd9674e19beec6aaea968e44f7f495260b77f097d2e5",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,985",
+    "hash": "0xe20ad706b48a58c23d14f3274901593c8f186e0b8a7407cdf31c0c9f775088d9",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,985",
+    "hash": "0x826641a5a3be4fbff5100b4b476e135b4a8981bf0f709a7096e51d4463e631a0",
+    "token": "1INCH Token (1INCH)"
   }
 ]
