@@ -526,5 +526,35 @@
     "value": "550,078.472078649538266361",
     "hash": "0xe4520aecee422ba1499cd06fc92601cc12f2f226acab485f60159446f10c4a19",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,326.29985084",
+    "hash": "0x80aef9c08e8d1928869402699dc29833f85a2035b1937cd47e8b2bde1f2bb678",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "353,871.415690899133191464",
+    "hash": "0x389c1fe6645a8cbc4ab3fe2319a3388999c452d5b900bfa733840ea00854f294",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,923.2840756",
+    "hash": "0x6ef473b997ddb5edace3ec5c56bffff5024792e8da56a8d61274bc6894efd1e5",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,094.9996744",
+    "hash": "0xfeef32e1e62f2d9dd9914dde444df64e15038c6c78d0940fb2757b6058f2ddcb",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,687.667262",
+    "hash": "0xc2f1c1aea81351106dc29eed3eb98adb0724d277efac97dfa49d70480f5f11d3",
+    "token": "Render Token (RNDR)"
   }
 ]
