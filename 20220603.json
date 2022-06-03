@@ -778,5 +778,11 @@
     "value": "9,187.8941",
     "hash": "0xd5d887d138cdbce3c488087c70cbb36a770d6712981f97447a86f662db01485f",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,734.99993224",
+    "hash": "0x6f9052a8d81d478005bb7424f69258fc93248ad7c6c22dcc25f5d47e694da76c",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
