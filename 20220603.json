@@ -496,5 +496,35 @@
     "value": "5,018.465973859351599105",
     "hash": "0xc33c4b09b03b01cd4060f18810f70fc69d955eb4a89c53ce06e0295fde652453",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,512.3",
+    "hash": "0x5fc2bacd90dc8f67ac95633b84ed7769b70a75fbabec4a17c46527bcbb78ce47",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336,850.01914893",
+    "hash": "0xb73ba04540cd96a7bf8b8c7cc3b7f80b54caf49595712d4c8530bc8f40f1a186",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,444.39981501",
+    "hash": "0xf45a68f908a6854e39434247dbb7f77730f7507b6ee46aa37fd85a3a0553db40",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "295,996.42733802",
+    "hash": "0xbcfc3508115c2052f914e8344d24e15d5bc4e8cd67ccfc2efbfd38dd8dc16b4f",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "550,078.472078649538266361",
+    "hash": "0xe4520aecee422ba1499cd06fc92601cc12f2f226acab485f60159446f10c4a19",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
