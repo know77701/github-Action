@@ -874,5 +874,11 @@
     "value": "92,502",
     "hash": "0xd2bb2e796e98c9448d276e020904e867bd5992adf3388b5c0126e42fca15ce8b",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,793.94099562",
+    "hash": "0x71a9e70528282da4e59bdb81894fb357c00f6110fd42654e82e3c1906e596a59",
+    "token": "Uniswap (UNI)"
   }
 ]
