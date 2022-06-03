@@ -556,5 +556,11 @@
     "value": "57,687.667262",
     "hash": "0xc2f1c1aea81351106dc29eed3eb98adb0724d277efac97dfa49d70480f5f11d3",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "345,146.07755514",
+    "hash": "0x1975eb055abb34518eb1943167422bcc31172f49e261de19c3551d1e8e683440",
+    "token": "DAD (DAD)"
   }
 ]
