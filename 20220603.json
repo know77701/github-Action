@@ -790,5 +790,17 @@
     "value": "570.2",
     "hash": "0x0a333b85952211acfded64718a38816c6fb4bb25809445ed6a58c2c3cc391466",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "256.89973006",
+    "hash": "0x47301d1cc9354f6f4d16bad42734eaf2c382e42a33f3dc16e168ee6e1f036aa1",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "127,863.133656905987109223",
+    "hash": "0x6209b12be21761ee5b93cc06e2ad8071342c3f8edf38b878800dcb48e24ccaaa",
+    "token": "NuCypher (NU)"
   }
 ]
