@@ -292,5 +292,47 @@
     "value": "24,918.502646501838714962",
     "hash": "0x4fed4984aca5f4ecd85505b7e9f9b1883cab483ef631b15a9e299e8adcbfc4b8",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,069",
+    "hash": "0x661a1d4139ef143948669b7eb4f85548cf03be0270dcdd6bb04807c8a140130e",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "210,006.6",
+    "hash": "0x33ec3defe2c1d928402ce9b78a7998396eb9e1039b68efc1c27fabae1b648117",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,092.20258",
+    "hash": "0xe01de31206652b4a87ce92911fe4b8137c0da941df0c1b6c735dfadea545f174",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,481.651138845426599105",
+    "hash": "0x7d1464a96d3864ab2cc3374b9f1c928d5255bfe7f132d204dcfb774230ba5638",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "734,020",
+    "hash": "0xaae9579178d4cdacef74336bf681c600769ddbc2ae20add837e589e94219b716",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "345,882.198538923145077171",
+    "hash": "0xea34c6df8afd4696cf19dc9c033e29376b45e8c032520114ffed85e841e987a9",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "418,696.85133611500945414",
+    "hash": "0xb60a7eb159024f660bb8aa1456885cab279cbee3eb41657e49ecd679b3fd7996",
+    "token": "Bifrost (BFC)"
   }
 ]
