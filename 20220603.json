@@ -166,5 +166,29 @@
     "value": "494,739",
     "hash": "0x51367516830f0bc743061467443b47ff558accfd8b921d0a94a0185fd7980a6b",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,135.51998741",
+    "hash": "0x47f5c3061f39cfd14d486617b647db837da18b0d7d8ec9930ee28c4219196a3a",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,156.315585517191530827",
+    "hash": "0x033a6a56435c3b6f5e7d0b9977020898c2c57f2a9128295e552e3d5fc0f0855b",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "115,957.205437260165490267",
+    "hash": "0xdb454702932426cc70700aec4daf30990417d15af9d73b2791af380c3ba594c9",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "134,132.794562739834509733",
+    "hash": "0x342624c54310028dedcbbe89ec2875ae04b0d20e854612925ad8780c72babca6",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
