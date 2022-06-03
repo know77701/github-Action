@@ -1054,5 +1054,29 @@
     "value": "188,612.795",
     "hash": "0x8ff5d42f647d491af458ab4c9592255cd7d1a2836549e59a154b245fd912c9ab",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,941.56",
+    "hash": "0x7f26d2a570990619b9674576ba4a12325f63853be00570b8f823d78b9d98cc4e",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,055.36",
+    "hash": "0x4aef551fdd48891467d7504439e4522d291dcf3e681e1de7a62dcb3d9f62c134",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,834",
+    "hash": "0x76a9ac7637d9616d282824fd5e567ac8514415581c5364f4e45ad2c2f13cc15f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,985",
+    "hash": "0x9114168742d25ffea6feab7d85025d3543be6d05fe6823377a56aebcb6809ff4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
