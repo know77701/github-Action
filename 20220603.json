@@ -334,5 +334,23 @@
     "value": "418,696.85133611500945414",
     "hash": "0xb60a7eb159024f660bb8aa1456885cab279cbee3eb41657e49ecd679b3fd7996",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,110",
+    "hash": "0xe89ea39515e4e26145ca6222a4c9eaad628b7a0f738a23fe43e8ccb380da6fe8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,995.2",
+    "hash": "0x138b3829ed1b933aa8051d66735335157e774736e685fe446515074e8653554b",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "615,739",
+    "hash": "0xb4ad8a81018c1726e3f2a87f189521b8cd9052e293969fb17592a4671e6173d9",
+    "token": "Threshold Ne... (T)"
   }
 ]
