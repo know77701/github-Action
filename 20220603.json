@@ -1,0 +1,26 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "1,131,770.325010338675484476",
+    "hash": "0xb2f97e22f5b364ebdac86ec4d2003c68050dadbb02c911046b3db62125a6427e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,484.267196852378327481",
+    "hash": "0xda4d942d76c983f8609e9a7797180315979af93d3b3af4155d0644aff4ac854e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "338,915.962673943946157784",
+    "hash": "0xbd10f20dd59214ef345b14129f354964bf57271b32c7b51a96739985d6e8a768",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "317,202.982434226053842216",
+    "hash": "0x44ca5d17008cc4562ea2bbea63f588021b0e960c1476a769b22da4fa02726212",
+    "token": "Golem Networ... (GLM)"
+  }
+]
