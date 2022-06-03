@@ -1096,5 +1096,17 @@
     "value": "5,999,999.999",
     "hash": "0xf3a618ad665efb1af47fca0425a3d94d880c439e9156c7ca3d101f64c308f239",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "256.99224556",
+    "hash": "0x2d40bd6f51d01c51512e1b8f1c4c30e77031fcf2a3376b86ed0bd02b84b94e91",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,904.90005022",
+    "hash": "0xe35b30e45893c238a0e614f17b0607ddca1f8a0cfc17a727386818ff9f5fe3d6",
+    "token": "1INCH Token (1INCH)"
   }
 ]
