@@ -634,5 +634,35 @@
     "value": "142,010.83190495",
     "hash": "0xd421e6b7a0bfb6bb389f0802d1717c43b92a9a6565db604a84abf53a18ca8932",
     "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,163.4969",
+    "hash": "0x17fb09db7c16d6f8af93bda6d87e2dfd73377106a1a3b6bc7c4f1835fb59fbd2",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,799.39095797",
+    "hash": "0xaf815847b57ac1a073b748401df950a2e6f8e9fa8bd9a8f160f582cda6d6720c",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,001.006365640564375775",
+    "hash": "0x5accdb2a17e9a301fa7718a3236c95eae8d89ece33770a8095294dc2d610b136",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,477.32945683",
+    "hash": "0x6d5d4e770d025199cc94b4a796572daca3319a5abec9b21a83ded65ff8f4f7fd",
+    "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "118,874.6352",
+    "hash": "0xa580baa4df95c233adcdc7d2f21f7b40e3b5a20dfd8ceadf1c9a601c06107a27",
+    "token": "Matic Token (MATIC)"
   }
 ]
