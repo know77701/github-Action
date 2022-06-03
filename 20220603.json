@@ -838,5 +838,11 @@
     "value": "83,043.02",
     "hash": "0x59c8a38bcb2e8e08186e8399f2b96367937ddae222364f0841fa3e7b2a2e16ae",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,414.81894528",
+    "hash": "0xdbc9fe3947267925915ba137134cec102222b5af746414195ec3b92ee5f379c0",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
