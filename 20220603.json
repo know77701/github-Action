@@ -712,5 +712,71 @@
     "value": "6,529.89572243",
     "hash": "0x350c9e7fe6f0c3e4f696fdeea97a4a5bde3d7fca068047a18cdc10a72ef71859",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,998.396445",
+    "hash": "0x0b0d9a1edac63c68d323ce36696130ec0b3255aca12edaf17f9b4b7bf3f0e481",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,008.275674165589096745",
+    "hash": "0xf51819f20defc6c89386ce2fdc3440749d587f65452508a95498218b3114c1e2",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,017,023.480146372374457777",
+    "hash": "0xbb1e823f22a1343b38876067620da3f5e5e1984dba975a9bb4f7baffdc6f8b67",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,456.3998",
+    "hash": "0x04aaa219382a45a7aff31ac347ddda4d9d6874c84df00c6557bb552509c6ac38",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "381,865.77736957",
+    "hash": "0x7537e112138f5787fb9761e43d28d79b3dc9915e3167c6975bab84e9fe9b40f0",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,574.293827307321890159",
+    "hash": "0x58d09873554b5d7734c8aa4f04b29bd83c945ff98a357f2819f5d5ca1b3d2ce2",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,285.346177342678109841",
+    "hash": "0x894bf70a38b295009ba5e89701c88e20caacedadc917358dcdf3f60c41c3b5eb",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "943,595.158695758083805033",
+    "hash": "0x681aad81d3fb6fc45d413b886a6ebb4bcf2a395b5255c0837bb6f7651e9ef00c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,330.91996819",
+    "hash": "0xbb63c823ebf27a98a0acc8e7ec2c8df70e7e4c50f9e5d60444684a0130e7939b",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "236,330.190690611916194967",
+    "hash": "0x6c71496cdb47c0295c66e35e4c496003d1219b6504be4f274fc991aa2e27d88f",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,187.8941",
+    "hash": "0xd5d887d138cdbce3c488087c70cbb36a770d6712981f97447a86f662db01485f",
+    "token": "DAD (DAD)"
   }
 ]
