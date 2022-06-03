@@ -412,5 +412,71 @@
     "value": "3,629,067.94873591",
     "hash": "0x7b4a28061fba3c11c756ecc3961ef08867efb547b90b2472c21c7659b74f2c6a",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,872.043895890648400895",
+    "hash": "0x3aac3a2f82a8bf4bad7eccec3d74e5785f16dbe50c0e9496e57ed76a84e88e1a",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,036.600006952395171779",
+    "hash": "0x1edfbd9903c39f2fe8ba6901e58e5c1d7b5ecfb170cf243928092b29acfa8ac7",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,229.556692",
+    "hash": "0xeed6346eb32d6f8df1d66c1d57108f9d8fe3c2993f763d1f3185efb307fddc0f",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "228.803",
+    "hash": "0x756599f23400e1aa82c0d6bdc242ab2be48e24d0b662e7dae3c9fabbd62b6933",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,012.084085037167415882",
+    "hash": "0x475900d173c0b607daba0426de754254771319b34cd6194bfc93d898f5ce94dd",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "854,500.86847504584131175",
+    "hash": "0x770a8ca3bec51bd1beca807e364f1036664009ffedf5e6919a4c1917d2bca8da",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "861.451952115763149605",
+    "hash": "0x6c16386eabee0c9f8618fae1de33275e0a9ab34df31ee418d043fb4a60f982f9",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,238,057.82248649",
+    "hash": "0x7d7bd61ee8d98b8a5344bc085daf3ba57b86d2a92688f9889fe3244c1311be84",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "585,750.993",
+    "hash": "0x3ab0d21ce8028adb4d2137fdb2973a01d05543e352b62293787eb844bfa25f13",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "716,922.13152495415868825",
+    "hash": "0x89e6c55b3fe508b99dc4c95ee6b27b21d8bca9fa794ae195548925f00a5caba4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,461,237.38574983624128469",
+    "hash": "0xbad2f64c33b44ea0555ce52950a896433aa281b59a4f30ce0c74d61a3df346dd",
+    "token": "Rally (RLY)"
   }
 ]
