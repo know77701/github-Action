@@ -334,5 +334,11 @@
     "value": "7,034.17415469",
     "hash": "0x525732fd9d74d760511df67b240b93d292b0df1c4cfb858fda0366f3ff43f8b1",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,787.9999248",
+    "hash": "0xadc52c62b71b338e8e4bb9288e286ad49857a7c8625192624c94ac035745ea91",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
