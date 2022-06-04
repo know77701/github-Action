@@ -250,5 +250,17 @@
     "value": "433,755.477",
     "hash": "0x5c10f62bf5bdb38a8625292bd17ddc96e91be31a85ad9ea64bd0020e075fe728",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,588.650380342601629643",
+    "hash": "0x4908967112f7491690afe517f3639daaa11db0ba10a593c9177f16d859e0e53e",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,034.087021020051459386",
+    "hash": "0xba4b79eaf1a8d6d50395dcd4940a49686c447ecbc56e229e67294fe09c57a78f",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
