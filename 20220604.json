@@ -550,5 +550,17 @@
     "value": "340,791.53094024",
     "hash": "0xb2cda46b10a44e2cece00bec31f6906e87e22546f9ffb9007f6f3b241d8d3032",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,135.262",
+    "hash": "0x6f64d6ae76586ca5c1efc35468083c0e293c004fe62d39029ae9437fede3acfe",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,333.58306913",
+    "hash": "0x5cecdd3e17e48baba923a6121cba560422b16d113c82955b1f215fcd26324f19",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
