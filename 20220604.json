@@ -604,5 +604,11 @@
     "value": "8,323.32338426",
     "hash": "0x313b9db311c6b489ef5cb3c5203beccbdd10f79d1231779e14a875842772da6a",
     "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,600",
+    "hash": "0x01492179287da5d81b846aeaa394912e5a01d2c651034bf1086eb7bc75200f63",
+    "token": "1INCH Token (1INCH)"
   }
 ]
