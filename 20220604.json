@@ -484,5 +484,17 @@
     "value": "41,702.0161671",
     "hash": "0x89a9b2a302c2e9f483129b8c66fb58c3bb4385057b9ec072315cbe8fac83a9ee",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "950.670875916661368979",
+    "hash": "0x2fa745d1451d907893734432d0bdadd40dc0d3582a42db13324d0d74cc51a5f2",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,448.168949813338631021",
+    "hash": "0xf14ebce30d17e38cb5e1abf215535148f464ecdbb57281da81406567cff59a64",
+    "token": "Livepeer Tok... (LPT)"
   }
 ]
