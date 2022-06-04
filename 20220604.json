@@ -538,5 +538,17 @@
     "value": "4,021,849.701299171399284148",
     "hash": "0xf7097d1219d3f81c8f68fd92fc5383e0801df60deaccede78878069a5d0b32bd",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,936.796760482725658594",
+    "hash": "0x677e57df2b83c7d8b8db679602532cc7f548530e5bea6bcf071904a09daa667c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "340,791.53094024",
+    "hash": "0xb2cda46b10a44e2cece00bec31f6906e87e22546f9ffb9007f6f3b241d8d3032",
+    "token": "Graph Token (GRT)"
   }
 ]
