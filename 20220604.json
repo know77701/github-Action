@@ -130,5 +130,11 @@
     "value": "299,086.92937329",
     "hash": "0xc9a2c21dc1b3dee8bf7ee442078718505470fe74911e34b23c1764d42370ea57",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.349834",
+    "hash": "0x9d8cb09c5761c8b88d9f0e9ff7fc7a1ebcdb1037fe1658b78dd8553271961319",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
