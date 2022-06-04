@@ -640,5 +640,11 @@
     "value": "71,361.478595739899314617",
     "hash": "0x3366581f12de43056f70c2bd9288c0183987fb368942b7b0d061e2fb2549c2cc",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "702.2543",
+    "hash": "0xe470bc30f515f21dbce3b1a0c9ebbd83546cc3da22e3cfa465826393e85b3fce",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
