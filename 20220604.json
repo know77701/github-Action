@@ -352,5 +352,41 @@
     "value": "2,000",
     "hash": "0xd811dc4cea4061101b4db3ad265cb32db99ddf6e1051850b911feb09826ff831",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x967149782a00011ac713830fb3f89d7692308a843f1a11ae73bc316483167a28",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "687.15901318295750508",
+    "hash": "0x7762691f49fa69b0ec88b7874b338ec15292e1861b0a9f8950da01d2fc97f482",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x69d85d51e41524122da0870b09d72e035197632f23865c7ef30e758949aaf6c9",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4fc083566d12be27108a56a0499bc7039addf36efe490cc6afc9809553c39955",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,100.84096772704249492",
+    "hash": "0xc3b722585988f4123347b7e7c05f42fd42e3ec8c22045aa6b0b931befe3757d2",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,031",
+    "hash": "0x69b51d07da72dffda3f27fe9a74d4f747a27271fda6a847e02b7458d4d0cef6b",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
