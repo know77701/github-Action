@@ -316,5 +316,23 @@
     "value": "7,088.39206151",
     "hash": "0x45f6b1490800a7cd96de6f489f428b81542dc0f134dfbc7b4f3a755b61573cdb",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "381,590.67021873",
+    "hash": "0xac28c48f57a06c5895ee7b086918668e515ace4725671c716553547084dc5662",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "441",
+    "hash": "0xff4be9560e03276837fd7f651a3d6acb1d9faad3d4371401cbbce2f52ecc1d5c",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,034.17415469",
+    "hash": "0x525732fd9d74d760511df67b240b93d292b0df1c4cfb858fda0366f3ff43f8b1",
+    "token": "ChainLink To... (LINK)"
   }
 ]
