@@ -664,5 +664,23 @@
     "value": "62,317.96067308",
     "hash": "0xd807ee0fe62df8618097a88df0adc1c73dc4156355e513630080d08637b5c659",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,528.630748354958363011",
+    "hash": "0x14537a9b89de9eee51e2da63d82f5af8dfa3d2bb52cae1075cd83c24fcf46a48",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,744",
+    "hash": "0x4276c0eb0edadfc0856edd19de105f1d52e3d6c0ce985c463d8e91f3fe8720ed",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,583,850.574868995041636989",
+    "hash": "0xa4c35e950cc1ac988b5447a32c4b5292a41d115084ab8781898a61524a3733df",
+    "token": "chiliZ (CHZ)"
   }
 ]
