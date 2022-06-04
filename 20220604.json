@@ -286,5 +286,11 @@
     "value": "194,117.68641217169131829",
     "hash": "0xfa3fdb1c53e9ef540c7c6413824d8cc35e6f2f84a83113ebc17f66c825881276",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,919.000000000000000501",
+    "hash": "0x15c4d01cd4df610468bc82d6fc65bc76286ff089faa52f956b785fe2614e9742",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
