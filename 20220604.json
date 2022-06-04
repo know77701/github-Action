@@ -592,5 +592,17 @@
     "value": "414,466.176995112495069942",
     "hash": "0x82b0074bacf1531c8482c62f0a094490ee3753ef318f83868cc5511207d59c4c",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174.6097062",
+    "hash": "0xaeaf102ec4d64191a7e72f810a8476b20e673bdadde0967522e38b005069c794",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,323.32338426",
+    "hash": "0x313b9db311c6b489ef5cb3c5203beccbdd10f79d1231779e14a875842772da6a",
+    "token": "DAD (DAD)"
   }
 ]
