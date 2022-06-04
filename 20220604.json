@@ -496,5 +496,47 @@
     "value": "1,448.168949813338631021",
     "hash": "0xf14ebce30d17e38cb5e1abf215535148f464ecdbb57281da81406567cff59a64",
     "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,922.203239517274341406",
+    "hash": "0xe7cbf8a1942efb16f76a055fbdb92740689030e743ee9975701921df07725853",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,432",
+    "hash": "0xb9ab09f03200d268466aee00c1f578d3c892901c1eeb2dc0173ce61364941577",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,410",
+    "hash": "0x20a1aa1d4ea5e859ee9b01caca3f5fce8429b7a18e505e604df4368cb19a3b0b",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "536",
+    "hash": "0xa05edf65bf9a1f2b3d5723045c5a081f661bccb3cd3b5433ed66d57f0642262d",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "636,809.8999437",
+    "hash": "0xd163cddd155f30f56f36cd653a0a5f3905897fffec3a240d703860527b3178b2",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,339,159.976875828600715852",
+    "hash": "0xf508e77c7dfdc7a52b25a7024d38373e1f8e575a375e3f779f073c5842943f62",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,021,849.701299171399284148",
+    "hash": "0xf7097d1219d3f81c8f68fd92fc5383e0801df60deaccede78878069a5d0b32bd",
+    "token": "Threshold Ne... (T)"
   }
 ]
