@@ -430,5 +430,17 @@
     "value": "342,884.46665654",
     "hash": "0x652d742f1cf0d60c9db45430a7515d2f56d8e49b7cd9553347764b4db8c5c779",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,936.60975609",
+    "hash": "0x3c0be2e11646826cf8309d0eca8168a1ca0b20678cb4f17c23dcff0bc03a47e0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "154.26708928",
+    "hash": "0x99ab7bbf53098a17ef8b99f52b1f4744b3809466c0f72d01965b373336ca524c",
+    "token": "Compound (COMP)"
   }
 ]
