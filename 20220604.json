@@ -52,5 +52,41 @@
     "value": "810,986.297352",
     "hash": "0x9a67c347d56157243f4b89e9a66695d8e9f7bee076bbf19986845caa177971f9",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,766.372220534874233375",
+    "hash": "0x9527bb322d9b41eee573a09c42540c5fa01cf3adea4dd6a302a71411a0aa2045",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,371.95283175",
+    "hash": "0x90be9a3810f6c50832ecfb45ecf189eb60cfb555196f886898936fda6c437e66",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "491,442.54581069",
+    "hash": "0x6e665b91e7d9a14e53e3546953bbe0bb1fb0a5cb350edefd187d0df4e22424e6",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,669.85",
+    "hash": "0x66312350128ebef8934c7c6c25fcca563548d1b52e6dafc95f349555ec5f8f0f",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,478",
+    "hash": "0x748e5138be74c0869e0861399e354e1cdf3e965ee4e15205907965fd8fd8ff11",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290",
+    "hash": "0x07e0864001f1365fffdf1702a7316eb48dfd7da721b2a817a3cab706470b141c",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
