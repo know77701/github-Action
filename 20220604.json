@@ -622,5 +622,23 @@
     "value": "128,214.43590062",
     "hash": "0x2acde7887cc14a4cd2d61c9bd2f1cc914cd65b369846b0e4ed5f7d0f66a7414a",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,689.75489809",
+    "hash": "0xa17978be6c70c67dc94d437723cf6177effae8e1f103ef35b0cba5f6e416bf28",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,794.521315420100685383",
+    "hash": "0xd8de66ddbadb8b9d848ca8e2f93033d124e688c0178aeeec2d823b0283e853eb",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,361.478595739899314617",
+    "hash": "0x3366581f12de43056f70c2bd9288c0183987fb368942b7b0d061e2fb2549c2cc",
+    "token": "1INCH Token (1INCH)"
   }
 ]
