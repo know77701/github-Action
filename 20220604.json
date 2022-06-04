@@ -214,5 +214,17 @@
     "value": "170,433.057702238638334083",
     "hash": "0x8435d020c4e897fb40951970e8a0586546a23a1b0f88d23a75672e4b6c8e7329",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "399.19",
+    "hash": "0xa89c24926184503512fd4e58f9361be14ac61e7119fe2873f2795df0d51008db",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700.85",
+    "hash": "0x41c52cd9b458bd48384a5161704f119daa6566600086e7b7d771984605ee83b2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
