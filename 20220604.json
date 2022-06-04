@@ -580,5 +580,17 @@
     "value": "900.88132404",
     "hash": "0xd2a65226737e0c99ee292d3bb818d3aa7941da0b07f8603cbcea6746002a39b6",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,366.241004887504930058",
+    "hash": "0xc49c7da3f2a06e4e7c1f327fbbcf62eaa86acd17730a1ee16ac65cfdccaf4374",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "414,466.176995112495069942",
+    "hash": "0x82b0074bacf1531c8482c62f0a094490ee3753ef318f83868cc5511207d59c4c",
+    "token": "ZRX (ZRX)"
   }
 ]
