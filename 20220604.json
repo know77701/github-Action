@@ -88,5 +88,29 @@
     "value": "290",
     "hash": "0x07e0864001f1365fffdf1702a7316eb48dfd7da721b2a817a3cab706470b141c",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,944",
+    "hash": "0x1a21bffaf8fdd7eb03af4bb8fcdfe5502369eae7119f1adea592935ff90cca51",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "797,566.06693708",
+    "hash": "0x8b3a1011617d6dc3220ff96d63f5e60fb7fa86798b308fedad69a8f779ff3926",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "698,547.05524113",
+    "hash": "0xf62f5332a1337896a0553605a7ae9f7fa711e89d971d77c33e1e686ba7910976",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176,126.187779465125766625",
+    "hash": "0x6e7a94005a98a18df5dc8c4536afbc5b9a190875bb3149226f0f3ed2d35e4125",
+    "token": "1INCH Token (1INCH)"
   }
 ]
