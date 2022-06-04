@@ -418,5 +418,17 @@
     "value": "50,568.58336425",
     "hash": "0x77f24512bd18cde29959028a24a5d090d417e6ddfd9a0c994d112e487123b80c",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.758285",
+    "hash": "0x914a1fb8859753e0c77e6009c2023b17c355c0f76cab6ae17b3fdfd3a527179e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "342,884.46665654",
+    "hash": "0x652d742f1cf0d60c9db45430a7515d2f56d8e49b7cd9553347764b4db8c5c779",
+    "token": "Graph Token (GRT)"
   }
 ]
