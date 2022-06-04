@@ -472,5 +472,17 @@
     "value": "9,154,685.265974014165195514",
     "hash": "0x9d7cc728f8507a06f45239f896942a01aea22fe45d796d6a780851baeb85a8c3",
     "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,680.53986758",
+    "hash": "0xe84f1fd5607bedb7e5576932df84ce6d5066ccf4fc1dddc6a1b8681ac7c93b96",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,702.0161671",
+    "hash": "0x89a9b2a302c2e9f483129b8c66fb58c3bb4385057b9ec072315cbe8fac83a9ee",
+    "token": "chiliZ (CHZ)"
   }
 ]
