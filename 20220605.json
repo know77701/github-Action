@@ -262,5 +262,11 @@
     "value": "1,722,022.666857013020257597",
     "hash": "0x4896a259ebfddfd0928fb240e489f26b04177692dd6c2820cfad7baac64607dc",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,707,979.99991891",
+    "hash": "0x6fd5564bef8b712524064e73c285169bbaed78834b6833b9843a3c66498829aa",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
