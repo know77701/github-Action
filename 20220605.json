@@ -76,5 +76,47 @@
     "value": "12,264,928.154469934511627779",
     "hash": "0x442ae90b1503dd678ca545fc5cb83028766b0fdaf834ca07e3e9a7b68e83c8d1",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,307,141.411901801784788545",
+    "hash": "0x68f4345ee6d37ecef91684a19073b997b06d2408d4125a15ecfe4561b13ccb36",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,133,093.745576268215211455",
+    "hash": "0xc35afcf0f3d2690559b132863531beffc83b31f9159771ddb049d337e16555d3",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,000",
+    "hash": "0x9ddad256c21f0c07e41d6edb1f072fb2d12099412732ea93753553450e5050a4",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,761.9999806",
+    "hash": "0x741aa3aa19757a09630c0fca7fe62fcb90d747befcd054ad5d630ea2875979c7",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,215.85554123",
+    "hash": "0xb23e1eb7f85fc72734cdedccf66802c708b5d4c6aa99fbdbcb04386a632f792a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,676.90516758",
+    "hash": "0xeee80d762e732cebabbbe458a18d08be72eb5763fb36705c5f901950427ff1c4",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "255.13641984",
+    "hash": "0x1220b25308122274d7bfeacc12e1bcf41a321a5cd1950719123bfada4ca5fc01",
+    "token": "Compound (COMP)"
   }
 ]
