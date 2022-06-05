@@ -586,5 +586,11 @@
     "value": "80,477.914303",
     "hash": "0x0111c6a5442f27e117d8c2d005a4a5cb081e8efad1b32562582fe3744cc93c07",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,696,962.04603497",
+    "hash": "0x1ab94fd30a75c18be466512a36177d4063b9edaad549089acae8c915f4b24e62",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
