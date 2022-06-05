@@ -592,5 +592,11 @@
     "value": "9,696,962.04603497",
     "hash": "0x1ab94fd30a75c18be466512a36177d4063b9edaad549089acae8c915f4b24e62",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "702.8109",
+    "hash": "0x839bb9dd4adc5405c4535e79ae4af6d5223b5666119c8e0780b7ced6b6d687c2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
