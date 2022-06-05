@@ -250,5 +250,17 @@
     "value": "228.74893999",
     "hash": "0x4962580fcac9acc904487aba880edeb304cc343c270a0032aa08292274f1ea89",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "172,233.679235326979742403",
+    "hash": "0xc9585f3401f9a7bd53c2b2d2d237e6040fc788a72fd6bd61b253acb298a86c59",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,722,022.666857013020257597",
+    "hash": "0x4896a259ebfddfd0928fb240e489f26b04177692dd6c2820cfad7baac64607dc",
+    "token": "chiliZ (CHZ)"
   }
 ]
