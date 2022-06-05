@@ -148,5 +148,35 @@
     "value": "3,115.57413249",
     "hash": "0x7e1033d29525f7f3bba540c758f8062020ad39af0c45d006fb949345d9efb4af",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250,275.92822814",
+    "hash": "0x57849963010540d8b819b51c5fab0247dc381728386c2d3d9bc9412fff4ccbf9",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0x3d8688d3f379f3a1c0ce1fbcd24be67ec36099b8dc0f149548a5d588aa7e290f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "323,284.71744521",
+    "hash": "0xd4eb926bca64cca8d52bcf1ac0894781c66c1df595eaca28ca2898983aae01ab",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "243,955.14628613",
+    "hash": "0x5c19e858f7fdb501aa2ebb92d2229288a8787b9f6dcdc1fcaf4dd534b569fb32",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "328,967.15073937",
+    "hash": "0x2574a176e42ca4375e50f6641a84e4549f921d07f9ef5fc7f0a4e119566da253",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
