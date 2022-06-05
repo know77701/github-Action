@@ -514,5 +514,17 @@
     "value": "198,547.66339285212632708",
     "hash": "0x72af6709091b492176c84c6c9f2470f0f681831d402e24470c2769f14aa63214",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,954.648768",
+    "hash": "0x103539420042c99e6cf44bb60abcfddacdbee5491802dcd1057a4e869359a9d0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,987.99993069",
+    "hash": "0xfdd5f26254af6264ffbe81be80a709184776bb70037d124d474e4f03eaba9625",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
