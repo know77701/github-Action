@@ -190,5 +190,41 @@
     "value": "170,105.908259",
     "hash": "0x8fa168ecc90e48914c7ff2a421771cc97727d9be5891b4fe5a5344c31e2575e5",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,752.2826835",
+    "hash": "0x4c11e281c95485acfd483cc63eb2254dfffcd47f686613475247f656da6b1ece",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "650,000",
+    "hash": "0x8ea356b3f2001c7ea78ed83c66bca68c2f24ee478ef45b89fc4661682e91d3d4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "109,976.99992852",
+    "hash": "0x447951e9d50e223e1adde05c5a2d76b0033255176449df763387cfe978afcdc9",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "253,997.01622926",
+    "hash": "0xee9d4f95186b2990ba55021969603b705759535098575cf716f3d50bf3d5a5ae",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "196,341.41835593",
+    "hash": "0x70be3e5b46d75a3651f2e1246057b864ddd282278d9ec34c00b14995e81d3fc8",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "227,505.71729534",
+    "hash": "0x1251dffb2ebce00b46e1db1e138d8028681c44447f89212587eb0a048eb79d38",
+    "token": "Metal (MTL)"
   }
 ]
