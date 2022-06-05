@@ -292,5 +292,17 @@
     "value": "194,186.14226364",
     "hash": "0x3d842e199833db72450331e76917cde6328e151f097e1ac3d8356dbc248870cc",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489,894.971243479895315039",
+    "hash": "0x9371979ee4930c711e3c73133cf9894f6f7a99a6beac3f9a227f4374d3cb1983",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,656.906628440104684961",
+    "hash": "0x6a236ff899214973c321958d4e393a6d3bcc55b8145a5daaf406556f2743c9fa",
+    "token": "ZRX (ZRX)"
   }
 ]
