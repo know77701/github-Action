@@ -1,0 +1,80 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "86,000.82",
+    "hash": "0x7c063919372f8f61a218983e4e09903a26339d472e35e6a097e0b7069ab676bc",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,525.10862944",
+    "hash": "0xccd9b7eee3fa85c3b7e1504d9d085432f3347079e8568d8b83b79ca4f659f368",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,120.799",
+    "hash": "0xc1baf705dab5279baef05797afcf4173e5363489203168ccdaaffe2a68a1ab34",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "298,286.681848629599569618",
+    "hash": "0xa008338467904f2ebda4de1904f5b72fc65e6b227cafd186bc1d12c310b95a86",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,996",
+    "hash": "0xea7a6c640ccac24eaee720f23601417865d262806c841e78a9a6b8cb6d4c24f1",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "862,306.836746411476226884",
+    "hash": "0xe0724a3e5b9b0c926a021d44cc30d2547eee403afbd5c7c507db1e5805c71e1f",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,199.3",
+    "hash": "0x2128da866230e9f96bb9088decbac18def0c857821af2180a4e54b5a84c7d2c7",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,084,162.08",
+    "hash": "0xcc966fa1f2e34b6fef212f6de8c3e7c81fecd262a781238da743fc65c2d1e6fe",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,705.34970589",
+    "hash": "0xc0bdb3909a52ef1c96c5c82259540b9fbf897f01c2819e10d8093614fc689662",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,205.8876",
+    "hash": "0x54d56d40f0ea60f2bcf7a0a2baa599e211bda0709dec74703b50773e911711e5",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,283.440532",
+    "hash": "0xaac0607b6d058ae967f926dc82d1f913bdac94507144f55e7c04e244522f5426",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,999.3",
+    "hash": "0x478a8134d018949b82383bb0cb026a435cfde8ce1d02cc8222295246f571f465",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,264,928.154469934511627779",
+    "hash": "0x442ae90b1503dd678ca545fc5cb83028766b0fdaf834ca07e3e9a7b68e83c8d1",
+    "token": "Threshold Ne... (T)"
+  }
+]
