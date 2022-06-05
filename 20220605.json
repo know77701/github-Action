@@ -442,5 +442,35 @@
     "value": "37,473.024",
     "hash": "0xac437c56d476ed4fb0d3ba967c6221c039c4fd3825fe4dc93b1c045ba1e316d4",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,884.13572857906208768",
+    "hash": "0x6dc8ce4183d3e339402e43f1660704d7eccacf496c7b72b7b7d76e033c37c0d7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,764.582750257085507175",
+    "hash": "0x31b91b9416a256494871ecef4076a2a557af9b31a2c335d013bb44ac23784f2f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,097.921863406133224927",
+    "hash": "0x21a5887203a5fd2051a25f5ff85cbc04a7075f69fa399585ac32d9565844fc3a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,506.298204793866775073",
+    "hash": "0x14ac2044cddbfbab446fd6bf1c1553cd7a6c368117db263087dcaef76b0c197f",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,615.962303679132573212",
+    "hash": "0xfaeda23dba803e43a0c86cd44605b2996e958226f8905a388b0484d0b0d5a234",
+    "token": "NuCypher (NU)"
   }
 ]
