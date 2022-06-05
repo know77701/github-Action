@@ -358,5 +358,11 @@
     "value": "230,153.063489444025646427",
     "hash": "0x4b7aaa306f970ee5789e95cc3968df652fdd82e8a2e6bdd4e0a58235c389eef7",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,643.207253",
+    "hash": "0x770a33d78b20147445144f9ce165788f5df366bb85c63da4c23cffbd4c5e661b",
+    "token": "PowerLedger (POWR)"
   }
 ]
