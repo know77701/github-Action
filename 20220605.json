@@ -526,5 +526,23 @@
     "value": "59,987.99993069",
     "hash": "0xfdd5f26254af6264ffbe81be80a709184776bb70037d124d474e4f03eaba9625",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "465,019.216975",
+    "hash": "0x958a515c88bef6a4a744acb32865e634e7fa1fe545cda1e6e5f5fa7de6ef004b",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,499.29",
+    "hash": "0xb90c3cc80aa3712c80dffec2c12e746a213432f9ca1a46ac70a245cac696f3b6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,949",
+    "hash": "0x5cd1f15129ddcfdd7a09b97607654cc7f6e14b7f626bf092483eb1c90bea481a",
+    "token": "PowerLedger (POWR)"
   }
 ]
