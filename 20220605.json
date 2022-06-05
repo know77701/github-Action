@@ -382,5 +382,29 @@
     "value": "159,801.01068928",
     "hash": "0x03b22dc3501a51651e1584c35cdd61f6c89a6d11338067689c14a5357c5a6e97",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,962",
+    "hash": "0x2cb4d73875c1673bc7f68ecc8535f98c4ae8962849a275c6d92d70efbe711505",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,560,517.16698617",
+    "hash": "0x50f610b1aac53972e8fab3239380083ce27abaf27176506fc07b7a2f4df68d38",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,962",
+    "hash": "0x1c084eb4b70995e6fb05a56a1de4777e9410e0b682749925354f1bb564034134",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "254,948.993348",
+    "hash": "0x523282738981e33a76660307ff3d22023e9dbc4c4b51b9c531056c09c378a798",
+    "token": "PowerLedger (POWR)"
   }
 ]
