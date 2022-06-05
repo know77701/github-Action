@@ -490,5 +490,17 @@
     "value": "155.56710619",
     "hash": "0x48ae28bbc79c54de57108cb9d6c95be4ed80cc55d3fa5c94770da95e897bd25b",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "173,817.69839704",
+    "hash": "0xc7f3850401ca109dd975bb3023591d5b3ee2dd97fad176d8ebd0970ade559d8c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,456.13144838",
+    "hash": "0x3d537ff1730ffdd16fc917021278e06c433438fcdf77ebde6063d0b3e535159c",
+    "token": "Storj (STORJ)"
   }
 ]
