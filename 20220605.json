@@ -118,5 +118,35 @@
     "value": "255.13641984",
     "hash": "0x1220b25308122274d7bfeacc12e1bcf41a321a5cd1950719123bfada4ca5fc01",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "811,016.180261",
+    "hash": "0x056ba588c10784465e23db2a2c3529189ce11e6b7200f501da9906aa53741e8d",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "370,385.11114834",
+    "hash": "0xdcae972dcbc9b2d7fc9bb947860e6a419c6471f66cecb448fd4cdaad5aa39b14",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,400",
+    "hash": "0xda4505c18c60f4db47006c435b30331d9258cea6a7e59799ed012a06acb917f0",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999,757",
+    "hash": "0x0f22b9768287ab4e1e5bec838ac130bdaeea50db013f74c63cf038c92518367d",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,115.57413249",
+    "hash": "0x7e1033d29525f7f3bba540c758f8062020ad39af0c45d006fb949345d9efb4af",
+    "token": "NuCypher (NU)"
   }
 ]
