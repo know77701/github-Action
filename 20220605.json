@@ -508,5 +508,11 @@
     "value": "380,514.62534261787367292",
     "hash": "0x4b36a0f318cb99d17cfcea37e32cffb949e507180e0d887b649fe5ad1b33bc7e",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "198,547.66339285212632708",
+    "hash": "0x72af6709091b492176c84c6c9f2470f0f681831d402e24470c2769f14aa63214",
+    "token": "BAT (BAT)"
   }
 ]
