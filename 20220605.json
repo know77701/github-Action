@@ -430,5 +430,11 @@
     "value": "153,645.57455982",
     "hash": "0x565beb9f236d9ea3775911aad03e897130cb65c172c93535bea31e5128fe8fb5",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,584.580021",
+    "hash": "0x249c570e05632af4350458d3304b0571b4b9134ac4dba10351f3889376679449",
+    "token": "PowerLedger (POWR)"
   }
 ]
