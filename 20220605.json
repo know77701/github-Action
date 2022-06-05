@@ -406,5 +406,17 @@
     "value": "254,948.993348",
     "hash": "0x523282738981e33a76660307ff3d22023e9dbc4c4b51b9c531056c09c378a798",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,599.29",
+    "hash": "0xdb22da85747c1c8460f4737fc34e558a354458337b0ea7d3a9d26e60e1ae96d8",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140,655.511447336400092555",
+    "hash": "0xee702d49e4bfa15d184bf7ec7e6c0dc84aeef6698c306d53b6c302627acf6c88",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
