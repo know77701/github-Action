@@ -280,5 +280,17 @@
     "value": "32,014",
     "hash": "0xfc825f4ead97d7877c607f51f0c4835bc478d95c6cb160f4f59baa1e8b794bd6",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,857.69863431",
+    "hash": "0x4410185b053c96585d1e556d89ce7e5ae6d38145074726db72d8ddd2c690f048",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,186.14226364",
+    "hash": "0x3d842e199833db72450331e76917cde6328e151f097e1ac3d8356dbc248870cc",
+    "token": "Storj (STORJ)"
   }
 ]
