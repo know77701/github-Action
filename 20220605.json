@@ -544,5 +544,29 @@
     "value": "96,949",
     "hash": "0x5cd1f15129ddcfdd7a09b97607654cc7f6e14b7f626bf092483eb1c90bea481a",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "284,090.93",
+    "hash": "0xadc5038b8a1dd294fa3b12e58f9787323d72ccda366537176db9ae92e34d56b3",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,791.902677",
+    "hash": "0x97e8f90194282c203f699fb1d57d143e7949fa9455b68039fcc8e4b2bb46ef72",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,949",
+    "hash": "0xe6ec41ea0bd9bb2555bb90110d8257c1f29510d7c1de70b498a228231e353207",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,698.41586",
+    "hash": "0x538cfd50d048a785c7df103278cf4ae5881c34763566a3e19a74cbcebb5d1203",
+    "token": "NuCypher (NU)"
   }
 ]
