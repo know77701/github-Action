@@ -478,5 +478,17 @@
     "value": "8,420.86076913",
     "hash": "0x0bbbd0343819e1c506fc3153dae1fe81ca41e366f94d099fe57415dd241b6444",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,791.471693199245541582",
+    "hash": "0xc7e6a3d34ef338118992588f871c006038b85826a9ad3d4c563aaa236c97ac31",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "155.56710619",
+    "hash": "0x48ae28bbc79c54de57108cb9d6c95be4ed80cc55d3fa5c94770da95e897bd25b",
+    "token": "Compound (COMP)"
   }
 ]
