@@ -436,5 +436,11 @@
     "value": "37,584.580021",
     "hash": "0x249c570e05632af4350458d3304b0571b4b9134ac4dba10351f3889376679449",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,473.024",
+    "hash": "0xac437c56d476ed4fb0d3ba967c6221c039c4fd3825fe4dc93b1c045ba1e316d4",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
