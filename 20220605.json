@@ -274,5 +274,11 @@
     "value": "6,422,231.54552294",
     "hash": "0x7e1962f34f9b9eb8033621379da359c9ae0bcc86c1cc08232a82031f2d62de0e",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,014",
+    "hash": "0xfc825f4ead97d7877c607f51f0c4835bc478d95c6cb160f4f59baa1e8b794bd6",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
