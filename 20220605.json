@@ -268,5 +268,11 @@
     "value": "9,707,979.99991891",
     "hash": "0x6fd5564bef8b712524064e73c285169bbaed78834b6833b9843a3c66498829aa",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,422,231.54552294",
+    "hash": "0x7e1962f34f9b9eb8033621379da359c9ae0bcc86c1cc08232a82031f2d62de0e",
+    "token": "Threshold Ne... (T)"
   }
 ]
