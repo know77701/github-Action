@@ -118,5 +118,41 @@
     "value": "56,020.969042228216395859",
     "hash": "0x2e0b94928f6ec5cdee681f38564437fb966c88f0b75c0666fa6c594d5d5a86d1",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "692,790.45228215",
+    "hash": "0x68d9dde0a68c79e1eaf0795a43cf1d4ab252350c8f0bb265faee91a56b183954",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "617,957.142601257805202346",
+    "hash": "0x355a835a8194cbdd3bd586ad581a0379ba68e0a51bf63767705898d5aae8fb0d",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,170.99993906",
+    "hash": "0x20bc499e39e3abfa8d63923f3a65f94794dbb36e90cc70f518859c3bd614b4a9",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,919.882252599505789418",
+    "hash": "0x641fbb594e77c66b883b697d23870578bcc269f251bcc7c0123119dc51b27013",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,995.39987781",
+    "hash": "0xd61ec50da041f5d003e24f8c3c52d221470ddbfb3a2351243c8a591120309930",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "773,343.370464570494210582",
+    "hash": "0x9ff9884ed32dffdba825d12cfe754aa4efe29347ce6ea1f76bd6a30c5981caa3",
+    "token": "OriginToken (OGN)"
   }
 ]
