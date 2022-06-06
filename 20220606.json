@@ -388,5 +388,17 @@
     "value": "265,500",
     "hash": "0x20ae4fb13b183640dc49b0f66e5e3dbc286198c9a9210af6784b0072663b95ae",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "610,000",
+    "hash": "0x950970c82bb24a31deb55551f17941d7f3b101cceca286f9974e146d0c064b4e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,112,500",
+    "hash": "0xa39769a4222570391e281e7bb40548150b113f0c073aa5890c043bcc3f97130c",
+    "token": "Humanscape (HUM)"
   }
 ]
