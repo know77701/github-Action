@@ -550,5 +550,11 @@
     "value": "1,075,391.9155",
     "hash": "0x5c929d0c9d73e52cb57d9597da7b22e079f8e356fd18e68e005075166ee02446",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,385.0264",
+    "hash": "0xd910f17978ae9507c2ebed7c81226107351dce66448a0a6df5dcc631d2a66e80",
+    "token": "Healthcare A... (SOLVE)"
   }
 ]
