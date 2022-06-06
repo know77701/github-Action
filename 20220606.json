@@ -904,5 +904,23 @@
     "value": "2,332,263",
     "hash": "0x3c992342e74193da2054dcecb82622e7185c73355b46fd60e3cb29fc58476e0f",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "348,190.450563063733306245",
+    "hash": "0x960dfdeb1eb6f348cd8b7122510a1c94c2a340c37a58488c800b6f9ee0d85d11",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,850",
+    "hash": "0x7873df147240891aa144d6904a8628d438537688e6e04a8e1efdf14a301a1619",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,775,000",
+    "hash": "0x53a2e435d194099d0a67e353801388624a431bc5522927b49c89c77a71e403d0",
+    "token": "Humanscape (HUM)"
   }
 ]
