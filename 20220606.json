@@ -574,5 +574,11 @@
     "value": "11,470,236.26588897",
     "hash": "0x625ad06f45f6dd43769059c843cbccea91d291968355a883a2e9ae550e74295b",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,036.316278350317431304",
+    "hash": "0x3b8ce4d4cf3c50447150f4d65b2f3b4910cb4006b24176948fb400d8e19b39e7",
+    "token": "1INCH Token (1INCH)"
   }
 ]
