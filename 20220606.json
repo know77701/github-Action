@@ -10,5 +10,47 @@
     "value": "219,821.85512883",
     "hash": "0x4e5c87ad75ff8c5e019ac3085a4f8b10c467eed0824c122f4ed211046ba73dc6",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,818.003637024974539707",
+    "hash": "0xf8b3d7bc8bd0044d6e5b2519fd49ab1ac64c7bb2917668b704f079eec75e2508",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,322.44024943",
+    "hash": "0x0913ddccc106598efea8e9b76afa7e22111211e41725122496b1d7793f1b86f6",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,500,775.42552395",
+    "hash": "0x5c98855254bb0cd90c03efb5f5731eb3366f346f38889e0b8f1c57663ca95f64",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,535,275.160369465815690884",
+    "hash": "0xc214c49fafd8fade62b2bb94f67e6cb9df4fdd47df30fea75dbef6e38c471a9a",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,030.006930384387285038",
+    "hash": "0x6a37c5f57d10834b74f1b10dbe4e4e414769b1d1dc51554de2ea52a20df7bd8e",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,800.207742293801241102",
+    "hash": "0xe9daf9ec9556e739ec413cdba5b1d7334e838c8f16c078d64a911f2c366a9084",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,094,414.023453894184309116",
+    "hash": "0x3258746e8eac2d8929a5a30dbb393f4dc8c5a069f376af32982abd72626eb2b2",
+    "token": "chiliZ (CHZ)"
   }
 ]
