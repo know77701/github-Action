@@ -220,5 +220,11 @@
     "value": "5,923,499.99995053",
     "hash": "0xc027b5702a6c1d82afb901d6a9c704b2c766c2b98028c48a11b7a06c3d6db821",
     "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "334,541.65284118",
+    "hash": "0x2ac070d49cd4afbec4445087c0911ea6f567212ad486f407d1c40d613567dea6",
+    "token": "Graph Token (GRT)"
   }
 ]
