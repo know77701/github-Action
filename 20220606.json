@@ -346,5 +346,23 @@
     "value": "294,522.91694688",
     "hash": "0xd660169bb84419a43d9125ca43a2d816195f322c17c0647ac809a47d1cea1db2",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,155.2",
+    "hash": "0xeca86726edc481431b3706799d4f22588bed2a3f991907590ff6017f9943c3e6",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "837,048.011621",
+    "hash": "0xde47f63dc573cd4de7b728b294006c579252264c326218a2efcc0e38ece1da99",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,279,381.980176358286143472",
+    "hash": "0x622e221f8315fd3426f05ef40c8fb8b26a180f02dc8a140dd3c438baf8924ea7",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
