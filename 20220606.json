@@ -556,5 +556,11 @@
     "value": "108,385.0264",
     "hash": "0xd910f17978ae9507c2ebed7c81226107351dce66448a0a6df5dcc631d2a66e80",
     "token": "Healthcare A... (SOLVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,791.87427097",
+    "hash": "0x1cf2a7e028c0eea209eab56af2e90d346ff4c64b65caf088705db972a148a3f8",
+    "token": "Decentraland (MANA)"
   }
 ]
