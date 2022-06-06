@@ -844,5 +844,17 @@
     "value": "14,167.781865",
     "hash": "0xf20fa87b2f79c3fe2c695ea7cea95c3955d5ae3d4949608dca9511f9c20f3943",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "339,528.98128213",
+    "hash": "0x09c046536ca290f64c71f5184cab46915365dcdef58bf3efe85bb9699df28a16",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,624.04272325",
+    "hash": "0xb4088baa3775ab60c890f6b9fd1c6e43020f465423670624f9b406e072480b17",
+    "token": "BAT (BAT)"
   }
 ]
