@@ -52,5 +52,71 @@
     "value": "2,094,414.023453894184309116",
     "hash": "0x3258746e8eac2d8929a5a30dbb393f4dc8c5a069f376af32982abd72626eb2b2",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,843",
+    "hash": "0x4b5e8f10daae94f32d919754c3e623aeaa62ef70687673fa1432eeba1c0512ab",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "144,550.37640025",
+    "hash": "0x30f4b8726aa1149fa75273df44870d7f11f317fa7fe5a67450a5c52db21ac2ed",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "184,625.06766107",
+    "hash": "0xf2d866c4e7a50c64f26edcef411adf76f5f903b69d4cb95377aa2663f9dde643",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,479.47",
+    "hash": "0x53979d8b6c936298a8ef2d80a504b72fb830a0dfda29da2ad77aeed914a6d66a",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,309",
+    "hash": "0x232e6a853c7c4ab1769bbfc807e1e876cbd2769292a0c40e8ee7cf72f0bb0896",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,986.17766996",
+    "hash": "0x357ba175d44d1384783706ac429fc4bbcdb1d53c17c25e129fb4b20cc8a3676c",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "889.37",
+    "hash": "0xe2951965c99352ce02ffcd351460f3ce54ba5ed4fa404ce0c25ee9737970acbc",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,990,126.86214495",
+    "hash": "0x85ad0697e73c05b8b2880fc89be11fc6b8fe9abb8710084f2c4b790d0793d8b9",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,072,473.368638621783604141",
+    "hash": "0xd1b59fe5eeef0ad03b64f53aa92ae3563884f4752414b452acd6ce7254a8dce4",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,759,527.96407936",
+    "hash": "0xff8180749a1529d7edba0b0d70e563ad82d7a4f1ca8a2235acfb5179f7247dae",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,020.969042228216395859",
+    "hash": "0x2e0b94928f6ec5cdee681f38564437fb966c88f0b75c0666fa6c594d5d5a86d1",
+    "token": "1INCH Token (1INCH)"
   }
 ]
