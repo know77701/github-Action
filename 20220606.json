@@ -610,5 +610,29 @@
     "value": "3,498.8149",
     "hash": "0xfc694db198d1104cb2670f6fff8c5317e9934a0dc07a1bbad83aee30ef25fa48",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,056.76593601",
+    "hash": "0xd48a03449dbe2d9ac89080d91bcce5b9889f90b639c4bc5e0d24b6629fb9e889",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,798.56",
+    "hash": "0x95748ab7fa445597dfbcaad4d80079e7fcb6ee3d8dd0805e4bb46b00f83de2e0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,347.07445961",
+    "hash": "0x859af2aaac44ff64e4f0c4cf17c756267608b1b32b0cb3a9d94c5d56208af665",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,648,703.79384032",
+    "hash": "0xda9ddccf8e24cf312ee48eb171378445e7f1e166448fe01866836dafc604ac74",
+    "token": "Ankr Network (ANKR)"
   }
 ]
