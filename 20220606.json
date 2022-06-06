@@ -454,5 +454,35 @@
     "value": "762,821.25854098",
     "hash": "0xe8c002cc71d4c1435abac2dfe2b489a9343a7c6b4cbd73f7d260da65b0e225a2",
     "token": "Healthcare A... (SOLVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,239.550223706115246717",
+    "hash": "0xc1bcc2a0830cee0039839526fc74c77d1ec679516f851aae62a0dd83e82ea249",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "250,000",
+    "hash": "0x27e85306cf6756a6107341382986143351aff51954071e5ed386a67620be1367",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,846,336.36738457",
+    "hash": "0x3a1455aade2461d38d0e907b889cb16e21e697f414fedd5b65412cecaa3c8861",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,582.783658233884753283",
+    "hash": "0x9068b1450560ceb936d5d64c7d1a7cb0f184089d47433aca0fa75e3dd8752fd3",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "305,681.11326787",
+    "hash": "0x5668ae7ce2d8fd9ad1f0615ab83b47a40426033902910a06e574f35bf65f3666",
+    "token": "chiliZ (CHZ)"
   }
 ]
