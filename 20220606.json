@@ -532,5 +532,23 @@
     "value": "195,216.13194707061731829",
     "hash": "0x0978bb510fc59449fd8ef91d6492350ddae88d1a38f399ea25a89ec687eb6201",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,477.961928193415230514",
+    "hash": "0xa31c27262787adc25aa8c9468e16fb5ffe7faff33ae19b449726bbb66e6b4f79",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,108.183288426584769486",
+    "hash": "0x1e9801563d6d0e3f2315c70ed38bf82eac2c966fdd7bac463fb98f85f5d9ab34",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,075,391.9155",
+    "hash": "0x5c929d0c9d73e52cb57d9597da7b22e079f8e356fd18e68e005075166ee02446",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
