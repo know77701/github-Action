@@ -364,5 +364,29 @@
     "value": "1,279,381.980176358286143472",
     "hash": "0x622e221f8315fd3426f05ef40c8fb8b26a180f02dc8a140dd3c438baf8924ea7",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25",
+    "hash": "0x2a4063f6902306b12847f8f648dab308c03cb44b89cf79555fa80149bce72a4d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,000",
+    "hash": "0x5b5a55731e47d3c7c07dc4fc1f9b7dbf1e7ff87c1183b1b710fb87259acba609",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,457.261753",
+    "hash": "0x7fe7eed985f6f38087c67b1d533a2565dafbb190300bdbc88e6b24aa8bae6bc6",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "265,500",
+    "hash": "0x20ae4fb13b183640dc49b0f66e5e3dbc286198c9a9210af6784b0072663b95ae",
+    "token": "ZRX (ZRX)"
   }
 ]
