@@ -310,5 +310,41 @@
     "value": "71,460.1453",
     "hash": "0x6ed5f82b846741cdcea429d68b66128f596092f26f52f3b24a0b88e3926e3462",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "312,653.577039501713856528",
+    "hash": "0x145ddc5bfa83fd4ee18d594e4d7acc6b9e6eef3a4cab5e20c9c04808ddc3d041",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "143.76183906",
+    "hash": "0xa2110edf95cc6a1555c35324c6514ec3fe091b448174bd4bd3e989422ec0567d",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "141,646.99357425",
+    "hash": "0x5c51faac72f33a61ce3503d5c4eb050a3a8cc6cb1f9602351fa58e8d37dff19a",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "480,000",
+    "hash": "0x561015d613ed0c2bb2b009ea042c8fbe68dd45b7a8561a844217df10ee1f3699",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "507,911.91329051",
+    "hash": "0xfdf78cc75515485ce71f8a5c3e2207ed4010f60a74c43cf96210e4753475e594",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "294,522.91694688",
+    "hash": "0xd660169bb84419a43d9125ca43a2d816195f322c17c0647ac809a47d1cea1db2",
+    "token": "BAT (BAT)"
   }
 ]
