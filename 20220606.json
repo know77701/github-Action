@@ -274,5 +274,29 @@
     "value": "61,596.78788431",
     "hash": "0xfe3094328a83c46762b6e175d57b7a1ceec1a4941526ece4b0120b6e71f6ad98",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,387,922",
+    "hash": "0xf2b2cef144a684ef677f89ceef88b529fbbf53b22e693bdf599e34e59d88201c",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,175,416.900596873736857732",
+    "hash": "0x54eb2dd764c095aa3ada72ce447461aaaac787ce3dda1ca71056ba5bc0ebad64",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,486.7732434",
+    "hash": "0x7669692d435bbfe4d501668a94c2058d3a923e29b63cf1fd1cf28fd08400145b",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,299,666.235229376263142268",
+    "hash": "0x99024d3cd784942558f36d11cb29a9ddb9cbda1b61f2e01fb2664fd5a9d61be5",
+    "token": "Humanscape (HUM)"
   }
 ]
