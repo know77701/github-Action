@@ -226,5 +226,53 @@
     "value": "334,541.65284118",
     "hash": "0x2ac070d49cd4afbec4445087c0911ea6f567212ad486f407d1c40d613567dea6",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,000",
+    "hash": "0x1c499ac9d6e317ae2869e05026197829bf3f983277ef6bec48f9cb34a01958a5",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,922",
+    "hash": "0x3733d853ef0c1f69f2e9f64e5001516181514f0e3cdcf64de6d274a9dbf6acef",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,197,369",
+    "hash": "0xd41d8265102034e323d4beebf45702681b7c8ad9f6a353423fffc80c492a21b7",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "567,637.432521",
+    "hash": "0x4d58e373601c88664bd71cbd8d3b80d8f69cd398940881da985094ade79ea76d",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286.6973868",
+    "hash": "0x6e75326bd967c0f3e9ab41c2be3204ce76acb3a6b06fa66fceb1edd2e2459bd1",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "631,631.780176",
+    "hash": "0x0c46568e7357e4706af64e882f90b58efe6ce05119edf7109f99f40672f9a3ff",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,526,248.73012863",
+    "hash": "0x2523bf2c2723dbbede44f55f1e143c2a178b439a91888fc5a32d8b3ed3662fac",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,596.78788431",
+    "hash": "0xfe3094328a83c46762b6e175d57b7a1ceec1a4941526ece4b0120b6e71f6ad98",
+    "token": "BAT (BAT)"
   }
 ]
