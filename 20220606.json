@@ -922,5 +922,11 @@
     "value": "4,775,000",
     "hash": "0x53a2e435d194099d0a67e353801388624a431bc5522927b49c89c77a71e403d0",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,227.12998184",
+    "hash": "0x6006e4407d80f4a4c1bc9824328046df780e54a60a7c5069d87f883785fc8625",
+    "token": "SAND (SAND)"
   }
 ]
