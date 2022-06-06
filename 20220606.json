@@ -484,5 +484,53 @@
     "value": "305,681.11326787",
     "hash": "0x5668ae7ce2d8fd9ad1f0615ab83b47a40426033902910a06e574f35bf65f3666",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,725,000",
+    "hash": "0xdb1a71f3dce3d26e9c7cc11c09ecbc1a6e4e5224ce8c545fe5265bf98516e1a1",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x767732c76315fa3d67e8cf5eacbaccae2247d31224f8c374b19dbb155c8b95aa",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,888.18302418",
+    "hash": "0x710283e33f51f6eacab2cfb479bfbb26b7e59e7a92e1fc987b70eb15ad6ddd15",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "244,950.991674",
+    "hash": "0x4a8c295ad4d6b2a12e104623f10f8103ff8d951561c0350c1efdade10e97ae9c",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,241.99853028",
+    "hash": "0x63cf7848f3dee1c980fb5ba237e8d8460ad3bf374dcef73055936e0be6b337bd",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,781.25272058",
+    "hash": "0x8fd5fd47885d317a877483c0a5c001503bf3b2de1c5184ed5d44f861ed15fae1",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "358,543.309907712982589155",
+    "hash": "0xcad3a71acdb08c68d950536cef1157eddd4b1cc77ae3a7658ec463320d3f0ec5",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "195,216.13194707061731829",
+    "hash": "0x0978bb510fc59449fd8ef91d6492350ddae88d1a38f399ea25a89ec687eb6201",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
