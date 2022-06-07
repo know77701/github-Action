@@ -334,5 +334,11 @@
     "value": "23,974.111",
     "hash": "0xb6b6b216773077d91e1e6d1502d22ae3d35ceca34c539672b965a8b0514d72ec",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,285.83511705",
+    "hash": "0xebeac8c3b838fe3a5eb3dba74405f013f99d80a489ef09df9d33b5d0c9f7f597",
+    "token": "Bancor (BNT)"
   }
 ]
