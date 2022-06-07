@@ -280,5 +280,11 @@
     "value": "30,238.99983348",
     "hash": "0x45f5f17a0fc6084c4758ace6bb2d7f7b6fa392baee3822e3e1086f6424b655a9",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,346,425.676471115349786482",
+    "hash": "0x0ccdc210cb54c3dc57b0ae0d625e423bcf4493be8b012c1cb4b04f5f69a50c1b",
+    "token": "dKargo (DKA)"
   }
 ]
