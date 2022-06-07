@@ -244,5 +244,17 @@
     "value": "369,194.396",
     "hash": "0x6efec03af23e43367d171defc8c3323f4d5845dfba01da8399a1a01cc01cad20",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "905,761.676090005080379228",
+    "hash": "0xbc44bc11bfa74e30f8fafeae899316b21e016425125f252ad5dc01e89f294e1e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,195.714656994919620772",
+    "hash": "0x5c49b4acb746e568ffe312389b3095568f5d1d4dd1de74415df869f34110ec12",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
