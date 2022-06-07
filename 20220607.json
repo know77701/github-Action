@@ -586,5 +586,17 @@
     "value": "30,847.77433002",
     "hash": "0x1c2f7897de3d44b5814986cf54939e16d5e7460fb2ab673647edbb836989555c",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,275,213.29901952",
+    "hash": "0x3819131e55f8e40142b8ae7103a5824b8c54707a51297f9765f7c88cf9cd5b99",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,195.63323875",
+    "hash": "0x95fbbe52afd6fc3882f3e9e8056a0cd20a03f0b536346a6d1c626a427fa12712",
+    "token": "Metal (MTL)"
   }
 ]
