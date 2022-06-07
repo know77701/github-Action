@@ -508,5 +508,11 @@
     "value": "8,697.77",
     "hash": "0x601212e28fe2abb2f3b21df3b0aa574473ca30406a7f13938ee1d8d2f4215e2b",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,670.83793526",
+    "hash": "0x237e898efbd8a1bd3e1b893ccde1339621b4dad19876421e0520d8565c70fd29",
+    "token": "ZRX (ZRX)"
   }
 ]
