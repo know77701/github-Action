@@ -190,5 +190,11 @@
     "value": "290,594.681",
     "hash": "0xec02fcfa1efb85bfdeeaf3b0f22b8909178edfa1387aa378d3254bf255e0bb5d",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,523,669.195034685219325028",
+    "hash": "0x932290b7622256645ba685f00ec77e1130dd647f058f152d0ad96a10fcaba343",
+    "token": "The Force To... (FOR)"
   }
 ]
