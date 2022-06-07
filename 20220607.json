@@ -478,5 +478,11 @@
     "value": "25,218.222569464113239505",
     "hash": "0x171be057fcc0320c35d581ab680abceccee4ceb7e37bbd792a4e8c3d5e2cd77d",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,890.14",
+    "hash": "0x43b5e611a5a529aec4b3e4a8f1c9a57333c4dd03fb7a2e4b6398668004e304f6",
+    "token": "Metal (MTL)"
   }
 ]
