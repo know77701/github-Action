@@ -238,5 +238,11 @@
     "value": "981.4685902",
     "hash": "0xd290aa5ba85751872ddf8e1293927dc51246f98cf9af38f94d966ff4c4720050",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "369,194.396",
+    "hash": "0x6efec03af23e43367d171defc8c3323f4d5845dfba01da8399a1a01cc01cad20",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
