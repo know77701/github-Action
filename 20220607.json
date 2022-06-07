@@ -274,5 +274,11 @@
     "value": "24,993.215006195612714962",
     "hash": "0xb484bfb4466f5219744c09810fead2cfbe9dcb5ff4be4bd7714baca01900f176",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,238.99983348",
+    "hash": "0x45f5f17a0fc6084c4758ace6bb2d7f7b6fa392baee3822e3e1086f6424b655a9",
+    "token": "Bancor (BNT)"
   }
 ]
