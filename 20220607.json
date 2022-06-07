@@ -178,5 +178,17 @@
     "value": "732,203.093805291210236916",
     "hash": "0x817c3ce7480ef0bc11a0e24894424bc65b84fd031301b7d8447c2599dee4d5f9",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,840,149.180896614780674972",
+    "hash": "0x6d74c5e96ab8e975b3b131673fa16f04a821a6212d859e45835fb313e60c6642",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290,594.681",
+    "hash": "0xec02fcfa1efb85bfdeeaf3b0f22b8909178edfa1387aa378d3254bf255e0bb5d",
+    "token": "Graph Token (GRT)"
   }
 ]
