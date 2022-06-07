@@ -316,5 +316,17 @@
     "value": "281,268.818224996164053133",
     "hash": "0xd240b569a2fe04f4e873cef7fcfb748ddd79ce0c1f45d0c0b4006a1d7c0ee5d9",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,145.745",
+    "hash": "0xd0e1122180d234fad775c534145b6c5eecc0f5419eb8aa41e16e2eac32a54666",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,055.6405",
+    "hash": "0x12df94bb945f1012067804f201f49850f3bde26505a0374243c0c21db556662c",
+    "token": "Metal (MTL)"
   }
 ]
