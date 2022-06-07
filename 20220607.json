@@ -328,5 +328,11 @@
     "value": "30,055.6405",
     "hash": "0x12df94bb945f1012067804f201f49850f3bde26505a0374243c0c21db556662c",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,974.111",
+    "hash": "0xb6b6b216773077d91e1e6d1502d22ae3d35ceca34c539672b965a8b0514d72ec",
+    "token": "OMG Network (OMG)"
   }
 ]
