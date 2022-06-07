@@ -286,5 +286,17 @@
     "value": "7,346,425.676471115349786482",
     "hash": "0x0ccdc210cb54c3dc57b0ae0d625e423bcf4493be8b012c1cb4b04f5f69a50c1b",
     "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "743,046.000050416431501259",
+    "hash": "0x06bb8a132a10ec0728434efdb7e6862a6bf4d829bc145d06a591ded13bc17c55",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "186.737267",
+    "hash": "0x595a24560dc6913d712b6429feeaeaccfb7ae373d69da1ad34e470d3b63cfd60",
+    "token": "OMG Network (OMG)"
   }
 ]
