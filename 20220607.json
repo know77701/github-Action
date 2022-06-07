@@ -484,5 +484,29 @@
     "value": "30,890.14",
     "hash": "0x43b5e611a5a529aec4b3e4a8f1c9a57333c4dd03fb7a2e4b6398668004e304f6",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,491.53504184",
+    "hash": "0x935b5e7e6e03c5ab84f60774d6867e19e3f3373b802cad6e2e1da9647c0ffeea",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "860.3024",
+    "hash": "0x61fe8bfe445b4062058117deebcdaf99f45313a0e6fe758343b35a264b64c461",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,902.66389",
+    "hash": "0x3c759283b93a93f0d64c922c7049c4666e699b66e501ab15ef4fb9f2be4568bd",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,697.77",
+    "hash": "0x601212e28fe2abb2f3b21df3b0aa574473ca30406a7f13938ee1d8d2f4215e2b",
+    "token": "Radicle (RAD)"
   }
 ]
