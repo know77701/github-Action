@@ -622,5 +622,17 @@
     "value": "9,765.713832466677213681",
     "hash": "0xb3fd8bf03f8e036f6afa05ef1eadafff64a0efb5a153256cda2e1f034a723135",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,133,899",
+    "hash": "0x0d0b24ca704b446dd588ed7490dffd0201701ba443827e5846468ca21d69e70b",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "160,344.02978384",
+    "hash": "0x87098ea10ff10e0f321e5373e4178a15280ade25a4d9f8e035a200e240a76937",
+    "token": "chiliZ (CHZ)"
   }
 ]
