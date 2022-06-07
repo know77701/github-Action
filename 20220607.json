@@ -256,5 +256,23 @@
     "value": "150,195.714656994919620772",
     "hash": "0x5c49b4acb746e568ffe312389b3095568f5d1d4dd1de74415df869f34110ec12",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,733.12267288",
+    "hash": "0x2844d339dfe924f5f365464fc18bd7518555f4c8c6f8f892fcdb16130397b5f3",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,026.784993804387285038",
+    "hash": "0x2d58b04512e26a61354f8dba275645cf25a718a33374afacc5dabe6bac2b80f8",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,993.215006195612714962",
+    "hash": "0xb484bfb4466f5219744c09810fead2cfbe9dcb5ff4be4bd7714baca01900f176",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
