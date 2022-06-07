@@ -472,5 +472,11 @@
     "value": "1,580.983663512007661959",
     "hash": "0x64defa3e5869145798f4deb032874740760b3eaf83206952cd23ecb1f43b8efe",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,218.222569464113239505",
+    "hash": "0x171be057fcc0320c35d581ab680abceccee4ceb7e37bbd792a4e8c3d5e2cd77d",
+    "token": "Threshold Ne... (T)"
   }
 ]
