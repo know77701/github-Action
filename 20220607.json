@@ -196,5 +196,17 @@
     "value": "2,523,669.195034685219325028",
     "hash": "0x932290b7622256645ba685f00ec77e1130dd647f058f152d0ad96a10fcaba343",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "954,825",
+    "hash": "0x326abeec4c0d8d89cc6401e26108d2cef03a0ca600803082a14c0e81c2f5c36c",
+    "token": "GoMoney2 (GOM2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,990.57323702",
+    "hash": "0x58ef0b6316f47a6f9992a10fb1388642881388454b9da770757623703ba5be26",
+    "token": "SAND (SAND)"
   }
 ]
