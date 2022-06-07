@@ -436,5 +436,17 @@
     "value": "2,863,635.60474247",
     "hash": "0x7fd22f3565c95a4f3d1e4c85b0005d04836b0669d5457a1dd91ee8e368f3eda8",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,407.11303131",
+    "hash": "0x6c2ae5e7209980e7d6144a53352d0c6083dd312aa6dd25301bcfe6e84f540b64",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "227,004.05807589",
+    "hash": "0x955662b3e0a7898a155b315486837e73dc15790903cfec0e02396c3d5bd84009",
+    "token": "Decentraland (MANA)"
   }
 ]
