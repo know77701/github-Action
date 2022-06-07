@@ -520,5 +520,11 @@
     "value": "30,184.3",
     "hash": "0xe0a807e16fe67b9cd40495f5fb30320df610302200bd582dbe8babf47983d1d2",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x004d574f21c198996d69b3bbe03a7b42c8ef6301af7b6e39fed4187480078fc8",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
