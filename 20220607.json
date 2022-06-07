@@ -448,5 +448,29 @@
     "value": "227,004.05807589",
     "hash": "0x955662b3e0a7898a155b315486837e73dc15790903cfec0e02396c3d5bd84009",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,695.178836487992338041",
+    "hash": "0xc67f2df9562e36cb680f08935a5a5e7fbd9fb48330f576a765ae616748f0612e",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,393.5149",
+    "hash": "0x4c9a8a712d13a0cc112d4b6c8c9bb36b2e9dc5f5d3f59ce50e84ae5cd9000047",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "266,705.99992883",
+    "hash": "0x8315bd115f3378085b66ad0770b8495df0cd1654b22d2c6cfe64a1bccff7ba93",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,580.983663512007661959",
+    "hash": "0x64defa3e5869145798f4deb032874740760b3eaf83206952cd23ecb1f43b8efe",
+    "token": "Gitcoin (GTC)"
   }
 ]
