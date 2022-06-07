@@ -214,5 +214,29 @@
     "value": "11,470,383.26584216",
     "hash": "0xc54aa1ef52c2523361798fedfe92eb3f21d3a62f450a7149ac92f037c9415e82",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,822.762071637805648731",
+    "hash": "0x0c3bfb454cac5635875f389c2daacbeefd1d338cb1d4bfd5af46410af6330490",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,015.244924609146970956",
+    "hash": "0x12f7cf04691389a45f02260acae36071e0f4c44af7b40d5a9d6964c1b43599af",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,144.28054527",
+    "hash": "0x65054167f72397b510a760ca2eddba6e89c379b727ae9a42a6a8db3a74433d43",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "981.4685902",
+    "hash": "0xd290aa5ba85751872ddf8e1293927dc51246f98cf9af38f94d966ff4c4720050",
+    "token": "Aave Token (AAVE)"
   }
 ]
