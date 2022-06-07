@@ -670,5 +670,17 @@
     "value": "2,563,283.297182949180612458",
     "hash": "0x4760b8224b3e588ad6f412e5874bd928ea52e5b3de85c1b665b96f0a75f12887",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "639,725",
+    "hash": "0x3c29fedee94531bd451f841144c56996b4ea0643e7556dc3443771b8178f54a4",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,096.53473299",
+    "hash": "0xad746bfc21fdfaaddb9ff7e98c98c2b8750853b6bf5e1be2a30d625cb7fac179",
+    "token": "BAT (BAT)"
   }
 ]
