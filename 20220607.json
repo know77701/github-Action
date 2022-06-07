@@ -514,5 +514,11 @@
     "value": "164,670.83793526",
     "hash": "0x237e898efbd8a1bd3e1b893ccde1339621b4dad19876421e0520d8565c70fd29",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,184.3",
+    "hash": "0xe0a807e16fe67b9cd40495f5fb30320df610302200bd582dbe8babf47983d1d2",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
