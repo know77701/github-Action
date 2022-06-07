@@ -376,5 +376,47 @@
     "value": "1,710.38631441465394046",
     "hash": "0x02c71d97019b833550c05ddcf9e59deb7e1cfb7f4b81091a8fcd3bfd617b52d4",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,264,350.148050104262223317",
+    "hash": "0xe74cc8e9c7254ce1b4cd3b8acc8387239aca65551a7fc666df75226c7a344aca",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "201,052.97543",
+    "hash": "0x6e782de5c72cce42393e7cd06f407b8a62fc5c76bd3ea3a232d8640eec1edbfa",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "438,519.640855785737776683",
+    "hash": "0x9db059004c20f6ee652ffed3426d1009b9c5b00ca111d47327beb62a219c910d",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,922",
+    "hash": "0x58b75eb512eb6dbb2923169d008d06c1438f706f2b07b69f1068c690bb31004c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,040",
+    "hash": "0x23302bcca967271b31aea3f7d7c2f40a473ff8bd29a6b1a4f78afcf2410653b8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,956.092",
+    "hash": "0xfc43b6b8550aaf409edb52ea51b5f1e3ee944eec42e5685f9201a0ed598609d8",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,137.19373375",
+    "hash": "0x0d8b38be12c9f10d9f7ded0feec3a04493e4f74470c25ea411a80abca514672c",
+    "token": "Metal (MTL)"
   }
 ]
