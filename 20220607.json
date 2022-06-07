@@ -364,5 +364,17 @@
     "value": "16,968.6303821011476646",
     "hash": "0x6b261a14895b37530f4157783286a366f8ed00c711cf064227a5ec8a8a0586f0",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,939.85368558534605954",
+    "hash": "0xa6bbccb4f0e3d4bc95e3008addaab4b5ae06268d9a70f0f80867a770d18c0707",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,710.38631441465394046",
+    "hash": "0x02c71d97019b833550c05ddcf9e59deb7e1cfb7f4b81091a8fcd3bfd617b52d4",
+    "token": "Radicle (RAD)"
   }
 ]
