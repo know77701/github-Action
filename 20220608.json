@@ -508,5 +508,11 @@
     "value": "811,321.916509",
     "hash": "0xe94dd65beb0aa84d7505af421173b1c9bafff008dbe36ec0aaecaaff9448f322",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,541.1985",
+    "hash": "0xb9196a91e336f0fbd28d9417fb85235e77c44b680f4063df1c30425892daff60",
+    "token": "Matic Token (MATIC)"
   }
 ]
