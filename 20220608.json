@@ -406,5 +406,11 @@
     "value": "677,557.815",
     "hash": "0x4091c298721e7995291214541411c8448cc62eb6ce39fb2148ab6e4a7f7fee60",
     "token": "IOSToken (IOST)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,690",
+    "hash": "0x7893df93322383d2ec7f96455795484b989b02e41528ef1d99e52ddccd82d601",
+    "token": "NuCypher (NU)"
   }
 ]
