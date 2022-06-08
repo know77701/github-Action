@@ -646,5 +646,29 @@
     "value": "1,134,072",
     "hash": "0x4c6ffa912f78601b38ef20131903aa5e491b12aa0eff6461046f2832a07a5861",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,712.119534412305509977",
+    "hash": "0x74439d92fed4a494028cc22d273ff629fb0f7857f98f89f4df0990958dc7a753",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,316.268249897694490023",
+    "hash": "0xa3dffe35d5c290e8e283094c93446a458d34fdbe5eec66922f34b49ba0d4397d",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,132.98351965",
+    "hash": "0xf9ea7b1703c31f14dab2ec460982a1e4d0d70fd358b129909af96afde887740a",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,000",
+    "hash": "0xaef850adf6b577833bdff707d8b9eedee7fe9de6c39031a5e9aabfd388fa4125",
+    "token": "Metal (MTL)"
   }
 ]
