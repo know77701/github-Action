@@ -40,5 +40,47 @@
     "value": "297,749",
     "hash": "0xf58db97e592822ba7794590c7aaee61611499da91ae61d4bc8cd0c111a18ce91",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,601.944262958104420052",
+    "hash": "0x69e6527530c22616d5ffe0646cf689b8ea369a47df651699c792878a9516b8a4",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "383,869.684786331895579948",
+    "hash": "0xa4cb7666e40f6acf59acd420d0e82aad653b2a367831968a355799210c274769",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,433",
+    "hash": "0x669f31e141b912aab9520babd2e1f0af39ce5198110970ff202fbdd15dc8a5a1",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,580.34787",
+    "hash": "0x4044b1f0b252a2ae817e4c1a36cfdba097dcb75514f9a3614eb364048e71bbc8",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,549,405.107072117092291589",
+    "hash": "0x0f64d624c4ff74f25807a47ff568f6da47ef02ce9b297de8c5eafb5d009f7614",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,458,133.378018138944972878",
+    "hash": "0x4f8e9b69560132913fbfcf2ea64b6e79b23add96afede9edc64706ea2f302cdf",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,879.5355",
+    "hash": "0x3a1fd3922b870fa713bb4f4dfb3eb304dd93d771e641db2998e8fb14c520c723",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
