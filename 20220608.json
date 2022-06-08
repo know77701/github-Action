@@ -412,5 +412,23 @@
     "value": "35,690",
     "hash": "0x7893df93322383d2ec7f96455795484b989b02e41528ef1d99e52ddccd82d601",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,044.86649207",
+    "hash": "0x4d707a927a26a90b912d047994bfc6ba13dbcb4f0fce9f17217a70d8b79d588b",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,926.615930412509769111",
+    "hash": "0x43767ac1e20c3954a7c6330795270f55c09f98674e2b3dd913777829a57e57b0",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,101.771839337490230889",
+    "hash": "0x9c65c935820906db60223c26abae405f763e2e85541321f85adc904a5100dd34",
+    "token": "Gitcoin (GTC)"
   }
 ]
