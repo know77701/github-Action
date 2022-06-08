@@ -478,5 +478,11 @@
     "value": "9,609.10909551625273305",
     "hash": "0xd48eff58cb2838837576cd010503a3c843bcdcb5bd8b872666a34e1fd3e3ab89",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,472.9700279",
+    "hash": "0xa8f65c076537c25fcab317b50def27943fdda5b7c2ac65095047bc07303e1991",
+    "token": "Audius (AUDIO)"
   }
 ]
