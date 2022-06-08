@@ -466,5 +466,17 @@
     "value": "24,000",
     "hash": "0x77ee08e2f7997018e1c30bbff7f024a5bc842e4b0e478c28e62920c1836efe02",
     "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,150",
+    "hash": "0x571e30e98c37e39ece2b54648d9aaccdea59efa7f00edb732843b18359c0a87c",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,609.10909551625273305",
+    "hash": "0xd48eff58cb2838837576cd010503a3c843bcdcb5bd8b872666a34e1fd3e3ab89",
+    "token": "Mask Network (MASK)"
   }
 ]
