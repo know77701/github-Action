@@ -676,5 +676,11 @@
     "value": "3,730,171.93232927",
     "hash": "0xda1aabc60243b4761012376570b06f2aaa715aad3cc38a42492049b1dbd326be",
     "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,610.37748342",
+    "hash": "0x84cc33ff2d68d5e8556fb9643ae775c6c1bdf8e8c0a6ee74de12df2a928dc900",
+    "token": "Uniswap (UNI)"
   }
 ]
