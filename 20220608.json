@@ -502,5 +502,11 @@
     "value": "113,846.37283877",
     "hash": "0x2cc1bd45a634f25f178976628306fe64ad874f28113557b672c29f9e97e121b8",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "811,321.916509",
+    "hash": "0xe94dd65beb0aa84d7505af421173b1c9bafff008dbe36ec0aaecaaff9448f322",
+    "token": "Serum (SRM)"
   }
 ]
