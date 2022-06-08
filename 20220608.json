@@ -220,5 +220,41 @@
     "value": "1,072.8",
     "hash": "0xe612fcb506a995b073bc850776e7a360a2dc89536dfed27ca1469e1ffffe65f1",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,948",
+    "hash": "0x1464bbd534854bc9a1f294ecad636923d74cfa910db469ae3e54e45195ef19ae",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,000",
+    "hash": "0x643a3a0ab0864601a0a1dc9a6d6c939f1a4318306fb7e71e9e8457b1d44d85e2",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,792.007115621890547264",
+    "hash": "0x164129c119dc396e6e06c69353b6b3dc18e019012e65570700ac69b79ca89817",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "247.67937533",
+    "hash": "0x8cec732c9fa1ffa8999a53982656b2f5b0239c095b7177334e1b2341713835ea",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,706.78317004",
+    "hash": "0x2be5b5eab21eb57cb03a803ffb6dfe3caa05a70ecddf498f41a794ce620785fe",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,945.31614597",
+    "hash": "0xf4807638e1667346f3f7da4aa1b325cf9e05ba10e6a8faff273e114981269043",
+    "token": "NuCypher (NU)"
   }
 ]
