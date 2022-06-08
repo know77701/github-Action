@@ -538,5 +538,11 @@
     "value": "2,195.633486675665343645",
     "hash": "0xfd46c5f6a5339a576ff82b70f683914bd9a1320de301a84d9b06e39bc2feb289",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "228,295.9867465",
+    "hash": "0x1b8a7bff9b3c0132dc3d7ac0a62d1c0c12b8a060089064d9fd1f3fe90fde42c1",
+    "token": "Yield Guild ... (YGG)"
   }
 ]
