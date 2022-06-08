@@ -298,5 +298,35 @@
     "value": "2,000",
     "hash": "0xec93c4a9b2bc6fd12e4a452ee86e30af6525e28113fb489930ba80f2fc58aa83",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178,833.44383207226014586",
+    "hash": "0xa2e96094553bfe9bb4e24f785167438b117924de84c402f150ed2374f8ee5cf9",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,761.170037",
+    "hash": "0xc32daaaa918cedc9777f6add780986b5087c6ac923d2928a2fe13f6a99cfb651",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "557,710.34770782",
+    "hash": "0xf6be07b5b3cc2bb79a46818cfdc6d0b7caea6d12a585b6fbaf0059fc9378405b",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,868.42101674",
+    "hash": "0x5dc2e0a5e2649334592940d1c2ceb8e5fd4811642536bd69812067fdccf111bc",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,708.729",
+    "hash": "0x8ba5a29fca39fcecf3002d604ebe126165fc5756c01322fbca6266c4945f96bd",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
