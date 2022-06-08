@@ -592,5 +592,35 @@
     "value": "2,997.471189063851225256",
     "hash": "0xa0809675a9e9f1120c26eb1fd868556f6fda86fc92bfb21a5a533bb3667af9f0",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,909.959989447236851012",
+    "hash": "0xc1f32bf33821fb96704d781c94f2ec173610da271b7933396b093c65443e2138",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "157,176.807421222763148988",
+    "hash": "0x8eb7eb98b4e1f3be20d048d7a703d9938bbf5329cdca83cb5c3095f7aefed13d",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "829.592035762688529703",
+    "hash": "0xdd2400aaf391e4930c7ea385b92b7d1fd40c4c5985cfcdf7a3d16ddd4c07c198",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242.95011457",
+    "hash": "0x711aef7b92414cd59e21ecf4c220e7cbea8ea9202cb22a72553daf88a36129a6",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,198.795736777311470297",
+    "hash": "0x39754b9dbb69cda55b6d95d070bdd92bafdf55731738da5edf817588fc6865a1",
+    "token": "Gitcoin (GTC)"
   }
 ]
