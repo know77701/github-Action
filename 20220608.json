@@ -622,5 +622,17 @@
     "value": "16,198.795736777311470297",
     "hash": "0x39754b9dbb69cda55b6d95d070bdd92bafdf55731738da5edf817588fc6865a1",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "996.448674321460597175",
+    "hash": "0x6aed5b9fcec8eddce607adecfa98c2620bea91f4e18b0abb85935a36a0dc3a79",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,100.82997719",
+    "hash": "0xed29e45ed5c936100eb83e655fcbf5db70c6c614b7b65855c5f44708505c81a5",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
