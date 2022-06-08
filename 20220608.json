@@ -754,5 +754,11 @@
     "value": "7,300",
     "hash": "0x0ad853ed9b50f06ee384986a55979c666d3fa30ac75400099d1b7a1c6846c64e",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,006.70957532",
+    "hash": "0x825b65722d90f31d2de923531fa59a13163b038a6974945f2db0f3d6002b3c2f",
+    "token": "BAT (BAT)"
   }
 ]
