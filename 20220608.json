@@ -712,5 +712,11 @@
     "value": "1,434.040818669243512665",
     "hash": "0x7ad1ef050200b6d029d41aef00d010895c9bb2aa7e3da66a939a988428dd8ad8",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,713.498781330756487335",
+    "hash": "0x3a1bf9ef312dc53c16bdff1d96b6fcd56420d6b4f8f7ddb672936a61b9eee8d4",
+    "token": "Gitcoin (GTC)"
   }
 ]
