@@ -328,5 +328,35 @@
     "value": "30,708.729",
     "hash": "0x8ba5a29fca39fcecf3002d604ebe126165fc5756c01322fbca6266c4945f96bd",
     "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,379",
+    "hash": "0x8ccf1c1610f639b9322b18038a6eeeae1e3ef123dea7533dcaffcb3471791b63",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,173.35071966",
+    "hash": "0x7249ce399a9566371ee9c01bcc52f98a5e296432239476c1d887b3f899f95071",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "329,659.470826725818453334",
+    "hash": "0xd6b76b99218c3e5a652f51875b810d0cfc16785fd82ebcd440f4bee06fa2e005",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,469.377975859714751916",
+    "hash": "0xe1204487c1a1bef49ecf7ccf5cf44463e64d686069addfda0dfa97514a6bc596",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "526,634.00365115",
+    "hash": "0xae09936a75769dc8f83a9003ba1e234f54a6d0fa4062b97c33d711653a3b4faa",
+    "token": "OriginToken (OGN)"
   }
 ]
