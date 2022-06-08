@@ -268,5 +268,35 @@
     "value": "76,361.509",
     "hash": "0x96f45a9c3b54fcf4fded24a23993d6622d8dd5815c37b6bb33be13306720e03e",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,928.3",
+    "hash": "0x38154541db29bafb7b13f789747a8a9907f11d3155e4598b4a35e46b76da7cf0",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcbd4826e9a2c47e84ce9dd87755b1e5cbf3f9929042a887a2b1e69eff3898f76",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,312.010029",
+    "hash": "0x6864cd85ea13f7a3fa3a7251dab8fba57fddbf94973b2e2b8cfb2887a1c55e55",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x064e97498b93f8467910cb799fcf6b20ca6bda172dfc785611c8d0b2eec8b94b",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xec93c4a9b2bc6fd12e4a452ee86e30af6525e28113fb489930ba80f2fc58aa83",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
