@@ -256,5 +256,17 @@
     "value": "3,945.31614597",
     "hash": "0xf4807638e1667346f3f7da4aa1b325cf9e05ba10e6a8faff273e114981269043",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd232b57d07501a2d0e3d434d27596b4d1796ceb82c301b55cbb8d3162702c754",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,361.509",
+    "hash": "0x96f45a9c3b54fcf4fded24a23993d6622d8dd5815c37b6bb33be13306720e03e",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
