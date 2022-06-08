@@ -196,5 +196,29 @@
     "value": "4,046.1733",
     "hash": "0x00bfed3ce2ef3c63d30e4f9bae9761ab0f1bfa642c30622c90da62535b61f9c2",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,967.45339394",
+    "hash": "0x228d2d508337ebf83105da69858fcd4360a7b25bca1c713a115eec0ea19e0133",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,513.73198556",
+    "hash": "0x7eda2d8237559500061187674538167cb57e4fc73d1807eead73cb0daf32eefb",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,671.469325",
+    "hash": "0x28003d95280b5d00201da3cead9d8ae30cf2797435e42acebeb88c9381be38d0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,072.8",
+    "hash": "0xe612fcb506a995b073bc850776e7a360a2dc89536dfed27ca1469e1ffffe65f1",
+    "token": "Matic Token (MATIC)"
   }
 ]
