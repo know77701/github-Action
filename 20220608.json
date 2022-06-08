@@ -574,5 +574,11 @@
     "value": "51,718.153",
     "hash": "0x6bad1f55d6087813af77cb2c30010a68f5ccd7c4ef24595edcecf944fd0e0290",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,211,504.622114075605963401",
+    "hash": "0xc8d70cb197648ce8bdba1e09792015b1dafd051210c3b7e597d903cd93cfc154",
+    "token": "StormX (STMX)"
   }
 ]
