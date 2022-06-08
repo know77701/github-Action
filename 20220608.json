@@ -448,5 +448,23 @@
     "value": "12,000",
     "hash": "0xe48d92658f32c0f2bdb55470a81102c46284c5231fc8ce796c6c04b61a07b8e8",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,091.22670448374726695",
+    "hash": "0x6c317810f4676c86762ad3633260ccfde04d4187fdcb8f9095ba20e2493d988b",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,016.69669",
+    "hash": "0x742951552257f0cb32cefeffbb786ab55a20d43431995f5a472a25ba70a38b08",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,000",
+    "hash": "0x77ee08e2f7997018e1c30bbff7f024a5bc842e4b0e478c28e62920c1836efe02",
+    "token": "Injective To... (INJ)"
   }
 ]
