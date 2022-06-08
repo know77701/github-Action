@@ -520,5 +520,23 @@
     "value": "699.85",
     "hash": "0x64a736aaabfbdd5051be2fd449d6b8836628df42fbda01a1ed0bc9d80c62075e",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,832.754214564334656355",
+    "hash": "0xc6bd4ad3da2f85444cc65d9acf315b85ebbcd591cebe117e829c38beb89ae222",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,469.95614158",
+    "hash": "0x02a629d32e9496ffb95ae76e6a8fe5067282f4f32def7f67af42f57cd4fc19d6",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,195.633486675665343645",
+    "hash": "0xfd46c5f6a5339a576ff82b70f683914bd9a1320de301a84d9b06e39bc2feb289",
+    "token": "Gitcoin (GTC)"
   }
 ]
