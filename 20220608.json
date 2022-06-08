@@ -484,5 +484,23 @@
     "value": "79,472.9700279",
     "hash": "0xa8f65c076537c25fcab317b50def27943fdda5b7c2ac65095047bc07303e1991",
     "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,573.440916272561838652",
+    "hash": "0xe188f4ff63c05a5c2a37dab78102b84e54eb1d492ffafcfa2d8320beb9149bbd",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,362.046",
+    "hash": "0xf35425b79e8dc98efcf3c4d9caa1bffe582427e5c4dd1c43dce2161999ca8dd0",
+    "token": "APM Coin (APM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,846.37283877",
+    "hash": "0x2cc1bd45a634f25f178976628306fe64ad874f28113557b672c29f9e97e121b8",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
