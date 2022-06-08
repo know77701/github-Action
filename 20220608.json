@@ -148,5 +148,53 @@
     "value": "287,524.92571820351480102",
     "hash": "0x16e7d1511ae688255964cb3e47aa5a617667ebe96ae191a202c2321ddfad7ee8",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,859.372",
+    "hash": "0x372a76dfb52e2b285256eefbd33efb264727c989cb12374f5a4b6824b3e2c09f",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,383",
+    "hash": "0xa81b827a315a42ca94d96db931cddd4a147b79ad83e1574ded332fcd28a6db4e",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,605.110619216917237481",
+    "hash": "0x9c3ea9e311573ba41ae1a79d491404597dbeef472813732b01acacaa9097fbf4",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,129.889344023082762519",
+    "hash": "0xac0443d4b0ef4244b8e34c916c561a77c23c969c34dd3208b19ac5cf6f7214e5",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,344.94",
+    "hash": "0x3443ce66904187c2e441cef4ea137e34ebb067f8cbae453148ace5951279a02e",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,494.85219",
+    "hash": "0xfe03d0c2c7e183f3c35d2cdcb33de56d87c2525a9b937080ff2470e3dd8d3acd",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,493.463445",
+    "hash": "0xb97d7d030b75f8e5d41174b49162e70858f8c6edbf500e55732050d48903787c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,046.1733",
+    "hash": "0x00bfed3ce2ef3c63d30e4f9bae9761ab0f1bfa642c30622c90da62535b61f9c2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
