@@ -82,5 +82,71 @@
     "value": "38,879.5355",
     "hash": "0x3a1fd3922b870fa713bb4f4dfb3eb304dd93d771e641db2998e8fb14c520c723",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,374.14",
+    "hash": "0x2b74b9a76f5889fd66728c78ad6ff70ffdab82487712ae012a86066bedfc70cb",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "995,010",
+    "hash": "0xcdaf6307e96933c59a236f249c9ddeeae01366f66632931a6deedb546e38959c",
+    "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,996",
+    "hash": "0x54cc802666fa5a43d676a1345943036a7fc55ad092d3dc77d84a4a34c00f6a02",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "136,032.815417855722706446",
+    "hash": "0xdef8547d694ba01b492561794e1c8f30337392e32576b571b216defc19df6cae",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,016.857",
+    "hash": "0xc730fe392e11ef500b6237bf25f09dbe4291fd74a7ac9b2b284ef08563041781",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,734.0770567726304406",
+    "hash": "0xedcb3693ff76e439052abb6fb1514512cc1800b572156e27258740731e141fb4",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31.48436641",
+    "hash": "0xd03771ba7703e19a5606c0a677674fa479ae77077efce88551d0c90e9bc4cfc9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,438.667430297207889605",
+    "hash": "0xf30290a4f9aee5aab3aa1eadb0041f91b99b7782b28eecbdb3d3d3b662158a57",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,650.122958400480163491",
+    "hash": "0xb52b76cf5b464331b896d5d16fe730dde7fb31bcc4c499039e1e526ad9c43da9",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,393.73998618",
+    "hash": "0x8d2ce0aca78aa08d785ddf2a3321ffeffa74a809c01aaa280de279e950fa22d0",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "287,524.92571820351480102",
+    "hash": "0x16e7d1511ae688255964cb3e47aa5a617667ebe96ae191a202c2321ddfad7ee8",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
