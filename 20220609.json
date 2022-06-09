@@ -442,5 +442,11 @@
     "value": "14,622.26604587",
     "hash": "0x0564c0af9ada276c4fc237dcd0a5ede217f37b71ee6c50c925d9951703962a36",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,377.6399",
+    "hash": "0x1b74368d689cf5dd570818a6eea7497a64b7bf5ffc4cdb6d663b7dfd24926d85",
+    "token": "API3 (API3)"
   }
 ]
