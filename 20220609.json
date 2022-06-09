@@ -82,5 +82,17 @@
     "value": "5,892",
     "hash": "0x60d85a3606d1a1c1b631fcd9185edd7d66f644d1bc34b6f5d9e58a0b04eff49d",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,601.749569328799",
+    "hash": "0x453a099ec857f358f20a08547a4a9b8243601539a2dbdb125fde4160d9b7fd7a",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,986",
+    "hash": "0xb1d34a2b7f7180e97fa09fedce586de4b7d30603495cac6e30a7777d6c61332e",
+    "token": "Decentraland (MANA)"
   }
 ]
