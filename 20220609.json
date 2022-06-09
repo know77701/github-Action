@@ -352,5 +352,23 @@
     "value": "62,200",
     "hash": "0xcbf9ac99074fc5fe7fd08ee33da3cd8eb92756c5e1fe1d698fe0b34f765e1aba",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4609e52fd60b579c522eb5646f7cae0219abc318dba777335655003a07a3c751",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcfc92a1cbc3f18451ed487617433727093dd2ca186e8cc276451d1efb0058a59",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcb6b60741e3be10fbf4e30925b0a1273db486a79ab1da0dd83a8907f69e17d5b",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
