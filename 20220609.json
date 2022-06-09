@@ -148,5 +148,29 @@
     "value": "7,039.28",
     "hash": "0xd5c8d01f2a0ba077d23e3ca18ce7b77f8680b8113c7a4fef7b6c3fe1ed427d1d",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,424.77706649",
+    "hash": "0x3666d025366f2d289fe115a0b403f94565fac90f0efb927bba83d845d0a9cce3",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "236,716.15163329",
+    "hash": "0x56cdbe89b246acd4ceaa9c9cf835c809a500f84665bcd01e8d58f68874bcb12a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,992,678.2063546",
+    "hash": "0xf8beca52e4968eefb48862acab5d6dab911275ae5f87faab6b5f1f75225e0078",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,000",
+    "hash": "0xe62216075122b7d74598501d5d2f81796090ee1beb1cec27471acd6d5a9f9198",
+    "token": "chiliZ (CHZ)"
   }
 ]
