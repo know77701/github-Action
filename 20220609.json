@@ -226,5 +226,11 @@
     "value": "10,172.016",
     "hash": "0xdf5c949a3cf07aaea3d5dd17d9fc12468bca790bd8173c7a1bdf36cd29c7fbad",
     "token": "Swipe (SXP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,149.47",
+    "hash": "0xe9e9118dbfb2cc9c56663791b02b2ad94115eabcebc2df924c1d85adacdb3ba3",
+    "token": "SAND (SAND)"
   }
 ]
