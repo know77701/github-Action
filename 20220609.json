@@ -538,5 +538,17 @@
     "value": "15,764.46846448",
     "hash": "0x93ad723abf0715f7e0e2650edf2e6abea9f5158c1f683fd4b54133c809ea0167",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,349",
+    "hash": "0x1d271d719a363267303d6dfea688df2b9b3abd9beb046f1e5dda62dea32f3cfd",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,987.28687267",
+    "hash": "0x8d0d34e6d998f8dd67b1f8d9648fc48140705a934cba5161be5bda070419a8c8",
+    "token": "Reputation (REPv2)"
   }
 ]
