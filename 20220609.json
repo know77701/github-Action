@@ -190,5 +190,23 @@
     "value": "34,621.5999341",
     "hash": "0x558b18789ad61a6c4d615cc90408a32088ef2ea0f993b1e724815b5263db534c",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,190.938324378839213233",
+    "hash": "0xb801d97f1a002f8f27f46f6aaab7c8215eae19beba04123809c13e7ec749b3b6",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,037.5287",
+    "hash": "0xf09ff3950db95edf956f8112696547c28bf3a88a53b1b2cf36f3ae30e5812970",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,694.55",
+    "hash": "0x3771ee7cf43a01c7a7f249cd61a77c5414bda69704ef338a145d35e5a01936c2",
+    "token": "OMG Network (OMG)"
   }
 ]
