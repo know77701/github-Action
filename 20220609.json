@@ -580,5 +580,17 @@
     "value": "69,996",
     "hash": "0xe62b2082243fc1720bdfd00e271bc604d95b59f65e5aee97f28c054943c60205",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,241.3396",
+    "hash": "0x324a44a97ff7912d19f3bb6dffda2df2c1e16d4e0544a22f1374a91ecc4ff4ad",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,849.26",
+    "hash": "0xfeea57e22ba5574925b2a0f272a23348509b814f6a4543774035246d84c4b666",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
