@@ -106,5 +106,17 @@
     "value": "6,251.79179",
     "hash": "0xbfd33bd678e4d603ce1fa6e3df6941e2301dbf079a13633ad8d48e3d9ce5eb01",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83.6991",
+    "hash": "0x0917906501cec71e1f58d244a4ecef99b6dd59494f4d9e634de9ff0084246f55",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,640",
+    "hash": "0xa0fdace8f78b6ab6a4e838f47dcde74dda5d3b1b4ecfa3ebcf36b8de4e0838a8",
+    "token": "Decentraland (MANA)"
   }
 ]
