@@ -100,5 +100,11 @@
     "value": "14,566",
     "hash": "0xf67953af8ff3815ec96d4ad86a230a82083fcfa78b6ed463278dd50f578b6444",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,251.79179",
+    "hash": "0xbfd33bd678e4d603ce1fa6e3df6941e2301dbf079a13633ad8d48e3d9ce5eb01",
+    "token": "chiliZ (CHZ)"
   }
 ]
