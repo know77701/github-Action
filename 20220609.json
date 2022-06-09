@@ -448,5 +448,35 @@
     "value": "11,377.6399",
     "hash": "0x1b74368d689cf5dd570818a6eea7497a64b7bf5ffc4cdb6d663b7dfd24926d85",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83.285",
+    "hash": "0xa6439fff2cd565516af4e80dd7aceaf2e33e39e6f220d8025758956cc601683a",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197.18",
+    "hash": "0x47774fed1a048979ef0ac39c635cff6bd763606f62e66325a5c5dd0d31ffa6cd",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,873",
+    "hash": "0xdbb541513c2e4cc224e6490a50ec180884068b8019777bcab4507bae431adf4a",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,776.86452325",
+    "hash": "0x0ea9671d563320a6e681a18296527c208a5216c3900f19ba037cfe23ca43d9f7",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,826.177007",
+    "hash": "0x52a81d33da52b7df3f8ee97109399ce6da254d0353c34d108ca8033e4a863f56",
+    "token": "Chroma (CHR)"
   }
 ]
