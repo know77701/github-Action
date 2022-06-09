@@ -496,5 +496,17 @@
     "value": "650.75113077266866108",
     "hash": "0xa248126ff932d3783b847018acc9844c1e06d2df27e279b325e36ea32c781091",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "166,718.926712",
+    "hash": "0x3b9dc7292ff7624b185f9dd4b2015c0eed73012360ddc174d7392e721f7141e8",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "267,818.682166",
+    "hash": "0x124ed89f272d7b37660b9871c19c15897429c74faa6ba6fede60838fe605a9cc",
+    "token": "Serum (SRM)"
   }
 ]
