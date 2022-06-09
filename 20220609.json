@@ -172,5 +172,17 @@
     "value": "120,000",
     "hash": "0xe62216075122b7d74598501d5d2f81796090ee1beb1cec27471acd6d5a9f9198",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,474,767.75229951",
+    "hash": "0x5713d67ba0ab22c801bf69f304a0039d3a2894862eef254d208ed3444d02a855",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13.15180558",
+    "hash": "0x6b4bcbbd4614e4bb361db3409ee0fc2e50c319e158c51ac0bcdf20d8d53cf49f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
