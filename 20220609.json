@@ -124,5 +124,29 @@
     "value": "29,996",
     "hash": "0xfd0f4ccca6e36c0c6a7414204b391e8b5be89cbbe380d6b6de8f308d1d464f88",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,704.3488",
+    "hash": "0xc98451db91f9cec4d13a40f70f3001cf5c88847f457ac353a31b3ba21812fc69",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,351.509",
+    "hash": "0xab735d311c0bdc20c8358ba0c960b227bae31781eed488d1e329f27c04e12fac",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "289,082.30116727",
+    "hash": "0x4ce759b750e281a9a18d27e1f344c3b010f1c1c67241a6f7907a09d5b0d90d08",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,039.28",
+    "hash": "0xd5c8d01f2a0ba077d23e3ca18ce7b77f8680b8113c7a4fef7b6c3fe1ed427d1d",
+    "token": "Polymath (POLY)"
   }
 ]
