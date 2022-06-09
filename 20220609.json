@@ -214,5 +214,17 @@
     "value": "3,415,015.84638878",
     "hash": "0x991349a04b35229229ff388c6fe2d692aa580ed3f6db8747aa606b41c64fcb19",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,974.54995797",
+    "hash": "0xa8b6a6763ce285124af8ea21ee9a1e93d353d80505c9aeb25783659d6f848971",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,172.016",
+    "hash": "0xdf5c949a3cf07aaea3d5dd17d9fc12468bca790bd8173c7a1bdf36cd29c7fbad",
+    "token": "Swipe (SXP)"
   }
 ]
