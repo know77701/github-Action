@@ -238,5 +238,11 @@
     "value": "5,677,093.29654774",
     "hash": "0xd3dbe960516d12c4a01d231cacec1d34e0907d7fe1c1740b350ffd703f225202",
     "token": "Linear Token (LINA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,687,831.21271719",
+    "hash": "0xde0e50a8c762c27eafddb6fe06dc2b6a753eee6d19524bb9117168ed71b79d45",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
