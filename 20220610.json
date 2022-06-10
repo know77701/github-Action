@@ -478,5 +478,17 @@
     "value": "15,414.024387315937545945",
     "hash": "0x36357c59068f6e8a5b29b67517088f950c00ecd7b50a4cdcb798a2f59bfd69f0",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,603,516.726577738526767229",
+    "hash": "0x2869c36504491f42454f3eab555f07262beea0ed1a5ba98f5964e95e58fd635c",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,217,904.009188741473232771",
+    "hash": "0x6c11b2da3dd1777ac29d95faf6e655d5b555b77db3f8d9e7508e7c4bfa143957",
+    "token": "STPT (STPT)"
   }
 ]
