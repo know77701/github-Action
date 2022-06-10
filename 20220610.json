@@ -394,5 +394,11 @@
     "value": "1,779,565.99996603",
     "hash": "0x8b04a54ff8e4d3d74c0da0e9118ebbde9bcc8c122ac5b2f822337359aeffbf1b",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,933.93188432",
+    "hash": "0x66903bc6dba4cc2438737ebe9d1bec9d1009e8bb8b4c146b20692777d670a1a9",
+    "token": "Numeraire (NMR)"
   }
 ]
