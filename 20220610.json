@@ -214,5 +214,47 @@
     "value": "3,000",
     "hash": "0xe02ad6ced0b9435b822b33cb3aee8170ece9a25ddc75cff608a63711a749d741",
     "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6eac4711dc89e857f75f3454df9799316dc32bf63e6949cb8ca211e0bd48abe3",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x14cc5fa9b5582df980d4f84e3255fa65aabc82cc611b4c604595cf957de2e139",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa8eaef603f4d52470989c408522338abfed8c0f63986a6d52bcbc8d03182a1ea",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xe4aa5136e29ec2e5fa02b802557e27ef3a3a44d02fac4cf5d8323e367b8cdb2a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,542.95",
+    "hash": "0xf5d8c503872cc448f29b7e09ad74671484c2cbd764e49c99c9374741706a0adf",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,165.646170899768373529",
+    "hash": "0xbc794863c058883b193aeb38824f9f71f0badf47abee7535021c968e34cb33e4",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,000.94",
+    "hash": "0x72a8621a913673b9f8050dcc63ad96a915ab289e5e4dc303f2ac2e699afad64b",
+    "token": "Matic Token (MATIC)"
   }
 ]
