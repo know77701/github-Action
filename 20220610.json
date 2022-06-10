@@ -112,5 +112,23 @@
     "value": "135,469.22235714",
     "hash": "0xf1d73946c9ac44541fa5cbaa570f0096ec951bb373453ca1f64620efbfef79df",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,985.620391140875790297",
+    "hash": "0x730acdb704ed5c07dd0242d0459d4864c3f002c16974f48f54fb9e4be1ea01a9",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,614.22991364",
+    "hash": "0x88bbbcc4556fe0fe1dc7aeaa9db863f12213ad38bf527c9e2131e9f561968322",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,146.409608859124209703",
+    "hash": "0xdc085b744c6c8a5c0507a636af480825c9abc4648f755b9f308ae95cf4447792",
+    "token": "API3 (API3)"
   }
 ]
