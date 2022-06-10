@@ -436,5 +436,35 @@
     "value": "127,347,083.96660044",
     "hash": "0x9a3473142562ba24e9745db283ddc88fbe43bb8155a0a2b43fcd96f062da9a19",
     "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,097.88",
+    "hash": "0x07fbf30fdd3e514bb759214a6e94c343d8293d0cd378fb9ad3cc4ddfe4864423",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.599962",
+    "hash": "0xa2eea31825ccb3e32a9990904898e336bf79f719bc1bf251cfa5005ff539aaaa",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,589.3",
+    "hash": "0xfbcfee16f72d8d0d2dd42245a32e37f6d08fc4e2c004a196e8ec83a8f28ec2fc",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "851.0638298",
+    "hash": "0x3b8f1f0c68c54b6594cae1518a02076da11ff2fe4247fadf26b5ed9f9182afa7",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,131.857",
+    "hash": "0x86cb8b44fca8ea252a4da8dfe58389e182fe8dd11d4264dfb04bd87a6ecca490",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
