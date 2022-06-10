@@ -100,5 +100,17 @@
     "value": "6,063.47391147",
     "hash": "0xb52c9319f04e9f5539f6d541a4aeca12c2c4cd862cb4298adf48863031704e0f",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,877,640.34398",
+    "hash": "0x0d5b3a580fed78e10ae24b9889de4120e517229417d9aa5765a2874bb22147b9",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,469.22235714",
+    "hash": "0xf1d73946c9ac44541fa5cbaa570f0096ec951bb373453ca1f64620efbfef79df",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
