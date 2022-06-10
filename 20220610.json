@@ -382,5 +382,11 @@
     "value": "2,471,157.450491496559492102",
     "hash": "0x069e71e90e92c82f338c59e2ad327a074b4ff54b77d299056c85b0d2d824b238",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,436.60988277",
+    "hash": "0x3d025ade891432e5b12a09dde94777584fd9d72f529b469709279e4fc071ab33",
+    "token": "API3 (API3)"
   }
 ]
