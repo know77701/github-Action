@@ -22,5 +22,41 @@
     "value": "4,709.166",
     "hash": "0xd2900156fe988a0974715c89eaad77843ee399d38d61a4b3035ff0c9807cfde2",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x229e47d7ffaf32ed0fd245b89b84175fa2da2d3be11b4829c07528b8bad87e12",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x8eeed78b66ec4b1773d201a43eb5c3482c315c1143c53cc726b80256928a6d5c",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x2bd371f3c06e16300c3fe5bdfc4a0579c98c00f316f46490162b4c9689c60007",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x089ea1803a7beec97b6e71a5c6188620476cffd5e4ab289245454fcf0a2bb0a2",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcf5bc88a8945b5627f420ca48599d2241a209b38e3f4875f583b6fd7bbe23da8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xc8aadbb7e9648c5402ddabb8cdfb1d2b9a73b629c0aa71ba638551e3365a6e87",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
