@@ -196,5 +196,23 @@
     "value": "431,816.3590465",
     "hash": "0x5b632ccf8ec570df02bc2c37c8af378501b3f1248a3ac5fa80a14fc13a516543",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,301.77",
+    "hash": "0xb60da250cdc07f684b9aa02d43614ad6c98cb62e32822b613cb25df5dd850565",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,853.046",
+    "hash": "0x5762a20fbc6bd8855ac957f97f29452caa8d284f169953d903277b4d5859d5ec",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,000",
+    "hash": "0xe02ad6ced0b9435b822b33cb3aee8170ece9a25ddc75cff608a63711a749d741",
+    "token": "Strike Token (STRK)"
   }
 ]
