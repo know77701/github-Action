@@ -130,5 +130,17 @@
     "value": "12,146.409608859124209703",
     "hash": "0xdc085b744c6c8a5c0507a636af480825c9abc4648f755b9f308ae95cf4447792",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,948.542782948205649191",
+    "hash": "0x631dae0d887561883dc2a342f3418b82cc178599ce600da3bc78ab9902743d2a",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,042.567017981794350809",
+    "hash": "0x9737e0ae6c5674a26acce8ae7f81ee828fb38d1c9275a8c2a9aa878db0f0d22e",
+    "token": "API3 (API3)"
   }
 ]
