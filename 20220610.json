@@ -292,5 +292,53 @@
     "value": "2,000",
     "hash": "0xa6280387aa28276f6340c8bc52c0c2eb1a99c3e7a0629a1050c22931d3b22e23",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,906.69051116",
+    "hash": "0x422ee02e4b9e8012951a3569b2052df8488cdb8a84e9e979c8b9dc543fae50f4",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,279.8",
+    "hash": "0xdc2c0a9d235ec01340ad21f93153260c0c371ae3050346586c4f7a8bfdd0aadc",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000",
+    "hash": "0x667fd67d05a40db689e69ab9cdd4342c652123ca73041edd21969653c6dfc58b",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd4b1b7ca7c83bf557b479f80341c85cee7765322f28a264531e75f7f7f9b0742",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,089.0539",
+    "hash": "0x2d628df15a79794b79d53cd667960ac3748d08cdd33aed3c60ce1fe1e116cc0d",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xa4e7365b8868ad7403a5bf5cc8e70c174971b8e371b0a6e87c96354a0a23f5a1",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x064db2c61791ff0c070c07fb44f550e08d9db8dbf1dd1b286f387e898a3cd975",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,184.59863861",
+    "hash": "0xe2a0dd091b1d38884a09f5dcc367668ad88ac3a704d45670af800703ff6d044f",
+    "token": "Function X (FX)"
   }
 ]
