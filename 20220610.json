@@ -154,5 +154,47 @@
     "value": "614.251982463144097837",
     "hash": "0x7c3c90b58271fb157d9d103080301ee283967e37662acb8f68a747131cc8f97a",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,060.70320248",
+    "hash": "0xf49dab439cfc1b5d4a756852070231e6c4040e3edc0b29ffd3ce6708c8da8027",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,271.987770971357714871",
+    "hash": "0xe0979738398881c216c67c89a2677edddcc138060defb4b085a82d028a6ac327",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,990.28",
+    "hash": "0x3ec37bcad2b7dd695693e98e5285d30c7973a53622ca22b861be76198f27d014",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,188.492229028642285129",
+    "hash": "0x080c4cf67cffbcd8c436fea93785bba64108f5454196f12b6bacf676acd724cc",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,062.44195301",
+    "hash": "0x4e23450ee23598660d5616ebc45d67619e4e8232a4318ab297de9af5609fceac",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,190.28",
+    "hash": "0xfe62b6c05afeb74c8f613e69150b10960c9f6c4ad3a75520a646891084da725c",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "431,816.3590465",
+    "hash": "0x5b632ccf8ec570df02bc2c37c8af378501b3f1248a3ac5fa80a14fc13a516543",
+    "token": "Matic Token (MATIC)"
   }
 ]
