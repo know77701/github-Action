@@ -400,5 +400,41 @@
     "value": "4,933.93188432",
     "hash": "0x66903bc6dba4cc2438737ebe9d1bec9d1009e8bb8b4c146b20692777d670a1a9",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,721.9999",
+    "hash": "0xfc399b681f2723c274503c36d239662ea52a9d7d455ed54df8afbca12ec6ad1c",
+    "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,242,640.934701395093108239",
+    "hash": "0x915eadeb6a13a25c7ea3bedb4d667ec283bea5786ed46ee7ce02196d24dc5b88",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "964,436.328815747034400126",
+    "hash": "0xd7b3c786c06b6451517366a818a3266c2d3cab9fdbed4cd51c667584542e6f86",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,234.99986913",
+    "hash": "0xc6c55907ae2548d27af97ec02d391e53e2eb917d577940e7c70e1b1837b32332",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,700",
+    "hash": "0x3b535cda4bbeba577c0f7fa28b1d970a9f4001bc470820ff1815ead64de09727",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "127,347,083.96660044",
+    "hash": "0x9a3473142562ba24e9745db283ddc88fbe43bb8155a0a2b43fcd96f062da9a19",
+    "token": "DENT (DENT)"
   }
 ]
