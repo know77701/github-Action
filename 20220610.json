@@ -568,5 +568,17 @@
     "value": "2,394.995763362578683669",
     "hash": "0x333b8fbe0206571eccb1715307b74fe4015811c9a27e1ac1a22ffdfc038960f3",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "198.55805528",
+    "hash": "0xd31cdb7a40d949b99cd5b5222b3a54794bc0b73dab462b890eb9c93288066378",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,867.36375022",
+    "hash": "0xaeb28f61b2859731512f0df3a8f2a4a83bdda68042003b479b74ad7167bfff7a",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
