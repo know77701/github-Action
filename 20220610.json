@@ -94,5 +94,11 @@
     "value": "2,000",
     "hash": "0x7de93627994322b23fda4015648965ec7c8acaa20193118276368b121d5f63cc",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,063.47391147",
+    "hash": "0xb52c9319f04e9f5539f6d541a4aeca12c2c4cd862cb4298adf48863031704e0f",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
