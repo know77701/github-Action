@@ -496,5 +496,17 @@
     "value": "102,621.624",
     "hash": "0xf2c275d6190a5704234e4f3700e9b7efecb138c6614d971309c40a6f95a3f5bf",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,768.99998184",
+    "hash": "0xc64bb6218aa52537b8b6b7154fa9c187a8e4493932be214b55326ef3cbd3e518",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,725,762.47975869",
+    "hash": "0x984d7efa3a98cde2e5486f83c1b6f7a6e2976c23d1cab501102e7a2d2144ca74",
+    "token": "BASIC Token (BASIC)"
   }
 ]
