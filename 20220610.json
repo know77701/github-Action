@@ -388,5 +388,11 @@
     "value": "8,436.60988277",
     "hash": "0x3d025ade891432e5b12a09dde94777584fd9d72f529b469709279e4fc071ab33",
     "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,779,565.99996603",
+    "hash": "0x8b04a54ff8e4d3d74c0da0e9118ebbde9bcc8c122ac5b2f822337359aeffbf1b",
+    "token": "Ankr Network (ANKR)"
   }
 ]
