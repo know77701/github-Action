@@ -508,5 +508,11 @@
     "value": "6,725,762.47975869",
     "hash": "0x984d7efa3a98cde2e5486f83c1b6f7a6e2976c23d1cab501102e7a2d2144ca74",
     "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,388.80853339",
+    "hash": "0x5329fa56280bd33f57be5be2059431739775452a1aacd93360571c92d2afd08e",
+    "token": "SAND (SAND)"
   }
 ]
