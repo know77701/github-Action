@@ -370,5 +370,17 @@
     "value": "84,462.73155208",
     "hash": "0x1bb91aeeaff999f870a012bd0e0e9d1e97baee8a62cd9001d1c5d110366734e0",
     "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "973,218.366489963440507898",
+    "hash": "0x99b1ba0bb8cc915725d5407e0e34ba1e4ae8aca682e030a97ed7473a4c0140be",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,471,157.450491496559492102",
+    "hash": "0x069e71e90e92c82f338c59e2ad327a074b4ff54b77d299056c85b0d2d824b238",
+    "token": "Loom Token (LOOM)"
   }
 ]
