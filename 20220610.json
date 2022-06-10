@@ -550,5 +550,11 @@
     "value": "45,585,972.37508649",
     "hash": "0x342fa76d3baa998ceec72035c64aba8363d1be720533627a2217a4b39288e85c",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,092,340.19282759",
+    "hash": "0x99242c7ee6b3e3d25ba35ab732cadd70d398ee7bf8064e79e06fdd193186ddba",
+    "token": "Ankr Network (ANKR)"
   }
 ]
