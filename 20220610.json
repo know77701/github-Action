@@ -346,5 +346,23 @@
     "value": "128,700",
     "hash": "0xb9647666d7a8e34435e9b144ff10bccc517a299be2ae35929787bae48c10c73e",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336,266.320180149485485041",
+    "hash": "0x6871680295faf107f46049bd989058e6120d433a95dfd596a29ab868a99bf7fd",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "303,476.837575470514514959",
+    "hash": "0xfddef70e50a16ebf2d138e24ddba0caf724e9272eddce23c7807480d1e0e3189",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,620,119.90006736",
+    "hash": "0x1a830c0f476fa16d8453d58cf7f5e2e2a40eaa685e396ceb8e04b91a2c4353e9",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
