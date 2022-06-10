@@ -340,5 +340,11 @@
     "value": "2,184.59863861",
     "hash": "0xe2a0dd091b1d38884a09f5dcc367668ad88ac3a704d45670af800703ff6d044f",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,700",
+    "hash": "0xb9647666d7a8e34435e9b144ff10bccc517a299be2ae35929787bae48c10c73e",
+    "token": "Function X (FX)"
   }
 ]
