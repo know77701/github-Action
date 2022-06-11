@@ -496,5 +496,59 @@
     "value": "9,880.503257386096213677",
     "hash": "0x7f79cf2e6614f45d7656aabd87bf32247de398bff9570294dc3b895f415190a7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,357,477.3725",
+    "hash": "0x9b624b16ba7f782e10e05f80613ae59d7441a18c4e8eb7cb55895f767da2cfcc",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,994.321462607486179211",
+    "hash": "0x72b61a1be0f0a0e5cb0998942600c26d17731c6dbaee03a5fffd75c886efb492",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "920,292.619715742723968577",
+    "hash": "0x304cee84fd88f67e9d999ec74761ebf588d57f75ce07fb2bf3bf01e37bb270a7",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,900",
+    "hash": "0x0a693536ada774c5b4fab3e10f689de478df52a2f8d5f43d38e290918c2cdea5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,690.28",
+    "hash": "0xfdbecc263e797ad7549256ead5d9ed30ece6bce2209aadcd81faabba59f95d9a",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,841.887114351432220815",
+    "hash": "0x352c7cca245d79d5fce0dbab7b45bf98000e1a650361896a904e7ce0a7b86cba",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,089.29436137",
+    "hash": "0xb25359579cb591cfdc6e7730dc8a17f12fdf2b84b8d25df7c1a69621116cb530",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,382.322885648567779185",
+    "hash": "0x35f44a9a305cf17f1f9c126b661812e24850623d867ef2da2e703bc963560f53",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,329.28",
+    "hash": "0x100c3f4a40e478308981853ceeeb440fec7ce439cef69092ff9bebd9f034b8f2",
+    "token": "Matic Token (MATIC)"
   }
 ]
