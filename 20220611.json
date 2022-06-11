@@ -616,5 +616,23 @@
     "value": "8,802.167947447363556699",
     "hash": "0x65312928b97d7ab56d48aca38212437f165acf6903f7a7ede2c990f60394ee8c",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "383,814.272410915402740023",
+    "hash": "0xc8fe056dd9f8f3bfc4b8ff13e4ac0c1bd57ce92e575508e4deb8e7fa672f6352",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,614,999.50800072362323047",
+    "hash": "0x08c7032bb83030e07a3c1d6acd905ba74a9639c9ba95f435888104cc4bce20c2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "259,346.52066179637676953",
+    "hash": "0xc958a31b495786076599b35a5e3fe23e6f331f54a95b08a66ee93d287c5d8ed0",
+    "token": "SAND (SAND)"
   }
 ]
