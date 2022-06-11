@@ -304,5 +304,23 @@
     "value": "137,772.69812014",
     "hash": "0x444f4838aea2cc2db4a2359ce30174087843ee162e141f605f15722c7c92e30a",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,141.961318007059427738",
+    "hash": "0xaff7dfbfdc171902a4a896f3b578bff97bb814f6f43f5ea815b904c64f981f44",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,546.1406",
+    "hash": "0x84a440733256cd6c2d4dd838aba8bc26486e8475cc97ea6c711fb89bee0a4702",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,353",
+    "hash": "0xa40f3b7b65919f23039c59155c725524d95ac62bb470753694e42450a12ac09f",
+    "token": "SAND (SAND)"
   }
 ]
