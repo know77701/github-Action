@@ -556,5 +556,41 @@
     "value": "6,234.25253917",
     "hash": "0xe77a1c41a2bac7d4b057a5d43615de5c5a621949d2bdb93df651e8bc62ebdc40",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100.8",
+    "hash": "0x9a1cdd16c532a0e184019ec048072b4e8b04de5e6e328a0e96911fe9a5ebe65e",
+    "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,618.657723369160212434",
+    "hash": "0x3c0d9796d9f6ca6bc9cfe35c2b16bac66c6d1803e74d6b91d2e7d1339c7bf246",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,366.28073968",
+    "hash": "0xb27bb5a221b539e9dec8375f0cf06350173e7647642908d55b39ece04bb12b7d",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,014.26072476",
+    "hash": "0x0b730829d5980db3b69c5f44a628c8c60513e5b1f8bd8f74eea4521cc8c2a1cd",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,794.9987577",
+    "hash": "0x4f31aa88d4c5a613a85840fa1141ee2757b232382d956d85635f5f7f2584c3c2",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,139.352276630839787566",
+    "hash": "0x8c8ac19dce09578b9a3ea3ca44c8a1eece0f1f716543beb026418f9dd03535c8",
+    "token": "API3 (API3)"
   }
 ]
