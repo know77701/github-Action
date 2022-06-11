@@ -928,5 +928,11 @@
     "value": "646.47960075",
     "hash": "0x5daf120c93dcb6b7acbdb2dfc83db0594a8f32634f449d6c02434720e7cf9424",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,228.46894216",
+    "hash": "0x11b3b31f04c7b7aa9d78109199d3c960a440852a595478158d12a2193e089794",
+    "token": "Reputation (REPv2)"
   }
 ]
