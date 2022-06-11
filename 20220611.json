@@ -196,5 +196,17 @@
     "value": "56,387.99991426",
     "hash": "0x44542da66de9dd530c5b16c8714c01a19e3117bdf76cee77787675f2a45474aa",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,995.9786",
+    "hash": "0x0966eeeb03fcf577e0a6bb4fd1e6b0611a3359a926565eff5ce886139aa1eed3",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,320.102",
+    "hash": "0x2843865091d6bcd1018fd614ddc1dc8ecf25444efbc556bfd86454b682b70d79",
+    "token": "Decentraland (MANA)"
   }
 ]
