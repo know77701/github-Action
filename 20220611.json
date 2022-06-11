@@ -1000,5 +1000,11 @@
     "value": "777.054",
     "hash": "0x1c00804ca6b3a5c471e0a92cef713890579ab3c23abd2e6f209b35f936f2cd7f",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "568.560953443783692329",
+    "hash": "0xf6fa653acccedc515ce77bf14df0bb292cf626b512a9eafa1173101fdce3a05e",
+    "token": "Aave Token (AAVE)"
   }
 ]
