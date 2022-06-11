@@ -340,5 +340,11 @@
     "value": "10,000",
     "hash": "0xbc5df9f42bb6f1ca992c1bfeb8133f5e1690be65bacd5008ff3ba4f998d3c926",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,644",
+    "hash": "0xc9121dfc164d9e0d78adc0e1430d83cf9f4fb8e681340f6927e2c230af051921",
+    "token": "SAND (SAND)"
   }
 ]
