@@ -634,5 +634,53 @@
     "value": "259,346.52066179637676953",
     "hash": "0xc958a31b495786076599b35a5e3fe23e6f331f54a95b08a66ee93d287c5d8ed0",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,514.595204733408739353",
+    "hash": "0xdb2170bafdb802711f9e026de7cb20a2beec620958a0ae0e52c53b15fd1bda6a",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,943",
+    "hash": "0x767e374c972053e92b8e3f03c9e55fafdf77dcb028247b679ef395e913a7cafb",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,017,115.86663572",
+    "hash": "0xc1fdb25d4a4a0e01a88e1b6de96a669156c785c5da118703514cd32297984988",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,671.70289372",
+    "hash": "0xac1506b1f7f3e31b55c92675b0f75705b25eda0936ed6f77bd058844b7f0d56c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,990.3764094",
+    "hash": "0x5012e6e6b09d5e90fb60faa547a444884ab26765ee137814ed8398b1eac84043",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,973.13775529548436995",
+    "hash": "0xe7092a749d437a687b44382490353b096dd9a4ed3d90942c7f78da2d060eb160",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "890,227.296236338120856226",
+    "hash": "0x12fdd7971b0c31aecc7b9598fcbabc751930928565d8b5fb9144fb5af1bd34ae",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,483.58267383451563005",
+    "hash": "0xa87ac9d060d01e09c9f1aeed5273bf42f95fc46846aa9a4fe7475f471330688e",
+    "token": "Gitcoin (GTC)"
   }
 ]
