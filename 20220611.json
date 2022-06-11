@@ -424,5 +424,23 @@
     "value": "15,493",
     "hash": "0x7e2b72d276b1f5d90a0bfda9bbf700b2fdedf3330f978b3e6921860a67b52f2f",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,345.812758",
+    "hash": "0x5ef79ba8f22bf7282af78fac7dacd45376e8cd263fafca2d9126db1b0ea8a3b8",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,516.00333968",
+    "hash": "0xe4d63ef6a078751dcc3a2c6b8bd2e6794910da2d7e69ba4bd66065bd1b02e36e",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "756,466.524991581613468873",
+    "hash": "0x1a1e6b8cd097603df93597bd2ef24b32c8980b55984409a286de9a3ed8218b2d",
+    "token": "Golem Networ... (GLM)"
   }
 ]
