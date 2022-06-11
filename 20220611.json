@@ -604,5 +604,17 @@
     "value": "8,779.62565671",
     "hash": "0x7b4105dc8bef447bd92dea10ba35a7610bc3b3334223d897dee95f9fab105291",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,192.832052552636443301",
+    "hash": "0xf3385bb1fc433f054fe8d81ba29d773f4296f166b37e9e03f1d7f930a2d5123f",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,802.167947447363556699",
+    "hash": "0x65312928b97d7ab56d48aca38212437f165acf6903f7a7ede2c990f60394ee8c",
+    "token": "Mask Network (MASK)"
   }
 ]
