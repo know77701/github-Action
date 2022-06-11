@@ -550,5 +550,11 @@
     "value": "42,329.28",
     "hash": "0x100c3f4a40e478308981853ceeeb440fec7ce439cef69092ff9bebd9f034b8f2",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,234.25253917",
+    "hash": "0xe77a1c41a2bac7d4b057a5d43615de5c5a621949d2bdb93df651e8bc62ebdc40",
+    "token": "Gitcoin (GTC)"
   }
 ]
