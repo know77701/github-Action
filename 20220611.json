@@ -904,5 +904,23 @@
     "value": "119,314.44748339",
     "hash": "0xf3d72a2ddd0df96142a1edd4d262fe403df591d7effbc463f5749cdcad9a10cc",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,970",
+    "hash": "0xd6d153a9c31d9fdb4b5048ecd6bbc179a7f8adb6f28c586dcb0f61c5bb6d4263",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,099.643833498893109303",
+    "hash": "0x96ad3ada6aa7cd8b96c79f176219ad09288c8789779ce7ff451de12dc1dc1559",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,064.764666501106890697",
+    "hash": "0x6cf72809746766480a2c78a415be3307fe280625654edf9c32a6f7b711e06fdc",
+    "token": "Gitcoin (GTC)"
   }
 ]
