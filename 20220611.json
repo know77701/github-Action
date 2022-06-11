@@ -280,5 +280,11 @@
     "value": "247.54469084",
     "hash": "0x170cf4267c6937cfb9681d60f099b6c0b98b683ec7a48cc9161ee051644b2683",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,718",
+    "hash": "0xb87580ba366204b13c4ec45abb4a8d1e595f02769bfcfedb64c8a789568c2418",
+    "token": "SAND (SAND)"
   }
 ]
