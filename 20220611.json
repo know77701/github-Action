@@ -346,5 +346,29 @@
     "value": "76,644",
     "hash": "0xc9121dfc164d9e0d78adc0e1430d83cf9f4fb8e681340f6927e2c230af051921",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "507,871.000000000000030887",
+    "hash": "0x86bfd214ed8b612df5d09e77dda83fffdf2bf735b4a7ea164b6b4a27a785b980",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,000",
+    "hash": "0xc3b5204475c51422c9c74cc8b4c3f5d2e3f60ffa076bf8a0dda847aa408fdb82",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,044.361215",
+    "hash": "0xa12a40f93fbf536ec243ec22ad3b992782c348cec1e765ee364b480fcf7c64f4",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,000",
+    "hash": "0x96a11d0bb634140c3b597d933542cbc27e0b8b212a51082ad8175fcc563a5884",
+    "token": "SAND (SAND)"
   }
 ]
