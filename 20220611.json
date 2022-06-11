@@ -682,5 +682,47 @@
     "value": "3,483.58267383451563005",
     "hash": "0xa87ac9d060d01e09c9f1aeed5273bf42f95fc46846aa9a4fe7475f471330688e",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,484.99997532",
+    "hash": "0x13d16d2689704dc23161e258ccf1d7202c3f92f1cffa2cd199269e75b6af90cc",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,837",
+    "hash": "0x85b96a8c83a88bbe6ad74350497077fecf95ed93d403995a802043af64da0997",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,010.07684836",
+    "hash": "0x95b7eba0c55e37d3bd89d4e9c9ce54d924d0fb3008537017b758662b3c5281e7",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,104.137576",
+    "hash": "0x3da2e718fbc348b799eb87f560fa95e4bc11cba6c67108fdeaae25c6791279a6",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,981.9999651",
+    "hash": "0x4a06d99eaedf8b8f08567bd900334a504d79a4365188216f20ee63d6d48f0722",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,647.404795266591260647",
+    "hash": "0xd6e8e697e3ad8a89e3e9b093d6518ce2fba43f2658114543365dd266bef3b54e",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,688,946.51111798",
+    "hash": "0x492adbd88e30639c50a8af73f2a240d331a4ac0585b4c7dac52e4fa00b1889d8",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
