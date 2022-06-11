@@ -934,5 +934,11 @@
     "value": "8,228.46894216",
     "hash": "0x11b3b31f04c7b7aa9d78109199d3c960a440852a595478158d12a2193e089794",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,787.36289664",
+    "hash": "0x55a8c02167440625985593a01d076a7130f935f3b3518ce959f6f80d84f6547e",
+    "token": "ChainLink To... (LINK)"
   }
 ]
