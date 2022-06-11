@@ -148,5 +148,23 @@
     "value": "169,760.79828432",
     "hash": "0x7b35dc2920b52af62dfd00510a7ab0aacd9e2bafce5620f7050af9a96f52d39a",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "973,541.826587307107372167",
+    "hash": "0xcf418b699b250e0777b39b2dc2055d7fceb60e46b8915ec7f40b39af3eca4e66",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380,354.582917032892627833",
+    "hash": "0x670f3611d556f087e58475485edb57f42727d7c4eedf30a88f8467204721b6cc",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,282.91001904",
+    "hash": "0x2f0ed63cd7b833c0e30964a578a653457e9c86300f8e70ba74785faf5c8b1615",
+    "token": "Uniswap (UNI)"
   }
 ]
