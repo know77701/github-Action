@@ -784,5 +784,59 @@
     "value": "49,986",
     "hash": "0x4ac1143c8c41eff922cbd570df54a15650db7d434ca9892fd1ce769c9f3a72cb",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,999.59992387",
+    "hash": "0xdbf5464abbad127a6132cea0aeae3a11557015559c81ffc3dba68951c2a27bd9",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,420",
+    "hash": "0xc25af0219456ca45e206d4cc4a407c8d8235cb5806a86ce29393527f3b6fef3b",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,940,214.62308832",
+    "hash": "0x0a4ca43fd70b7631fecd63b53c6098a204706bb148092e0082b6c0ae298e7392",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,274.85511235",
+    "hash": "0x80ba05cd72947a788718ce9a6443ae93ccdabfd4c631f57b79d13aebcce05122",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "64,364.8041155",
+    "hash": "0x512938147904ab085ece50ee8568b957c2166cf8548eef1fcc41a8d5002f86ad",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,259,271.90076365",
+    "hash": "0xe23c4e5a3b21532d0eca500cc334e8a4e205a4fd67f2c2b1a62467d8bc2d97a0",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,317.39983905",
+    "hash": "0x3d89e9a38f3dc97099f21991cbb55345f22ae1251acc30d6105b3e83c8103761",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,517.66981314",
+    "hash": "0xd3e38fe6daf01ada56ac999a736b617921a3d10405daa4f9ff3c1e20f24d9d36",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,362.33903131",
+    "hash": "0x176a7a0ed47813a2f9d7a79b40233540aba259f3a241d6071f2b1d3a7808eb41",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
