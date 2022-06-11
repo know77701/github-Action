@@ -460,5 +460,23 @@
     "value": "788,593.551586582772292317",
     "hash": "0xb9bdd189814874f06fe3db2cecf82f803e913fb9ce7d1ec345dbe603b028c50a",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,896.565329019397023",
+    "hash": "0x970216cff104cd8e7297d96027d4cea6ffbfd7b7e7b98aa3960a6b0be1278c2f",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,327.644670980602977",
+    "hash": "0x76df1665aa03cb142d411407f58ed81123d40dd3f9690d381e78cce2ade9cc0b",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "263.49563503",
+    "hash": "0x7b3663f6d1a7c82a0761885523926646f8338146fdfd0ecb46aefca4b9c5e27f",
+    "token": "Compound (COMP)"
   }
 ]
