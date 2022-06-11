@@ -166,5 +166,29 @@
     "value": "8,282.91001904",
     "hash": "0x2f0ed63cd7b833c0e30964a578a653457e9c86300f8e70ba74785faf5c8b1615",
     "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,651.750531742478700069",
+    "hash": "0xb8a9cd389fb807e02d4ad0ccf5f7bd5fc9a6ebb01424e7b003a4e149ee0f7de1",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,536.249417547521299931",
+    "hash": "0x60d752f79076f297c22569d82a1b7f9dccf00e3b4270f80e148dbce5df2603ce",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,410.712",
+    "hash": "0x062f5c15d8e10595347a5ca82b53c73a9d8006ce2a2be33e6d5c952101e1a719",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,257.5",
+    "hash": "0x832d95fd442af21027d67a14364270d822322e6735b09f8d715ef90c9f469dfd",
+    "token": "Aave Token (AAVE)"
   }
 ]
