@@ -442,5 +442,23 @@
     "value": "756,466.524991581613468873",
     "hash": "0x1a1e6b8cd097603df93597bd2ef24b32c8980b55984409a286de9a3ed8218b2d",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "304,504.99990137",
+    "hash": "0x6e035ece5ed09e00934dfff833c5ae426ff794d55595b6920331ec26568496ff",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,118,901.352909180733208231",
+    "hash": "0xe53999e73d75b867e8790d8b2c5f74733f0a7531bacef9c3d327c8651d23ba99",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "788,593.551586582772292317",
+    "hash": "0xb9bdd189814874f06fe3db2cecf82f803e913fb9ce7d1ec345dbe603b028c50a",
+    "token": "Threshold Ne... (T)"
   }
 ]
