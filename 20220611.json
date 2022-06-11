@@ -46,5 +46,59 @@
     "value": "19,992.44",
     "hash": "0x977a14d2d69a3e3bbceabf873f5222997bf74b39cd90a679802cf4c36acc04b5",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,495.002",
+    "hash": "0xd9f5d759d7aa3467a4c6dab66bbf6843aedd28973cc9cf84e80292180c133d39",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,900",
+    "hash": "0xd44969deb1402a5dfa61b1efc9ac9b4bcd2add6045e6f8dd24fcfe354a51ed1e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,992.44",
+    "hash": "0x1e6597631c5e3d2c2321b7c7d80e7f7baa946ad802fa086812ad4a3760369ba6",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,996",
+    "hash": "0xb131ea4948ffdb93f120214b484ff91914fe3ceaf13c4f7a61d856325ffbade1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,989",
+    "hash": "0x932174d68cf9a234f5a1dbc717b6c7d2d25bcb355fa8b0803fc949b20bd01071",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0x28e74bcdf9595ee11d6d6bb25b7c03f7b196a54b9c5d1b5e996bcce7539791c8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103.15064187",
+    "hash": "0x191f7f7dc1c4a28f3ab3df7a68ff4d72bf51ba81edd170d837f1d55273418c0d",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,814",
+    "hash": "0x07b3578e17ca4e84ce96bb1065415cdb20b37008dc83534cd7e455635aaeafd9",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,757.1",
+    "hash": "0x8bd28eb2a460dab28fddbcef6b2434ca21f1e22e9825b8c1757b24cfe76c0e65",
+    "token": "SAND (SAND)"
   }
 ]
