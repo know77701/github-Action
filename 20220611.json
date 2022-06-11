@@ -994,5 +994,11 @@
     "value": "7,618,017.199457977265953143",
     "hash": "0x6a902c0295e6e0e4ee8da6de780a4cdc450240a16cc8537fe6d630f4179d3827",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "777.054",
+    "hash": "0x1c00804ca6b3a5c471e0a92cef713890579ab3c23abd2e6f209b35f936f2cd7f",
+    "token": "Aave Token (AAVE)"
   }
 ]
