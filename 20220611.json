@@ -772,5 +772,17 @@
     "value": "2,303.48052003",
     "hash": "0x5f470266d4000ba8632ea2eb63a8369a3bc456aa1309589bad3f3de87b337dbe",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0xd1ca909b33a7346ed3a6309138cc93541aecb81ae15825658dcad3499f2ce7bf",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,986",
+    "hash": "0x4ac1143c8c41eff922cbd570df54a15650db7d434ca9892fd1ce769c9f3a72cb",
+    "token": "Serum (SRM)"
   }
 ]
