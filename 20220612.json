@@ -310,5 +310,41 @@
     "value": "75.45259938",
     "hash": "0xb27895b92af590764d8178f943eaa9047557122b42a2259c982518e5979e9e68",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,837.002959750231626471",
+    "hash": "0xebb90a15525d5e8229362f6be4292c9c000f0b5e1e112cc5c0a106db2a984ac6",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,454.214542",
+    "hash": "0x38c90d7064798ee663402541e9ce3e1187c3a596acdf217b5308a15331b65a1e",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xad7a4dbaa37e9d3c0afcfdc8d361c80200a75dc95ea2b51802442cd65694604d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xbfb730c53482533cb9e70906b913ac7ecb5fbf30ef313c4f75cab7480943d1c6",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x72cd3ab06d2fb44c0c9b169f3eb6c072ae21975415e09dc76062247a0e47eabe",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x294dbaf5960bc3fb843cb0498ee2358b39a005e2c292c28609d115f2d87a3954",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
