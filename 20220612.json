@@ -472,5 +472,17 @@
     "value": "109,970",
     "hash": "0x4d911a868cc8c42479d6a2e3ec276ab382f624eb1d7f90e2c7f7ff81522bffdb",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,803.538597",
+    "hash": "0x053b4636f61353a73555880aa9a177255ced423e07851923ea95d623c883b7eb",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "306,324.691",
+    "hash": "0x754746e5acf3c209417e202550757b4cb38eb6b86f6a9a989112ec610ef6576c",
+    "token": "Orchid (OXT)"
   }
 ]
