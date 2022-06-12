@@ -346,5 +346,17 @@
     "value": "2,000",
     "hash": "0x294dbaf5960bc3fb843cb0498ee2358b39a005e2c292c28609d115f2d87a3954",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,049.621722734263445882",
+    "hash": "0xb3dede3707f94e4464562a4c0d456cdfb2d57d58bee9f760a3b319239055fb25",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,687.9806",
+    "hash": "0x3b4089f33d993476d62a21715598a9216ddc6be85c3b1f1fc7bccc592481bbfd",
+    "token": "Matic Token (MATIC)"
   }
 ]
