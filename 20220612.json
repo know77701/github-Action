@@ -298,5 +298,17 @@
     "value": "1,115,916.571823253133958105",
     "hash": "0x00ebe4ea091437ae33aa75750402f96aba6db291f82cfa5dfde39df591e56795",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "326,456.080770445132349889",
+    "hash": "0xb3f1cfe8225a3774728008552fa9ba3233c9ee47a6e9c6eb685f4628cb17273a",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75.45259938",
+    "hash": "0xb27895b92af590764d8178f943eaa9047557122b42a2259c982518e5979e9e68",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
