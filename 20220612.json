@@ -130,5 +130,17 @@
     "value": "2,000",
     "hash": "0x786b6b8e0753909d0f95cb239bf9278725e3a80da46a4406eafe8f5c6e72a8b7",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,887,590.91170987",
+    "hash": "0xc4b920629b72fbc7dbf6f684359617c663f4b35e3045999972baa90a1c2e5fe0",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "240,028.028674602099685383",
+    "hash": "0xb6d92ae551b72f79bcd2723f0a3d2e51d804c582c9f38e24a4af23c568f81373",
+    "token": "1INCH Token (1INCH)"
   }
 ]
