@@ -484,5 +484,23 @@
     "value": "306,324.691",
     "hash": "0x754746e5acf3c209417e202550757b4cb38eb6b86f6a9a989112ec610ef6576c",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599,578.765093488972932099",
+    "hash": "0x0ec6e5319436701a84263ca9f004de933d950bd9f118075297aada6ce86c3505",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "668,654.3086",
+    "hash": "0x02020a88025f2a67df3442c2aec8a42bf95101ee5ae21165db8f07eb7f4d994a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,797,536.786232011027067901",
+    "hash": "0xc57eb532cfd2de4858732332af7da50c52f9b23a1e294871875f1484601a69fa",
+    "token": "chiliZ (CHZ)"
   }
 ]
