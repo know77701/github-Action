@@ -442,5 +442,17 @@
     "value": "192,302.60623032",
     "hash": "0xe9c8e03065e9627fa52a75127452f4f43075b71cdb21599392ee56bae4172dc7",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,985",
+    "hash": "0xef2db0fc4bfa676061e0ece193c0ffa12b3dc9f97d791e05edcede4c0ef60c27",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,973",
+    "hash": "0xdb68eaac9afabf3ae8acd610abe100653f911c47aecb5db95c91d96c2a4d3ddf",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
