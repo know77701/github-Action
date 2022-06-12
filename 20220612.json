@@ -106,5 +106,29 @@
     "value": "205,998.55627006",
     "hash": "0xe65655d984be1b96fdd161af29219f09a863c56cbdc2fb4fc9fd9c0ffab321e7",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,537.932546217900314617",
+    "hash": "0x694e5f0b268388d0836f1aac3c719ec53539289404ec625363ff387ef2cf60e2",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,871,316.533221236175836806",
+    "hash": "0x19aee82a43dc69377f3fbd4f63528e82b48557858f47d9d830f5a45aababdc4c",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,003,406.012150193824163194",
+    "hash": "0x4bc323c05e70224cb0d47147cc1c4d3d59a8f2d0d8575e97fed05d2d7e49fcb7",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x786b6b8e0753909d0f95cb239bf9278725e3a80da46a4406eafe8f5c6e72a8b7",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
