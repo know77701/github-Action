@@ -94,5 +94,17 @@
     "value": "1,073,822.411826470502661819",
     "hash": "0x17ac767b37c8010ead11418367d785a0f5adbc04413ce29b6660a052215d8760",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "829,084.69852759",
+    "hash": "0xe455041f5a472495364d7fbc78b00d467753660cb645f681a5f82a4492e62dfe",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,998.55627006",
+    "hash": "0xe65655d984be1b96fdd161af29219f09a863c56cbdc2fb4fc9fd9c0ffab321e7",
+    "token": "Metal (MTL)"
   }
 ]
