@@ -142,5 +142,41 @@
     "value": "240,028.028674602099685383",
     "hash": "0xb6d92ae551b72f79bcd2723f0a3d2e51d804c582c9f38e24a4af23c568f81373",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "649,195.08317347",
+    "hash": "0x4b109171f22ea004a4e01472f020f2c7f5ce973b670d9624b95f2fd0a3035b0f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,384.99997905",
+    "hash": "0x8c543a02974c725b8bc6eda5527a7d474dd250bc8962485e15bcf74d4de1ed69",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "524,495.2152886",
+    "hash": "0xab04d999a7cfb6ff4a1fc2a4854d5360df50b0096c0833233500037edb271bb1",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,979,888.631357849327810723",
+    "hash": "0x770e559cb6f476a6cfa15c8378a497936e5219743764786240abc5dd37267611",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,000",
+    "hash": "0x68f90700ffa79ab26b5746861e8517e582001bf460bfbb0f374cfe72c18cfc3c",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,541",
+    "hash": "0xe4541c4324914e1425635a4a7b09e69c07a897adcdbb574eb02bf254ca4eb602",
+    "token": "Golem Networ... (GLM)"
   }
 ]
