@@ -196,5 +196,11 @@
     "value": "2,499.24",
     "hash": "0x1353e425b17acb3ea2bf40769080c16b893ddbd90ccbac71f7798fa21c241bf0",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,344.87",
+    "hash": "0x1c721ea3994a04e1bde16ef5c67114ea7682cd138f6466e16116295f2abe61ff",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
