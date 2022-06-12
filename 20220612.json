@@ -178,5 +178,17 @@
     "value": "135,541",
     "hash": "0xe4541c4324914e1425635a4a7b09e69c07a897adcdbb574eb02bf254ca4eb602",
     "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,009.943934874630208758",
+    "hash": "0x8d1c825fe27df466d83c2a58de07b5a6589db2a18b53380dbb346626dbebfcc7",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,600.22382046",
+    "hash": "0xac5748e7fbe994cb2541987149652aa8c78c758de0549fc0d8d21058b5e38577",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
