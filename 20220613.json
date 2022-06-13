@@ -340,5 +340,29 @@
     "value": "8,384.40803937",
     "hash": "0xe7f829f71cda7b834dacff6c619fb3efd80cecd6ca3031d6e41abc01e986f660",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,000",
+    "hash": "0x99c3a654c66d56f208680f552b5611953b623f20e720b472fa45e4337a7ef3e7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,912.84366478",
+    "hash": "0x1e2f2d018bc746bea2728688ad3dbd26832aab27715deca06e6ef8190afba58a",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "725,489.48512852",
+    "hash": "0x334da98f29d844f754a03c580b58fb0dcae035809c21f502e2ef9b7086f6794c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,683,067.17985053",
+    "hash": "0xae5f95d527ac2bee29d7be5f14e9b003f6b78ed09ebcf371c988c313c709b207",
+    "token": "Mainframe To... (MFT)"
   }
 ]
