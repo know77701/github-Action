@@ -328,5 +328,17 @@
     "value": "268,345.00874928",
     "hash": "0x1dbc50157bc800f9c53d3138bb1d6028ae4a63b010735267601dca9fb983fbed",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,009.631817",
+    "hash": "0xda72f7f1ad36be9117af899f69291d43b78ad5cfe0e431280cc1ff1eb404ea38",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,384.40803937",
+    "hash": "0xe7f829f71cda7b834dacff6c619fb3efd80cecd6ca3031d6e41abc01e986f660",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
