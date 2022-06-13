@@ -220,5 +220,47 @@
     "value": "3,000",
     "hash": "0xb35ca1ab8a22f083ddb5535799a1d824bfbdee982871335e5fc1fd9a57da0a78",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x1d4654af1c292244542ad2f1483999b09445f359ea02407ec7841ee00eba5309",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,493,977.834104002036805033",
+    "hash": "0x634d19958b49eaa351841bd794cd19e6c6e1ecbc34e89f1e0d767e9d123927cf",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6adbf2108d967d9be20a3e304e21c0897140be799b01f737569e17e8448e9c25",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "249,897.708079017963194967",
+    "hash": "0x93d18eaf6fc23739f6d12119855d2d9f75799d5e797dd1208832a2fcdf2a187f",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcafb114cd286085d01abde605c089de5a678b49ff160d40a9b3389078ca6935f",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,733.104065483474144351",
+    "hash": "0x6dbf987233c9f793ee195a118585e181b480aad99c4348e0eadfb6966ae7cf6b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xcfdf06fbd9fc83c0ae24954d7d62c3df5e0c4589034a17d96080a83c167068d2",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
