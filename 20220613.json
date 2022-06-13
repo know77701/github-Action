@@ -382,5 +382,35 @@
     "value": "21,555.827481",
     "hash": "0xb37606e1b82fc0b349a29c13108c2a1dfde7e7c40000db1d2ac4ba89db44f774",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,962",
+    "hash": "0xcf820c1071ef2abadbc6ed3d779885cd6c1b8d4836884ff265a0d19543b90131",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "190,315.66779",
+    "hash": "0x106e741137005e5bf21403442c6d91cbf3f1a95f4d2fc2db55b817080cfdbaf7",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "400,000",
+    "hash": "0x23cf58548a14a6398db287d5f720194eccb49b42f4abbc1b9db78734a5ab562e",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "773,658.911",
+    "hash": "0xe2bfabfc928bb9aa3224343b9eaa4a565269abbf204645b08ef526a3a934060c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "279.90300031",
+    "hash": "0x8885d7cb197c2bbf3674c4d42ec890add9ef14ee154604cb29ecbaf753964230",
+    "token": "Compound (COMP)"
   }
 ]
