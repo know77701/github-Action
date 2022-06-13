@@ -364,5 +364,23 @@
     "value": "12,683,067.17985053",
     "hash": "0xae5f95d527ac2bee29d7be5f14e9b003f6b78ed09ebcf371c988c313c709b207",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,500",
+    "hash": "0x057e42266304070cde664dbc4aa3628ae697c0642206a8ee66a686235f3c26ca",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,749,785.50682352",
+    "hash": "0xb2de7ead16b0b5f2b804201d43f8bfc02e316d7fc077959fae96a3c0ef9c2ff9",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,555.827481",
+    "hash": "0xb37606e1b82fc0b349a29c13108c2a1dfde7e7c40000db1d2ac4ba89db44f774",
+    "token": "NuCypher (NU)"
   }
 ]
