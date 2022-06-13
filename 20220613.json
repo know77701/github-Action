@@ -574,5 +574,59 @@
     "value": "239,135.403566276635407261",
     "hash": "0xf05021ff0c1e817b44eb12751c81d192d8fadcacd12a1546ad47e41098c30c99",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,950",
+    "hash": "0x9fb819bcaffe24d989055b700ad2ffd057239c0f2d4df8e190bc0787112f6204",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,997",
+    "hash": "0x5f34f4f884c8d7a575a1161d39fdadecd091735899b8700b078315ca92d8a894",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,285.481019810147604334",
+    "hash": "0xefa72d5154999001f0713ffc17a4299ab2c2a2b3ee5371f1876fa4dcdcc2397d",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,315.36124544",
+    "hash": "0xd7699d0f70dab28aaa03b77110bba603ac3c9230ebf6b827daa929fadd76b0a9",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,005",
+    "hash": "0xaf59f02a7201279c96dece4303953e6648236398436cf50db493e6fe16c77c93",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,315.8",
+    "hash": "0x0921f399dff67d4516649e89c37ed107e41e320da66ddb94f770612aa1ff1cb0",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,916.102",
+    "hash": "0x4d7156a92045d0c88cd63e7e7ae38f858f7f965fe45221c3cc3c6d8f495d355d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,992",
+    "hash": "0xc1b338cdbde485b6e0dcd64a7eab1b416f29e2dd5020f6fc7e63f01560c9e89b",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "694.124734506740701501",
+    "hash": "0x2be26cdda803c4f7708ac3f8dd7f3cc8a6ec11e0c25a8d9fcaa48d28a4996b9e",
+    "token": "Aave Token (AAVE)"
   }
 ]
