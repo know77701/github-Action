@@ -166,5 +166,17 @@
     "value": "2,429.14979757",
     "hash": "0x4719cea4420586d42761db22a043dd47bb5abe5a4c70dacf2882c0609154d689",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "744,928.63543006",
+    "hash": "0x4adc364ddb3e6197d1eec06cf5ef77544b70c0517f752d19d871abd14ae226ff",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "601,366.278843",
+    "hash": "0x25a50e4651774c56b303c92a4d6d4e412135c54e9cadeb335e65e8e8244ed237",
+    "token": "NuCypher (NU)"
   }
 ]
