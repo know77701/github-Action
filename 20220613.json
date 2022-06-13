@@ -868,5 +868,17 @@
     "value": "103,953.913",
     "hash": "0x5c7f4260dbe756efda3db825cef51f7fd2d79dee14addaa73cc7ba42c7d2a583",
     "token": "LoopringCoin... (LRC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,377.37521917",
+    "hash": "0x00eb381da2eeaad5ad7019eb83ddd66be402e2f080c057fffa4f02ae527e0fb5",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,851.207",
+    "hash": "0x4217ed0bb043650cfde914b31912f52aef9fa4ed49d1343d18367ecc2ac04605",
+    "token": "OMG Network (OMG)"
   }
 ]
