@@ -178,5 +178,29 @@
     "value": "601,366.278843",
     "hash": "0x25a50e4651774c56b303c92a4d6d4e412135c54e9cadeb335e65e8e8244ed237",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,928.4064",
+    "hash": "0x21f5ceacecdecc0735afd8d5e60659c61cff2d44240451fa71a238ddd06ffd97",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,943.549062592857142858",
+    "hash": "0x79a5197e74b509f1780fc0531ad24b97d69e7d5d0be9c936b5447f406ed4033a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,720,257.14480627",
+    "hash": "0x9daeacd36e42ed812808058991ab199b518150812799e52b0ce9bbf7c2ffb603",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380,408.8437746",
+    "hash": "0x642c839e6f7dd9208241b87e4237b1d5349d228b4af6ce7bb7f9a0ada52782ee",
+    "token": "Civic (CVC)"
   }
 ]
