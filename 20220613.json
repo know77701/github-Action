@@ -142,5 +142,29 @@
     "value": "42,158.99992294",
     "hash": "0x0dfe5f4570755f6fac7842e96508897e9e5f4f75c606f7121dab7bbc204df897",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,978.99995766",
+    "hash": "0x0f7dc54527b1d66594da1d9438668dbcc1915fcf291cd98c69c8eb05cd949272",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,609.32",
+    "hash": "0x22d03ea1e9c2f3406ed0cf838468db5f035e3d7ad4564c0a883b7795bccfdeb5",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,969.41618618",
+    "hash": "0x3d0ad238d57f5bca6643c093380cbcd0d87079420fa49883fe0c0ce8af4b65ec",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,429.14979757",
+    "hash": "0x4719cea4420586d42761db22a043dd47bb5abe5a4c70dacf2882c0609154d689",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
