@@ -532,5 +532,23 @@
     "value": "500",
     "hash": "0x3096b79d76c4320dae362fedc9d885d9c3e9d6078b046299f73e713950d33994",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x6cd57fc65ffa582daf3f3244ec1d1649fe392d09db0607c7af13c919d72d97b9",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x31215a0dc20ef17904275dbe359209fca33259bfcc5e138d8d51465929593049",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x2e286462a90f9925a549384fad6ea357c342eb719ddbe0fec5168ff91dbb34f3",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
