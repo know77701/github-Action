@@ -802,5 +802,11 @@
     "value": "6,048.3799651",
     "hash": "0xb60bbe32cb958aef6c61d787c7b14d9f727ed7e33c9c3dd35f6c1cddfae90b12",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "271,966.22777099",
+    "hash": "0x76d707ed1895329d32fc5ee76e991bbd1f546134448c112142bb92f81e2e6a30",
+    "token": "ZRX (ZRX)"
   }
 ]
