@@ -880,5 +880,23 @@
     "value": "23,851.207",
     "hash": "0x4217ed0bb043650cfde914b31912f52aef9fa4ed49d1343d18367ecc2ac04605",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,996",
+    "hash": "0xa63395647ee2a5199978e3188c8274e431b33bea760baf61057f6a817e6c9dd4",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,266.501034218555082644",
+    "hash": "0xd8b57d61ea479f0a890cc345393b1ed770e5b8c79bc1673b764c99fec0f78428",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,308.809965781444917356",
+    "hash": "0x2668f67993298509d316a4bc55a99b45f7823c112138acf3a7b0ae20e4895b0c",
+    "token": "Uniswap (UNI)"
   }
 ]
