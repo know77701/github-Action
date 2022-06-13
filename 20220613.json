@@ -628,5 +628,41 @@
     "value": "694.124734506740701501",
     "hash": "0x2be26cdda803c4f7708ac3f8dd7f3cc8a6ec11e0c25a8d9fcaa48d28a4996b9e",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,008",
+    "hash": "0x0ed3ddf71c925fb7e81158cc44251f75c68fcfa15fceb8dd25bb09ef309d95cd",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,127,126.46876382",
+    "hash": "0x34663550c64cda4d6802a019ce2357c977a414c6cb95c5d10c0f27842e42a3fd",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229,662",
+    "hash": "0xf4b83736b64811134a4c8ab8e6c14b90941de563e6d129b27a33b57a87cbf87a",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,001.73",
+    "hash": "0x9b35d4c7337575c51eb4be1cb404baffad9c64575ce5b8e44adc956ab9d515cf",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,030",
+    "hash": "0x81c8b6cecc20c772ac884b0ecf3762bc9009fd5700f22b43c4dc6326614cc8bf",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,999.999",
+    "hash": "0xc240804a15ef2a6e6854443b69b48741f61f6bba2e7f7b7b32dbad9a1e61a6f2",
+    "token": "Matic Token (MATIC)"
   }
 ]
