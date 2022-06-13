@@ -568,5 +568,11 @@
     "value": "2,621.6733362",
     "hash": "0x6d6e08217a691cd13475c0d26c018a3a5b0c9378b506a8e9ede1475c374bcdcc",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "239,135.403566276635407261",
+    "hash": "0xf05021ff0c1e817b44eb12751c81d192d8fadcacd12a1546ad47e41098c30c99",
+    "token": "Decentraland (MANA)"
   }
 ]
