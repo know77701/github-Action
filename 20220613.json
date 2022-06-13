@@ -664,5 +664,17 @@
     "value": "49,999.999",
     "hash": "0xc240804a15ef2a6e6854443b69b48741f61f6bba2e7f7b7b32dbad9a1e61a6f2",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,616.62139738",
+    "hash": "0x8da40eb30eb4b49d07174b5e674930f5e5c2b2f1fd9fc7281b2758a9bd723966",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,910",
+    "hash": "0x1a6b90041069f468aa362d24e6495d05703a17bd497365fc69ba398c35435183",
+    "token": "Civic (CVC)"
   }
 ]
