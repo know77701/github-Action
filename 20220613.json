@@ -850,5 +850,11 @@
     "value": "82,574.82999734",
     "hash": "0x989c34531695ad3a2f3b78125782cf2513e181fdbcc5a9870282bde681042373",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,880.949892694734686084",
+    "hash": "0x5ee4a82eb9d7bc21a3f2123e0744676b82903551525ff85ca077f8e628e521dc",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
