@@ -202,5 +202,23 @@
     "value": "380,408.8437746",
     "hash": "0x642c839e6f7dd9208241b87e4237b1d5349d228b4af6ce7bb7f9a0ada52782ee",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x75c438c48902bfa769e5ca21972923e03527338f0658089dc7d9be8123461255",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,670.701817510440843529",
+    "hash": "0xcd48755f34d0ffc1a909293b12e86269255a9c70766bfd6321dddf2c8f93e7f0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,000",
+    "hash": "0xb35ca1ab8a22f083ddb5535799a1d824bfbdee982871335e5fc1fd9a57da0a78",
+    "token": "Function X (FX)"
   }
 ]
