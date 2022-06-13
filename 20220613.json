@@ -40,5 +40,65 @@
     "value": "4,789.00112",
     "hash": "0xf288f57170aefe1b2276af7e67cbd328cd9fdd2aadaee426883007143078888a",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,978.3",
+    "hash": "0x449db6b8939ccd7a04482ca7f13b233d2a4021a7fe728575e5a93b40ca2df60f",
+    "token": "TrueUSD (TUSD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "665,304.79899113",
+    "hash": "0x900e1843c64aed7ca8926aaa85afe1e68b4481feef19247c37d19abc2990bd8f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xf09e6bad60b409d06eb0876d4119d15176f67f423e0ba7814846c8e108eea6e2",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xb936ce3946183472421532122b65514f977acb5e2b30219a3bc9a7ffda1e71f0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,320,336.934982965472937997",
+    "hash": "0xf03ad65d7c8a3b4e72c48fc638cbfa8827681a41da8d4eb6efa0e7ec12d4b432",
+    "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x1e5a1fe1124948ac59580bcd00d1b68306284cbd9ef79039ab978ffa217a9d47",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x806fd6a82d650e2a2f1f29566660212c5aacc2a4d46b3a9ab06b9292d0676c88",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xae92dafaacac833e012924e2e58acd91e4d26070a6a858340176d24f6a6fea1b",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xee965b8a054a912e5a3d05e05bca0ec9b1aee0587a8012851e8bb1823f694ab2",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xff4be0ae69094d4f309e15159c71926005a2832e22829a136480f411ade0d783",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
