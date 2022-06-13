@@ -502,5 +502,11 @@
     "value": "878,264.528711258703688549",
     "hash": "0x2b7cec1d21aaf98fd608e0e001bdf3fe3299063561a00aa9f793e2403e524354",
     "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,062.78780372",
+    "hash": "0xed4c3b7ce8344e8bd3ff483990ff666506f899be9c41d00fd6f5ed2b21c310a0",
+    "token": "Aave Token (AAVE)"
   }
 ]
