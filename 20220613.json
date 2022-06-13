@@ -478,5 +478,29 @@
     "value": "698,641.232",
     "hash": "0x65aed68ac844eafe5b6828ea30f448dc9518d20e2f6d27b53076725b89584348",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,332.855116",
+    "hash": "0x8ce2682121588d42170b4869f98a232e169ac30dcc3147a856a3006318dd96cc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,690.355656",
+    "hash": "0x3fd75382ad64f080987ec9f62180450b49ada5abf1f24a9873058bd6d1044160",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "599.67",
+    "hash": "0xc614bdfe9ba49b079c90738413fbbf5104c648c6bfbea1e2a28dda84c569b7ce",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "878,264.528711258703688549",
+    "hash": "0x2b7cec1d21aaf98fd608e0e001bdf3fe3299063561a00aa9f793e2403e524354",
+    "token": "Graph Token (GRT)"
   }
 ]
