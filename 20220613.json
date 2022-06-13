@@ -820,5 +820,11 @@
     "value": "488,108.945219310917556708",
     "hash": "0x07989df6a815c8affecefefb28ac4c604b4fb4ab5c5d876182617f8707a6bcee",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,529.87808332",
+    "hash": "0x636c83d27bf5680ffeef52ef56b2bde500a69355bef4d3b714233c7641b961d8",
+    "token": "Uniswap (UNI)"
   }
 ]
