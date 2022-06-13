@@ -508,5 +508,29 @@
     "value": "1,062.78780372",
     "hash": "0xed4c3b7ce8344e8bd3ff483990ff666506f899be9c41d00fd6f5ed2b21c310a0",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,987.98006",
+    "hash": "0xd9e8c66f290fee5607603bee95ac946f04b666eb631cc3ae518f14d3539682c2",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205.86956696",
+    "hash": "0x722dd9916a9d7e5f8e1072c5ac270c6504123cc4a8cb9a7901c4c78046a9a3d0",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "638.786",
+    "hash": "0x5b74c5d7ed1183879648f485b674c2ab107696c2c30302fc3a3e1c88e2fe531c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500",
+    "hash": "0x3096b79d76c4320dae362fedc9d885d9c3e9d6078b046299f73e713950d33994",
+    "token": "Aave Token (AAVE)"
   }
 ]
