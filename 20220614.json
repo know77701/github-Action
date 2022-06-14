@@ -106,5 +106,17 @@
     "value": "162,854.85761394",
     "hash": "0x3557981db1aafdf2290b80e5719767619ff988d12eced947bded4fc040b8ad2d",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "129,400",
+    "hash": "0x59754279ba0b68216299a6597d4cd81388f0a3bcbb9550fb6a5966db0f1fd2c0",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,862.181274279108418382",
+    "hash": "0xefe9492bd7da93da5bffa078a27475d847299663a309d4233341612d535e124a",
+    "token": "Tokamak Netw... (TON)"
   }
 ]
