@@ -316,5 +316,17 @@
     "value": "47,819.99511178",
     "hash": "0xfbf72be23fd3d3a5ab87f31598456724eeed0eae0e3e5f780f55e32ab1788273",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x26331e7e589b8b71a083a39a265db38bfd498535ea00aff8bda97c1a5a9ce73c",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,678.99990062",
+    "hash": "0x2d111d0102891f50cf4c3eb3c95b7ce1caa9e4dd05825b18e259b3e419266e81",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
