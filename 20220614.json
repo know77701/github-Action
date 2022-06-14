@@ -562,5 +562,17 @@
     "value": "99,700.21",
     "hash": "0x309f95618db7b25cd4b80b9b6e12cee5ce97f212eb87f3a171108f5ccb49e75e",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,044,804.13446447",
+    "hash": "0x9d868b4e18d29b7f5c7816672e24b8d4c9b21f8be66ac8abcfc14864f70d224c",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,069.54935021",
+    "hash": "0xda01b4814d8d35229669ea55a92a782e60eff7af49fe73f8cf53818e22802ba9",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
