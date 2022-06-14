@@ -652,5 +652,11 @@
     "value": "8,330",
     "hash": "0xe9a93179f8aad7c90b1e456b3d20bdf33cba52a0cf5d9acd317f6156725eaf7f",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273.91368369",
+    "hash": "0xbecde972e513622304d2f26b6413744becc4688dbc9c3149b29e6701e02c802b",
+    "token": "Compound (COMP)"
   }
 ]
