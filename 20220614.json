@@ -574,5 +574,17 @@
     "value": "126,069.54935021",
     "hash": "0xda01b4814d8d35229669ea55a92a782e60eff7af49fe73f8cf53818e22802ba9",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0xd6f2b43d997d46370e500e2040628ed9f73af182a23d5aa6830036ce48648284",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,414",
+    "hash": "0xb09f78f8bd54e062d8cd6b4c70025551b7aa1462c17109ab86143008cc79d192",
+    "token": "Decentraland (MANA)"
   }
 ]
