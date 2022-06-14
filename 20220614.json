@@ -310,5 +310,11 @@
     "value": "1,902,043.47683782",
     "hash": "0x393de10c48ff530d5da890d3851c71a40c74c44e73551289b4faf75408913b95",
     "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,819.99511178",
+    "hash": "0xfbf72be23fd3d3a5ab87f31598456724eeed0eae0e3e5f780f55e32ab1788273",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
