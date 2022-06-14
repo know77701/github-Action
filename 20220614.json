@@ -286,5 +286,17 @@
     "value": "27,178.57",
     "hash": "0xbece878fcad51c00d0eefae63d59b25d2de4ae377c93cd9fa5d7e2fe6252a3a4",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,422.292244879107948544",
+    "hash": "0xac8a1af77481e79d759d6002541d6ca48c6d07fe22fdba0faddfd7962ba5da9c",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "624.021577941416076893",
+    "hash": "0x30af0567a7fe004bce7e1c9e65c6ad5f8f32345f05f1d9d56375ae14f68127fa",
+    "token": "Uniswap (UNI)"
   }
 ]
