@@ -442,5 +442,29 @@
     "value": "20,693.08260775",
     "hash": "0x8c78f5c1f1c83fd11739fb5b5782581615dde3d343b7ce19bdcf0a62de40f806",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,499.27",
+    "hash": "0xb7590cf857c4d7893d5a31f3721fb7d209d288df47f317212d5b6823d828d794",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,996.3175465",
+    "hash": "0xf7a3c17b967d898d4ca37eff4bd55a12307d37eafba719c80162b640ba18505f",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939,643.395138198824782056",
+    "hash": "0x88e9293933f940c683f3ff74238e53a8195888a68b23144ab184fb8c6a3cca9d",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,625.29910684043890811",
+    "hash": "0x29e3643c2579ecfd0ae8f71b639b794c5169d64bc1013b6ce4fe74007ba21fc0",
+    "token": "ChainLink To... (LINK)"
   }
 ]
