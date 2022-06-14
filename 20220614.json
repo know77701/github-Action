@@ -244,5 +244,17 @@
     "value": "252,231.4982186",
     "hash": "0x600331a98d5ca116b1478b5a9870d8f40563122f73a0ad7e9c9fed6cfeb41a33",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,299,652.40683818",
+    "hash": "0xfe74ce48d374a831d8845c7429ad965f504339e7359a0a1930ecf0f7e8c057ac",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,312.5273",
+    "hash": "0xfb25639bb6ca360073e08e8518c4c6b456ee860c523839549fd81f54617b41ac",
+    "token": "ChainLink To... (LINK)"
   }
 ]
