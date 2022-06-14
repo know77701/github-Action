@@ -166,5 +166,23 @@
     "value": "59,073.54667285",
     "hash": "0xd7cd1d8b0f10415359ab3532634ad4aa37968852c614f23c26ccf9e3741295b3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181,710.77249051",
+    "hash": "0x465e71ec631db59566ad1c06bee7f76de6c6fcb46d809da4bcd655a40e64b517",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,217.972745902060454055",
+    "hash": "0x6421381a1626bf5834fdad6f98a0d84fe5686c525ef8ea6104721bdb097269d1",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,511.966962047939545945",
+    "hash": "0xda5c5d088bdc7ab737708894622b9b18a67c6539f9d6c59e7c42051cc902d607",
+    "token": "ChainLink To... (LINK)"
   }
 ]
