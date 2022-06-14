@@ -712,5 +712,23 @@
     "value": "145,782.8104589",
     "hash": "0x4384db29e1d8a670b515fe703128ed221d19aa1ea95beacf471d412dd6075393",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,652",
+    "hash": "0x318b26948bae15f0d5d665b5050f2ee44458c97c1090dc3824dd9acbf9442d77",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,663.08",
+    "hash": "0x3a4c9a429806dde810b268e62b65309da7c911615472bb81cadda53ea314847d",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,505.588288993270852119",
+    "hash": "0x4dedc73e2638ada7eccc94c89bb6278356df060a7dcf00a3ad1dad3f6885e23c",
+    "token": "NuCypher (NU)"
   }
 ]
