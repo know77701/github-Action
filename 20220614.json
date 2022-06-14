@@ -622,5 +622,17 @@
     "value": "137,988.23985486",
     "hash": "0x8c23802f46a1f832b72b24c08097f14e901990ac17ebc3fd187d48ce32f61e87",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,610.170648196002965485",
+    "hash": "0xa59c8d8c080bdf5fcc633b1237ac7339846fdbe615ce3caaecfa4b7198a335f5",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,011.849562",
+    "hash": "0x263f5f1dc4e71a49939077da8c34567a7e86b488135f420d7a6a4363930a12ef",
+    "token": "SAND (SAND)"
   }
 ]
