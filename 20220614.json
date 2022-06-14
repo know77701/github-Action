@@ -268,5 +268,23 @@
     "value": "6,030.8225",
     "hash": "0x166fd1c42d2df8b12d1d3abefd0b22a07b25276a9654d011e22b43f38c038eb9",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,703.393597078583923107",
+    "hash": "0x1dfd9af52b027e2ad7f44e988da196482c09cff6dbb0e98174ced3b28a89bf9a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,718,738.654969985380581339",
+    "hash": "0x26423961bedc7fbabe423ee4d3c76a45e60393c5058b81593a47495c638d2d7d",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,178.57",
+    "hash": "0xbece878fcad51c00d0eefae63d59b25d2de4ae377c93cd9fa5d7e2fe6252a3a4",
+    "token": "Metal (MTL)"
   }
 ]
