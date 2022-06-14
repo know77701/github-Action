@@ -256,5 +256,17 @@
     "value": "3,312.5273",
     "hash": "0xfb25639bb6ca360073e08e8518c4c6b456ee860c523839549fd81f54617b41ac",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,052,994.06210953633711104",
+    "hash": "0x38a8091c3f049d3e1e28d06fb1fbac7e6525f16df15fd8d06ed0030ababbca33",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,030.8225",
+    "hash": "0x166fd1c42d2df8b12d1d3abefd0b22a07b25276a9654d011e22b43f38c038eb9",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
