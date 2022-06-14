@@ -610,5 +610,17 @@
     "value": "206,611.97778494",
     "hash": "0xad2cefa79bcbfa8ba08dcb99265adfe784a53abff5dfc1ceeed284e28e5bde1b",
     "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,187",
+    "hash": "0x93383d7c7dadf71890261a758038dcb7455979f6fefa15bcb39d674b6073504b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "137,988.23985486",
+    "hash": "0x8c23802f46a1f832b72b24c08097f14e901990ac17ebc3fd187d48ce32f61e87",
+    "token": "Decentraland (MANA)"
   }
 ]
