@@ -466,5 +466,23 @@
     "value": "27,625.29910684043890811",
     "hash": "0x29e3643c2579ecfd0ae8f71b639b794c5169d64bc1013b6ce4fe74007ba21fc0",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,537.12468432",
+    "hash": "0x02fdb5722f93e0ab49fb55d27c41b3c21bc2f3b65e6157c471fde772746d7693",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,829",
+    "hash": "0x47eb37220a2a43bc0abf6cf94796914586a9ee8d912e3831f1d6481180ca2a96",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,700",
+    "hash": "0xb19dd4746ee2b80230fdd462d741d1f637a911654777a7ace57707dab7ace1d7",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
