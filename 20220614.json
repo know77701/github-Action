@@ -676,5 +676,23 @@
     "value": "135.20665796",
     "hash": "0xb0e4a79b594cc1995b037ed333d534a3aab9136b1a41b1752c3e957b0c16f34e",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,682.26682",
+    "hash": "0xd2280db61442a13f1fb2d182ed3b1460f04fa279330c0751e996c7fb07685679",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,057,339.121096055314108629",
+    "hash": "0x377c7d8d256cd1932d15847e40235c5286983905f4211a84b3823e4aa64327a8",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,257,385.379152124685891371",
+    "hash": "0x3469c60cb52fe82bcdb8ba713a23094339799757a0591b01bc73ec26bc9fa547",
+    "token": "Reserve Righ... (RSR)"
   }
 ]
