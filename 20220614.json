@@ -694,5 +694,23 @@
     "value": "53,257,385.379152124685891371",
     "hash": "0x3469c60cb52fe82bcdb8ba713a23094339799757a0591b01bc73ec26bc9fa547",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,615.89864303106513599",
+    "hash": "0x5e4a0069801289a62e3927fc18374ca92884dc04b7b91b358f4afccf96970c84",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,981.99995766",
+    "hash": "0x758319050af8c78718b00f4d67b2c34b405e9064f4d4824b6c7795f054a02296",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,782.8104589",
+    "hash": "0x4384db29e1d8a670b515fe703128ed221d19aa1ea95beacf471d412dd6075393",
+    "token": "Orchid (OXT)"
   }
 ]
