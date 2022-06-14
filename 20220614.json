@@ -130,5 +130,41 @@
     "value": "2,000",
     "hash": "0x36a6621d11058179bc2213857c24f2cbfa7cda3fb748d72835c3ff6e1195216c",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,903.83188784053223509",
+    "hash": "0x4866f53569ef97a3c1d557f0f6a9a2e7ba903e777b88a37fb65a1762177ddf93",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,574.496928972894810632",
+    "hash": "0x653d4d1572947e7b5c4dceff41ba0272eb02a551f3fc2d5f352df2b5d37fdfe5",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,438.622",
+    "hash": "0x39b9dff861c1ea1149ccf214a2ec375c3b52c8d85d6b7b770ff402f177d47952",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,056.93121618946776491",
+    "hash": "0x1ebd566b6c2a0999ec9a6e2a6b40139c66c67a8001e3a7da4cdabb7701956eb4",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "247,822.061938117105189368",
+    "hash": "0x2c97be89bb66b545f48af11748af2145ab5dfb52566e14e2dbf05c448db4b197",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,073.54667285",
+    "hash": "0xd7cd1d8b0f10415359ab3532634ad4aa37968852c614f23c26ccf9e3741295b3",
+    "token": "Decentraland (MANA)"
   }
 ]
