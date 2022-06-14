@@ -586,5 +586,23 @@
     "value": "9,414",
     "hash": "0xb09f78f8bd54e062d8cd6b4c70025551b7aa1462c17109ab86143008cc79d192",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,109",
+    "hash": "0xe001f6b52ddb346599df26d4b946f93b9368905bef53ad2209f92983e9ed6854",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,762",
+    "hash": "0x8756a92687f077020b7af326029c2d51fe93ba3bbe093889958562c6daa143a5",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "111,690.027",
+    "hash": "0x8cc4ca81014cf46bcca8ef26df1b8f18116b76bb3b5951f7254cbfca25d81d39",
+    "token": "Decentraland (MANA)"
   }
 ]
