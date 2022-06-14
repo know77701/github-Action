@@ -328,5 +328,29 @@
     "value": "98,678.99990062",
     "hash": "0x2d111d0102891f50cf4c3eb3c95b7ce1caa9e4dd05825b18e259b3e419266e81",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,077.326280080180060587",
+    "hash": "0xe4d3f7284305b594cddc2cfd66a58e9241c5fd5f63b557e41137fb10ff0414a0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "204,472.87551054",
+    "hash": "0xbf0d2659d6342fe2fa2e11ef7e1be2143ff84da7d82e5d894cbed238b0bcef63",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,640.838269655295710589",
+    "hash": "0x8a1dfbbc3df90f355bfd3e7a44d60822d4ec61b30d5ad8a834cf39bf219654f0",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,740.223",
+    "hash": "0xb15f5d4220f31cc1bd1cbcc20ff0afb15386ee08d5a98e8b7c228b0d33aa645f",
+    "token": "Uniswap (UNI)"
   }
 ]
