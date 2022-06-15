@@ -466,5 +466,17 @@
     "value": "13,999.66056228",
     "hash": "0xb1e083bfb458efacae6678f89e758c8426402c1e9a07c6ae7fb80163d40b23ef",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,673.31912083",
+    "hash": "0x31221357b358ed2f4a9e499feff8ef48c1a3eb0b4896404a270ca9b2efc8b65b",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,158.56874928",
+    "hash": "0x8e0a91309e3ecf7c11100dc57f6c6802eb49a9cf460f387ec8e4b1707ef1c02b",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
