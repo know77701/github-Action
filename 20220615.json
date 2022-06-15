@@ -352,5 +352,23 @@
     "value": "395,851.81233038",
     "hash": "0x1909dc49122fc8a0f02aff9eee897b2e37cc5660dc22881c0ed8e8db2643a141",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,921.19098494",
+    "hash": "0x552afe2fb1047f9a9d5c930b67df95d75c9a62378aabc8b3407e4e6802c47e1a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,059.7462365",
+    "hash": "0x4bdf13d5349d89372de7e9b5e02d38ceed85ccfdea7e8e4a13073390c8c55395",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,005",
+    "hash": "0x8f3437b67c87fa0e4b2a98817d47319888b3d59639cdfa8c253e1783c378caa0",
+    "token": "1INCH Token (1INCH)"
   }
 ]
