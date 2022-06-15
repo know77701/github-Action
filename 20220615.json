@@ -646,5 +646,17 @@
     "value": "2,000",
     "hash": "0xe9a0bff64e96ba1e35ce2b34a225e179bad6cfe9dc9ce7016744d17f7c40f55d",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,533.84781054",
+    "hash": "0xcad397b2a2b93ef78e1a2d80a183a07307036e6d1590e498f989a6f57db066fa",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275.369",
+    "hash": "0x4160ef597ea507459af1bed8682ded071880370e34724688e7551823b46de987",
+    "token": "Compound (COMP)"
   }
 ]
