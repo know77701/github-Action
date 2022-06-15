@@ -316,5 +316,23 @@
     "value": "1,233.2048",
     "hash": "0xb159d26451b38aed17b03d2f8fd98667d4a9e3a83a459d87d9cc5f634d4413b8",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "776,867.456696265816553517",
+    "hash": "0x47d2c8de6ed7e85dcc31ed37903302fa9257be973bacf9b9c7a4df01289af961",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,747.36262498985986726",
+    "hash": "0xf382fcab9adf665c31a76d9e780feda977099b5563c35aa3d3b5d9fbaa396e46",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "291,163.301111584183446483",
+    "hash": "0x3e528c4182ca9dff17b4d1ddeba570872091911deccbcee6ab6ac29dad24cc43",
+    "token": "SAND (SAND)"
   }
 ]
