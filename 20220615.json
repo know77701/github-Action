@@ -772,5 +772,23 @@
     "value": "8,598,852",
     "hash": "0xf532f11bac2adc91739fe01c1da217042ed705b0fa327f0d0b8797b451e9cf08",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,006.762316840655178763",
+    "hash": "0xfc4d385c4d842c1246cf800a061857e88b73198f4b137798723abc00e3aacda6",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,859.53021786",
+    "hash": "0x7666d2e40456386e9986a86ea84fdf9ea40718bc617a39928c59bac05298a797",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,813.631",
+    "hash": "0xbecc3bd26f8529ecff1166c22b691387e79d211ced1557a7dd7c3d7fd7780fb7",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
