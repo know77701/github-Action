@@ -52,5 +52,71 @@
     "value": "166,903.286516762695120278",
     "hash": "0xb6a1264637a1d54a31769bb595e0f3a208ee24598003f0437cc40e225fb428af",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "484.33209864",
+    "hash": "0xb47649601b1eba4dd7b96d9842b587b7e0b0cc4bb59114451828f86b127a22f5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,293.876",
+    "hash": "0x213dc0705efc684788dadc048c144d069df8999862e7183ead33e4d8bbf978b7",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,840.133075742816975781",
+    "hash": "0x9d72dc205d3577588758d85af75bbb5fd388dded8507084cfbe02fc1a84b48af",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "328,493.20004928",
+    "hash": "0x009bc0f3640d462e3f23e0b6377d567680e5606761cd542f08e0cfbabadfb04b",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,985,463.67001767",
+    "hash": "0xcc867cff3e57796d0bf32439dbcaff833fc42f33677e7bec5521119daaa55dc9",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "292,505.1390403",
+    "hash": "0x8766cd2854351326eae4c51724fc8ba50ed2e853f46a837f61a2d26655d1189b",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,100,125.9557305592971412",
+    "hash": "0x4661b2ec949ed32d0c9690c342e01df4f4dbf92ecc6dab9f6325b59bf665b059",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "156,397.619413657183024219",
+    "hash": "0x1bda8174b496c8dc2c15c8b4e593d18b149051f7f76b5c23ebdbd358357f5b0c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "261,252.5148753007028588",
+    "hash": "0xdd4527368e83a629d9384e8717f70554d6d9f124bb49fd24b26309dd1c57aaea",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,207.79247809",
+    "hash": "0xbf9d6e5190ff8e28de68c99a8124f3181944e83910a77c614022b52fd9cfaca0",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,384",
+    "hash": "0xe973cb96e9f93fe766adfdbd9c2dda03f63a58dd264aa34aec631e9c1c6725f2",
+    "token": "SAND (SAND)"
   }
 ]
