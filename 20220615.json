@@ -748,5 +748,17 @@
     "value": "274.75178184",
     "hash": "0x948ed0fdbeff8d66d399a2679c6a06d9d0ecba7a1f14bd3b34c8b48457eb8f61",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "441,257.99998184",
+    "hash": "0x5b26b4a94034d83978dd9def4412c7f2a9183ad782d6c734483ea9fdfff930ed",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,738,020.66145456",
+    "hash": "0x332d6dbb30a995dd06a5c30f379172f5b56521039403614df098017f68a1429e",
+    "token": "STPT (STPT)"
   }
 ]
