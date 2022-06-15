@@ -334,5 +334,23 @@
     "value": "291,163.301111584183446483",
     "hash": "0x3e528c4182ca9dff17b4d1ddeba570872091911deccbcee6ab6ac29dad24cc43",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,119,912.177430657496325872",
+    "hash": "0x32ab923679450cce322d770a9c0043ca120e292aaa596f6fb78f3067e3b4ce52",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "256,814.599127718671548954",
+    "hash": "0x3b89c984a93a9e48c963908dd500cb89932f57dc8858cac4ff6037d36bf77e50",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "395,851.81233038",
+    "hash": "0x1909dc49122fc8a0f02aff9eee897b2e37cc5660dc22881c0ed8e8db2643a141",
+    "token": "Civic (CVC)"
   }
 ]
