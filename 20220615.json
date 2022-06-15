@@ -454,5 +454,17 @@
     "value": "99,700",
     "hash": "0xc2f3148e7d5046216ce2d3c8302d65d9e1a900355afd0baa00345c57cb5f395f",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,750,139.06328119",
+    "hash": "0x935d88bbc4e8ba530e81a4335fed3d2cae9331bb04147d601ac250484483bb1d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,999.66056228",
+    "hash": "0xb1e083bfb458efacae6678f89e758c8426402c1e9a07c6ae7fb80163d40b23ef",
+    "token": "Function X (FX)"
   }
 ]
