@@ -604,5 +604,11 @@
     "value": "34,896.126960703456754127",
     "hash": "0xa8b2406f92aa89904428a562fdb2fbea148fb07ec31a560a2ad854333e4faac0",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,771.99995363",
+    "hash": "0x31ec0e52f6220e9223b8fe5561e22a22561ce4205371a88e18d5cacdcd4eea29",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
