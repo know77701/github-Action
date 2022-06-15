@@ -514,5 +514,17 @@
     "value": "29,674.906396877407843307",
     "hash": "0x36411b11d056f943775e09804f1a8604c5597129991e3484a26e7fe5d635e898",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,521.196536321175032859",
+    "hash": "0x4ff202f331429de2ed24319ccd89cfa96db3d4ef9a93f3f596f10b037f958f25",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,055.44163001",
+    "hash": "0xb39e0fce7160177464a140511cb90da642ec6b174af884404df01f50de426433",
+    "token": "ChainLink To... (LINK)"
   }
 ]
