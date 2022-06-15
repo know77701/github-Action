@@ -844,5 +844,17 @@
     "value": "220,970.32774277",
     "hash": "0xcf11b3d39c4b8f3eebd9eb055a0391571775d62877cc01aaefd06f453652f6ee",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,617.038375209122036933",
+    "hash": "0xfaf193a6957379b48fe1f7862b2f188bb7a36f9a696ed3adbd91204a3819a3a4",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,159,545.166046693630367694",
+    "hash": "0xd3c53b4f0a8a73b70b08e34374e0169ca7a7dfa4e5bb985b05b2a268c5d6d7b4",
+    "token": "Matic Token (MATIC)"
   }
 ]
