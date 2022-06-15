@@ -274,5 +274,29 @@
     "value": "29,343.239314718138887773",
     "hash": "0xed6b505c2cb81b63585e25cca5997b958b62eaf255b11a6cccdcc66c9bca6b48",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,099.31",
+    "hash": "0x6706e9ec089d4a90edf5fa2d85664156137048173e8a2761d6517e07196a6444",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,857.59708525",
+    "hash": "0x2024d25fa2fdf1c645ce582980ba29d740b87e3d013856b0a9a28c2b717efe74",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,446.200969",
+    "hash": "0x2eff5a71abe83fb0059708448a4ab25f4d6f813264aefc9bbadb1d97281ede46",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x7ecfefe9679275e1dd3df51b0f5b3ed057018bc0aee5f20236fb59d633f88236",
+    "token": "Curve DAO To... (CRV)"
   }
 ]
