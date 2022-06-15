@@ -508,5 +508,11 @@
     "value": "275,700.915",
     "hash": "0xa81be26cbf95c98848ccf00c304df52175b62102ccff64c2e8407188f6d3a15a",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,674.906396877407843307",
+    "hash": "0x36411b11d056f943775e09804f1a8604c5597129991e3484a26e7fe5d635e898",
+    "token": "1INCH Token (1INCH)"
   }
 ]
