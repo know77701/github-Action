@@ -682,5 +682,23 @@
     "value": "16,531.94037110870733937",
     "hash": "0x9fc942fea1b35a1a6d71053522049d9b6c21c98949ff9febf3ee931051f45527",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,799.613347",
+    "hash": "0x8be6ef9891d36f7f481049ded167fd1a057ec9c0edb78f74e3e0283840934b21",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,068.104607299064011472",
+    "hash": "0x14b22653d74938060ca27141df8e7f795ff6383ba9b93527cea91c709b211a18",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,874.633661",
+    "hash": "0x3074c9f514f1d59bf2d0e4523f2ca1b38ea1fe6ddff1ccdfb3a7734a6e7a2018",
+    "token": "NuCypher (NU)"
   }
 ]
