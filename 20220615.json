@@ -706,5 +706,17 @@
     "value": "20,213.382789112924602719",
     "hash": "0xface40352251451b8b884a738a357f6033b45284a7b15c3e289f41d353bc6a64",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,939",
+    "hash": "0x46b34b3c472db4bf0097fcae83d899e22cd5012c7c4fd837d561f743ef07cec6",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,725,540.706525",
+    "hash": "0x742bb9e47e2348a8bbb96dd46b5d1af7c95c1b87056ae020583a175e18625900",
+    "token": "Matic Token (MATIC)"
   }
 ]
