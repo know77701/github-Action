@@ -808,5 +808,17 @@
     "value": "20,000",
     "hash": "0x60aaa72fb5af412a24998963c009e75162a7acb6180eab793b6d93d1146b1574",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,783.39985425",
+    "hash": "0x293b70f235fc0565c6319adf8d6ca26350d2c3018748520bf5d3fa9f608fded7",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "169,573.89626603",
+    "hash": "0x0b4346a8433946078ec4c964a0dfa5b8392d2319a8d5a4b0f3002b25ba55c285",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
