@@ -226,5 +226,53 @@
     "value": "4,094.03",
     "hash": "0xb5d2a7a04cf2b4085042e599f4ad2337eee161b2b1ef9dad26c4a1900f226159",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x9623f16ceaa286fb6a075ea1a44105158c7e94c8426b8ba725953963580566e0",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xe6ae3e8bd71c648a977311d385ca34c0a3d3c9ce7b2f67f0f02cb076e2a6c7c4",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "203,124",
+    "hash": "0x08c67f1ef1fe9b8bcc5e8360846ac364b08f7c580c71d759c60c047eee0f752c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "580,058.962698301861112227",
+    "hash": "0xd8a62873b7475d808428f27234fb65b8146ce82993ad9fa79a183fe3ee9b856c",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x2ddb267e6d046e99b1303f9adc56c4391f1a6d64605d5613595d6617576626aa",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,837.82682635",
+    "hash": "0x66d7dc06222ec1394f63124ef06b41dc3ec4e4595a769552179b341e05d9ccca",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,104.097320737347699265",
+    "hash": "0xa32746f561e29ce443ce73ce84906a1aa520f7d26698c5de50cf54c713b0ddd7",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,343.239314718138887773",
+    "hash": "0xed6b505c2cb81b63585e25cca5997b958b62eaf255b11a6cccdcc66c9bca6b48",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
