@@ -214,5 +214,17 @@
     "value": "3,374.616",
     "hash": "0xa9454fe64ae4cf125e49cc0c3a06dcc11dbadf7d7da52f0028bb16f812129fb5",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,999",
+    "hash": "0x2018e2016664c679241be949fafbb10fdf941622cbef24c2eded6cccf773db61",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,094.03",
+    "hash": "0xb5d2a7a04cf2b4085042e599f4ad2337eee161b2b1ef9dad26c4a1900f226159",
+    "token": "Radicle (RAD)"
   }
 ]
