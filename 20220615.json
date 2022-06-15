@@ -700,5 +700,11 @@
     "value": "54,874.633661",
     "hash": "0x3074c9f514f1d59bf2d0e4523f2ca1b38ea1fe6ddff1ccdfb3a7734a6e7a2018",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,213.382789112924602719",
+    "hash": "0xface40352251451b8b884a738a357f6033b45284a7b15c3e289f41d353bc6a64",
+    "token": "Bancor (BNT)"
   }
 ]
