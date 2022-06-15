@@ -658,5 +658,11 @@
     "value": "275.369",
     "hash": "0x4160ef597ea507459af1bed8682ded071880370e34724688e7551823b46de987",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,358.126024556420218518",
+    "hash": "0x2a658ff2c000f852cac38cb1dd54956cf40214841711a29ba294b9fe6466e98f",
+    "token": "Bancor (BNT)"
   }
 ]
