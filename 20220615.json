@@ -622,5 +622,23 @@
     "value": "17,447.706889784359133894",
     "hash": "0xb313655064431d804a2178198b43ade2d955d3c1bfcb1ce22c25210207ee877a",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x7cec3be7d0ec99221946d87662f761a163f88f58647fea5aac43c9c5c70a8d3b",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,692.79682741",
+    "hash": "0xd36e0f77fdb6ae9ae794eea1efd41237cd1e4be6ec8cb35ca5627d84233f743e",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,292.661154843647084705",
+    "hash": "0x89c60a39e2a6fa0b83400b1f8097be1ab430b3f7246c7a1830d2c605e331cd6b",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
