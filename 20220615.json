@@ -298,5 +298,23 @@
     "value": "10,000",
     "hash": "0x7ecfefe9679275e1dd3df51b0f5b3ed057018bc0aee5f20236fb59d633f88236",
     "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,546.65721438014013274",
+    "hash": "0xa691a53bbf3e2e146058ac060a5b4eb3cc3d6b08fb7d4438a0e597ffb0ffd4ca",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,970",
+    "hash": "0x06132e080a6d2da1f83ece7b49d694648fd08c144a59886d227c8f3b09851b25",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,233.2048",
+    "hash": "0xb159d26451b38aed17b03d2f8fd98667d4a9e3a83a459d87d9cc5f634d4413b8",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
