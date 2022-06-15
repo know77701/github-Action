@@ -790,5 +790,23 @@
     "value": "131,813.631",
     "hash": "0xbecc3bd26f8529ecff1166c22b691387e79d211ced1557a7dd7c3d7fd7780fb7",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "78,058.46449269",
+    "hash": "0x763b95e9400eef37a3fe005f65d8a7c79146f2754991f5d56a5150cd5d7d51bf",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,272.80824402",
+    "hash": "0x4b8a90802a2b51ea08b744e954b5b94f0f3d77fad82470ed99fae73110c90144",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000",
+    "hash": "0x60aaa72fb5af412a24998963c009e75162a7acb6180eab793b6d93d1146b1574",
+    "token": "1INCH Token (1INCH)"
   }
 ]
