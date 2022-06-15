@@ -394,5 +394,47 @@
     "value": "161,995.214140065936367694",
     "hash": "0xa795804ef072867dcef0e29eca9f83b4fd48219b3ea108f701f1ee547e332bc9",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,074",
+    "hash": "0x3395dbf274d747fa862ed5112ca436337a949275941809fdaeb690f53ab8b38f",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,599.85",
+    "hash": "0x3113da30ca56778fa519cb391aab2045f0a9272f041fbb0dcaf0d19579d8bfa2",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,210.15322",
+    "hash": "0xfef6e23c82b1c7f2cf6e5661caa88910aebd4d9737532f099848c56b36a4197b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,264.75665549",
+    "hash": "0x5cdae7c7aa2eec471b4a8293e62af7a6c613edb04a66548c23cacf55586b85dd",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "397,066.63252182",
+    "hash": "0x2bb29769a3ea3b82c8cdbff58bbd64f3cd6a4b057ae545045d02aa1151ab37c0",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,385.7759933",
+    "hash": "0xe360b606f6b8774e51e48c75d1c280657ff83be0b6b5094f59fd275384c8d6a7",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,830.208203937033334276",
+    "hash": "0xf59175e352de39ea9a9ccb5c2bb6783526be65efd33eb4c51d1d15f90b718fd5",
+    "token": "ChainLink To... (LINK)"
   }
 ]
