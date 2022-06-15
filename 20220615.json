@@ -526,5 +526,35 @@
     "value": "79,055.44163001",
     "hash": "0xb39e0fce7160177464a140511cb90da642ec6b174af884404df01f50de426433",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,160",
+    "hash": "0x41549524d1bf90f601b9f05238a5103521dc9f4ca9d8a552033fdeb752b28c19",
+    "token": "KyberNetwork (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,862.4257592120188366",
+    "hash": "0x86aa0aa4632eb171f02a38e7b88b2c835de340c74677e5371b4a214c9aa888ee",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,034.190304222111961016",
+    "hash": "0x50c16ab7928bdce0c17f091199102cfe55c3b0ba1baf3263ec25a80d04b92785",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,925.8844004279811634",
+    "hash": "0xd27e5f0c3d7f7e4783a033204dd64ee5a7019b70dffb4df118f62e26bed58d1d",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,521.719219337888038984",
+    "hash": "0x0eeab57caf999bc7aa961b1760b3f266d72d3ae624998be04c18575b13b50102",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
