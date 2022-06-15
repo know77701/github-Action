@@ -556,5 +556,41 @@
     "value": "37,521.719219337888038984",
     "hash": "0x0eeab57caf999bc7aa961b1760b3f266d72d3ae624998be04c18575b13b50102",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,584.0648",
+    "hash": "0x8513ce621a564251a81c644676047682cb477e91b9cc82ea00931ad5519c484f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80,631.09117936",
+    "hash": "0xfefac1ba5b4071e2cf716fa861b2db4aa466ce4e0e6f23aee032250c4acbec89",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,301.4051",
+    "hash": "0x29487412570525b178072ff87ced3e372e40a2d5723bfa02004a840dffec7520",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,471.85741",
+    "hash": "0xa5926dbe2942325c6032cc4643dc3df8da30ed531e8a3c5fe4da7d3aa47c35a4",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "257,375.743685977725130703",
+    "hash": "0x863f635cc24ae8bddd31abbad954db234a8e9d76b6327d833a3b2b5ae4e43fb5",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "291,455.083034482385568252",
+    "hash": "0x359344d5111323a140d2ea1caa63bf55c048198f989a8e6d5fa65c59f8ec0243",
+    "token": "SAND (SAND)"
   }
 ]
