@@ -706,5 +706,35 @@
     "value": "9,020.34029621965485839",
     "hash": "0x17a17f6e64188838ca392dbbeac3e91b064bc3ad292557e719064ca33c4a04ba",
     "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "224,022.560838434728656362",
+    "hash": "0x03ac7e501ea471b315904791afd6094fa6b55e41e3f738538438ffbef69036cf",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,679.457427167594213677",
+    "hash": "0xd1bf1d9d5de83deb2532d3866604a1116799362b51ebb854fbacb18c2707216e",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,841.397731",
+    "hash": "0xca8365245df6eed2e3cda2a087072cbd15a0302edd489fe8532cd130f637ee6e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,685.569725",
+    "hash": "0x6d2e0e31c2fe23bcbcbaf69a60a9241bcf3f8584529188ef4dfb446b5ad5422f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,913,085.105574",
+    "hash": "0x6d7403b1dd87762ebf6002a50e89fbee056614c971e27f145dbe6d7c5928b3b4",
+    "token": "PowerLedger (POWR)"
   }
 ]
