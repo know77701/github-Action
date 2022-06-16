@@ -532,5 +532,11 @@
     "value": "43,965.00111128",
     "hash": "0x83afea4bc0545f5c89e0dfb45c80a3267f90cac0033f9ffbdfb82e1717397abf",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,200",
+    "hash": "0x41e23da2b73682950758bc3e3210e12a1ba98a5130b675c71f9315744f6a305b",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
