@@ -940,5 +940,23 @@
     "value": "255,448.170241595984914259",
     "hash": "0x837912f9779bda077bb4f3ceb4ed51b1ac5ffa346542be844d16bd204f78fe6b",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,134.71360315",
+    "hash": "0x3c3fd91b352e0a4d2dcc1ada0ce00c453b40c5abaa837d4f35d343bfb56d959a",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,708.274772460217536804",
+    "hash": "0xb35cbed8a946f753e7d1ce4be43aedf768ffe4af502cadee86a13132dfeba4b8",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,597.125109069782463196",
+    "hash": "0x7d0c9be6416d5aa70de363adcb6c776e58a59e32c4c30517d55b96410ebb9608",
+    "token": "Bancor (BNT)"
   }
 ]
