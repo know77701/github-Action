@@ -514,5 +514,23 @@
     "value": "1,517,778.347567006682137762",
     "hash": "0x39ea07a15f1735dd57565bed505d202648048d5d89b9234c37383c8ea692cf56",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,841.68719342",
+    "hash": "0xd0344c63e86a698fe76b63f7138333bcf9a8fccac623a5cddcf598867dc686c9",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,000",
+    "hash": "0x17dc17c50a8cde49f06bf32cb2c84e52e056a5032415f0794d0d208f072a5b1c",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,965.00111128",
+    "hash": "0x83afea4bc0545f5c89e0dfb45c80a3267f90cac0033f9ffbdfb82e1717397abf",
+    "token": "Bancor (BNT)"
   }
 ]
