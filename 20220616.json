@@ -196,5 +196,29 @@
     "value": "199.28526355",
     "hash": "0xb022b70b232d53fff4393057aae7e15d0bd070a9fcfb04b2fc0f63722542b21a",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,814.461296953685615588",
+    "hash": "0xc5f53b94758054ef1f7ef2cd61444b94ebc693ff5700e6c2fd631ec043a019b1",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,909,372.26094872",
+    "hash": "0x8a81d31e289e38505f0bf5dcb64aadfa169efe175e2f6f7a05c6bc92c54a90d2",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,626.639",
+    "hash": "0x5c100cd5679d4a58a47591fe2a6ac00596b2969f28f709571f5717c4349d1d38",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "476,960.404441756314384412",
+    "hash": "0x8293f3da34887dd07637f516be41efc975ab259d815227cb09b3139b31c79af2",
+    "token": "SAND (SAND)"
   }
 ]
