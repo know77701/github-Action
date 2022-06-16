@@ -592,5 +592,17 @@
     "value": "76,878.26163553",
     "hash": "0xfc3cb2cfc9ca07b7a1176e93bff201c3f557748cea5c2b0058ffa6cb87c707a7",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,962.201428963793576401",
+    "hash": "0xfb8ab6d4596d34dc52ae8bfbc4bf657e798be2cbe8bf157bc3e85b58f2c36b79",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,357",
+    "hash": "0x010069d0f78f39397dc0739a1ffbfe974139595a5e1c16d527366e0dacebf812",
+    "token": "NuCypher (NU)"
   }
 ]
