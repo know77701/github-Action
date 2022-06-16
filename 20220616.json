@@ -778,5 +778,35 @@
     "value": "25,496.752781",
     "hash": "0xbdf2605154a1e5529a3afdbb134091f195950f8242d0b278d9fc0f058f91e59e",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "722.820334430297478022",
+    "hash": "0x36bd1b5ad31f1e910c8ee08b6c676218ac3513142ce7520cdc3ebf202011db4d",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,333.773843",
+    "hash": "0x3afbab995e32624506851cce621e54011be1cf5859c5dc81a7122473c47b1f22",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,957",
+    "hash": "0x979430ac4bdc973e0d3e1d53a91ae5e83b9ac33cca33e2bff773bcea84fc345f",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,457.70132576",
+    "hash": "0xa911453c0eb547c2f1cf9fb2b47dd158fdffa2dd6c8b4f5ba6435a78f2d68f9b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,375.99993193",
+    "hash": "0x41a09fbf02871e062100f8091337aec62a33fc045207ba9b523bbe5e97e99505",
+    "token": "Storj (STORJ)"
   }
 ]
