@@ -736,5 +736,23 @@
     "value": "1,913,085.105574",
     "hash": "0x6d7403b1dd87762ebf6002a50e89fbee056614c971e27f145dbe6d7c5928b3b4",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "587.28440256996992887",
+    "hash": "0x6fb14c793712c650b301a1123a89c20f50f6660891549518602dfd07dad4369b",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "287,885.979202925271343638",
+    "hash": "0xdc4ee31cb18130a51297a17efb88bb0a432049598a26ac281a7538d8abe21f1e",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,893.060772832405786323",
+    "hash": "0xa5d7b00d71ef8390884b1094d9721e06e20c8ed7eb27312c21ba54ab1055ffd2",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
