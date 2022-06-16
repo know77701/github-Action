@@ -76,5 +76,101 @@
     "value": "284,026.830808312706853947",
     "hash": "0x7c4a0756b8875b3c220410879224e40776b2f1c8257124162d21d2f7ca5d6658",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,035.6315283",
+    "hash": "0x1ba8d9104a0e52c295c3abfe2f99c0b2241bc6dd94ebb8a419ccf320165e569e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273,975.93962028",
+    "hash": "0xbd61af52bcc840977600c07fbfa2aca125822cceddc46e0aea6185dd5709bfb1",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "298,355.500031",
+    "hash": "0x22861c03927a6feb3381fea24b67bcab46c98e560fd05d4857648b43d996647d",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,086.43241266",
+    "hash": "0x7d98a6e175b905b97a1cc3cd94a5eaf403ab67f0c1de096d982d2b1043f9764a",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,578.714154",
+    "hash": "0x7521c9b3f1e561b897f8a810b2e1d45f44cac36c2efd857bc0ee1c8692621f2c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,432,978.860159168056231303",
+    "hash": "0xb5bc5ce3de85e1d7979457c608675fb6976584bd1ffdfe0305bbf9c099c82c21",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,974.229286494135050398",
+    "hash": "0x34bfd3508bac378e564ec6911eb4539af1c1e84b90ccfc2040e1c8f44a22549c",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,618.560313006819748615",
+    "hash": "0x5d3007b3af222d3a0f4ff1e24f7ca46a31291d8d0c8e4ab75d1b16f67e1c77a1",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,277.823198449034991077",
+    "hash": "0x82848111564cf17c140bf46de0eb0cec4b9cbc19bbc3f1b1502f192ba31888f2",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,357,883.94149796",
+    "hash": "0x2cc2b89b7331ee82402a9f0a50316c3e6bf001e6c418706861c10f1fba5d2e1f",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "242,955.144418025637938791",
+    "hash": "0x4952a2f04c5422b958e796312dc9330e16f6e890d9ec3de020cff3e88ae50b86",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,345.649204",
+    "hash": "0x406c0b37eefd62f46f1115d568ccbd44bba836d07067cee2891231d1641995b0",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,386.429597533180251385",
+    "hash": "0x1ba239c26a574bb14534d4072119a755b453625057b9fa53fa01543796454790",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,776.222333740965008923",
+    "hash": "0xb4e6dfeb393f8e1be93992616ae7edf6122b7724f4d297bf7b44915ac15be67d",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,581.316095785864949602",
+    "hash": "0x95e445c384ddee13684af3ce6556e6d4b89ab2acd0ffd8aadb95ce59ab0bdc4b",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "935,764.159753036146599148",
+    "hash": "0x1a92a679d1e0f85eb36fe16a4bb75ab514bcf1321fd6846f030dca5f22a9a25e",
+    "token": "BAT (BAT)"
   }
 ]
