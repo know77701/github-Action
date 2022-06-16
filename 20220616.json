@@ -958,5 +958,17 @@
     "value": "10,597.125109069782463196",
     "hash": "0x7d0c9be6416d5aa70de363adcb6c776e58a59e32c4c30517d55b96410ebb9608",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176,940.42397874",
+    "hash": "0x8f69242947caeecee827ede96a6ef6e57d70d9caba5c3748b7602b8cf36220fd",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,536.99981116",
+    "hash": "0x4d1549466f82c31a9ba9b7c1aff688d555d5e72c7eaff60109f78e7d8e53f309",
+    "token": "Bancor (BNT)"
   }
 ]
