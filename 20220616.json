@@ -640,5 +640,47 @@
     "value": "52,367.7",
     "hash": "0x15bb188fb69873d434d14cb26c6be331661bd9e87ab23f93d3cdaf1213057144",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,263.3473053",
+    "hash": "0x0522017bcebff4877ac603c1f865a8b80346ee9ad357bda3f2ea6017d4e71654",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "74,648.16818494",
+    "hash": "0xc29e38d6e06a1b58b544ad45bb6a698f3f357e71513d42afcbcb175e1c117ad6",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,896.052293669618811077",
+    "hash": "0xfd70ad648a9c0a4067e713a4088f8ebd0975411d5b1391ac8acbf323ce7fe17b",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178,901.118",
+    "hash": "0xc44d95042830c61a787da9cad11785e0c5fb73ecaa8e0aa9aea8d4ce9f4e19cf",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,102.730066330381188923",
+    "hash": "0x4e837560635cc429b572599164474284b3a5a0306511866d99c7e6af5ef8b120",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,823.8971529371059695",
+    "hash": "0x4bfd8779d584ed71ebaf50f1166811269de83b9b6373fe760a15e3dab224c90e",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,423.75005",
+    "hash": "0xd90f0fd1e3dcece198388058c4f937ebebb0b3df220c68fc9f440d65aa32ff11",
+    "token": "1INCH Token (1INCH)"
   }
 ]
