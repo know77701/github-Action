@@ -418,5 +418,41 @@
     "value": "106,770.97752232",
     "hash": "0x6a86f85eb823ab62715eb95feb5eb465509e78eb3982c315f368aeffe46d824b",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,597.33314",
+    "hash": "0x0d3c95135d42655189fd7f4e24b53af1fe75776b51c3326841b412e28e05a81a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,644.451178631738983938",
+    "hash": "0x04badda9af782a10bfc568cc6a051d1c35e57d584dc1053c33a95fe96f227c38",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,429.33314",
+    "hash": "0x0797e2f14bbc4a36635a65fc4363ffde70bea4908ace8a92b0177516bd4c7c82",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,712.461699388261016062",
+    "hash": "0x60eeb469cf3ccc66732564b5a6c4dfd10a3510bbcbe48113daa8fc179a8f8a24",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,968.415675962383289053",
+    "hash": "0x34104246df2c8bd1e79fcb5fc5cc8caa9c0942bd97c7b2d755941f82d957a0cc",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,481.0948193",
+    "hash": "0x883ef0c0b1b9daf0d5fe63dd65c3777fbecbb7274d41482db19330de3d2f9ccd",
+    "token": "Reputation (REPv2)"
   }
 ]
