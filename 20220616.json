@@ -190,5 +190,11 @@
     "value": "253,658.26344773",
     "hash": "0x2f2787034a80410e84d004b66a992ceb3fdbff68918045979366d579b56cf7e9",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199.28526355",
+    "hash": "0xb022b70b232d53fff4393057aae7e15d0bd070a9fcfb04b2fc0f63722542b21a",
+    "token": "Compound (COMP)"
   }
 ]
