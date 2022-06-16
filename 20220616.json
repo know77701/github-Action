@@ -682,5 +682,11 @@
     "value": "35,423.75005",
     "hash": "0xd90f0fd1e3dcece198388058c4f937ebebb0b3df220c68fc9f440d65aa32ff11",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,657.363",
+    "hash": "0xe4f8ae8f4272cff8e94d17380b1d1b27641e6a4072b6c4c22bb8174a897848d7",
+    "token": "Bancor (BNT)"
   }
 ]
