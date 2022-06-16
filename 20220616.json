@@ -604,5 +604,35 @@
     "value": "39,357",
     "hash": "0x010069d0f78f39397dc0739a1ffbfe974139595a5e1c16d527366e0dacebf812",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96996974",
+    "hash": "0xc24761a6686b14bbce09339bcadf1d05f889489d406f37d646c2b09cdb225318",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,305.652",
+    "hash": "0xc4e6cd09e126391ea98f0d38e0905013fe948d9ac5d0f1e53d1393d38409d71f",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,171.315354",
+    "hash": "0x73bc35a29666e46e33fdaf4933b0fd4249e037e8fb0a0dab11f523e9e5e1fa1a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,789.49228675618",
+    "hash": "0xdaf52c6d7ba395df689edd9984efd3bf5f2c2db5b29b1108d8db9f34add64ba5",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,859.285886846206423599",
+    "hash": "0xb558d67dbd40d08ce41d0b58a026eb795cc53e8308ab64018b842d328a26deac",
+    "token": "1INCH Token (1INCH)"
   }
 ]
