@@ -886,5 +886,23 @@
     "value": "15,218.325267180968390252",
     "hash": "0x4e37643f9d1dce6eccc2596f64b86da40b8e852ca210d97166b934e47c824ca1",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,009.395",
+    "hash": "0xb63bc48320e37a39d3c89ccd08f7cc3d619555d924ccdc32f3f10cd2c499b091",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "671.672174394112531152",
+    "hash": "0x8e9917af39570fef3afa7522619b23c5211d20f760900b81fc3807ba3f3ab79c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "271.79004495",
+    "hash": "0x5c3c1b2c09a98b1f43c6a581be5830e825bd06bfb080f04a9286603d9bccda29",
+    "token": "Compound (COMP)"
   }
 ]
