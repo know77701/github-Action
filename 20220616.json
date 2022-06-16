@@ -574,5 +574,23 @@
     "value": "51,000",
     "hash": "0x0bcf13624f213f54e71e6b198f570778a74db569563242acd0354afadc5d4563",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "803,096.970421",
+    "hash": "0x5533b6a04976601af1bcbc8cef32a6cc6470fe168204127dcb8e9606de99d567",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000.5",
+    "hash": "0x0f4cbcafb56efad69445c7030994b82e65661d8fd67527577e680291838ffb1d",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,878.26163553",
+    "hash": "0xfc3cb2cfc9ca07b7a1176e93bff201c3f557748cea5c2b0058ffa6cb87c707a7",
+    "token": "ChainLink To... (LINK)"
   }
 ]
