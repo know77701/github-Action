@@ -298,5 +298,53 @@
     "value": "82,793.443120560163229493",
     "hash": "0x7645ef4fd1b0e6d08abcdc78b71c9a9e3ea625eeef6671cb12dcb6e7846d0ff7",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,862.31360044",
+    "hash": "0xd450e7da5e46e171fe03d6a542790ca7113004e6b81578197fecf3f9233ca3d4",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,117.727880872747942931",
+    "hash": "0x7d6e97f2b6c1410519cb7f13b4e3e42989a2fc4e2a3c5c5443704521e4f79ad9",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,253.440036",
+    "hash": "0x08f4a28d9661c38487088fdee23993a02ff1cfa355b16943ab59754957d11d8c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,993,394.626056725699722147",
+    "hash": "0x53190b066e4755281707b5fa919b1b02e893e20648cb39278be64431216947b0",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,495.063241447252057069",
+    "hash": "0x39b27f3511191a3fdcd7706ea9e14ecd0a56e8d78fda4f20695f6c7379d857aa",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,764.440036",
+    "hash": "0xfaf3415f662e87bec654d05a7cfc0286abcb154bb0d3417687102608a9c04b28",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,746,043.373902794300277853",
+    "hash": "0x6c8baddcd24dc276f50d624182ea75031d82e803521303b6fc8af8e2d1d43886",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000",
+    "hash": "0x933881370946f05a2670e3bd7f2da8009e6a1e5bcd938a45558ddc6a019d1086",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
