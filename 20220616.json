@@ -454,5 +454,41 @@
     "value": "37,481.0948193",
     "hash": "0x883ef0c0b1b9daf0d5fe63dd65c3777fbecbb7274d41482db19330de3d2f9ccd",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "279,980.369725858030558906",
+    "hash": "0x8250ee03b3b87c289ef4e1f13db40242572c1c3dac61d578dad0d52a2ff8e28d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,435,265.63187688",
+    "hash": "0x9224b3a4c39711bbdd24daba9383d8994aa5d4d3336ced065147733cde52161b",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,781.714361",
+    "hash": "0x9e427e8a55471b0291bc06a49eb5e9f68957a53db90f9c3aa01be29e789bb1c2",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,411.62400353",
+    "hash": "0xf6ccadd49fbb58dd05822fb2361cf79c23cf9d9da877084e3fc643cae3d1ba94",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,660",
+    "hash": "0x03253f82fff02136067b514475762851ebca42bf45cbbee4a8d810166ffbfb23",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,322.678077534947691462",
+    "hash": "0xfb8961ac2a232072caf49c908d5b9737ef96e732815739f7eee8c2a60493ba17",
+    "token": "NuCypher (NU)"
   }
 ]
