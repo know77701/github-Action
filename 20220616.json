@@ -346,5 +346,23 @@
     "value": "20,000",
     "hash": "0x933881370946f05a2670e3bd7f2da8009e6a1e5bcd938a45558ddc6a019d1086",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,293.15011343575488681",
+    "hash": "0x84a64de6be505ff4450e54f9657a0dc7961d9141b1e3459015ceb8595f3e2e08",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,085.699984915991493835",
+    "hash": "0x45b0e207ae40835ce21610e0689d3166726377ce1f7fa19bd5d9a4842fcfe91e",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,634.51926076",
+    "hash": "0x3cc612277ab73d2991944f69fdbf512b1a016a34f6990dd1e38913cf778ab5c3",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
