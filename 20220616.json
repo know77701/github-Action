@@ -568,5 +568,11 @@
     "value": "13,300",
     "hash": "0x673fc39ae5732f5e03f432e5d871aa831ceaffeb77bd370882e3640dc3cbb780",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,000",
+    "hash": "0x0bcf13624f213f54e71e6b198f570778a74db569563242acd0354afadc5d4563",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
