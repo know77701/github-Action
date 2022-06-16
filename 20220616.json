@@ -490,5 +490,17 @@
     "value": "126,322.678077534947691462",
     "hash": "0xfb8961ac2a232072caf49c908d5b9737ef96e732815739f7eee8c2a60493ba17",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,436.21285427",
+    "hash": "0x9294968d4341a47fcd5dcca4980ea30821a35ea557e4042d312a651e9d4f72b3",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,603",
+    "hash": "0x2fc2d018575d1f6f11bfab864827f44f1aa5ed11cfcb9b5b33655fc6a60c46c4",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
