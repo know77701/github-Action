@@ -550,5 +550,23 @@
     "value": "1,919,645.99990527",
     "hash": "0x8891ea5ed481c3d729a768f4a1915d8c5b1f08c528fc0f6e6ce149ca0c85c419",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,960",
+    "hash": "0xee04a74a12ca4e99c08bfea18fb1f70e883ed48b115812a1f541a7e6ed3561cd",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,382.80001085",
+    "hash": "0xfaf8912dbbcdf70bc8cacb4169acbdec4766083973aa16b074d78e26fd1baa0e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,300",
+    "hash": "0x673fc39ae5732f5e03f432e5d871aa831ceaffeb77bd370882e3640dc3cbb780",
+    "token": "NuCypher (NU)"
   }
 ]
