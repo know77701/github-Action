@@ -820,5 +820,11 @@
     "value": "13,405.0442",
     "hash": "0x53275ed913ee4af3f7862188a539a0a72288788a9071ab79e415cf0c9ca9ece5",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "232,267.81831687",
+    "hash": "0xe0faf54f8ab3487fba7ba60c15c96d30a4fb5661651a26a7de2eedf19bf25d05",
+    "token": "ZRX (ZRX)"
   }
 ]
