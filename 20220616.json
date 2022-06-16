@@ -862,5 +862,29 @@
     "value": "3,026,443.77580771",
     "hash": "0xb2371b762fca421cfca6568761b3195e670ca4dc0ec8109d001ba7160a44fdff",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,975.99994774",
+    "hash": "0x53443d4870e4205cf087ee40c002605f628c81ed873866b900760b38cafcd796",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,608,766.952583816224751608",
+    "hash": "0x2004dcdf0e25ac8dc6905dcfe83ec1a49ef0cce91830a564f56ebcf7d7ddd526",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,603.641362209031609748",
+    "hash": "0x905fb3f741bd4689dc64b91f81e2e51e3c36e88b2bbdf30feea1a1abee2ab506",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,218.325267180968390252",
+    "hash": "0x4e37643f9d1dce6eccc2596f64b86da40b8e852ca210d97166b934e47c824ca1",
+    "token": "Reputation (REPv2)"
   }
 ]
