@@ -172,5 +172,23 @@
     "value": "935,764.159753036146599148",
     "hash": "0x1a92a679d1e0f85eb36fe16a4bb75ab514bcf1321fd6846f030dca5f22a9a25e",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336,133.477",
+    "hash": "0xa59f87f7362fdb028a8b8ceb2f16ab7dc501b88d196435d04ea4dfeec4e0edbb",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,280.22727316",
+    "hash": "0xc2207b3a0aa2dd3e6e548ce8cacbbb8479bf1d9be0356087e2a7334ccd0a09f8",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "253,658.26344773",
+    "hash": "0x2f2787034a80410e84d004b66a992ceb3fdbff68918045979366d579b56cf7e9",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
