@@ -916,5 +916,11 @@
     "value": "58,959.06495713",
     "hash": "0x11fc3f3582afd423fe0bd53dd2bdb8e83d7f358b5aa0cf5161fdb7e67718d6e9",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "164,185.00002387",
+    "hash": "0xdc7334580e9c3fd62f323377e1b52ce5229dc13008e2e8916e7b90ed70a966b0",
+    "token": "SAND (SAND)"
   }
 ]
