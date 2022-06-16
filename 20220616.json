@@ -400,5 +400,23 @@
     "value": "97,169.59287563",
     "hash": "0x04a5c5ad5c420343e1be197c2a223431357c77f5f14e009585efdaf80844d21f",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,253.36808638",
+    "hash": "0x7147859190134e01bb375961c2197952b9b30ef9db848508ab5db74544ef63df",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,882.7934",
+    "hash": "0xb65e065db903df8dbed0ffcb50df621455356f1d5094855782c4f98964480363",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,770.97752232",
+    "hash": "0x6a86f85eb823ab62715eb95feb5eb465509e78eb3982c315f368aeffe46d824b",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
