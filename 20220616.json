@@ -838,5 +838,17 @@
     "value": "1,662,261.390902249131819972",
     "hash": "0x27fd3685d56d1e7ddd70b5b1d600e565fde9313a34a489b4120d90fa3bcbbf3e",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,264.139",
+    "hash": "0x37e0b5230ffe6f345265fc94eb2373674da01923ec0e914d5d47afb59383f55e",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,100.82589114",
+    "hash": "0xe30995bd30ffb79e426b8da999fc03fbd6a15fae4a826f9f2cf72ad58f8c062b",
+    "token": "Bancor (BNT)"
   }
 ]
