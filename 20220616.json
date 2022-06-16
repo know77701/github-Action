@@ -46,5 +46,35 @@
     "value": "63,130.00597967",
     "hash": "0xc3305cb03b723892d7f2918e120b5474c4a07245e3a511651eb50f3b26c886d9",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,704.488555",
+    "hash": "0xb4f144856cb37626687431f02ee20127dd6e04e28a566fdc25d1ca983c96cb7f",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,800",
+    "hash": "0xb35a35ddf951767bde20ff47c175c03eb2960d536722ce683390537a500f7cb2",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,457",
+    "hash": "0x79a2cfc674adfa97f5b838dda0003450452abf11aa88f64e174d1ee9db2aaa4a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,260",
+    "hash": "0x4d81cdbd23b5397443675361d2b16137adfba1a1f7e38b8aa017904b27ad8f95",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "284,026.830808312706853947",
+    "hash": "0x7c4a0756b8875b3c220410879224e40776b2f1c8257124162d21d2f7ca5d6658",
+    "token": "ZRX (ZRX)"
   }
 ]
