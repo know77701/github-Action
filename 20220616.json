@@ -220,5 +220,47 @@
     "value": "476,960.404441756314384412",
     "hash": "0x8293f3da34887dd07637f516be41efc975ab259d815227cb09b3139b31c79af2",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,518.337811471406052872",
+    "hash": "0x9001659dbc6a1653ea8c4de58ac98d75f5b716895f1e24d84a6fa2544a200e72",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "185,107.238207",
+    "hash": "0xb8c21ad3254eb782094c95db8d1fe46323f85ef3b628f7d76933a6d84387e1f1",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,078,753.7",
+    "hash": "0xb576f6879025c3d1ca09849bb15be303775dfb149c1263c958fc861911c521d6",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,914.274165400877963067",
+    "hash": "0x0dacaa2ce51baa1fab5ae9e9d15769b086dea230a8092463cb281e64b8d3b34f",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,688.66959279",
+    "hash": "0x36a688ae61714b7b5dd5da0a07ea5f537cf37d8fa2b1b70cb2c1cc412b419d05",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,902",
+    "hash": "0x2378829c706eb972132fac98395cf41de1e03b41b724372e6ef1546b852907a9",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "202,970.69805419",
+    "hash": "0xc4299a5598b73d41c073dd8f9f82dbbdbe0919e6c4aeee33a172adece9bd333b",
+    "token": "Metal (MTL)"
   }
 ]
