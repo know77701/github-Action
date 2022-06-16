@@ -826,5 +826,17 @@
     "value": "232,267.81831687",
     "hash": "0xe0faf54f8ab3487fba7ba60c15c96d30a4fb5661651a26a7de2eedf19bf25d05",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,388,407.858952158001066503",
+    "hash": "0x00d1ae87946d423430f4456a70436fe33c54478c127c050fc1a551cc17c0357e",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,662,261.390902249131819972",
+    "hash": "0x27fd3685d56d1e7ddd70b5b1d600e565fde9313a34a489b4120d90fa3bcbbf3e",
+    "token": "Loom Token (LOOM)"
   }
 ]
