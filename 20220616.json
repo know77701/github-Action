@@ -262,5 +262,41 @@
     "value": "202,970.69805419",
     "hash": "0xc4299a5598b73d41c073dd8f9f82dbbdbe0919e6c4aeee33a172adece9bd333b",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,418.468902",
+    "hash": "0xdb392e9ba5a94b648911ad9f7ee963c6faa7748653f538e1c186466f2ae4f147",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,976",
+    "hash": "0x17018e17bb9133160af42249529a7d435e59934a79e4b96ae9d7e8b0ea4a6bb0",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,776.241139482303091813",
+    "hash": "0xd44c350efa031e7eb5bdfcef2191a7a89dffe063badfeb6476f0debf42c433d9",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "395,883.52264092",
+    "hash": "0x1026be66b0400071f6e8c62deed6c30e0cacfdf15992b73f5714ebce50b35bd3",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "373,788.758860517696908187",
+    "hash": "0x2760858dfdc1020b7279b1ab35d90660c8709e0ba2986ab7ae94dd826453bc93",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,793.443120560163229493",
+    "hash": "0x7645ef4fd1b0e6d08abcdc78b71c9a9e3ea625eeef6671cb12dcb6e7846d0ff7",
+    "token": "NuCypher (NU)"
   }
 ]
