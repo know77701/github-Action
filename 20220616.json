@@ -688,5 +688,23 @@
     "value": "65,657.363",
     "hash": "0xe4f8ae8f4272cff8e94d17380b1d1b27641e6a4072b6c4c22bb8174a897848d7",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "733,731.82669056",
+    "hash": "0xbe1a1adb3b4e016fa3e3b072d8e62abafeed9ee0fa5894e3b93d22a78b5c501f",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,979.75170378034514161",
+    "hash": "0x52a68fe66fe676460910f43a4a562c8f067b2253ee78eac474d12563ba3fd914",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,020.34029621965485839",
+    "hash": "0x17a17f6e64188838ca392dbbeac3e91b064bc3ad292557e719064ca33c4a04ba",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
