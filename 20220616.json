@@ -376,5 +376,29 @@
     "value": "189,390.159151585969632306",
     "hash": "0xa4b769e4df6ca3980f2386a0e0c41a6f1c61dd5cab959365e07fa83aa821b322",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,073.177262",
+    "hash": "0x4cc9366f95170684e800d4e5e6889a47706bf93deafec337ed183409dc279820",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,200",
+    "hash": "0xe25d03d10a91949682cce88767b3b3b3a8891db81bf981e00181f230548be753",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,273.542253",
+    "hash": "0x7a7526269c78e3aa612693bb2562dd6c39f4fc21972854608c5825bf39d0c667",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,169.59287563",
+    "hash": "0x04a5c5ad5c420343e1be197c2a223431357c77f5f14e009585efdaf80844d21f",
+    "token": "Decentraland (MANA)"
   }
 ]
