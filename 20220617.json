@@ -286,5 +286,41 @@
     "value": "197,041",
     "hash": "0xe0fe5c9380c827b5ea896bfa3e72658eb2f61873623977d3098c5918b658676c",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6bc740dec6bc613baf75159652b823e9443463be2aac95605b3e8f2435b89da8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6b51ea3ecac1b72666d8fc6157053c0546a7dbfe5efcdbf0588753a1d0763cca",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "245,000.45",
+    "hash": "0xfb3dbaf370f8e3e557cf74ee1a9b2bf5b771c23a32ce4a1b1f215f8064e10f68",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,047.583101",
+    "hash": "0xea956e0a3d517968e7725c871e979af2cbefc2c3a83d99921be1a5833bac4e53",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,182.41124025",
+    "hash": "0x46663173a4ba47ce0dcb53dfaf4bdb4dd376adc65a068779aa9160157cd2b1f5",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "276,914.508871",
+    "hash": "0x63f23c79f136ce1d28a7edf39b1765b197e69ff5637b7525d6be03fa07e1ecfb",
+    "token": "Serum (SRM)"
   }
 ]
