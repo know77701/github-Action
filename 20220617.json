@@ -52,5 +52,59 @@
     "value": "91,151",
     "hash": "0x44c8e8c253948cdd1afd032c7a550de0196908af66656dd2fa24795b0f688afd",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,785,068.136910157186467555",
+    "hash": "0x73e6848e557757cab3d02c3873ff0cd6466ef1c4c9124bf3fb57bb7ae6d3dc62",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "349,541.344712146312367694",
+    "hash": "0x1e8ac23e813ed1e06a9e619f4a17f52565e941924a99ca958656103004b65d01",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "190,001.297397593687632306",
+    "hash": "0x114ed04f3ab3a2e2d62592e29b24113afe43f5ff58cf250e5e2ce890dd301c10",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "139,985.506502",
+    "hash": "0x4270bcaeaa5a0da5e09ec647cc0ea0bfb7672271dcd9abecfad2c95dd98d5603",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,253.68155687",
+    "hash": "0x156f2e8f2ab42fa38b99f7b670a5cc9e8b947b9737955413dd135e2eac27fa30",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "580,082.984579061140991634",
+    "hash": "0x97cfa8e999c8b03b07186adca6410129a679b62885e31ce30c836ee7d6d0e7f8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,950",
+    "hash": "0x162ee17c6bf93dbd00cff63c60950a514ed668710f0b06ce2749def33fc30c32",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "430,121.612819128859008366",
+    "hash": "0xbe70c882d481be45648190461062254d9091e53a19b99a6582fb13c0e50d0943",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "133,720",
+    "hash": "0xd4390138644af1dffe1af5b68dbdbe60afdd8cba518bec3ed3d6abc622d743ce",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
