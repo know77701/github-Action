@@ -148,5 +148,59 @@
     "value": "918,629.484214142813532445",
     "hash": "0x295a2e055a46efe42e58bcaabd197345fe2bb77fe59656da1ce5138f7d134a12",
     "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "375.184295190105381472",
+    "hash": "0x34d7fd049d9ae113f79d3f29147037d3c3f7707d3e295efb86cb82af2b7f6189",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,026,757.99993782",
+    "hash": "0x1e981cf893a1592a18cd87c20f0b5399128bd656fb440772cda99e82a34a63c5",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "188,000",
+    "hash": "0x95dadbe6809a5805a92689ba937dac8458f4061c8e25c4faa315aef40e14139c",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29.263181546257221271",
+    "hash": "0xaf4ec765f8fbe9a58b353397544d9f3fdb479e4d0edddb2743e9ba9e98873c4c",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,063",
+    "hash": "0x6519d4548a529a21a0f6c50ed1fac34c93ae3c6d3a31f07bfb747ab8df239b69",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,914",
+    "hash": "0x6cd002e687e69d67e0bfb38773367e813c977a823148da404f9caeaa2417436e",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,103",
+    "hash": "0xecb78b054f152e8d5f16b8a162a53ad7daf78f7e46f41325f180eec7749f8ef7",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,491.660433",
+    "hash": "0x1bba1953956c12a9042c548a7ff269c0b22c04e7e0f189581a0f10432d3f4355",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,616.067841",
+    "hash": "0x494bcb98a10f3ac414f745507c5a1b66667b56eb0805ef4734354ffd92a5c643",
+    "token": "NuCypher (NU)"
   }
 ]
