@@ -1,0 +1,56 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "134,972.99996665",
+    "hash": "0xbd344ae74f4bbcafa325114ed85cefc977af356bac9583f5fa769100b682f4aa",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,303.876472502094241178",
+    "hash": "0x4af1b7e3457b75001190b3d552af8c82c3ab8443998db0ecc6def68f8ff2d858",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,995.39982263",
+    "hash": "0xede50dff47880b8f617d37853c5574464dbe6f958a4c175acb7ce236aa25b05f",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,799,094.21361787",
+    "hash": "0x868a87a964f8c3daaea1d34b70b84c52a4ca69155f0f8bacf171d77cd5ec82ff",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "439,221.26947719",
+    "hash": "0x0432a5c832c8f748b28ea49f4e9eeeffe4c4bf412175c40953092934357a8336",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,985",
+    "hash": "0xbebecb033b8d8842f3713ccf8b41c7d4bc226a696786ce3dcf3c394b3857d10a",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "168,207.020902",
+    "hash": "0x65c532a9928c4ed7e8f8bc6a20be5d09b42842748043c6addc0dbe7f060c2e4c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,335.77632796",
+    "hash": "0xbc6ab179dc45b1e86122ecb6ce3e289f0d8c98b4fd20cde8ad56d257d7c983ed",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,151",
+    "hash": "0x44c8e8c253948cdd1afd032c7a550de0196908af66656dd2fa24795b0f688afd",
+    "token": "NuCypher (NU)"
+  }
+]
