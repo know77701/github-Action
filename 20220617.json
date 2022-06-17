@@ -106,5 +106,47 @@
     "value": "133,720",
     "hash": "0xd4390138644af1dffe1af5b68dbdbe60afdd8cba518bec3ed3d6abc622d743ce",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,438",
+    "hash": "0x680d918fed2f72ab7dbac889c96cc41ada9db83975692fbbdb523699138ddc07",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,246.306231",
+    "hash": "0x8872d12cca155d6d796d737d5ab8db11e479efb747757e5445ebc5fc623dfcbb",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "528,323.24948029",
+    "hash": "0x7cbd8def7b389d590f63d88cda324d3c76be2cf361f57721e0f769534d3efcdf",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,242.405",
+    "hash": "0xe4f3c7e1444142eafa96c5dad3edd697f29056f3c90d25f4cd8df4504be7662b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,367",
+    "hash": "0x56e96f6a30d701a04e5acada055aecfa768a19f292a3cec6dc4c83e007451349",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,326.820062",
+    "hash": "0x5ba3af5c937359a87d352e3842fec75d59f3055fadbe4a2e13a1f5f03b39f4ab",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "918,629.484214142813532445",
+    "hash": "0x295a2e055a46efe42e58bcaabd197345fe2bb77fe59656da1ce5138f7d134a12",
+    "token": "StatusNetwor... (SNT)"
   }
 ]
