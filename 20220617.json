@@ -520,5 +520,47 @@
     "value": "60,817.574010660784457696",
     "hash": "0x83e36ca5355c38b20558f4fe5399d078de24742bc8c73c2553b069faaa69c4bb",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,376,356.839648840245290033",
+    "hash": "0xebd628fc0112566a93a1c397e40424677852aea0f56ba3263b66307c3a20f581",
+    "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,714.8521868",
+    "hash": "0x88b3b800eeb9b997958923ced6bd15454b3fa59a7317ac1d4c894df5e6c408ae",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000.275268653601824031",
+    "hash": "0x98d8ca24b482464ab586234eea0659568faa8993c856837d71a2a7e73750fa14",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,432,242.95890034",
+    "hash": "0x9aadd65738c3d191257d8f7f74254753ad61fadd9d931d1e9ef03913feaafa2c",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,700.294127814303220042",
+    "hash": "0xb5cec13c5891c6eebd8617971c713a038210d1b38ff105657dcf3078a4ee867b",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,791.411031626398175969",
+    "hash": "0x930fa66822ebe6eb4d5e3fc66f70b80bb0688e9da173e162755608c7415e32cb",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19.98",
+    "hash": "0x6061c826a43320a84786903f51e331b47148b9e48e6998599e7d55580aaba19d",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
