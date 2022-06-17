@@ -280,5 +280,11 @@
     "value": "31.246153173788527769",
     "hash": "0x6066e09cbb8953e64f86d17c43dda9e90ba1fa7ad7712315a03fadc75f0f27dc",
     "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,041",
+    "hash": "0xe0fe5c9380c827b5ea896bfa3e72658eb2f61873623977d3098c5918b658676c",
+    "token": "PowerLedger (POWR)"
   }
 ]
