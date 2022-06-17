@@ -670,5 +670,11 @@
     "value": "562,428.38061098",
     "hash": "0xecbe1bed297a4c3f52fbf3482fb866c6333aa9eb91dfa9762a90868b7f4296fa",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,300",
+    "hash": "0xc64c6cb8d4e2936d8da9b2d2f704a90cf53f43476c21c90d90123dd0e2387bd1",
+    "token": "1INCH Token (1INCH)"
   }
 ]
