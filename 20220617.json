@@ -394,5 +394,17 @@
     "value": "1,500",
     "hash": "0xb3738383fb8e4123479b075dee280114a929ed2d10189a34361c08fafa456d3a",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "490,877.75613051",
+    "hash": "0xdf1ce10b651ebebe80b95d82787c8698cd3a5e258f9e64a73b5a1b507d86fdbf",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,557.17627285",
+    "hash": "0x5d4499bb102f26f5b41c047525a637de479a0e98e76cc83032583c8d5ad82a02",
+    "token": "Numeraire (NMR)"
   }
 ]
