@@ -616,5 +616,17 @@
     "value": "28,572.2098437",
     "hash": "0x359408bc8bbd643f139b73f201012595a00b1e8828a303a12691f15b30748957",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,013",
+    "hash": "0x4efae3b8c5d02995ba94eb7555e561caffc35c6626aa64fc7b300155ffc193eb",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "173,181.044462158557917083",
+    "hash": "0x4205c7f418ac8fb7cdef4a28879d56fa30ebc9010cea89d866f7189abc1c771a",
+    "token": "BAT (BAT)"
   }
 ]
