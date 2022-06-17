@@ -580,5 +580,23 @@
     "value": "170.38507781",
     "hash": "0x490704910c5df4d4002a308ee04aca75ae2ff2af17b5bb60986d052fba3929e4",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "288,922.37542635",
+    "hash": "0x8528c2c98b9731416cb3becabb9f1175ff653b9c26796506cefcb12936fea3a1",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,990.02",
+    "hash": "0x02ce79da379559977b6f24c2a75e8ce313f6082fec9ea8a1225b2a0e59ba165b",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,675.618182948442365273",
+    "hash": "0x4209d296b57935f15bf972a8b93c24c2e42bc07290165d4f9162db897e264c7a",
+    "token": "Bancor (BNT)"
   }
 ]
