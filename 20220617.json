@@ -274,5 +274,11 @@
     "value": "275,705.4003116",
     "hash": "0x011f0d2383f2b8b5a50a38e0ceb6c8a66b67429163030203fe5e2b4a5faf31bd",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31.246153173788527769",
+    "hash": "0x6066e09cbb8953e64f86d17c43dda9e90ba1fa7ad7712315a03fadc75f0f27dc",
+    "token": "Maker (MKR)"
   }
 ]
