@@ -406,5 +406,23 @@
     "value": "2,557.17627285",
     "hash": "0x5d4499bb102f26f5b41c047525a637de479a0e98e76cc83032583c8d5ad82a02",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,239,528.39232578",
+    "hash": "0xfd73678228b29d58459830bd0b8580aceace05ab30c77737dfc68e5ecaff562e",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xd96853ccd12d554fee5deea26d1961413e79ede455af8a13284735fab25e4c0e",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,926.4366235570864128",
+    "hash": "0xd6de554d95441f8160525ad68a1be5cfc7ffd82f92dbcc3bb53629442594c0f4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
