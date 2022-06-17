@@ -598,5 +598,23 @@
     "value": "52,675.618182948442365273",
     "hash": "0x4209d296b57935f15bf972a8b93c24c2e42bc07290165d4f9162db897e264c7a",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xaf020f9f35c59e9a88abaa1a189e5b80f7857fa24bd4eaf96cde50f71bdf9d86",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,834.92401131263713294",
+    "hash": "0x5528c06c6cf73e8520257ef09cb53eb56b4523ccdd3957700cca2ca8d042476a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,572.2098437",
+    "hash": "0x359408bc8bbd643f139b73f201012595a00b1e8828a303a12691f15b30748957",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
