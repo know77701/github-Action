@@ -508,5 +508,17 @@
     "value": "6,600",
     "hash": "0x36bb415370719d464f54792e49b6c154916127cf93b87238c16e5376c8053e9b",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,974.568477275696779958",
+    "hash": "0xd27feaae5051fce254f58d5d68bb9f375973142d40ba0f380e05ed11ef4f3e13",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,817.574010660784457696",
+    "hash": "0x83e36ca5355c38b20558f4fe5399d078de24742bc8c73c2553b069faaa69c4bb",
+    "token": "Bancor (BNT)"
   }
 ]
