@@ -322,5 +322,29 @@
     "value": "276,914.508871",
     "hash": "0x63f23c79f136ce1d28a7edf39b1765b197e69ff5637b7525d6be03fa07e1ecfb",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xccce79655fb4665b87e1dec2de06ac3a5385bcf58790746a20f4006f40c5cd31",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x630b5fcd96430755a4f41def4418a0c807b086ce95becf8171d47375fb94ec18",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x4e0e3f13f69dfc30aca1c523ab234646a721eea4ca7add20e24799dd92be54fb",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "82,487.31421748",
+    "hash": "0x43057d5c817e525958fc806ebd5f489064e734c62e798fc18ed6a318d8edcf31",
+    "token": "Bancor (BNT)"
   }
 ]
