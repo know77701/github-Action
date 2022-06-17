@@ -478,5 +478,23 @@
     "value": "188,287.497256091010778928",
     "hash": "0x114e8f13e8354a4fbf6478dfe2fc29473a7481eb3c3621d5d0e7d5a85b8a78e2",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,790.54648419",
+    "hash": "0x3610171e23c3bbb043fa0851c299748d2ecfac3d3210fe3538133ee1f173cd57",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,676.23037316",
+    "hash": "0xf95b834f728705c5d8ebea236d18262eefdd92f966837ba79a0fb0bc62866199",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,104.32247388",
+    "hash": "0xfb57c9dcc849abfa3c4edda920e8a243a119ef1097da793800bcd7930448edb8",
+    "token": "ZRX (ZRX)"
   }
 ]
