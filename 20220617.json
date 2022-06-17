@@ -640,5 +640,11 @@
     "value": "67,584.6822093",
     "hash": "0xca4f7d2d568d8cf9274e2d015b9ab64b42af9a61f20d4453db26a613fc9ca175",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,138.93187254",
+    "hash": "0x3ef74dc3d8faa2f175ed6fd7e4b73bec22aaa288966f0d75fc3ea06b241eb79f",
+    "token": "Bancor (BNT)"
   }
 ]
