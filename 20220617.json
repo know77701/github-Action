@@ -658,5 +658,17 @@
     "value": "18,596.829258858218028682",
     "hash": "0x016e5e7a8639e3f7d2e6c2007a0d8499278dedd8e6f7113005772d33ef456839",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,293,757.87251129",
+    "hash": "0x8e73e7f96ecb87b89f0c7cd54988a0c4fe0f11a57b402864d0e715fcd182f6d9",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "562,428.38061098",
+    "hash": "0xecbe1bed297a4c3f52fbf3482fb866c6333aa9eb91dfa9762a90868b7f4296fa",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
