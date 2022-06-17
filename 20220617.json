@@ -364,5 +364,17 @@
     "value": "2,000",
     "hash": "0x93ae9403794cf625658f8cbec7d0acfa7d174696d49644f90de04fdcf7c19325",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,704.75478718",
+    "hash": "0x5e4cc3486dcc93952534769522c5db1d00980e10df5179720d04f9d5b19bead3",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,648.66997657",
+    "hash": "0xfe2ca19fd41b3f17d33112f5ff50f1c2290fa5ba9c6a6174bec7fcc196515933",
+    "token": "ChainLink To... (LINK)"
   }
 ]
