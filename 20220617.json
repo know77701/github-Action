@@ -208,5 +208,29 @@
     "value": "196,000",
     "hash": "0xeb9e3be865440dbd74a60e056e99f4f57e6abfbcf528098f0f5439ed73e7a858",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,572.221281",
+    "hash": "0xfb393216a0cdd1a81b9495f90a1adab0cdd80b7cf86dec80f34335b9d3e71788",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,843.028",
+    "hash": "0x6c071d3eac486bdc0500d77e0c28ec112ef25a298a3d665b5c800485b86e03b5",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,944.794668176924217748",
+    "hash": "0x71dc49cacef6435e600dd5320ef3d96b1c0101e7b454ddc5ef30f8aa95ddf4bf",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "148,000",
+    "hash": "0x151ac27e8f9884e22452b15275fe9016e7ec7792fec966c72268c8b1a88d288b",
+    "token": "OriginToken (OGN)"
   }
 ]
