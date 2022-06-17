@@ -244,5 +244,35 @@
     "value": "760.87163689",
     "hash": "0xec05f917f80cc21ed7572dd1246fd1142ff91324c3c8a17c76d3963178481517",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49.931402359954620095",
+    "hash": "0xd62b06020684c8e79496c8c25dcafc5ed300b98b7a7046af1e458d39646d3ee0",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12.988552426256852136",
+    "hash": "0xa8039ee97bedaa0f27ad19ea76c1930f6802e7a4f3710d4a724bfb241a81d9e4",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,016.882398871841469515",
+    "hash": "0x42453895d143e3a737540822cd14d9f63ba4368d9d79528321dcd29b2509d21d",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "192,051.897066019857714231",
+    "hash": "0x3079604a00bf4817164949ca2bdbb6fded4a4b108bbcb4fa8283e713eb9b90bf",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275,705.4003116",
+    "hash": "0x011f0d2383f2b8b5a50a38e0ceb6c8a66b67429163030203fe5e2b4a5faf31bd",
+    "token": "ZRX (ZRX)"
   }
 ]
