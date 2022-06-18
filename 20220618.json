@@ -472,5 +472,41 @@
     "value": "9,164.910523907539748615",
     "hash": "0x36c249dabf3d740123e34ef505c8e02386a44e99ad528c77b88b9ab97a37b631",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,057.34272589516952548",
+    "hash": "0xb83d23bc4c300ade298a2d6bc35c54dc9472cd36377f119e0a156bed356d0c50",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "274,409.786036493001183558",
+    "hash": "0x27bc4f366486e876940b24f5efb42a5792ac8c33208a3c4ce57d90429255b140",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,989.96785501483047452",
+    "hash": "0xa87dc9fcbb87fa87f59a01e0afc4ac65d36fa78d8225f894f957357336261de1",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "208,114.594275706998816442",
+    "hash": "0xbb829c0ada8263a8875bd42f3d5181f31e3466a5470a2bf461ca714db0e3934c",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "172,001.303402501974653956",
+    "hash": "0xf892b42d2dbf1f26b8d15cd3499f8b8bdf84ef55922a7cd47c12cdd67ce7085f",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,100.841001458025346044",
+    "hash": "0x91685271d922c15bc825fb1cdecc737f1b62cb6262ac6c5251f6c0ec995d6a88",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
