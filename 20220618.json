@@ -598,5 +598,11 @@
     "value": "3,949",
     "hash": "0x271acb577c18c1b8aa02869813963725f76fb743e126ffbe0ac8887f1ed01e73",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,000.48518091",
+    "hash": "0x51cd9f09fdfb7b6131df9d42ad321e746d778df7f8648211c280d407ab02cb6f",
+    "token": "Aave Token (AAVE)"
   }
 ]
