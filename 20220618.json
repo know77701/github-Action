@@ -1,0 +1,44 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "161,442.588832486254961271",
+    "hash": "0x05b80c7fd9882fb33a7056d7b10eb78b88d6c26d980f0dbf7b0095d55bd60c99",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,225.5164708045",
+    "hash": "0x609e069fb4eb9b97068e911f2dec43e99f81579906d2ba0bffb9ebb44cbb2f1d",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "167,514.30147037",
+    "hash": "0xce91087f07a69baf79e16b14e8307050709f3666dce219f720638e918b8bea4e",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "613.994635427198981567",
+    "hash": "0x4681ddf3aa13e397135280232b5bf2b2131bb9d68f6beff934b6b95164d1081c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,656.77577617",
+    "hash": "0x0fcc3dae2617986a4251058442fea9106ed9b8c2ac13cee981a1db59b77d425c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,071.28614649",
+    "hash": "0x8c4bd49ff300c6c94204b7bee459aab3e273d94bac37faeb80f4675eb7cc35e5",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,970.287014497949866596",
+    "hash": "0x11db677de4d414406e513024ecbbeba91097f3f6666c5ad9eddff188894e83af",
+    "token": "Bancor (BNT)"
+  }
+]
