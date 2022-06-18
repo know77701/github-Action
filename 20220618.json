@@ -124,5 +124,17 @@
     "value": "225,069.421490877966654772",
     "hash": "0x441a7fbb60c4ad106a2647dcf66b7b885d83b94189c8d54bcb8478761afd4a12",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "639.613770060226480858",
+    "hash": "0x8816f44ecf8341ae5db4aa7347a623caf862e8da2d6069ce20afb27c8c420516",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,374.76342263",
+    "hash": "0xaa1e944f8d5b55b1a63a305f64f2ffd4111e5fb946d35e3b4dac8b5b516a64ed",
+    "token": "Bancor (BNT)"
   }
 ]
