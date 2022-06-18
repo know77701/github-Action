@@ -40,5 +40,35 @@
     "value": "10,970.287014497949866596",
     "hash": "0x11db677de4d414406e513024ecbbeba91097f3f6666c5ad9eddff188894e83af",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,250.59991953",
+    "hash": "0x0c79147a3e4b06b36c230e3dbe07597b6f7a8d2d4c7c204c29ad9bcd112f1b0e",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "977.9176",
+    "hash": "0x366a257aecb7f39ad8ec5df2f1b1a0e7829528467365143a3ade1db87a2c0372",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "552",
+    "hash": "0x268e527c41275923e1831070cb6735346410df5849fb46c7c27e62930e7260da",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "236,965.41403224",
+    "hash": "0x5949d9a0da58306a89aa233cdee62ffdfec6712ec34ad49dc7818f01cee20635",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "988.8",
+    "hash": "0x632f47984ea99851ab99ded6b4dcb34482c917282f140501b7b4bab7ad8e0b33",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
