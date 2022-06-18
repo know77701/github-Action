@@ -508,5 +508,29 @@
     "value": "142,100.841001458025346044",
     "hash": "0x91685271d922c15bc825fb1cdecc737f1b62cb6262ac6c5251f6c0ec995d6a88",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "56,278,608.139077729301229103",
+    "hash": "0xe6a8bd3965a5da0b1e37caad65ce1f7e7792e13119b9bb97435cb2310dbed6f9",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,361,570.152015090698770897",
+    "hash": "0xd1d5cdeedea6405aca536933b34534321b4419bda4e9a2cbf1a4b68f95bd0442",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0xe4aca272c8f586ad43e23c9a3bb6c3547a76ffebeb4bdc1fe58277c590ca54c8",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,000.1098",
+    "hash": "0xff9ce31303b3f4d2f24d219243585b2941fc8e08434a3309b79407249962a6ec",
+    "token": "Reputation (REPv2)"
   }
 ]
