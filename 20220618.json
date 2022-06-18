@@ -532,5 +532,11 @@
     "value": "1,000.1098",
     "hash": "0xff9ce31303b3f4d2f24d219243585b2941fc8e08434a3309b79407249962a6ec",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,044.23",
+    "hash": "0x7f16ed07a88521aa6efcac40f2f0723ca9a767d3b0fbc841ae97b3e04ee19a53",
+    "token": "OriginToken (OGN)"
   }
 ]
