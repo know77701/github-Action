@@ -742,5 +742,23 @@
     "value": "13,277.661217018312793557",
     "hash": "0x8347cdd6e43045bcef9fe1c10fbd8d645f590dfe8ecb2a6b4ea144e5376d5787",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,846,701.810406097752448923",
+    "hash": "0xdac3179234107cff314112bed54eac40cca4636d1e7a2ee47bd6670f183df0d8",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,925.3998124",
+    "hash": "0xa30148f3a8b2ce487f80b6460bdf5a735fce9798a4512348dfc36b3aa4f4290b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,372.735706102247551077",
+    "hash": "0xf195bbc63ce291501d1b0c2b4cf6d45593051a750b14452e3792db5fdbeda230",
+    "token": "Matic Token (MATIC)"
   }
 ]
