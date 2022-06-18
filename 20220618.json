@@ -328,5 +328,23 @@
     "value": "596,700.602847705415136503",
     "hash": "0x5176301f2309f009f0da1225aa3db8391a55128815ff2f26d95d34dddd4411f8",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "295,000",
+    "hash": "0x777d65708ff4c349fb59dc67dff946f6d78edcab060dec0563de89ccc34cc71d",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,437.068082",
+    "hash": "0x5e94a4b3555ae490a6fa2003c3915210bfdee946671c889b4203a7cca78ae2e0",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,359.73936292",
+    "hash": "0xdf46fd50a256ec3b8e5ef57e66397a598da648b61b1ad4999c156203eb5b2b53",
+    "token": "Gluwa Credit... (G-CRE)"
   }
 ]
