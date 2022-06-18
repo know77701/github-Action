@@ -184,5 +184,35 @@
     "value": "1,280,754.253937815294725251",
     "hash": "0xb76542873e1a254eb9ca6c67e7bf93875f30adb0f0a0cb565c3f1500de690413",
     "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "223,605.04571376",
+    "hash": "0x80a644ebd76135ed01cfa8af36fcc506687b1eaf60760b4adf10573538e85880",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,074.78424507755491386",
+    "hash": "0x2ef0ac6e717d2be024d056fca86f560d82a1a2445e156e5ddbc96e0257ef71fd",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,394.0283",
+    "hash": "0xeaa592938af877a1fe8d15904bfbc4d7e1c1ccf9408b3f4653254979e7281ed8",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,000",
+    "hash": "0x5fb8e5c7af370a71f918e224604e433ae6149b74bc458401b1d6b4151494abe9",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110,953.87422361",
+    "hash": "0x827b1ae10cc334572666f84bd1ae7941beb717a64d9f1f0cfa6df7679c8b8cfc",
+    "token": "ChainLink To... (LINK)"
   }
 ]
