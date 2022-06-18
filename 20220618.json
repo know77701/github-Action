@@ -790,5 +790,11 @@
     "value": "1,905,963.86154115",
     "hash": "0x71f0fc3bf030fadef7e8a1b165e6ea3633ba96c35afddd5657784d77883aeeeb",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.8098",
+    "hash": "0x09aa37a3a6ee8e43ec165d93a6377e792744ad1297fe0321ae8709bf840e110b",
+    "token": "Reputation (REPv2)"
   }
 ]
