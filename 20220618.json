@@ -142,5 +142,17 @@
     "value": "290,000",
     "hash": "0xb20594fdde29cbaf5cbbda66d7eca18856ae94f89c70292ffc9a387a0cd8b1a2",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,945.07",
+    "hash": "0x13ad821afba4b494d19c0e28554c44749b5cd3598f2a142bfeee2011c805fb6c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,701.0203147",
+    "hash": "0x6cf5c5210a70853de5b718f0f34981ea726d83222991d957a0db8364bfed9b45",
+    "token": "Bancor (BNT)"
   }
 ]
