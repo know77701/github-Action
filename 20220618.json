@@ -760,5 +760,17 @@
     "value": "214,372.735706102247551077",
     "hash": "0xf195bbc63ce291501d1b0c2b4cf6d45593051a750b14452e3792db5fdbeda230",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,166.076630720302967388",
+    "hash": "0x2d8010084e8bad69e24afd11b7c5494c2e2e30f008a492037febf5ba75740cca",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,509.39980403",
+    "hash": "0x3838d8de4c4ef252a3e37a0c59398be8da18fbd24f08315ed76aa58b17cfdbd2",
+    "token": "Bancor (BNT)"
   }
 ]
