@@ -136,5 +136,11 @@
     "value": "31,374.76342263",
     "hash": "0xaa1e944f8d5b55b1a63a305f64f2ffd4111e5fb946d35e3b4dac8b5b516a64ed",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "290,000",
+    "hash": "0xb20594fdde29cbaf5cbbda66d7eca18856ae94f89c70292ffc9a387a0cd8b1a2",
+    "token": "Humanscape (HUM)"
   }
 ]
