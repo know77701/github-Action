@@ -238,5 +238,17 @@
     "value": "41,120.599065163079511108",
     "hash": "0xf3accd451b752a5f3ee46a8124fdf3e239f27810f52a7224cb6ed9b78a96b66e",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0x0527d1ab0e2e60ddef79b265a80aaaf0aa84a7a4be92b6837640a44245a9e7fa",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.4098",
+    "hash": "0x90a9a00f1df457e60182a4d9e5bfc4fd9383b565a135ba43e062ce572da47ca2",
+    "token": "Reputation (REPv2)"
   }
 ]
