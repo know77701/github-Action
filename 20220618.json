@@ -286,5 +286,17 @@
     "value": "14,311,901.68080359",
     "hash": "0xd942c88946364ddae2904a602bd1871ee873e87bbf492d901a489e045615b44b",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,811,150.293481371252078429",
+    "hash": "0x6bafb6e3a13c72bdab6db9cff1ab4798cdbbed28e1a8b6569a81f6c58532cc23",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,348.0677701",
+    "hash": "0x3d12b62dfc18f1806bc8bbc054428519e3bde248730dae817657b3d26914099c",
+    "token": "ChainLink To... (LINK)"
   }
 ]
