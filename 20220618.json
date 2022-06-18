@@ -460,5 +460,17 @@
     "value": "334,980.56",
     "hash": "0x70b41b5e2b697f56e74718ad45588e1efdceef7f388618a3b7c1e198e1c276d4",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,876.09",
+    "hash": "0x42bb56c454e3cfa5416b77f941d44b55d57bfe2a8070d16af52720db08b237da",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,164.910523907539748615",
+    "hash": "0x36c249dabf3d740123e34ef505c8e02386a44e99ad528c77b88b9ab97a37b631",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
