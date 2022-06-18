@@ -772,5 +772,23 @@
     "value": "16,509.39980403",
     "hash": "0x3838d8de4c4ef252a3e37a0c59398be8da18fbd24f08315ed76aa58b17cfdbd2",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,345.2",
+    "hash": "0x39ae8452f1a5958afcb1debc0b2fea5f8082787c52870b0e0fec60c1f0bebc18",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,039.282369279697032612",
+    "hash": "0x971e356ad2b5f0ca62a8bb3f69d17cb4d7f552da8c9abe9b42ec4add4664ab69",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,905,963.86154115",
+    "hash": "0x71f0fc3bf030fadef7e8a1b165e6ea3633ba96c35afddd5657784d77883aeeeb",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
