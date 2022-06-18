@@ -154,5 +154,23 @@
     "value": "60,701.0203147",
     "hash": "0x6cf5c5210a70853de5b718f0f34981ea726d83222991d957a0db8364bfed9b45",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,637.65564705",
+    "hash": "0x51f3e2c5ee44b44a952e5ddc458262791ceccbc04d31fcfbc236119015afc69f",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215,842.198",
+    "hash": "0x766fc52d1eced8c68770497c7072eaeb317149c0d80a3bba5a38f06da6347070",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "331,274.30041147",
+    "hash": "0x8fa734a695427d88b23171d59fca6a3cdeafbbbb2f53e719a21b55ccb9ebfaff",
+    "token": "ZRX (ZRX)"
   }
 ]
