@@ -280,5 +280,11 @@
     "value": "58,937.810251296905269888",
     "hash": "0xbe9bcb5bba068496412074c09e4116d2bcbc859723be5a8f1fcf36e74a40aafc",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,311,901.68080359",
+    "hash": "0xd942c88946364ddae2904a602bd1871ee873e87bbf492d901a489e045615b44b",
+    "token": "chiliZ (CHZ)"
   }
 ]
