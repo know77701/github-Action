@@ -712,5 +712,23 @@
     "value": "14,673.142329417147402595",
     "hash": "0x2b3cd2df1f5dcf01f59fd123bdb36710b3b95830edfe4f5019fd1894d972bd88",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,457.338744051687206443",
+    "hash": "0x0c1d2549ebeaf7b9a6883085c586a0ac366b8bf992b53bfbbaba77a77b0b4c7e",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "672,702.78568354",
+    "hash": "0xf2b4bef5032dec9ce60a9e914013a890886e4d5e6b26d5405cbbd61cf2323596",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,099.37",
+    "hash": "0x25f8924ee26f4f0bf14808a189451d0fb23ca04a79dc214f0d39e0705972d0f6",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
