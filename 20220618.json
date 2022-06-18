@@ -628,5 +628,17 @@
     "value": "61,840.12246324",
     "hash": "0x079e3bd2d8667c72353e67b65df5d2c45db45ac72b36d13bb87c8399d1b752b7",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,072",
+    "hash": "0x733e10f4ec4c51351378345169f14137b1b1b5f6eab28e8e3d5b8f352d079d03",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,031,987.842967527278863252",
+    "hash": "0xebbe0cac2584711411cda13d6577bab21203d5d5144ddf8c62728bc1fd6a9065",
+    "token": "Matic Token (MATIC)"
   }
 ]
