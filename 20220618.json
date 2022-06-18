@@ -820,5 +820,17 @@
     "value": "298,134.514785314676568252",
     "hash": "0x2d036711d9d7055d1281b10c6c7069bbb828bf469d04a3daa33ab122773f2030",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "111,970.99998029",
+    "hash": "0x5bccd93fed4ae1d73380e1a63ca4f9bdacf5757821d1f4462be2f6932d579abc",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "124,751.5",
+    "hash": "0x7d2d829db05f468ed678828276d2d250986539316a02f4a30ff8d9f6cbc35f47",
+    "token": "Decentraland (MANA)"
   }
 ]
