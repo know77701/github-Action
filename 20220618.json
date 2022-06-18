@@ -172,5 +172,17 @@
     "value": "331,274.30041147",
     "hash": "0x8fa734a695427d88b23171d59fca6a3cdeafbbbb2f53e719a21b55ccb9ebfaff",
     "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,578.384",
+    "hash": "0xca26cd1c2d0c3f01a5e91ffd5f1bedf4aacda0ef3cec1f95adad3926649f39f2",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,280,754.253937815294725251",
+    "hash": "0xb76542873e1a254eb9ca6c67e7bf93875f30adb0f0a0cb565c3f1500de690413",
+    "token": "Bifrost (BFC)"
   }
 ]
