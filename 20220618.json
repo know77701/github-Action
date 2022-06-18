@@ -868,5 +868,11 @@
     "value": "2,794.1",
     "hash": "0x102d231ed1ce4a38209972fb03134ce69e539d6ac174dbbe572f6278a75bc4fb",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,400.15",
+    "hash": "0x51aa4b6f7dd6496d1e59b48f7df1abf83df55444d0a83716e7c7b80f9857ccf1",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
