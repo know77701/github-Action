@@ -346,5 +346,11 @@
     "value": "3,359.73936292",
     "hash": "0xdf46fd50a256ec3b8e5ef57e66397a598da648b61b1ad4999c156203eb5b2b53",
     "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,034.39",
+    "hash": "0xda571ba3761abf4de919d7f4827ecd2a95dd17dd564a683ce9b82e3436e5a955",
+    "token": "Matic Token (MATIC)"
   }
 ]
