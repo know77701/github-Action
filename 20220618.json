@@ -352,5 +352,41 @@
     "value": "65,034.39",
     "hash": "0xda571ba3761abf4de919d7f4827ecd2a95dd17dd564a683ce9b82e3436e5a955",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,616.67551074",
+    "hash": "0x2db76683aaa7eb86e3fdc807d7795f504d92c084f4c06725527215aa5286fc51",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,544.068258272313216294",
+    "hash": "0x201bca72cfa0d563fa7745f4d1a77d99212883bafc56d7cb1740f0b3690fdcdb",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,664.1505",
+    "hash": "0xf4d9e750676001e2f50f1cf56c47e1e4740856ec2f7f8a9ade23e3e61b62d8d4",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "55,073.431641727686783706",
+    "hash": "0x4a30d95d61f41457d1edd8d208ac1892d7727a2371db4a6b5394498a42880930",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,111.771935515043937611",
+    "hash": "0x290ec1c5da20822976faadd3c3b985a19fee25dc02f578397a4b5adfc1946d19",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,033.9084",
+    "hash": "0xf8dd08cd6699422d24d65c9172f03ea1e7f408b174813748af7fab2ad78ed180",
+    "token": "Bancor (BNT)"
   }
 ]
