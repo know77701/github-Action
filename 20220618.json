@@ -250,5 +250,35 @@
     "value": "999.4098",
     "hash": "0x90a9a00f1df457e60182a4d9e5bfc4fd9383b565a135ba43e062ce572da47ca2",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,035.26162263",
+    "hash": "0x04ddc3aeb99dce5b8ed806fe34329e27b19f24b2209c0bd1fb0a31d7169c7500",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,836.24356324",
+    "hash": "0x2efec5b98660f0774fd199e3908b02779caac9cab76d33eea22d1c255e55dd7d",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "601.7298062",
+    "hash": "0x261c4818ed1ccdbb389782c5e362e95c9221458f2c00998dbd5af2e4de5e2e70",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,256",
+    "hash": "0x8abd35158ec62ed427e13c4c8a73deedc9fdc1c82364676acc06716567aaeb02",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "58,937.810251296905269888",
+    "hash": "0xbe9bcb5bba068496412074c09e4116d2bcbc859723be5a8f1fcf36e74a40aafc",
+    "token": "Bancor (BNT)"
   }
 ]
