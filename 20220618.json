@@ -670,5 +670,47 @@
     "value": "10,687,677.216830281802173694",
     "hash": "0x2901522de3626b3a432fda2e451b28616d61106c46947444afc2784b3560359e",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,126.066345162366533321",
+    "hash": "0xd960b6f5e21da16c12bfa7b250ab1921d2334a3f1669bb1d03d8b1f9212acfcd",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,893",
+    "hash": "0x422752e12ed1a278f9827f88a4acb5ef37e74cf76bc8e3dd1e74e72975857315",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,531.13",
+    "hash": "0x89990851d7897ed210729ea49eb711b5b584f33b29ee60d6749b5620fa36dbcc",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,065.266933192852597405",
+    "hash": "0xd42f3273bb2a1f7be33b80a2780ac9a95421a9349cf64efee6fcb69e7e497646",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,808.0509142",
+    "hash": "0x446f3efba9bcf98be4410575e8152828f95a0068a5bbd7c902a1678934de4a5a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,980",
+    "hash": "0xad67b2ebeaf649a59542ed7dd9c930cb4dfdf10ac0116bdd3b68d24a9774b2bb",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,673.142329417147402595",
+    "hash": "0x2b3cd2df1f5dcf01f59fd123bdb36710b3b95830edfe4f5019fd1894d972bd88",
+    "token": "Bancor (BNT)"
   }
 ]
