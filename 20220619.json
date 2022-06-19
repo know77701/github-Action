@@ -616,5 +616,17 @@
     "value": "6,828,625.033451949936221122",
     "hash": "0x69d5c6b0cb6048acca17079f6be8f57131106bfa6345dce3ab8597eed7b9b74d",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "835,425.59456498",
+    "hash": "0xa1a8cb781396585c8af1a65ee12bb2a6a71d0dcef8184e98061321f5d953f299",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "285,136.36348492",
+    "hash": "0xd5d348b3194f50b9cf9830df2780bc92ccae1f61e8b5abba8843605bddeb3207",
+    "token": "Storj (STORJ)"
   }
 ]
