@@ -262,5 +262,17 @@
     "value": "26,075.03532321",
     "hash": "0x86c03a7c8493b146939346a9048df7edbf095dfbef043ddaaffeedded2180fce",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,439,950.471047358940792546",
+    "hash": "0xb4ea4dfc298db9de9866bc268e4b910081fce350f767e6cfc15581e5fcb4e47f",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,725,956.400588851059207454",
+    "hash": "0x0fb011311efb0c4f7e5a362550b954fd1db1c33b629328bd724b5f6deceb62b8",
+    "token": "Loom Token (LOOM)"
   }
 ]
