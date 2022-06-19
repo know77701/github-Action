@@ -178,5 +178,35 @@
     "value": "34,575.123",
     "hash": "0x2adcf78e0a79c261c645b079004509b0f480dda746bf6b447c936a92bfbba8dd",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "219,196.936228780943998066",
+    "hash": "0x703ed2c726b0b74dfa86859e1a323af4aea9c9fea486b11cccfba76723726f2d",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "302,108.063771219056001934",
+    "hash": "0xcfe1d38cfb4f50cd897344fbc5b467671d6d394db7b2dff958c04f728b37300c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,226,027.5472062",
+    "hash": "0xe5d117ea7f9fd46a63fccb353c14a83cf33cf0460290af0e58388fb0c8f5a671",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,049.02",
+    "hash": "0x85fd08d4baee750e20773ae81e94f0fe4c941f8e9b313dab49d2fb217b26a482",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "294,117.77736696",
+    "hash": "0x03d4509cb716b120301e2bed470748dffde95cdfc7b5a0b0c1962f97ba065ecd",
+    "token": "OriginToken (OGN)"
   }
 ]
