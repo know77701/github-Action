@@ -46,5 +46,35 @@
     "value": "187.77736138",
     "hash": "0xba059a03479f93e6eaeb964d01c7b69ecef4a708f08dde04119e683a0341fcea",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,615.39988896",
+    "hash": "0x48ca7884307b9c8987fe9ae6177f5c9fb84021f59fe8ae2ec8b4743b8cd1d0de",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,964.501767",
+    "hash": "0x98152dedab219907ee0f46bf3a5b9ed16023ae47589efbec9d87b8ba2d65f070",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "726.581170568529026941",
+    "hash": "0xb3731e54a706dc13736a3b7d3adc2761ad84b1461aa1e1455b8601142545aa89",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "933,499.77631326699178646",
+    "hash": "0x1aeda3b3108b0f80a3fe575c185dfe11407092793b6d04527c71615fa6790547",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "469,299.02315306300821354",
+    "hash": "0x767a127ac6edc69cabf9816d99603a26768f4136b373b4a1f279e4e86fec3f33",
+    "token": "Polymath (POLY)"
   }
 ]
