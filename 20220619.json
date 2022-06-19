@@ -340,5 +340,23 @@
     "value": "28,934.975",
     "hash": "0xa41449aa1833746987edb41c22f07d066b6d7a892070a15a7d6e96a64ecbdd4f",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "298,692.779553111324568252",
+    "hash": "0x410425fc1c908c8cebd5f019cb19fc6460e3cdaaa3fe49dea4535567b0614ab8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "177,931.57657994",
+    "hash": "0xc4989c6b5cf46833a44aef8b4c19d3bed02cbbcc53685698d8f632cd7b30c3e3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,324.80587807",
+    "hash": "0x40b1bd3a0dfe3cf7b75f9f79dc64970cc474842becbfa7e2c94a2714b2696837",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
