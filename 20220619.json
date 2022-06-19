@@ -532,5 +532,47 @@
     "value": "373,310.91391252",
     "hash": "0x90119eee6bc59d529a5206de890c8a0eeaba80d5e06ca69951d73e8af8e8c9db",
     "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,619,590.771681109104173568",
+    "hash": "0xfa67482eb4e096afe63375c7d241966e2058bc1d9898aba2e252f696e89bf861",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,094,176.164122500895826432",
+    "hash": "0xe3a43ff6cc5826db50b3d463d4c55718b1895584e93922d6aca0f5ee4ee7215c",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "400,959.406486345742829297",
+    "hash": "0xf1c219318af14d98ab07f574ff2014eb0dbfbd236572726cbd145be1d2113e7a",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,150.909349894257170703",
+    "hash": "0xe8feba68ef9b5d7f19e7841d86fb71fbf2e453b0dfd33aaf93ff415e5dfb6374",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "47,872.725637848514804171",
+    "hash": "0x77f2d6e67cab8a7da5d5b12e015ad46a46110bffde35e40a599fd03b51b14800",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,176.13161593",
+    "hash": "0xf73ebf4bfcffea339bf3a4656a3154fc0e2ef12e44fecfcdcf7f29b0f3262367",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,540,591.081869100906425981",
+    "hash": "0xccff1304e5316400cf1a025f6589594ade660bcf01b80367e2ed9b6b3dd5c41a",
+    "token": "Ankr Network (ANKR)"
   }
 ]
