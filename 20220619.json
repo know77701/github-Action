@@ -778,5 +778,23 @@
     "value": "186,103.94744601",
     "hash": "0x9f3feb6fbb868c71f3b3dabfe5e7af66db8ab4009b541815183072d7fb57215b",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "694,376.656027670965055703",
+    "hash": "0xb03ccfe73cf2561318ad71872d9b15404a200bf1b5e94f89ef6d3fd355b0e77e",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "353,919.801457729034944297",
+    "hash": "0x0c508255615f38cbfa31e7ae5b7cef3a8b13cdcaeff9c1927f22246d820f28e8",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,235.39981643",
+    "hash": "0x10dd3704686329e39317fa9a340889250b3dea8c47595bea702fe6481e218f9c",
+    "token": "Bancor (BNT)"
   }
 ]
