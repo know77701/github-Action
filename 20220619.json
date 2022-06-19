@@ -670,5 +670,17 @@
     "value": "313,698.6557062",
     "hash": "0xc9cfd6ccb0c528a261f4753a4af47adc7370abaddbacd40ac1f75ac2935525f0",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,682.38464371",
+    "hash": "0x27c7a73f5a0454ec2ffc967ccab70d4863ffb3c6c264e1da071cd804bdd93c49",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,235.39987719",
+    "hash": "0x5963d3cf7e5dbb731136d853fad631bdca753c033a182b1b26b7e0bff650a394",
+    "token": "Bancor (BNT)"
   }
 ]
