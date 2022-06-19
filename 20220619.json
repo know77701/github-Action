@@ -466,5 +466,53 @@
     "value": "229,809.83999912",
     "hash": "0x88e9bf3b3f034e08dc08fab1d7ebb99139f32d27312bd256217f11cdb5bc9a93",
     "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205.30597533",
+    "hash": "0x28bf61177aa4d5d292611e41463729ce91aaf99c8862553bf38431b04b418604",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "153,474.25933391",
+    "hash": "0xb06159b4428972c571035e626863e2d091edaa481bbd637d7c7d266e3d22a944",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,569,612.796581331124932099",
+    "hash": "0xadb7ce631486b9133580d14720b3f05e5b253c6e179724cb7072bfe1bcfad8c5",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "99,800.099",
+    "hash": "0x8abcc71b420861d50d7289369d1838028a0d785a69d5ae270ce5fc5d13db824b",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,828.025582103773062578",
+    "hash": "0xa15eab8ed6d687a43477f8b3e73cff9ddc7a845272367a7e56b55305c29a3385",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,805,306.881006378875067901",
+    "hash": "0x54c5a9880d5526189b5765f7fce25183f14607f51b9b79e87968be652bea9a32",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,529.820744227916924259",
+    "hash": "0x03f0b9476da2d89c5695997d6ee03d14f54b0b73f16bb482686bdfb07e14158f",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,785.39987842",
+    "hash": "0x5acc4c0b724c7ff7b69f3764c5f5df6f6a3993fb1aba64fb4345355b5cfc6822",
+    "token": "Bancor (BNT)"
   }
 ]
