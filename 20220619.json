@@ -412,5 +412,23 @@
     "value": "43,371,119.59854061",
     "hash": "0x680af03d8df7461f35321e1891652284cd8c1759bf701536c3eefb2ccdd3cb4d",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,086.175644017134159042",
+    "hash": "0xba7a4f88d511f7f0a59c9cf653825dacb412faaa745d406a2a2214fbbfadf37f",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,495.033",
+    "hash": "0xbd8b105a7671a486b8f3fa7ed4880603d356436ad243ffd42e6bd6f56e6d66c1",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0x6a89d7861f3cd09f0725453b389390e3f95d86741a57872a8d7d177f8048011b",
+    "token": "Humanscape (HUM)"
   }
 ]
