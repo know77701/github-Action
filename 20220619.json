@@ -718,5 +718,17 @@
     "value": "27,400",
     "hash": "0x9e3cabf8b1ac0b4662a89cc9088147502cc6520f1944617896d0931ce5e969c5",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,166.428033560200591905",
+    "hash": "0x22dfdf1f672b34e92638f814b1d9fcc9f64392123c6a577bda4a597b201099fd",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,000",
+    "hash": "0x339bc3e093a0f10270896384693617f3a08e131bab6e46b71815060cb7b316d3",
+    "token": "Decentraland (MANA)"
   }
 ]
