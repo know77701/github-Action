@@ -220,5 +220,17 @@
     "value": "14,321.44487",
     "hash": "0xaa0242558ae0da03388be05f19fbc958637220bdaabe4b72d36b54397d2efbea",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,082.90376585",
+    "hash": "0x350e49fa0282a0a7b7aa2ca6df8d0de02a38ff5902df6b25b76beccd59a57982",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,133.23028277",
+    "hash": "0x7e923317340e57989af5867ba671a674b2ae4fa1d53438bad4f3936a151849ad",
+    "token": "Bancor (BNT)"
   }
 ]
