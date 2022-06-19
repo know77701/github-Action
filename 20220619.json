@@ -454,5 +454,17 @@
     "value": "12,992.940306611289231771",
     "hash": "0xdd233355c708b092e1bcab223ef25a1d6af30e40a860923cc031c380d4d93a31",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "811,522.971906",
+    "hash": "0x7549fbe494c4ee0b61d22800d943499a66722f0d24b6a464b77a872159c934f9",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229,809.83999912",
+    "hash": "0x88e9bf3b3f034e08dc08fab1d7ebb99139f32d27312bd256217f11cdb5bc9a93",
+    "token": "Matic Token (MATIC)"
   }
 ]
