@@ -760,5 +760,23 @@
     "value": "29,721.319766879799408095",
     "hash": "0xb262bf36237d7520e6ae7bf4da0c9e33407b040191456757e91bdb42abd61aed",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,432,713.568090890028777045",
+    "hash": "0xef278d0de69de4e593dad7ab612f174bc81caeab1359b691456c36556cebe919",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,908,032.431930809971222955",
+    "hash": "0xe001a88f87dadc8db86f51890743fc49cd741b4b5b0b587d1730bf3104675ceb",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "186,103.94744601",
+    "hash": "0x9f3feb6fbb868c71f3b3dabfe5e7af66db8ab4009b541815183072d7fb57215b",
+    "token": "Metal (MTL)"
   }
 ]
