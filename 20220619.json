@@ -652,5 +652,11 @@
     "value": "68,593.65186673",
     "hash": "0x533d41e5a83bc084c2a9b323066b1bd2dddf9717159516501012c8b88caaf3d5",
     "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149.96994743",
+    "hash": "0x7a73f59ec95c592244b06d55aa228608bde62428d47c44c3cdd6053cff86c8db",
+    "token": "Compound (COMP)"
   }
 ]
