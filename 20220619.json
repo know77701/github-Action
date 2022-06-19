@@ -208,5 +208,17 @@
     "value": "294,117.77736696",
     "hash": "0x03d4509cb716b120301e2bed470748dffde95cdfc7b5a0b0c1962f97ba065ecd",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,481.41187228",
+    "hash": "0x5abea168f6dac5e5dd8349a0be615ae306f6ca91231a8bc1be33d87daad67e4b",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,321.44487",
+    "hash": "0xaa0242558ae0da03388be05f19fbc958637220bdaabe4b72d36b54397d2efbea",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
