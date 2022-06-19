@@ -592,5 +592,17 @@
     "value": "18,507.40108153",
     "hash": "0x7da3d6840cf1ed83e98282614601aed3106456f63cea1a845a88dce8620cc918",
     "token": "RLC (RLC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,756.12046",
+    "hash": "0xecbcc7aa5475449d561e53aee2302d07e6a08b40001b35cf5c4ae6ebd106b360",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,074,486.346635800063778878",
+    "hash": "0x647e6512ea8f55ed4d24da204fbf92a1de53ae02c366bd03b351ce67cfd34525",
+    "token": "Ankr Network (ANKR)"
   }
 ]
