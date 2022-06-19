@@ -736,5 +736,29 @@
     "value": "87,265.012486139119763268",
     "hash": "0x1a5cd1eaeeb13cdb2487fb10787a362ea64b294140c94fbbb3f01baa8d33ff11",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,768.53212028",
+    "hash": "0xb00f474eae6d09398be65393924f1a55ba141437ac81579664e5171f5c7191d8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,954.290513860880236732",
+    "hash": "0x59c237b57500b4058af8a6b579ef32d5bd21ff38890ca25347081a75d1ae8d51",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,063.54610248",
+    "hash": "0x7c008c1cc7a417241e7fbb76857219f2a5cb936b9c724ad2639b2715c1027d16",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,721.319766879799408095",
+    "hash": "0xb262bf36237d7520e6ae7bf4da0c9e33407b040191456757e91bdb42abd61aed",
+    "token": "Bancor (BNT)"
   }
 ]
