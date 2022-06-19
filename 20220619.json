@@ -604,5 +604,17 @@
     "value": "11,074,486.346635800063778878",
     "hash": "0x647e6512ea8f55ed4d24da204fbf92a1de53ae02c366bd03b351ce67cfd34525",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,249.0242",
+    "hash": "0xc283dddea320b71894c39b0997505ca313e0b33fb5675f26d88747f35e74a295",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,828,625.033451949936221122",
+    "hash": "0x69d5c6b0cb6048acca17079f6be8f57131106bfa6345dce3ab8597eed7b9b74d",
+    "token": "Ankr Network (ANKR)"
   }
 ]
