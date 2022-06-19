@@ -394,5 +394,23 @@
     "value": "1,933.7257",
     "hash": "0x4665a011db16805026f56e6664d2b6f77b2ec66a882df8bd413a195de65c8c0a",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,556.0943",
+    "hash": "0xcac19b8242d6aa64e0154670f90a53787ce3ef287033d70300add70b1396f42f",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,677.496776635700055574",
+    "hash": "0xe874c438994d57382db6a3f1f9615131d7a652969a0583436f9f2f945924872b",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,371,119.59854061",
+    "hash": "0x680af03d8df7461f35321e1891652284cd8c1759bf701536c3eefb2ccdd3cb4d",
+    "token": "StormX (STMX)"
   }
 ]
