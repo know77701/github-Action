@@ -634,5 +634,17 @@
     "value": "1,999.38",
     "hash": "0x3cd726a5de6a768bd5dc4dd5d6af41a1ee21a26f6ea7c28cac22862cde2ba9a9",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x828cdf186a9eb88f4f787eefb437331c488a2d19b9d730f7de0e0382ceeca99d",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16.46958011",
+    "hash": "0x310749c9f25a785d358cac32c2d95818091a28f6b7c0d9aa5acf43b753801cd1",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
