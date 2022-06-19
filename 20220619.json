@@ -232,5 +232,35 @@
     "value": "23,133.23028277",
     "hash": "0x7e923317340e57989af5867ba671a674b2ae4fa1d53438bad4f3936a151849ad",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,000",
+    "hash": "0x4546897de734769f58f36616feef5a4b841b987aeed3a5554a6590ba8907a2e3",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0xc09f7cc23c58269c39c3c3c1cd937d74ce2e8a71ddad73737b86d817befc598b",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,000",
+    "hash": "0xd1d2924d0dcbf8e7303af2fe12b6fa5544b28ae39057194d8a8202605e323b6c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "829,402.93154123",
+    "hash": "0x438409d7100c35fa73b321ca21fe5ac6e0cea70da64f7f731ac8e1105f007e9a",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,075.03532321",
+    "hash": "0x86c03a7c8493b146939346a9048df7edbf095dfbef043ddaaffeedded2180fce",
+    "token": "BAT (BAT)"
   }
 ]
