@@ -682,5 +682,11 @@
     "value": "20,235.39987719",
     "hash": "0x5963d3cf7e5dbb731136d853fad631bdca753c033a182b1b26b7e0bff650a394",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "175,794.81582635",
+    "hash": "0x8daf8a0b4b516acaefd714882a8e8c8c1011b43bb8c52582e585b21102e79010",
+    "token": "Decentraland (MANA)"
   }
 ]
