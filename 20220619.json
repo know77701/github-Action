@@ -730,5 +730,11 @@
     "value": "49,000",
     "hash": "0x339bc3e093a0f10270896384693617f3a08e131bab6e46b71815060cb7b316d3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "87,265.012486139119763268",
+    "hash": "0x1a5cd1eaeeb13cdb2487fb10787a362ea64b294140c94fbbb3f01baa8d33ff11",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
