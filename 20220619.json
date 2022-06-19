@@ -586,5 +586,11 @@
     "value": "4,373.71",
     "hash": "0x8fe71ce834a6dfa708fa5e841b32b99b431401dd6457f8c411a218c3240ef2db",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,507.40108153",
+    "hash": "0x7da3d6840cf1ed83e98282614601aed3106456f63cea1a845a88dce8620cc918",
+    "token": "RLC (RLC)"
   }
 ]
