@@ -76,5 +76,65 @@
     "value": "469,299.02315306300821354",
     "hash": "0x767a127ac6edc69cabf9816d99603a26768f4136b373b4a1f279e4e86fec3f33",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,572.515438",
+    "hash": "0x5efc93254712bc00328d9fcdd17c63de77ffaac267689ad7e2eb704cebe67405",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "552",
+    "hash": "0x9e034dbc33c07479f07361c3b4b32bab638003a9f207bdd999e6a1c147cba660",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,140.539604062652300735",
+    "hash": "0xe2bfc2d3b8e06f1e2056016191fdaa5c820a53e0c355d22d1b3161e4b83f1f70",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xeeffe501acf9870cd99af853905c13aeda3fa1984f8029b0010d83a5962996f3",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x5ed93487a16680125f6f00cf325c77ba2853c66fb20705b898c68070ad0abbaa",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,454.523929",
+    "hash": "0xbc83212b1b94186c953fef33452c94c4ce7b30d843f99afcd454aaf2ee1d3999",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xaf4e4fb7de37afa05398c85aeb012626932467ec1b633e5db15260be86e62436",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x61bedea9aab88bd8f265e6a3d4b63074467a4497e3129a1e16630763686e07a1",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,990.43",
+    "hash": "0x8d4ce0467eee4a5016209c827e4e7dc7e6812db7e5fb51a00d20fad1a648c082",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,990.43",
+    "hash": "0x29a8dee20f63c85740313c604380b342a09ce2863e5185d4eb5bc6e3dd29c400",
+    "token": "Serum (SRM)"
   }
 ]
