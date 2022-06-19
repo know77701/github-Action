@@ -274,5 +274,23 @@
     "value": "2,725,956.400588851059207454",
     "hash": "0x0fb011311efb0c4f7e5a362550b954fd1db1c33b629328bd724b5f6deceb62b8",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,010.654",
+    "hash": "0x5f54f05b7417cd91d5119c81676c9d780852801fe75ebafb1aefe334fced29f5",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,792.140641",
+    "hash": "0x8f7cc32f278e462134e030fbd8e5a6584836d2b13fd9b57b1a7006e6499361c4",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,814.654",
+    "hash": "0x70ef8ee4742dabe4dc05626129674ed504b045a12501380f7a9278db4edf2bd2",
+    "token": "Serum (SRM)"
   }
 ]
