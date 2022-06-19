@@ -574,5 +574,11 @@
     "value": "24,540,591.081869100906425981",
     "hash": "0xccff1304e5316400cf1a025f6589594ade660bcf01b80367e2ed9b6b3dd5c41a",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,785.39985518",
+    "hash": "0xdb0205da962dce603df988a4d817b9c41019f52e30a0182e84d03c2055207d2d",
+    "token": "Bancor (BNT)"
   }
 ]
