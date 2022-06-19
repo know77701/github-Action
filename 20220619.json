@@ -436,5 +436,23 @@
     "value": "3,140.062286840681805855",
     "hash": "0x70843469edf8bb342204660609e1d1b18410e72866fccff658760e1eb0a836cc",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "401,344.825647998202210388",
+    "hash": "0x415d64b91bb6b7c2a752d551bbc03bb9b4b16680f45d0502ed16f65a12bf3652",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,632.97837223",
+    "hash": "0x52f6426c1f98f4fb61f9d1a9907302867e7d4d756d48778e22e23c713842bf3c",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,992.940306611289231771",
+    "hash": "0xdd233355c708b092e1bcab223ef25a1d6af30e40a860923cc031c380d4d93a31",
+    "token": "1INCH Token (1INCH)"
   }
 ]
