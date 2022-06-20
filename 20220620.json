@@ -40,5 +40,47 @@
     "value": "6,394,919.6854",
     "hash": "0x5bafcf47e498bd2e459e15cac8687a17e478e5fa4bee7f60e76e294c210c8afa",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "204,671.99994496",
+    "hash": "0xd1b25d911a88daeed724de1ac1be1b767d2a52cac8c4c464cf342734860013f5",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "653,022.78611468",
+    "hash": "0x7fe425e9de630f1acaea41ff107b998f9b72c0a36452207db17bdc21f0873db7",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,457.288654114122416087",
+    "hash": "0xb53379f2fdf901deb4fb8e4d1fc227228fd20a4710cb51e0b5a73302a32aacc1",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "194,797.93037181",
+    "hash": "0x11fcb1ca431f72619730256508c8ede8c49c59badcca85f906bef4286ab51451",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "282,500",
+    "hash": "0x0fa3827f03e48cb61ae4c660942861a45371f47905724cc9e3f3e8d9e4ec595e",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,266.74148145",
+    "hash": "0xc66cea383027e31a12142b317878a662b7642e44f88358620963f66e73d00dbc",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,535",
+    "hash": "0x7486fd7780c573673d186355046b02b830a4c2ae8ec507a31f14f484374e61c4",
+    "token": "Decentraland (MANA)"
   }
 ]
