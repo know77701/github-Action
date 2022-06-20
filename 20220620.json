@@ -1006,5 +1006,47 @@
     "value": "40,000",
     "hash": "0x2ea2af324609a6e84045aa10227a57a7563f60cbdb6ba45f606f5f417e849bcf",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,534.50517812",
+    "hash": "0x1061317a9ef05a5f9b2549978b41b2d3e649c54029c0a9c76ec3233bf08944d7",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,567.631",
+    "hash": "0x7a76baed431a247464991e22e18e530136beb1cb57f562da78a5af254c9c5717",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,651,889.56715661",
+    "hash": "0xe540b8e50ae9d5b206c81f8d2b883d1392e2485ad1a29f59550ee903eba60085",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x28b5009aacd777e0a643c976a551ca79bff82f1a4c36234fa133e0e800ea0316",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275,347.10102356",
+    "hash": "0xde569198384d96c4b05e0f01c474025e7a153a9b299eb21f089d7b2bbb3a19c5",
+    "token": "Golem Networ... (GLM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,531.94906541",
+    "hash": "0xa3990bbd07849fef84d4a0402f15095c46e85308d6f37786379eccfa0d9a5b6c",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,811.92792697",
+    "hash": "0x17e718ab288957790f3d40cec02bf64f128e99250ba5ae80ec7770dfe1494115",
+    "token": "Bounce Token (Auctio...)"
   }
 ]
