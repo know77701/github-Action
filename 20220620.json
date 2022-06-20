@@ -1282,5 +1282,11 @@
     "value": "523.849594949216073082",
     "hash": "0xb7908204f3bfe2475bf09b4e5897579e041000ca6b053533ed8b24fd3f834e37",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,286.25087",
+    "hash": "0xd81cdc57487491daa97dbfa2fe33313ec4a487285aa238a539facda219af2517",
+    "token": "NuCypher (NU)"
   }
 ]
