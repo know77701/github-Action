@@ -82,5 +82,23 @@
     "value": "29,535",
     "hash": "0x7486fd7780c573673d186355046b02b830a4c2ae8ec507a31f14f484374e61c4",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,612.3998093",
+    "hash": "0xd52516c83ac2d97048a290deb68d19a6a111eb13dd836f809a6b2af745cb7d7c",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "206,144.97810961",
+    "hash": "0x4960fb00a1bbbf978d6ef7a467cb66a34bc65b73d6353a945557e30c8967a059",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "67,500",
+    "hash": "0x1ce311e93c5e2da21a866615b78ee24fb41c8aee5d242e61a13b36a1f2d57cef",
+    "token": "OriginToken (OGN)"
   }
 ]
