@@ -1162,5 +1162,11 @@
     "value": "46,732.99981302",
     "hash": "0xc853d271a1b91e80c70e9d7c9b595d1b51aa8e1cf2d9aabf17ae9fb11ced7e68",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "92,005.66045",
+    "hash": "0xfc13bbe36bfa312b76e8077b44c93bd2ffb2d421bf9851d1f795c3bd26f03536",
+    "token": "Chroma (CHR)"
   }
 ]
