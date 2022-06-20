@@ -1072,5 +1072,11 @@
     "value": "22,921.8938682",
     "hash": "0x061f0a190cf84e899e8eff9d77e28763daf18bb27cc380893d783ddee8a937af",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0xca9ec704444fda01ed5f4a9cda7c93fcbfb78b4a26f423e1ea84cb1b4c6caec1",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
