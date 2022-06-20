@@ -148,5 +148,29 @@
     "value": "45,600.34172479",
     "hash": "0x9a3175d848fe9fc577338e3895cb488f1088e7ee3eafc6b2d9bbf610c830e41a",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,817.019487791567682673",
+    "hash": "0x034a17fab8a7188a4ebdc8641c75316fc3a5751a62fe6a211ec3f31cd314e251",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,125.8804",
+    "hash": "0x597b4a6e8018a9354cc0ee8b9b9beb0ec83258c5e7a821d14ca3cbccacad73bf",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,321.568727373384274291",
+    "hash": "0x4c1bdc353e00d50cb1c839c91d747377f9759a37e78f9bb7ed60e1a09a8b2321",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,771.85689174",
+    "hash": "0x02e8fcf31f5a406a48a9e2e3a51d300db55df3b8ec99e45237bcf4e610181d9d",
+    "token": "OMG Network (OMG)"
   }
 ]
