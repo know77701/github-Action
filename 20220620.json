@@ -436,5 +436,17 @@
     "value": "44,985",
     "hash": "0xcb5207090b7671c958b4a07d809aff1637adca93549451a5b10090e4d06e242f",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,677.022398",
+    "hash": "0xfc2b8cae8f10422bdf8d8d387a4c910e23e5ba1af2b3054f9571685753dd27fe",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "199,000",
+    "hash": "0xe26b06109b7eba76dfd1b96a052f836ef961bfea9013a7b784c05f5d485b67d2",
+    "token": "OriginToken (OGN)"
   }
 ]
