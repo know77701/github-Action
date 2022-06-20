@@ -1078,5 +1078,35 @@
     "value": "50,000",
     "hash": "0xca9ec704444fda01ed5f4a9cda7c93fcbfb78b4a26f423e1ea84cb1b4c6caec1",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x16343638d8cd2f04b3eda046ff3da78068057f8fdfea957c076b7fcb639c55f5",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,496.29995673",
+    "hash": "0xbcdd4a5cb9267e0fe4d45bf791495556353e3ad1d5f27eba997d7e9efd38de61",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,281.2",
+    "hash": "0x7d80c1108e334491f9447c99b642dcc9446e579002716b2fee0dd42118fe3a53",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0x6e4a70b49698d6a78aa39395f81c069d3e26291bdb050751b4f6ebc13ce25c6e",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,957.602964",
+    "hash": "0xbb8346bcb55e1c3293ecf39f7a56439a096b2625f0b308d80e73b46b378bea0b",
+    "token": "Serum (SRM)"
   }
 ]
