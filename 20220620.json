@@ -1288,5 +1288,29 @@
     "value": "65,286.25087",
     "hash": "0xd81cdc57487491daa97dbfa2fe33313ec4a487285aa238a539facda219af2517",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,837",
+    "hash": "0xbab303e54a00751092f6e1e140759187f19a6495412cfaf70952a79c4adadb56",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "286.14900682",
+    "hash": "0xbe2a5d0ff752597a2e78d4d6036d901d5f1770743ffc9ac739d43420c7fc61d8",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,195.6958155",
+    "hash": "0x0074a5da25cc5e252a0f356573d48d38bf30c217065b5b8df5f977082ba3bc84",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0xaa5c602c365236dcfdfac69ea66e9717a33ce3404fd5cdc8d19b1cd90ae577ed",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
