@@ -400,5 +400,41 @@
     "value": "20,560.3",
     "hash": "0xf80251023ae84787a7c9be75f8b7c9c185e1da4808d50e0e072dbde664f3fde0",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,115.96168949",
+    "hash": "0x0a386ef1d512e3a4fbcdf25ad1aa398c8c783c7980b2c6ac0df92f8cb05480e2",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,616.23293144",
+    "hash": "0x6a04674d8d8a8bfb1293b9c32a0e01d7427e99e2a1a042cbf508c44fca8b8f0a",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,700",
+    "hash": "0xe42d98862a34c55e5786041468b6152793a8eff92a8cff177505638864d88809",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,468,096",
+    "hash": "0xe2dfcc4f57400298e9e995ad20fe86d76a5bde390c61640184f696e396a6aa98",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "602,330.84881736",
+    "hash": "0xcff7f97ea3db7fd8bc0cbc2b7ca81680619bd4ed63d920a6487770539d8b5e8a",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,985",
+    "hash": "0xcb5207090b7671c958b4a07d809aff1637adca93549451a5b10090e4d06e242f",
+    "token": "Storj (STORJ)"
   }
 ]
