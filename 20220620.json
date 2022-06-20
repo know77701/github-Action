@@ -946,5 +946,41 @@
     "value": "19,080.8",
     "hash": "0xa58282aae22b91c786bc83f7b423bf7970b84c6f2fcf0c81140d8b47201b5ded",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,530,000",
+    "hash": "0x6d13a24ae3ae03574803f19a450b9681629cf28b4735ca222c480cc6b64117d1",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,000",
+    "hash": "0x3f4c33107168f22079226922f74779dc625c5bc8c8892b83553e913ff476fe79",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,471.689264870681502676",
+    "hash": "0xd839d017ef37f66de4ac7c1e844ffb1aa499369b38d0c651d2b3d498011e1e00",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,155.322615",
+    "hash": "0x9c83ee5c6c0798128b58151856a30e12d875c3893eb586bd6767338f070fb957",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,147,402.99995146",
+    "hash": "0x432efc41ca33678af6d6b0825dc37b10e93115f250aca04e6946755052b0c349",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,896.710735129318497324",
+    "hash": "0xa64952a04b9eb5af32ab8337b713db02be6c6ee854334a56c5ed7379770bff4c",
+    "token": "Bancor (BNT)"
   }
 ]
