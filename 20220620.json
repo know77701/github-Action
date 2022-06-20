@@ -1168,5 +1168,23 @@
     "value": "92,005.66045",
     "hash": "0xfc13bbe36bfa312b76e8077b44c93bd2ffb2d421bf9851d1f795c3bd26f03536",
     "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,689.091452",
+    "hash": "0x093151247a1576f9a66b9db9ab901b814b1e32b4194d1d850d1b5fb3ae6e29eb",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,238.217535",
+    "hash": "0x551e330315f16623017c0b0c5c2652f3889979b48c9416c635c3ecf279684361",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "493.39",
+    "hash": "0x33cea51a161679a01252ff4f2d2e8b359d8bc5dec9abf04041e4353b44af4fab",
+    "token": "Gitcoin (GTC)"
   }
 ]
