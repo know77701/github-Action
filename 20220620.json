@@ -1246,5 +1246,41 @@
     "value": "42,149",
     "hash": "0xbc4625e7e324123ddaeb52da65f8d39a0afea39ac2f3dffd4d65db67a6b77fa3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,315.621585",
+    "hash": "0xd65fa68f309f2dceda8bd9cb4a41d4531c24c8b1f9f72d840e644fb81606437b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "127,587.3618",
+    "hash": "0xc67a2d7925265a6ae5fd471b11ef26ad0023cd805b442dc4dc0e91629dbe2fe4",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,783",
+    "hash": "0xc4c11026eabe52dbdeaba260781697f4ac15c0e4882151c2d78aee0a0368849d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,455.17128648",
+    "hash": "0xdd85dcd8f6b43cd4758217662b4e32c0bb489c87d8344625f49cde9e10b9f24f",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "98,223.539392",
+    "hash": "0xca51e7bd7c271792b917e0b8949a0e4bd32f80589dced1ecd1211dea9f20e6f7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "523.849594949216073082",
+    "hash": "0xb7908204f3bfe2475bf09b4e5897579e041000ca6b053533ed8b24fd3f834e37",
+    "token": "Aave Token (AAVE)"
   }
 ]
