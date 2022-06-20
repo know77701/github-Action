@@ -1126,5 +1126,41 @@
     "value": "95,957",
     "hash": "0xb8bec9682cf2fd986b6d389f7fcdb3cc973684ec1c42741523274c8002617bec",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,999",
+    "hash": "0x134128a60aefbfcc9982e47e03e87f06f9d89ba58e844f4be02621ecee60279b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,140.556652",
+    "hash": "0xbee82766c7c9d6e44858c5cb7bbcf7112a12b767a01de04dd30c8d22139711b6",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183,770.89150279",
+    "hash": "0x1b1f827146dc75901ec09e3d16de7f56cf7bc611ba63e9a56abd7338907402ab",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,346.556652",
+    "hash": "0x0bd571976ccb694fb4fd7f92aae533ca526bb3cbabde241dd3f8ad03baaf271e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,891",
+    "hash": "0x1a6412b91765c935782fff3b60ec6f3b2ebe04e4ec94b4adee29b7787a368386",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,732.99981302",
+    "hash": "0xc853d271a1b91e80c70e9d7c9b595d1b51aa8e1cf2d9aabf17ae9fb11ced7e68",
+    "token": "Bancor (BNT)"
   }
 ]
