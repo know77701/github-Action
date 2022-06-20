@@ -1108,5 +1108,11 @@
     "value": "1,957.602964",
     "hash": "0xbb8346bcb55e1c3293ecf39f7a56439a096b2625f0b308d80e73b46b378bea0b",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,000",
+    "hash": "0xbdb051c15ee32f6e0b8b5b33607cd41a19c57a75bb6f91072e0fe8041b064a07",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
