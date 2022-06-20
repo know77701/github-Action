@@ -580,5 +580,29 @@
     "value": "137,734.8",
     "hash": "0x0455bbffc61a1cd83d12ad99782b29c7008afe9d0dae78ca8417f11a28014355",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "126,680",
+    "hash": "0x2ca119e434a58444842d91b72fe45e6ca7f8e93ff1a0db2d242078131397130e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,928.86",
+    "hash": "0xf38b13664a757a1cc3fdae8431e296b88772e410eef167938e57ee809babe905",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "303,896.35324549",
+    "hash": "0xca0e938eab1fb9959c49dc011a6383cffa1f0f58df19358fca009b41158d0605",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,797.8227",
+    "hash": "0xc111be9223a5b0d8a402844d4472c696363af114c2e681dfa6e154ecec1b4bbb",
+    "token": "SAND (SAND)"
   }
 ]
