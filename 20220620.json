@@ -100,5 +100,17 @@
     "value": "67,500",
     "hash": "0x1ce311e93c5e2da21a866615b78ee24fb41c8aee5d242e61a13b36a1f2d57cef",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,750.80980433",
+    "hash": "0xa3f6d43cfed8ece7d02d07553da2305657cf182e97c288fe4cc657d38f8b3b2f",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "340.3728",
+    "hash": "0xf5e8d35cf5aee5afc58a182774df3901cfc82613b752b6b47936cacbd0ce34b8",
+    "token": "OMG Network (OMG)"
   }
 ]
