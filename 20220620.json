@@ -604,5 +604,47 @@
     "value": "1,797.8227",
     "hash": "0xc111be9223a5b0d8a402844d4472c696363af114c2e681dfa6e154ecec1b4bbb",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,360,193",
+    "hash": "0x38b2d3f9d0a54214db248580cdc2c048b6e319d971d7a7339fe5bb765a3e564c",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "110.3701894",
+    "hash": "0x04fec4add9a70c4c6ded1c0ef11dcabab3239af2104b4560525dd7c55a4b0dc4",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "138,669.39267033993576448",
+    "hash": "0x4cf261e6920f86321b13bd5735b2f599846af6bbf9f37df519d05def7c08e93f",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,155.72878649",
+    "hash": "0x1c258007971adf3fa13615a182b2491f29fcc0498babf853d4af8d21d76240cf",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,700.096",
+    "hash": "0xc83214df9b6f94fb3e30a3cba76a091e1f424982a7ba6e71c4db332a0c4392f9",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,440,090",
+    "hash": "0x08cde8eba2f54cfa9148c8422515d7a70c359310dc561aaa8c3b0fc4c8b0367a",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "257,064.0928364",
+    "hash": "0x382429f62f5754e3fd45c4f2a5999c313857b5a96fab90199359f98b74f5f83f",
+    "token": "BAT (BAT)"
   }
 ]
