@@ -1114,5 +1114,17 @@
     "value": "45,000",
     "hash": "0xbdb051c15ee32f6e0b8b5b33607cd41a19c57a75bb6f91072e0fe8041b064a07",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,814",
+    "hash": "0xc9a3845c0d1b640122db065cecfdbc366c14483bf64a7c84dae75b1a6761c25c",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "95,957",
+    "hash": "0xb8bec9682cf2fd986b6d389f7fcdb3cc973684ec1c42741523274c8002617bec",
+    "token": "PowerLedger (POWR)"
   }
 ]
