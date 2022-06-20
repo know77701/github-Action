@@ -1318,5 +1318,53 @@
     "value": "297,046.53693038",
     "hash": "0xaf28c85db91a4e140e4587ea93b10f9afab903eeef3a5bc75a557dca482d7069",
     "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "251,328.5",
+    "hash": "0x09f39a2fa79809f4e44197e10dcf66fcc065e9a6d73b056310c29654d638dfaf",
+    "token": "BASIC Token (BASIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "108,516.0603",
+    "hash": "0x039d0c47c56966be01d5807ad95b1950440a8b6e38da24ec116f3d76f9aaa33f",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20.27590117",
+    "hash": "0x16cd821b6e133a78e20a96434a05730e1c2e6f620ddcfb5eaf6597463abe71bf",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,558.09671085",
+    "hash": "0xb5a0a4f388a21b456abd617d86016840110b67947017fbadf3c5e5d1d12438b8",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "139,951",
+    "hash": "0xd37bf2feb852d49cb5b17826646288c17cb48950add390b0c8b5a93cdd2e2ae4",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6.75792",
+    "hash": "0xaae9c3dad1de342153ab403c877283879ae48c1a7c856e25b029fd27801a86c5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0x06a105d6cca03e82dd0a9ad24e0ccd1f78369a47b8a5c6b55a69a9378ac5b8e8",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,040.979",
+    "hash": "0x3db1031c4cbb0321597b165eb132ab5d53985b421ed84ba963a9eb666e01b78b",
+    "token": "Bancor (BNT)"
   }
 ]
