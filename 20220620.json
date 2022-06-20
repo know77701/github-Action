@@ -352,5 +352,17 @@
     "value": "15,467,380",
     "hash": "0x9e978f38121758770e190c8d9f4c32d5673bbe7ec30d596fa8771216ec3bf8c3",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,898,645",
+    "hash": "0x32d5f8cc67a9b8545ed73bb2085eabe0c52f578895742764fbfecf6397835be5",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,000",
+    "hash": "0xcc9cc48ede73e1f67b17cfb36d52e41b5cc9bb50e846022e05e7db27da58f703",
+    "token": "Mask Network (MASK)"
   }
 ]
