@@ -1048,5 +1048,29 @@
     "value": "6,811.92792697",
     "hash": "0x17e718ab288957790f3d40cec02bf64f128e99250ba5ae80ec7770dfe1494115",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,768.32766634",
+    "hash": "0xa456070bb414e6bdd8a5b79d61beff713e26b2cddd5166e7ae8065f168d277ad",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0xfb4833c9b0e3404996719a2545386d3514d4219cf93742fa92e889077b4d38e6",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,782.2663434",
+    "hash": "0x320353a890d1d65949918617cab16fee76f3568075e41b2cf291240d0b47f106",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,921.8938682",
+    "hash": "0x061f0a190cf84e899e8eff9d77e28763daf18bb27cc380893d783ddee8a937af",
+    "token": "Bancor (BNT)"
   }
 ]
