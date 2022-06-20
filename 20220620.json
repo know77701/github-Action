@@ -112,5 +112,23 @@
     "value": "340.3728",
     "hash": "0xf5e8d35cf5aee5afc58a182774df3901cfc82613b752b6b47936cacbd0ce34b8",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,839.65041271",
+    "hash": "0xb3b0ff8df9c59c43feb2da2c19b9ecd4f15b82a756d2a178870c5255258fe301",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,300",
+    "hash": "0xff8fdca486a02d96ef38d281ff1fcc5b77ad633d1996f341a48c45ad60e9d5ff",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,182.961687431222952838",
+    "hash": "0x35cb4217cbba0c74d49183984b84a9297eaed2e2ce66f7a91016d30cb91a68e1",
+    "token": "ChainLink To... (LINK)"
   }
 ]
