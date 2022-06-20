@@ -478,5 +478,29 @@
     "value": "5,051,206.29846262",
     "hash": "0x4ab58222f2e4e98e4f5ccb3357350f9b19dd451bc545e6cf677994610d21eb75",
     "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,387.5",
+    "hash": "0x7d0c93c4c490158a3451af95013f2ec1bb4bff5487c39be6ceabb98639d95e34",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "934.79581584",
+    "hash": "0xf7d241fda2a832cbdd6cf7c009d73fc1da3db7dd1e706000ddd6078a9f96878c",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,238.471",
+    "hash": "0xa7065940a232ee9f1951bd126621cd483a3a75d6d7258906a005ca3e7ae4a21e",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "53,320.865243386761688864",
+    "hash": "0xb6bbe5a647689938910df2f3af4abafcae22fd7dd50e4dc6901778ab15801304",
+    "token": "1INCH Token (1INCH)"
   }
 ]
