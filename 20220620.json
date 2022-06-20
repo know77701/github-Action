@@ -784,5 +784,65 @@
     "value": "755,619.80509778",
     "hash": "0x86acc6a7c2407dd21d63bc7b2db2b63434669758195e9fe91ff95e1b8fe8c293",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,203.483918748409169938",
+    "hash": "0x567d395047e5b82e8db483b872e4e2fe449633ff117a1935adc96e774116a13a",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "346.29113922",
+    "hash": "0xf3ddde52953c9b8c49f2c824406a2667605065e71a1ed095acc2cde95edd766e",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,380.11348881",
+    "hash": "0x821226052d4a3503d0f6e9f82676a1ea7b93be0f7a762c6374e671ba1ee0f0b9",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,745",
+    "hash": "0xca850c0de1f7cbd38a738169789aad3a9d7c23692b360da1e89e0194cfb60088",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "96,979.99992573",
+    "hash": "0xa283c53556255f1632177608edc07a45588adb0164634486ed638f15f3a7cb11",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,105,559.99990403",
+    "hash": "0x8f1b256690ba861a5f79cdb0597a38c0c3e58f17ec6c5436e4a6edf2623789b4",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205,345.617087731044218758",
+    "hash": "0x6e5b181c278d8950ccf85706c1830eba3d8fa2325dffdd3318bc7c4440d14e53",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,753.3",
+    "hash": "0x5d6b745cf69c9bee3b0d96014a1c1a8298396e40ddf85b639a4d6cedc3825c9b",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "174,100.99729021",
+    "hash": "0x9bb386dc8b61d2e9162a54e4e1b0d1ea38de60045e394a17902b6ee679541cef",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,502.920148398955781242",
+    "hash": "0x0a548c4609e8b678c9be384d19629655b6f257f3307f0acb627c880b3ec9168e",
+    "token": "Bancor (BNT)"
   }
 ]
