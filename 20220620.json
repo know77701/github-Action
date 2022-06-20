@@ -982,5 +982,23 @@
     "value": "21,896.710735129318497324",
     "hash": "0xa64952a04b9eb5af32ab8337b713db02be6c6ee854334a56c5ed7379770bff4c",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,984.59261",
+    "hash": "0x8fbe04282f6aec8f9526e9fd89accd8d79d5c3ca580e935d6cadb17a68d7eb47",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,232.045586711042558332",
+    "hash": "0x72614c92cf3febad2f12ed3f96d1dad10ce61bdda4f01dd10c36aec4d61d553c",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,549.24005943",
+    "hash": "0x3340f2665b71e11b7e2314e880846aec7279b6b79b58ab9c06f8894d8a316601",
+    "token": "Metal (MTL)"
   }
 ]
