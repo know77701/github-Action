@@ -304,5 +304,53 @@
     "value": "534,146.768605156379480869",
     "hash": "0xf9acc57fd018265e526bc54d45bcb387591b57596c240750a1b3d32cdc3706c3",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,392.45224425",
+    "hash": "0x96c083698b1bcab70b375c90fc2c0e8103c2e949402270439e3a7b3380eac5b6",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,687,706",
+    "hash": "0xe9bf64a11409d359e222fbb5467889cd7ada915c59ebe0bf5a7fa74fc66a5295",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "496.09453478",
+    "hash": "0x0fd724a5d32817c89c8a55b0bfd49858290d0ea14a0868bdb0dfbfce33f4b3f6",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,206.3",
+    "hash": "0xe2cb19d68de5f0b8f6e7e05c1317586806eee3b06c7f7b4370136a83f535f302",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,000",
+    "hash": "0xeea82086553ae70d37df55913cc42fe7d601dfcd50a9bb7fb612e0574343ee18",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,998,645",
+    "hash": "0xcf825734c449e270d6b8dffa4206f1ec267f33dd1b1c6c1cd6280a6d58e34e9f",
+    "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,092",
+    "hash": "0x696a9562016dad32083b9d76c1ffa1be72f1c7ceee185ebe71afcf0c2d6bb18a",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,467,380",
+    "hash": "0x9e978f38121758770e190c8d9f4c32d5673bbe7ec30d596fa8771216ec3bf8c3",
+    "token": "StormX (STMX)"
   }
 ]
