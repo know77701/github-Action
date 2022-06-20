@@ -1216,5 +1216,35 @@
     "value": "31,491.825654",
     "hash": "0x17d2384a485d12778f687d44a5e90514058f07e3714c3e5a049bc89d1734b451",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,871.531357",
+    "hash": "0x45fc7e3c8c098c58091b9eaddfb3da488c28565360ddfd5528e6539a73b7f05a",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "183.53444247",
+    "hash": "0xc58543ca4328fc572fb697a280fbe75fd878d3229137f0a03fc3e7b86c3a0ab6",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,734.99991704",
+    "hash": "0x3e17a9854fc0d74ad6d7166dcae6edbbe078051c41700c01b8c6071ee4056850",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275.31625611",
+    "hash": "0x394cf37bba742956bb50663712bbb92c211b8f81ad52e05af29b2a2628ce13fc",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,149",
+    "hash": "0xbc4625e7e324123ddaeb52da65f8d39a0afea39ac2f3dffd4d65db67a6b77fa3",
+    "token": "Decentraland (MANA)"
   }
 ]
