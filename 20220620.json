@@ -1414,5 +1414,17 @@
     "value": "130,084.5804465",
     "hash": "0x692da9b52b2a5814a1699f904450610dd34e6eec2abc44577b0aa6e7bf3f7f0a",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "252,710.49733234",
+    "hash": "0x4975b328b474e9743c9a6de59a723072b07c7dc43325bf9086c475c85bce2403",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,000",
+    "hash": "0x5c90c907c02bab53a1f1c860b0a85bf5ce09d14308e95aceb90d896aad7807b4",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
