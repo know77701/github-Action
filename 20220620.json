@@ -730,5 +730,59 @@
     "value": "76,796.116241019340918707",
     "hash": "0xa073f111c728726883d062157a748457cdab1002894dd53957291d4e16ac7249",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,854.557933560061703728",
+    "hash": "0xdef342a4f5055fec06b8192699a1c3094a7b0581a77004f9741bb591ea21e1bb",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,494.03494",
+    "hash": "0x715d0bb227cc3684a3cee8aebd35568bbf8614d70c520c47234cf7d254f4de36",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,675.99991457",
+    "hash": "0x9a8cc4c191d0ab56b3f49f1b4fb067cd8e3cf940f02fd360960b1ecee8991bbb",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,833",
+    "hash": "0xbe15fe899071d7b76821d9c503d558994306e2b4a96fa16bc64ad1e59c12bcc3",
+    "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,198.03",
+    "hash": "0x7baf181d2d2f2d9f72ed3cefe258bd5f5794e4e07566e6b4d96d6e9e7f69466c",
+    "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "862.18865263",
+    "hash": "0xdc60e3815a04a660253ea90ddaf081cbc25d99788671f2a2be1372cc658dbbe1",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,367.49755512",
+    "hash": "0x583597868f0cf3ea6e9b59f09757f504a2ce916b91ee6dce0dae11cbbe14fa27",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "88,772.04214867",
+    "hash": "0xea896fe60a4e7c6fbcc3ab1341c36fd40f4b1f0a86d28e92da0ea7f5c6250028",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "755,619.80509778",
+    "hash": "0x86acc6a7c2407dd21d63bc7b2db2b63434669758195e9fe91ff95e1b8fe8c293",
+    "token": "1INCH Token (1INCH)"
   }
 ]
