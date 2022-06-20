@@ -208,5 +208,101 @@
     "value": "173,222.27773361",
     "hash": "0x4bbaf1bbd45b55cfb8bdcbd463f4db69f01f3309465e1f552a64cb244cd44960",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,944.73279926",
+    "hash": "0x6a09b995a4c9ab931c1724441d9f9d4eb56730392a5c61153b6c11aa88b096b7",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,368.838574364498324835",
+    "hash": "0x0c5d98dea96006f83c96b8e269a85673df66d7928e5d3196fac4b4e3bf7b1671",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "114,152.76858401",
+    "hash": "0xa0586ed7fa06c20a483c8264a02cae6eca99ff2305400a32401cbb53c9253b35",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,800.47",
+    "hash": "0x834bab65a9776359acdcb70be02de34fcf177f2bfb6cfa65567d8a613c412baa",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,177.253762142571218119",
+    "hash": "0xc8e6f44792694bdfd6243f4b7ef23a7c2ea506e275005e2337154d3b2b97efcd",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,070.613967584222075184",
+    "hash": "0x544bcc8d03416b792db68fc6ae7aaf0fc448782711bcbdbb97605318a4d3ad97",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "578,993.91174764",
+    "hash": "0x02779b68f77ae74561cf0f3342d10d095d121cc5fd20929aba01fc4d68a3d657",
+    "token": "Graph Token (GRT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "230,243.131586",
+    "hash": "0xda043dc5324884dc13ad0d2b00754b2f06bf0cade9f44bcd599ed64398b7249d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152,370.389159023914877382",
+    "hash": "0x26d850a76e8e8aebce575e70318a57baee696b74dcca10cea9341b79581eecab",
+    "token": "SENTINEL PRO... (UPP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,298,132.092774685759518382",
+    "hash": "0xfb96f83403be94862e728a4f32d0bdbf0dac3c41c239ccbebb609d233ff92add",
+    "token": "CarryToken (CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,731,745.534",
+    "hash": "0xc477c9e763dcc4f8eff3b9b35e2f908a3df87c9e94a67fc87fb2f5667c9f0993",
+    "token": "Refereum (RFR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "170,068.360399281359291805",
+    "hash": "0x5ab8263e8ae4c2305d1471aebe688f02c2886b8b36505450425f0af204622f4e",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,681.96947986",
+    "hash": "0x4590e88fe19f003031940835ce0094123b683bee7e39429a0b0ca406641cc14e",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,126.0631",
+    "hash": "0x172032ff7702673f3f07ac102fe0f6bc9b9c80538787598fdecdb052905c2dc5",
+    "token": "Healthcare A... (SOLVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,686,987.631420644286460417",
+    "hash": "0x8ab85ee0951a49e4fc4a9b01c7053f8cc70a0c6d9a74a8330c3c786e6e169c40",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "534,146.768605156379480869",
+    "hash": "0xf9acc57fd018265e526bc54d45bcb387591b57596c240750a1b3d32cdc3706c3",
+    "token": "BAT (BAT)"
   }
 ]
