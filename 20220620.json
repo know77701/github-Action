@@ -1426,5 +1426,47 @@
     "value": "50,000",
     "hash": "0x5c90c907c02bab53a1f1c860b0a85bf5ce09d14308e95aceb90d896aad7807b4",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "189,648.33781098",
+    "hash": "0x184735581e74a549d022b66f1c85662815e7937cfb383c45dfbaf17e0cd83bdb",
+    "token": "Orchid (OXT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,544.93252468",
+    "hash": "0xdc3757a0376ccc230d313d87647ddbfdde5077b335367a2e278e445920f27abd",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,000.029",
+    "hash": "0xcc49add0abc5d1f9b750ccd5a1f540198c0a0346c831b7679f916dd9fa2263f3",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,000",
+    "hash": "0x0a0348ca586dfda43f6dc2acf31b3ed8dec2009b466c84303c349c5ff24d6399",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,992",
+    "hash": "0x61d176fc60b85ad5bf86fdea6e90104c6d1ef054618b9ab888576bc25b8c8468",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "125,758.577939083232507496",
+    "hash": "0x3672a17a4912a2a9eb52b5c16888aeb4ac9b7832bc571572da2c502c3780b011",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,000",
+    "hash": "0xc6845f00bd5a62c1254f11295b8bc9aec285b003242512bd9a44bb254a8fe1b2",
+    "token": "BAT (BAT)"
   }
 ]
