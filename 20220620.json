@@ -172,5 +172,41 @@
     "value": "4,771.85689174",
     "hash": "0x02e8fcf31f5a406a48a9e2e3a51d300db55df3b8ec99e45237bcf4e610181d9d",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,986",
+    "hash": "0xec17b6d5174cd2216ab1c45210317094c8c72eb5851a4e6f242025789aeb52d8",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "392,360.14993999",
+    "hash": "0x5f9aaa085c702d170b9dd15be0a94a0964871cee390dbaa4b29d7dcf70348e7b",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,366,021.0551",
+    "hash": "0x4b36a3e21a2c2268823488fdc210c4e23975452a14dec2c8c6cd1cbdf21bb842",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "700",
+    "hash": "0xd0a76034a20f9d84eefcceb9b8451697d7bed309674924dbbac1b12355e2475f",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,500",
+    "hash": "0x4c1f6d22ddb085bf1b3cd05b0e5b430d490d97458409b6c56278d2ff50887a03",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "173,222.27773361",
+    "hash": "0x4bbaf1bbd45b55cfb8bdcbd463f4db69f01f3309465e1f552a64cb244cd44960",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
