@@ -1192,5 +1192,23 @@
     "value": "25,089.482686",
     "hash": "0xf38ec0c105136c700e12b519007fb34f6f99e1d416b846c9f8e1449588a0ec07",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,277.03985859",
+    "hash": "0x456f82f731ba96c8e0e46b8259615f5b33319452b327ab059370a5aa8da8e4fe",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,629.9765167",
+    "hash": "0x5a534c5104db8a13e3c741e3ae2d9236e426cc9cba7744613b56eafb9e958226",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,626.337",
+    "hash": "0x0e8bd5add0e2d702f82160af02c609dbd4a5a374b525fda6a455d86937394f94",
+    "token": "Storj (STORJ)"
   }
 ]
