@@ -130,5 +130,11 @@
     "value": "1,182.961687431222952838",
     "hash": "0x35cb4217cbba0c74d49183984b84a9297eaed2e2ce66f7a91016d30cb91a68e1",
     "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "274.68771209",
+    "hash": "0xbfff93afe983bb00eab2c5fa7875c40d214220b12f2258e4209e4ef847b10ae1",
+    "token": "Compound (COMP)"
   }
 ]
