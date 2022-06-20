@@ -718,5 +718,11 @@
     "value": "166,890.154",
     "hash": "0xe4efcdd6ccb99d6490a55d45a6599cfa45ed315e3a114eaf1910ded14564008c",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,999",
+    "hash": "0x5516bc3755e5d630d0b1440060ed44b26e4c722e2e1681107b326b1249ce76fa",
+    "token": "1INCH Token (1INCH)"
   }
 ]
