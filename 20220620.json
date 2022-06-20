@@ -364,5 +364,41 @@
     "value": "7,000",
     "hash": "0xcc9cc48ede73e1f67b17cfb36d52e41b5cc9bb50e846022e05e7db27da58f703",
     "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,023",
+    "hash": "0x864e8857e7e88be8c7102372181cabb919c3f420e8e6e19096e83ead2e10cbb3",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,974.3",
+    "hash": "0x7396810ecac4f17ff9b260383f18ad98407023969d841d98b28dca51488f2857",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "72,734.99998184",
+    "hash": "0x54206c5f0f28196fe72c1515ae4ba1703c902c06f330a6b93a43a83a8a03313e",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,898.979",
+    "hash": "0x7fe7b0b8330ac48257db44f33a5aa42bdf7737078edde36b9505c9d8638917fa",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275.3327279",
+    "hash": "0x00493760db6a4fe211df639e534aabb9f20474d1afeb3314e576edaabc64a6de",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,560.3",
+    "hash": "0xf80251023ae84787a7c9be75f8b7c9c185e1da4808d50e0e072dbde664f3fde0",
+    "token": "Bancor (BNT)"
   }
 ]
