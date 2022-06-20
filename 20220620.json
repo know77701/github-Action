@@ -844,5 +844,65 @@
     "value": "22,502.920148398955781242",
     "hash": "0x0a548c4609e8b678c9be384d19629655b6f257f3307f0acb627c880b3ec9168e",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "853.413081987344009404",
+    "hash": "0x358033ccd64fc0a8c339ccba13113542bc44ef85d3a896625c98fc0935473f38",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,000",
+    "hash": "0x76c4ce65916296e996ed7570fb789094413702cfa2f954f5a6d9962f3ce30585",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "747,171.35198352",
+    "hash": "0x4c78c1b26573b23b9ea0d14255442779164dfe7a7f79ba485f17dcb378302fb4",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,613.080000000000000061",
+    "hash": "0x18b90e724ba8ecc754a57aebaa7acc06e593f0dfff08bbb2603d8c3a7b9f9c5f",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,596.396782182655990596",
+    "hash": "0x47222dbcb725afb87c25525de47c4a257e9e00b8968454af8992e18ab6e56e69",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,894.817",
+    "hash": "0x458772c14c137844a3b7123a14cce894b8539e13fa57090e9e9a2a119a15ddbc",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,191.03253968",
+    "hash": "0x1a8294eaacfd3a6d99eeb391f3688b59a3a541a90984218c1029670285cbb989",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "46,162.260081251590830062",
+    "hash": "0x823310cda83f034b544f48f3f16660f4bb80f28637ca6878976b945c178a498e",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,600,000",
+    "hash": "0x1cc9bcf2653eed1020b4f537d5d00ef006e4486690846118e51d4d4686acb401",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "54,254.5",
+    "hash": "0x36f7f825154fc17c143fc9dbd66a02349e6a54b17f9386f6dc4690e604f29090",
+    "token": "Bancor (BNT)"
   }
 ]
