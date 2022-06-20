@@ -1186,5 +1186,11 @@
     "value": "493.39",
     "hash": "0x33cea51a161679a01252ff4f2d2e8b359d8bc5dec9abf04041e4353b44af4fab",
     "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,089.482686",
+    "hash": "0xf38ec0c105136c700e12b519007fb34f6f99e1d416b846c9f8e1449588a0ec07",
+    "token": "NuCypher (NU)"
   }
 ]
