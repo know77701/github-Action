@@ -136,5 +136,17 @@
     "value": "274.68771209",
     "hash": "0xbfff93afe983bb00eab2c5fa7875c40d214220b12f2258e4209e4ef847b10ae1",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,000",
+    "hash": "0x8b8b53f505f3e70243e99b26b6b6a3b858793b0c30d77a3bbffbbf9d3516bb02",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,600.34172479",
+    "hash": "0x9a3175d848fe9fc577338e3895cb488f1088e7ee3eafc6b2d9bbf610c830e41a",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
