@@ -1000,5 +1000,11 @@
     "value": "215.86646541",
     "hash": "0x250b2d6866b8062a95ecdf0e0fb2870bddf5eaf31d8556dea84e378efce18db2",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,867.408705",
+    "hash": "0x91f46c04f007365e4781834d3ee8c732c3934f906e2dfdc9fe3571ba50955bbc",
+    "token": "Dawn (DAWN)"
   }
 ]
