@@ -1174,5 +1174,23 @@
     "value": "180,710.89155642",
     "hash": "0x64327f6a3e792b23a94aefed75338c841cfddcae3bfd7a324bfc365e4a63bfd1",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "172,892.77982647",
+    "hash": "0x41190da7b1542f010567c1f3fd5a159da1e9b8e61c2dd687f84d8bd96e5cfd1a",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,300.35586",
+    "hash": "0x38c2696d9b4c02bd579f5a75756fca4c77be31f8eda0a78b492df63c3e94d24c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "138,195.31552852",
+    "hash": "0x976a52f8bbd39e41acf155d754a6fc854bae0bb8fa1a4093e901337d971b8e74",
+    "token": "Decentraland (MANA)"
   }
 ]
