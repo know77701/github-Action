@@ -1210,5 +1210,23 @@
     "value": "3,822.67134198",
     "hash": "0xef417e53a91da05d06f615d1151b71085cbaac1c4762e69a364e50e439fff224",
     "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "113,503",
+    "hash": "0xda8a980fca08112483b74a172e12fd236c15ff18093e0b853eeae73534218aea",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,647.071270863731571537",
+    "hash": "0x2f1e4d83e7f547eb03a7537000dc5556f77c2a80b83dc38c1436f83deec3b474",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16.91327302",
+    "hash": "0x5244754f76c8281bc35d45c3414aef5744d5f21a40f23b941d93723de1fb3106",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
