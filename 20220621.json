@@ -1120,5 +1120,11 @@
     "value": "106,666.95172325",
     "hash": "0xcecb4fdbb883f7a0b2397a1f81132bbdf0dd76a56e8e625f4b239aa15a812f20",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "84,178.086665",
+    "hash": "0x102ecc2dfd980de00d942fcf9743250268725aa3b81c325203a04d9ff0501e57",
+    "token": "Serum (SRM)"
   }
 ]
