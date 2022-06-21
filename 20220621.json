@@ -670,5 +670,41 @@
     "value": "3,029.85619169",
     "hash": "0x809b3f96f27acd1368a3eefde0351a5c561aca1576597452b331049cd83e904c",
     "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "85,043.33",
+    "hash": "0x9b489e8d722ee09302ce848616fe4304c8b43848043e2f2f8b523a033d251a84",
+    "token": "Quiztok Toke... (QTCON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,900.025",
+    "hash": "0x4ecd3af896cb66e9524c5af11cd305a8156569aad7cfc3f66ebd0443edf7e8e8",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,328.696054512184796948",
+    "hash": "0x270fd59a025773cdace4069d3ee2f78dcd4c2b9af1743cf5de44f66e1697c7cd",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,700",
+    "hash": "0x3579736ae78bdc3219e35a37ea82106b5cfd563914a5c2d5d8a691ce19445273",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,541,205.99754867",
+    "hash": "0x110ece74606cdbc68e0f33f64a63c0ea78e98c0c7372f651c98d0bffe385a539",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281.31536789",
+    "hash": "0x37d986f95c8014a1e2986095328bd07a704ba4dd7c30a2099b53fe10839a778b",
+    "token": "Compound (COMP)"
   }
 ]
