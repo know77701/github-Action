@@ -190,5 +190,11 @@
     "value": "3,108.039",
     "hash": "0x2db98894b24a22f77f636751a2aa33d510a32a6391ab60fbc1fa2413f9815b35",
     "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "220,960.44306138",
+    "hash": "0x63b2d394870194252d49c9b90d37ca721f100476ea9fca625085acae64c7d867",
+    "token": "BAT (BAT)"
   }
 ]
