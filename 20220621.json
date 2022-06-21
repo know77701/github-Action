@@ -1192,5 +1192,23 @@
     "value": "138,195.31552852",
     "hash": "0x976a52f8bbd39e41acf155d754a6fc854bae0bb8fa1a4093e901337d971b8e74",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "20,000.099",
+    "hash": "0x117ae0a13651cb36446cca3151fe4ffafebc8db1f42cc21424d9196ffc00668e",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,987.1896",
+    "hash": "0xbdbca449e832bdcdaeead681d4fa7c19af20fcbb76b87c8004490912d5eae471",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,822.67134198",
+    "hash": "0xef417e53a91da05d06f615d1151b71085cbaac1c4762e69a364e50e439fff224",
+    "token": "Strike Token (STRK)"
   }
 ]
