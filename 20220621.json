@@ -736,5 +736,35 @@
     "value": "949.909",
     "hash": "0xb8d2c63fe8ca17ad2aa0296ac812a7a28f8de37a8aed41bae3fcf4108d629465",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "324,978.4188",
+    "hash": "0x7bb3e3a8dabbac381e3aba850e432c7c331e77e6239e4a7c8ae9fb60cb8f3b26",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "177,527.0499299",
+    "hash": "0xd0cdc51af7dedd563fa8d1fe3a2aefc2ab9f964ca50f9b84e2d8ba061d068d2c",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "62,995.555119",
+    "hash": "0x4b0adda03ec7d869a405d9c7277a8bc75e065ffe8815c065e5aed99479d1a15d",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "458,877.00675642",
+    "hash": "0xfd71627f7cb4f51227ff8c826788d53f351c2d68acc7470659f576c2ec76505f",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,216.80384773",
+    "hash": "0x5298e1e14c7340fcb6d17ccd5c19da729f014badc5950bbc2637ea712868a47b",
+    "token": "Bancor (BNT)"
   }
 ]
