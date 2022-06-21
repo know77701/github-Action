@@ -1096,5 +1096,23 @@
     "value": "42,710.391",
     "hash": "0x1ed0260d387a33af7dcabc00717f7b16dfb6889e30898b1e61c490dafbdaa7c9",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,597.67982759",
+    "hash": "0x2be329c877d1c9258934a71e695a6b6e64339aa585bf89cd7b1d800724fed044",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,200",
+    "hash": "0x254f548334fba67f5dba2067bfc3271e4437c319715aa0a30cdf6f30472434f6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,200",
+    "hash": "0x9bbc0b2db8eac983df02b1517ae713c8975cb307900d95905aa1ac6e03a506bc",
+    "token": "OMG Network (OMG)"
   }
 ]
