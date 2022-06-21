@@ -1150,5 +1150,29 @@
     "value": "59,987.99992635",
     "hash": "0x53abd830d619212cb0d361193c0bb43a99ef8500e3e26f496a017e814f4867e9",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,439.42942883",
+    "hash": "0xa1305c44124c796eb1a56c877009b2f6753622ce7e465670329eca601501c56f",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,311.52557424",
+    "hash": "0x0915f2cecd38140d416bd592b9eac8dd468648d52377ebe4cb5e219189bd0544",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,221.75004929",
+    "hash": "0xaad4c40828394748c72869eb62211707b9fac5be9b728d9d3b7ef3e12a05ec4d",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "180,710.89155642",
+    "hash": "0x64327f6a3e792b23a94aefed75338c841cfddcae3bfd7a324bfc365e4a63bfd1",
+    "token": "BAT (BAT)"
   }
 ]
