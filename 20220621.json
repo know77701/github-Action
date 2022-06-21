@@ -532,5 +532,47 @@
     "value": "94,980.9999713",
     "hash": "0x55e611bb6918a4daf4d22d6b91bb87cfc41c853e51e30550daff284473c497f2",
     "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "89,154.18967923",
+    "hash": "0xf364082a40d8fdc234568998424d0a2949a908e7500ede3907f24afd73ec9549",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "122,597.206413099872573923",
+    "hash": "0xafd1f78ace312764501ca4ee77fbb219a6ae1d3e68c0b3191adb368b6d32255c",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "436,944.579",
+    "hash": "0xf9d44f420c41295249024318fb20be6ed5b5ef9f5a0d1049d6e8867b271f05a0",
+    "token": "DENT (DENT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "102,768.2789",
+    "hash": "0x84fd74cec8f1abbaf8f56441a54e292337139af3bdefe6016cc2d97919df305c",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,526.499725372137925456",
+    "hash": "0x5e70b3978c619d849a4c842fe71b3ebd687c0e31c003c2b9bcccae7f6ebd4784",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,372.793489060127426077",
+    "hash": "0x593e9aa5013ebb25d40852972c17ccef6793bdd2c55e0692cbd663a2f91fba82",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,026.646544627862074544",
+    "hash": "0xa5813f9290c9e91aca258388ee755ab8c9180dcbc688a04a215108a7a8793d38",
+    "token": "Bancor (BNT)"
   }
 ]
