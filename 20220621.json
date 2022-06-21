@@ -1006,5 +1006,17 @@
     "value": "12,867.408705",
     "hash": "0x91f46c04f007365e4781834d3ee8c732c3934f906e2dfdc9fe3571ba50955bbc",
     "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,992.3",
+    "hash": "0x803bafaef00dd5634601c9dc10ca23598688d3413d4d9e8f7b079ca58eabcb19",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "518.734",
+    "hash": "0x1c6a7a73f1e93c42762b768232995b64c3cf1e62a31311e05799f2b76717ad3a",
+    "token": "Compound (COMP)"
   }
 ]
