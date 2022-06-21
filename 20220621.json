@@ -142,5 +142,53 @@
     "value": "10,075.587328936855682956",
     "hash": "0xde5cea3437273c7b37141c3b1fc184e1bd71069f28be9cd78e1d6f6e4e7e22db",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,366.321",
+    "hash": "0xf6ddcae98e9d5415a7c3de1bdbeff530a0557bd8439c2e02c59c980f27b4df36",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,755.030871632876526618",
+    "hash": "0xf40eafb99c77a5a7fb8de74be5db1fe695bcce1e629ed8c07bb2bc628640b69b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,336.52734428",
+    "hash": "0x711c6860077535f94722719341c65c36474e5c79e6e597087f2dd779866c9f9b",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,284",
+    "hash": "0xdf24bb167f36d5f5dcfb34634ddcb8093c9811dc0e888d824dd8b5ca5c885a78",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,094.900246",
+    "hash": "0x427772182ee3f31488a1888979862070b24f8790d35a9d726d999b1c3ae31287",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,855.637128367123473382",
+    "hash": "0xfb3496785e149f00bdd2bf8f144412e1cbbbb23f4a1ee52a560109ca3859fbb2",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,145",
+    "hash": "0xddeed3a3a261b5e74b2fe47647e94dad51e57e90f3a9f0dfe354d5246a816eb7",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,108.039",
+    "hash": "0x2db98894b24a22f77f636751a2aa33d510a32a6391ab60fbc1fa2413f9815b35",
+    "token": "Strike Token (STRK)"
   }
 ]
