@@ -952,5 +952,41 @@
     "value": "66,183.71707017",
     "hash": "0x0b5c44430b2d53531b145e61466488399dbc837e0657a871cb662063ffca5357",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,753.726855246230255561",
+    "hash": "0xa103548de2d984ba291f5b568a9a76bd16c56fa59586192d15fc5ee7400f02a9",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,043.99996107",
+    "hash": "0xc8bb6b23723ea45b0ad4f0395f386b66b0954ff7c7ba3b9cb84a22c9e8190136",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,590",
+    "hash": "0x7da1b974ba78939862022554c90f71d41204013a71af15a0d6b6c22f76adcb7e",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,048.45448152",
+    "hash": "0x59492a9966d8006598d255a7b29b89a4bdd8d96abcd0a65493b234d4c64ac90d",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,779.2",
+    "hash": "0x93d78459db759584bdc2af67d23ce244cd0fa3ba0c17d18ab286097aadfcee40",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "181,355.352085",
+    "hash": "0x170d5d25d58d6de285835d5009fccfc4076c70580766415dc34adb4fb54a1fca",
+    "token": "NuCypher (NU)"
   }
 ]
