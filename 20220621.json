@@ -1228,5 +1228,29 @@
     "value": "16.91327302",
     "hash": "0x5244754f76c8281bc35d45c3414aef5744d5f21a40f23b941d93723de1fb3106",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x2f6d379a7ba1c67959b459531d55095325ac2a68db0059362e6f7270a3f63022",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,559.044",
+    "hash": "0x4e59fa780a4c50dba636d0993270b6b565da26205f7f69a9d180e7394ffbc73d",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,522.481",
+    "hash": "0x2fa81443b0e8655ff8938b8f15264b282c362b527a0f7f9a23b35071244e3a7a",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6302ae589e8be31b2f2711e752d2049403ced6d0167a293afc38bbde15c60fe3",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
