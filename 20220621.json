@@ -1,0 +1,38 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "50,988",
+    "hash": "0xea07a387266411ba8c089259ccb3c539607a970286f603ad451797c1eeb2407c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,981",
+    "hash": "0xe1be6d90d208be15de9269e988a16e021efcb72b2c5a8218040a4676b0063cb7",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,987",
+    "hash": "0x51ac40893cab305e77d8fb0b5600a91dd86f77000e5365ea5fb9d25779614a4b",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "200,697.7902666",
+    "hash": "0xe1ae8f7a8225832b4e5ff0deed274b493509633313029fe4edf2eb9f732cd7e7",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,266",
+    "hash": "0xe66ce6c0dca072ebdec9a5893ee077c3bf1e057a9363377538dd6b68608d70df",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "103,174.99990403",
+    "hash": "0x0328f1316a1986bd86aa14194b4da8d54493eb97d4780a194a59fe003cb01a3d",
+    "token": "1INCH Token (1INCH)"
+  }
+]
