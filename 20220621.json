@@ -394,5 +394,23 @@
     "value": "12,387.200024554961468293",
     "hash": "0x060ca00a26fcadebaf43180ad7838332e30b0ac9f8fc94379a007583c8887a2d",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "139,182.038994661941278203",
+    "hash": "0xea8168035a2c6764974782bd2fe139abc2349049b27a180fd844892c66932926",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "722.82975269",
+    "hash": "0xd4ebfe6d047b2df7677f6ecd2ce03776787640be9d18a839f02d439380a30b87",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "147,405.060627388058721797",
+    "hash": "0xbd75835260cee6f33bbe6db38de493d6cc03a2f03a754b58498b0502755fd6eb",
+    "token": "Kyber Networ... (KNC)"
   }
 ]
