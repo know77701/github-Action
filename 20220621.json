@@ -766,5 +766,59 @@
     "value": "61,216.80384773",
     "hash": "0x5298e1e14c7340fcb6d17ccd5c19da729f014badc5950bbc2637ea712868a47b",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,754.070816899001826646",
+    "hash": "0xa5bcccc3d926aab1b9f2a68b096ed02d1bf9626d9f19210e1e5c55e8b4145e3a",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,992.24",
+    "hash": "0x8fe1653eefd62d01e9d7794cff161fd0f6f10ee5e5c096a48f3b9d2ee0a0d7e6",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "992,409.26910838",
+    "hash": "0x2203927d942e164a255977e5891efedc1adb47d4195dd85ef2c0d4ba39881902",
+    "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,151.14151047",
+    "hash": "0x22d724afed86b4bb108b159b5a4f3f60784890c0776e327a739d5a92aad24492",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,001.47231576",
+    "hash": "0x66f966c99303e7b8f9b19bca7bc7ca64b17c83c98f73596c26642360b0f8528d",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,072.436908057266601817",
+    "hash": "0xcaf74b96d1cbe306641fea36fc5efa153951d40eb96ceb6667f2a2ae8dd22472",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,499.37",
+    "hash": "0x48068b7c59c54c28031c7c964208d865df091d835d067d3d4a7e826ae38446f5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "77,645.475",
+    "hash": "0xb4ea3a2bc12df2f8dbecc875de0df19090dd1ecf6e5debc0d62add560707cf88",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1",
+    "hash": "0x6f546c7ffb5a0fe91c821bd8e96ad1e222ea7c351d1fd43b77edad78101f3e0f",
+    "token": "yearn.financ... (YFI)"
   }
 ]
