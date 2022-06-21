@@ -838,5 +838,47 @@
     "value": "2,000",
     "hash": "0x65586a424e07413f1ece72b1fc0e52c84389a019f9b709e1fcb22e58f9c1bb5f",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,139.03347874",
+    "hash": "0x83db887bee3a501ebf81b96205e49a7c02a899deef2a856203c80323cf639bd3",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,099,529.60066665",
+    "hash": "0x289ed229304e89e014eb6ede223e2ea2200fad9af82593307d814650307b6b41",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,367.81602387",
+    "hash": "0x3d394fb00bb039e19bf9f8e9b118dc2a5d438eb40c2bb28dc3203068e41cbea6",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,066.68208493",
+    "hash": "0x4218d0f5bbd516c30645f31e7b11f98f02656ab0a51cb371ea7c9177a1cbf403",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,292.33539175",
+    "hash": "0x42f80b3cf99d8a25d4b626516b47f9956b08c1e467e0b5e71aa6dd49d85e7b32",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145",
+    "hash": "0x24966eb4fcad7a905e3d0f295753ed355d7f960e937e05ca7cea574949f9f84b",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,316",
+    "hash": "0x79bb7fed292b3e0a265f5aaae120ffac45406cd8d4e0d35cc1f240a6e4fa9a3f",
+    "token": "Bancor (BNT)"
   }
 ]
