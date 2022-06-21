@@ -478,5 +478,17 @@
     "value": "12,373.44964751",
     "hash": "0xb3322384c4041e7b0469671fdf4e396d63e7e7724f92a8b9ff37288dd287ab10",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,369,302.8227",
+    "hash": "0xe4d53fa9c5772a077063cfd0f19c938a44336daa919a4abc8f762ea3167d22ca",
+    "token": "StatusNetwor... (SNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,391.30629",
+    "hash": "0x09321ab194ab1392c7b052745c790c11ad3b5386f8b8f843bc1765234e50572d",
+    "token": "Decentraland (MANA)"
   }
 ]
