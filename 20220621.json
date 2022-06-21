@@ -412,5 +412,59 @@
     "value": "147,405.060627388058721797",
     "hash": "0xbd75835260cee6f33bbe6db38de493d6cc03a2f03a754b58498b0502755fd6eb",
     "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,007.70063045",
+    "hash": "0xb67b7c2f53825e774b6eb8ffa1290473c727fd9d491829295506400cd8844e86",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,980.8589",
+    "hash": "0x501f68691e50ba6fc03dc82fadf01630a870a1a3abdef18346d942e9b1f75625",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,111",
+    "hash": "0x2ecf3d837ce9de7f2fc289daecbe4fb8e2d119e19711c9992ee324d6a4fe289d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "275.92705952",
+    "hash": "0xdbf516fcc4fec4fcd6b266536893c852a78c265eebaf32495794d3d3a10a44d3",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.37",
+    "hash": "0x8d60e6829c5bc7b8d9359469fdb6d07a31aed85d3364aca74513d27065b5fec9",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,992",
+    "hash": "0xf46f0db6bd52e970d624655cf29c4f2f5061f8bf1613eea697a4bf7b70875a99",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34.37",
+    "hash": "0xa9af13849e086a55b1f683f81fb853328ec409ab6f2826ea3476940906b729bd",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "35,098.3222",
+    "hash": "0x8bb2b24b700749d27da576ab9123a8b9033aeb68145363e1cdf8a266fa05470e",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "179.35885704",
+    "hash": "0x32162ccf00e05936ccd45d16aecf8ee61ae0cfd19968b2f473d5afe91a92b499",
+    "token": "Compound (COMP)"
   }
 ]
