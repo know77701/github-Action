@@ -466,5 +466,17 @@
     "value": "179.35885704",
     "hash": "0x32162ccf00e05936ccd45d16aecf8ee61ae0cfd19968b2f473d5afe91a92b499",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178.61246727",
+    "hash": "0xa7475c16051dc940c87e1f90a2e97ed0035e07e46e2ac069f46d9b896f415068",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,373.44964751",
+    "hash": "0xb3322384c4041e7b0469671fdf4e396d63e7e7724f92a8b9ff37288dd287ab10",
+    "token": "Humanscape (HUM)"
   }
 ]
