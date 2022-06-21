@@ -490,5 +490,47 @@
     "value": "2,391.30629",
     "hash": "0x09321ab194ab1392c7b052745c790c11ad3b5386f8b8f843bc1765234e50572d",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,790.10514991",
+    "hash": "0x51967f972d816ac69661edaa5c292c0989f0393794da3195292a6d1abafb5c0e",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,501",
+    "hash": "0x8663677bbfc983c634838c9e2c4f4d883a4e86016ccc27b9da9c044bf3fdb89a",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "341,104.1",
+    "hash": "0x10d1cce8d60b249d237a0973c3b3ac5009f1526aa37f7e3afa2a5e69994396bf",
+    "token": "DAD (DAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,700,000.61",
+    "hash": "0x781911fef4aecea55c250983ae78b42fcfe3697ff7ce5829425b2b5ea965bf32",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,994",
+    "hash": "0xf850016d10ec6855ba5e1aa2b7824a599d934bc178eb56290cbd10da05831f17",
+    "token": "Injective To... (INJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,000.039",
+    "hash": "0x185ad026af849fa9ec334782b7909122204e8409dc9c3b3fc0f9e483a6fffb94",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,980.9999713",
+    "hash": "0x55e611bb6918a4daf4d22d6b91bb87cfc41c853e51e30550daff284473c497f2",
+    "token": "EnjinCoin (ENJ)"
   }
 ]
