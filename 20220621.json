@@ -1066,5 +1066,17 @@
     "value": "229,065.734712",
     "hash": "0x5a62a553dbd8439f9ad372f0bba6404b4f3186d9aec020dd316aa3d6abd6d4f3",
     "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "304,118.55343162",
+    "hash": "0x42b53376f8342de961be3a8c9126bfd667e128f2eb2932d604e58df2c7bd24e5",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "152,000",
+    "hash": "0xbae75befcb61eaf52fc423255d781963d2b24bed51c085d10f2c8e1aeca8bdac",
+    "token": "Storj (STORJ)"
   }
 ]
