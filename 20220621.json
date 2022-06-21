@@ -1018,5 +1018,35 @@
     "value": "518.734",
     "hash": "0x1c6a7a73f1e93c42762b768232995b64c3cf1e62a31311e05799f2b76717ad3a",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "372,622.125735",
+    "hash": "0xa682dd66af7860581bec08f12640ffd62291ad5735b1153086c16effed797967",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,144,649.97327409",
+    "hash": "0xa50c6fdfed9c57741407675244206df677d088fb5f71199a6d0767029fc52e8d",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "547",
+    "hash": "0x8a4620bda47e4a7eaea2f815012e88d546ad4798c949dfdf50a29c89030d877c",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,693.2999",
+    "hash": "0x42f0f59f6c4beb36a67b9d2909427a15f58aba3008baad429b5e380220e58842",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,095.5604775",
+    "hash": "0x0d6abb9f354d9674ed8cddc954a62403659e114508a68b3551dc92bd7284fc19",
+    "token": "Dawn (DAWN)"
   }
 ]
