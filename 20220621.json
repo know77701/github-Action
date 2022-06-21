@@ -196,5 +196,29 @@
     "value": "220,960.44306138",
     "hash": "0x63b2d394870194252d49c9b90d37ca721f100476ea9fca625085acae64c7d867",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,285.1465023",
+    "hash": "0x59c0600a281dbf122bb68694df79db9d07c9495d2b137d2d597e390f8862a33d",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,900",
+    "hash": "0x453d3879313aa3a539147e54c4181b30a0631b092173d4c55dfccdcc0323dda4",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,084.057571670397357822",
+    "hash": "0x9287013a23a3613b77f4021618c71d91c754016ea67173e009df0446eb62d7f5",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145.46991953",
+    "hash": "0xe9925d051e6152b4d59d122350634ca2d1049b659ed92d5cad9a3cf4f9e1449b",
+    "token": "Compound (COMP)"
   }
 ]
