@@ -1114,5 +1114,11 @@
     "value": "19,200",
     "hash": "0x9bbc0b2db8eac983df02b1517ae713c8975cb307900d95905aa1ac6e03a506bc",
     "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "106,666.95172325",
+    "hash": "0xcecb4fdbb883f7a0b2397a1f81132bbdf0dd76a56e8e625f4b239aa15a812f20",
+    "token": "Storj (STORJ)"
   }
 ]
