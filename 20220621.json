@@ -1048,5 +1048,23 @@
     "value": "12,095.5604775",
     "hash": "0x0d6abb9f354d9674ed8cddc954a62403659e114508a68b3551dc92bd7284fc19",
     "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,116.71290906",
+    "hash": "0xf8e5ace04e9ea2e8ed7bb450581f30fb23d681fdad9522672eaae519062b1b73",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,995.15",
+    "hash": "0x79cdfb75b14041265a95e637417c9a347ec975f40cbc0486b073c357daf4f8fd",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "229,065.734712",
+    "hash": "0x5a62a553dbd8439f9ad372f0bba6404b4f3186d9aec020dd316aa3d6abd6d4f3",
+    "token": "PowerLedger (POWR)"
   }
 ]
