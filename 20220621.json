@@ -292,5 +292,35 @@
     "value": "280,712.30481054",
     "hash": "0x371ac41d6c55dc9e65b8315738b3bac729852b5e8b8dbf70e0b65e0fe970b7f0",
     "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,671.238",
+    "hash": "0x0fc57e197f5b9ebf68f37668fac83fc59f4e29ee973e15f40329515575818e10",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,546,852.9617747",
+    "hash": "0xf075e54df8951650d1c5489454b086050d47a7657a552040d3b8676b83fa1dee",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,469.095",
+    "hash": "0xd497a0a2e0c52bf6a5bf4ea44191257185d1398672b0ef34353ce97adffc280a",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "600,000",
+    "hash": "0x01527735c687fbdb22797929668dfe2ae436eba70a4795fb1654515bef064fc4",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "73,501.02",
+    "hash": "0x3d0344e2d8c382801c352d1cd94a81e53c9faf511659a047c3c45eaed5fd75c1",
+    "token": "Storj (STORJ)"
   }
 ]
