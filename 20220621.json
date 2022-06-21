@@ -706,5 +706,35 @@
     "value": "281.31536789",
     "hash": "0x37d986f95c8014a1e2986095328bd07a704ba4dd7c30a2099b53fe10839a778b",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,809.58458573",
+    "hash": "0x5a4a28c2d948d57a30b5eccf1fcb769ce94e03f3a93a2d51eebcbd7eeeef7be4",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132.55094464",
+    "hash": "0xaa2318d762a216b9a843da8ac444c90fbc733201139aa71d38d730bb12445e54",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,998",
+    "hash": "0x6c415897d5711d308de47ea933541f81cd8034e7d2ab6411a6a57c10d0495f9a",
+    "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,743.332609",
+    "hash": "0x991bb5c2f5f61cf6d6ded5338455ecc1e03094033ec91a9862c36779f83f894c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "949.909",
+    "hash": "0xb8d2c63fe8ca17ad2aa0296ac812a7a28f8de37a8aed41bae3fcf4108d629465",
+    "token": "Aave Token (AAVE)"
   }
 ]
