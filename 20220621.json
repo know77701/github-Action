@@ -622,5 +622,41 @@
     "value": "1,476,244.3114",
     "hash": "0x7cbc17b3e258876299061ef0dee57fc4fa0c5c1c4c1d4cbc3bb3d54560120882",
     "token": "The Force To... (FOR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "119,975.99997843",
+    "hash": "0xbc08829dca5a1b778cc7083614c7429867051747d9dab815e4ea02f5488387b5",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,871.68375941",
+    "hash": "0xa932f553ed2fdac2984674714dbc9c95eb694d89b9ff9d8256115787b6dfed5b",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "941,829.56896882",
+    "hash": "0x89d05767af571a09feef7ee3de1bb2f096748e25e3e5f55542df06cae2556cf6",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "63,488.18266943",
+    "hash": "0xd32dea42aa759d5763adeff2e6881f2152331f42c98695b0edb8f01b3f1394b9",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,369.4965647",
+    "hash": "0x4f1de4bf69b3baa2dcbb46ad3fb1101d58df52b79d469b8cafd2a333b16ee5c6",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,583.502487866200986312",
+    "hash": "0xd0a7c58c0a29c15209fced48ff581d49fb0c668c9e5ca15dd0dc804444a7479f",
+    "token": "NuCypher (NU)"
   }
 ]
