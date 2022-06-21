@@ -658,5 +658,17 @@
     "value": "83,583.502487866200986312",
     "hash": "0xd0a7c58c0a29c15209fced48ff581d49fb0c668c9e5ca15dd0dc804444a7479f",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,475.39984464",
+    "hash": "0xd870dd5f7c3fd68529ed78aeacef965187ee1cd1a6d644c5743c9fea1b6a2f2b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,029.85619169",
+    "hash": "0x809b3f96f27acd1368a3eefde0351a5c561aca1576597452b331049cd83e904c",
+    "token": "Strike Token (STRK)"
   }
 ]
