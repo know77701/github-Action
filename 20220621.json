@@ -1078,5 +1078,23 @@
     "value": "152,000",
     "hash": "0xbae75befcb61eaf52fc423255d781963d2b24bed51c085d10f2c8e1aeca8bdac",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "522.78",
+    "hash": "0x90c6325268bbde7d016d6bdb0a67bc269846ec8919507f8b7f0a01977e2b5ac2",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "197,082.90736509",
+    "hash": "0xf8f06f7f391e4e26396743de941b02c3ee79ff201db3b59327df870ebeea9860",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,710.391",
+    "hash": "0x1ed0260d387a33af7dcabc00717f7b16dfb6889e30898b1e61c490dafbdaa7c9",
+    "token": "Bancor (BNT)"
   }
 ]
