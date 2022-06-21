@@ -220,5 +220,77 @@
     "value": "145.46991953",
     "hash": "0xe9925d051e6152b4d59d122350634ca2d1049b659ed92d5cad9a3cf4f9e1449b",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,600.52",
+    "hash": "0x3b97db7e806d0afaa1c7fffbb4f84a42fb3d56962382173cdef116f41c91e852",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,988",
+    "hash": "0x5537b2fecf915e943eb43b82bde5c50a1731d31a76018cf3cc2768a9382624cc",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "117,048",
+    "hash": "0x7c0bbcb1c6153274b8579e380b51dc6bb743f14b6561cc39eab3fe2c2ff7e227",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,988",
+    "hash": "0xda16a57c579a88872f11e3373e3b45fa0c784fdbea389162a1f76b274fdc0058",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "130,406.12726696",
+    "hash": "0xf0857cc10ea86889fdbef8f5c0ad1edf4d9d00c92ed13a9b9c2da7a2308985b4",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "353.99038193",
+    "hash": "0xad1250a99a921fa3bfdf859c9fc40d67fa3bda0637d06c5dc3acdfedd812e84e",
+    "token": "Mask Network (MASK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,740,242",
+    "hash": "0x700287628aaddac8e0da5efef685b922f998e1e09e6a06a06ef89d95a85cdc31",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,431.25",
+    "hash": "0x105fe020ef9f996e816b12b0321419199f405a473cf19dc7b7c6e50a4070fae7",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,849,324",
+    "hash": "0x009c81a070450b4facf50aeb92a7c9f84335dfe228bbaa91dea796f02cfaa8f0",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "71,000",
+    "hash": "0x22f288e6c5429acb56da0d661754228c79f6bee92e694ed965205771874c3632",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,014.416425",
+    "hash": "0x70b7704175096736311f7991584ddc5414a263c9e74c3d0a819d9581a6d0056e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "280,712.30481054",
+    "hash": "0x371ac41d6c55dc9e65b8315738b3bac729852b5e8b8dbf70e0b65e0fe970b7f0",
+    "token": "Polymath (POLY)"
   }
 ]
