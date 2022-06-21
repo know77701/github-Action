@@ -574,5 +574,53 @@
     "value": "26,026.646544627862074544",
     "hash": "0xa5813f9290c9e91aca258388ee755ab8c9180dcbc688a04a215108a7a8793d38",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,033.61800854",
+    "hash": "0x78666d39c6bba0c508008c8662591d87795bab1b16795e8f0c0766147e3db0f1",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "104,549.52457782",
+    "hash": "0xb6cf000da4e3ebf486a690b09de3475542a8d707383b43125eed7366dc66e4cd",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,225.096742",
+    "hash": "0xd74d38250616e7268603cc06c9c11316e3f45bdc3dc13d6be9ba4b14bea41030",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,900",
+    "hash": "0xced652577d2b29a6b9d6b8edf7fcfcb19a8d5c8a0d77d70596eb7cff7956b571",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "156,391.90523",
+    "hash": "0xc2eb2bb9b246581f358ed47c4ba37cc596a9caa05a34584de4f0ad5fd5dd9b35",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "403.78",
+    "hash": "0x62c45b88100f4323110a4b719b7c71bb97a923db7bad1684969fb1e3bdc5e248",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,543.4618",
+    "hash": "0x73b757fb3c85cd3e2c5d8c2cee0cd28561eb70d0dc66155af77c496363180422",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,476,244.3114",
+    "hash": "0x7cbc17b3e258876299061ef0dee57fc4fa0c5c1c4c1d4cbc3bb3d54560120882",
+    "token": "The Force To... (FOR)"
   }
 ]
