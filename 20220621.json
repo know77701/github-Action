@@ -988,5 +988,17 @@
     "value": "181,355.352085",
     "hash": "0x170d5d25d58d6de285835d5009fccfc4076c70580766415dc34adb4fb54a1fca",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,290.8622322",
+    "hash": "0xdaf99d437cb4848fc1de5dd087ff180ce865871f72627a18bce87a434e1d088e",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "215.86646541",
+    "hash": "0x250b2d6866b8062a95ecdf0e0fb2870bddf5eaf31d8556dea84e378efce18db2",
+    "token": "Compound (COMP)"
   }
 ]
