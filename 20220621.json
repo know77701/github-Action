@@ -82,5 +82,65 @@
     "value": "419.29006293",
     "hash": "0xdf7bee0f5dddd17d273a074d3bf325751d452e795ce64ab179ac2d2a5f62ae5c",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,300",
+    "hash": "0xda41c4df9a6c7cbf8b057c64d7c2dca22417ddb8afa6579dadd53606afffe40d",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "999.74",
+    "hash": "0x44d41ecd4dc3b4cc91d539d4374b0513df53897b6f5d326963b0f31878cc7172",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,561.08905648619474323",
+    "hash": "0xcaa09f4676216ca052565b364f476cd435fe532bd53449232df3bf3fb9e9a8eb",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,994.158596323144317044",
+    "hash": "0x412b9996d645580732daba59b53f4b8171ec50809ec8375ebac1d6621d9f5c97",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,988",
+    "hash": "0x1e3ec61506d712724c18d0d4f340a09070890af1556a86b9bb1f994bffc10795",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "116,134.23021488",
+    "hash": "0xcd6028df45cf5c594148798c128d8b8289acf3cc573879d9ec2eadaa0ed519df",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,914",
+    "hash": "0xcce006110beaff87a1fe681834df74ec289366b9686534fea49e22cb8e4fedf0",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,185,877.68117099",
+    "hash": "0x35eff142f31c2287e6212e5018c9867e043bfa21eea98cf606a400ad074ecabd",
+    "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,136.99995146",
+    "hash": "0xe6a215bb005727c5d90cf8e0b27d61b1c367b76904e7ad3717ab5ff9ca394749",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,075.587328936855682956",
+    "hash": "0xde5cea3437273c7b37141c3b1fc184e1bd71069f28be9cd78e1d6f6e4e7e22db",
+    "token": "Compound (COMP)"
   }
 ]
