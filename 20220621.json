@@ -34,5 +34,53 @@
     "value": "103,174.99990403",
     "hash": "0x0328f1316a1986bd86aa14194b4da8d54493eb97d4780a194a59fe003cb01a3d",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,863.06542245",
+    "hash": "0x585319d97336677b85103c99fac0c4f3a780a0ecef0c37ac408e79702099d871",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,118.14776602",
+    "hash": "0xdea5805a6820af7bc7f6ea2fc2dfcf238097ad55d51884ae6911cf8be4c26999",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "23,095.989389002644613323",
+    "hash": "0x66d071901ab8282f1aefdb773385742ffc155da5de3df3761bb7dc3f97d503ad",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "750,892.260577",
+    "hash": "0xde9b443310615dee2ca9e29d8907082f03fa9fca8f8a0fa75595089c588c221f",
+    "token": "Bifrost (BFC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,219.627019991538517457",
+    "hash": "0x63f7a20643bed45c935d07ea2e59f651d1a31efea65dd3a2f22df61959e43aa8",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,170.27106429",
+    "hash": "0x8635a5a61cbc2991bdabdf8b1ffb7b6dd756f6baaa7fc9377f48e45391b13bfa",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "107,987",
+    "hash": "0xffb4e418d9406e940ab9bf0d57a7c105e6b523f8cccfddee908945291e4f6222",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "419.29006293",
+    "hash": "0xdf7bee0f5dddd17d273a074d3bf325751d452e795ce64ab179ac2d2a5f62ae5c",
+    "token": "Compound (COMP)"
   }
 ]
