@@ -322,5 +322,77 @@
     "value": "73,501.02",
     "hash": "0x3d0344e2d8c382801c352d1cd94a81e53c9faf511659a047c3c45eaed5fd75c1",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,996",
+    "hash": "0x9f5daab7baa09ae336b8bddab686de9e52849fb3f9273cab7ed386aef64d6ffe",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "27,000",
+    "hash": "0x4aeaa0a58c43291bc737fc10a595258fff0e8ebe9d06f467ba1a8081ead1070d",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "90,576.06307564",
+    "hash": "0x286dc1a5f8f4304814eded899bf696dc72cefb5b4ba27db834a745063d21ae13",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,965",
+    "hash": "0x425ce501185bf3d03ca683596718b5206137122d3fc0919f6ddfc31ed7bd6551",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,983",
+    "hash": "0xce60d19219f37f0e454346ebb1ee4b3e2ab0a7812ec2b159e04dbb4825f5a876",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,445.14982635",
+    "hash": "0xdd9d041aa3584879d97f4f6aa168d51e5e657c419150080fa8eede1fae575cb4",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "783.28102883",
+    "hash": "0xd67780be0719920b20a802ae720cfa22a32bf48dc50debef149f9e4236a83af2",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "209,798.543",
+    "hash": "0xdd98b5a770bb2df6d23f6ddea32372350b6d25ed82b553706d30093cda5560b3",
+    "token": "Chroma (CHR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,942.627514556666172912",
+    "hash": "0x5312fc0bad734fd55d354db7e0e70e27e1c6f55f43239bb0d85fa021f8c37890",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,425.099975445038531707",
+    "hash": "0xc1986c986d67d6ba335ae06de2f30cf4bf1df43e9db0eefa8148a706a0d58245",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,882.856865733333827088",
+    "hash": "0xcf92bbd57c9fc84821f5395d2101823536403bfc0ebb1e239cc832a6d4a05a90",
+    "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,387.200024554961468293",
+    "hash": "0x060ca00a26fcadebaf43180ad7838332e30b0ac9f8fc94379a007583c8887a2d",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
