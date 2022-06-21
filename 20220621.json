@@ -880,5 +880,35 @@
     "value": "21,316",
     "hash": "0x79bb7fed292b3e0a265f5aaae120ffac45406cd8d4e0d35cc1f240a6e4fa9a3f",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "86,981.410561",
+    "hash": "0x75935d5093fd244102b2367723f9d21acdfa4cda0164801dd137a64ef313addb",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,000",
+    "hash": "0x24c41d66ad38f3080e7dc34f65771c1ba20ca85841cc15e2299ea699d38213e5",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,684.410561",
+    "hash": "0x2d95a27af63925329fab4b57ba0826b17a5d3310592bd6b82524c837eb79fdc8",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,300",
+    "hash": "0x1f3a14d0b5b7d6fb59ef7960d424c8ddf0591ae38a5a4598d8e6d301983d7245",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,354.65625301",
+    "hash": "0xa1d1678cc57f819c5bcc4cf6f876747fe5b3cf1e8ade028eed4924a627dda101",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
