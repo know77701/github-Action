@@ -256,5 +256,53 @@
     "value": "121,668.29473069",
     "hash": "0x8efb58b22f8318dc5ce19c4ea2d304c379c505e30ab41ba5bbe8f0b393e6072c",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,984.35562449",
+    "hash": "0x16a7b17601f9e5dd7e9dcb8238cfa0b4499a4546d8019b29752477600a5ff371",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,086.19518215",
+    "hash": "0x45254c17cc84829f1e712c359a16cffae90e6b7742febd728cda28e7b4980e0b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,232.05552721",
+    "hash": "0xbe794aebbcb5636d0f69e3596a0a3f533116b88e5d33161fd2c44ed7d56f2525",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "128,371.98184149",
+    "hash": "0x643cbef0a184c4f1a8d6cf2549a646ca5444e94a3b9d7325cb0bfa7e58276ddb",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,161.589034",
+    "hash": "0xb501bec24d85031b5f5ea5617b700b64b89050d16849aaa7f54ca33d850fa3ae",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,922.39752",
+    "hash": "0x2fd47dba1046e2303b8e67ecd451cfecfce6deadb5a7b246ef3a2fd6657ec95e",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,039.74954436",
+    "hash": "0x1f5264e8601b788e0ffa4514ff12d5314b4f1c1ba084829538f781cce3061a43",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,948.39752",
+    "hash": "0xb46c9ef03ae520cad08ce0849a0f3e8c2cfa90423e11d43b041e2a4a49f6b2ef",
+    "token": "NuCypher (NU)"
   }
 ]
