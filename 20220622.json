@@ -946,5 +946,17 @@
     "value": "499.95434218",
     "hash": "0x39ddcc8db5fc1ac3f32b039ef7e4a61a32324e1502f1a4f364d28f36e1264354",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,392",
+    "hash": "0x2bfacd0575655244dd9786fc40325400d792952078881fb8e19b3848702bad9f",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,570.0913",
+    "hash": "0x2c6ecd7c32dddd7a8378e452000c12a03cd62f22371c786a5b70f098e6849fbf",
+    "token": "Bancor (BNT)"
   }
 ]
