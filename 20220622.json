@@ -694,5 +694,17 @@
     "value": "5,544.8818",
     "hash": "0x4d302407a1961e38030b024bd106e2cc9325b8cf58529d0af486a29ae1b420ef",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,292",
+    "hash": "0x9449cd81e615bfb75008420e60196180f10ac8e011570cccf6aee80549ad5e52",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,972,180.9999775",
+    "hash": "0x713362578aaaac31fd5627e4c6f1a309f9559ce7688c5d8ef7ee35f0a9cf4663",
+    "token": "Mainframe To... (MFT)"
   }
 ]
