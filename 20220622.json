@@ -598,5 +598,17 @@
     "value": "9,373.87001984",
     "hash": "0x92da51f2dd782dbbfb7e395e310a769f4a460ab915010bbce177e25ffff7ae70",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,400.8",
+    "hash": "0x9a5686619cc0c83a101f6bd4560672d4b04ddb851a713484b1d56a6acec2f541",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "131,876.99851255",
+    "hash": "0x9e95c0828766cb38c8f79f891c53f14075e38585df79d51a683b1b76519f720b",
+    "token": "Cartesi Toke... (CTSI)"
   }
 ]
