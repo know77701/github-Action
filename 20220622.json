@@ -844,5 +844,41 @@
     "value": "45,454.476235061937710938",
     "hash": "0x14d0bf2f39b78533b9b822fdb9c2172840f478703591d9664dc51ac6c7ba3432",
     "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,092",
+    "hash": "0x556aeda9dab24c59582eaa520ce710a508fef552fe29d9f9352be4c236e6a675",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "214,538.952673631925310583",
+    "hash": "0x54be913d5ed926e99f0f0a0f7eb3d4e89f639e97a2e16ab6e01bec2a4b3301d6",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "123,737.158196",
+    "hash": "0xa01ec12c82b46d0d2e877a1e04c1d7ffa8f37273c162735b1c3a570099ff50c3",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "713.5139488",
+    "hash": "0xf2b9194eddb84ea383552a187e4067efd5c0d42a8e1aa148217204c86ddd0deb",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,984.625",
+    "hash": "0x954f5795510f05edf356c1a6a4df206cb8c81f5d68fc21f3f8fde086a1bffc2c",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "299,222.03007842",
+    "hash": "0x2d8244f61a034d39d519ae44c8bd13c5d97016d285242f7e8a4d3a7c7e54313e",
+    "token": "PlayDapp Tok... (PLA)"
   }
 ]
