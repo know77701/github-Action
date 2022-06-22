@@ -250,5 +250,11 @@
     "value": "49,400",
     "hash": "0x1f51803c02db7f05bee89d9470b1540b80bc671e5f6a716f1c7225e9f7a2abc3",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "121,668.29473069",
+    "hash": "0x8efb58b22f8318dc5ce19c4ea2d304c379c505e30ab41ba5bbe8f0b393e6072c",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
