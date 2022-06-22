@@ -76,5 +76,71 @@
     "value": "14,500.08",
     "hash": "0x61ccaa97e050b857eb140df1352b43d594cf97184067a0529d68d720bcddcb75",
     "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "553",
+    "hash": "0x0e31fa54c04cf68ef160c004b3fbcf77a55f684a5b6cfd91648e436fb726daa9",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "59,490",
+    "hash": "0x8ffe84ca83696bbf93a13f2663087e72e2e1ebd955dfc1224783e43b3f1d93ba",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,342.34837688",
+    "hash": "0xb072303742805656ff6421ab28d7914b07ece7856acf20acb262361f5ed18d62",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,444",
+    "hash": "0xf20179adfa477b96baeb1eee1bd2c746ac7b16d0320844ebe14152dc7352a81b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,154.49756485",
+    "hash": "0xccc467dcdc779c801b2bd7a1c8c0d20455081a6edc6dd3ef677ab2af2873fd58",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "132,000",
+    "hash": "0x410dc02a0438ed8d7357fc1643d51403224cbf001ab79e06bdee86eca61a7c22",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "998.7531",
+    "hash": "0x0d8170580c83a7d85107f4ba2a132019960bc34b5a74938b2b36b01276559a28",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499.7944",
+    "hash": "0x19f928a9a5636bba1df6d10661a639aedac2be341b04ef078a2a8bbbf697b971",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,519",
+    "hash": "0xd6fcef7fb8b14f1eaded79eff90c20b380d6478be019c2b8e9d2d3858029a821",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,300",
+    "hash": "0x17b30eded186ca852cf1061e859a05888334ca1a4b09f471342a77a54b10cd75",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "400,000",
+    "hash": "0x090c4b99b0558925a4316dc436071a44d93e8138be8169fc08e9c328d365bacb",
+    "token": "chiliZ (CHZ)"
   }
 ]
