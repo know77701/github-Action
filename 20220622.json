@@ -580,5 +580,23 @@
     "value": "4,471",
     "hash": "0xfec68960a8649e3ca2b98f008085bf746b3716db791f5c4d16b746df2ac078db",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "69,733.94200496",
+    "hash": "0xffc522e5aaba17b10079363ba2a8b64297bc1dc0201f61dc72b665e18e97780e",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "33,892",
+    "hash": "0xaaae586097bb676df226d836d4464290f92d1f8dae7fde84cae25d315066cc8a",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,373.87001984",
+    "hash": "0x92da51f2dd782dbbfb7e395e310a769f4a460ab915010bbce177e25ffff7ae70",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
