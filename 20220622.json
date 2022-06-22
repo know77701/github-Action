@@ -448,5 +448,35 @@
     "value": "75,268",
     "hash": "0x86923621952b6ab547abbd7986a69aba7a18c8d2e2ffdacf8691348f50105a09",
     "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,888.033",
+    "hash": "0xf1729b12f2df81c679a3244837a0dd0acdf489e7a5657b1d5c63388c25ed5a2c",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "178,571.428",
+    "hash": "0x5a5b5b6e2f3d965586098a3724ef1275e0c227d06f326d76a5f52ec64f562661",
+    "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "554",
+    "hash": "0xe929f05f3e8f3f6ffeead6ef19b3051b1f3e0cf503fcffb0c6753a0b87a95a28",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,513.543",
+    "hash": "0x398072f9889d91823329adc4d56638721c3933e64514566ad95c4a85d5dbbb97",
+    "token": "ApeCoin (APE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "240,000",
+    "hash": "0xff449947bd1829019579a583bb823a819114e51d640928bc01fdea6d7ab7b7a0",
+    "token": "Orbs (ORBS)"
   }
 ]
