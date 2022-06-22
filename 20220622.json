@@ -1120,5 +1120,65 @@
     "value": "16,095.39987409",
     "hash": "0xeff91a46468d4ea7a9edc3a21f55a132637a903486918d95c86d36bca6ba6696",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "668.23617409",
+    "hash": "0x4179fa538686ba4c5e036fd55b327769a851671aac89fca0925c09111018c24f",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,680,000",
+    "hash": "0x5aa27e2f5c4dc95b6f373a7376c3d2c3db9d88d65244c16d8d3b9796eb8dbc5a",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,340.827248",
+    "hash": "0x42b43e7682f0c7f66c1c98226ff4b6d1a7677e74b879c6db3b26b21f65ba6b08",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,344.913624",
+    "hash": "0x011f4850e1cd85844207789c098bfd051fe44630c85f7e553e19f8b3e320ac85",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "753,599.84962387",
+    "hash": "0xe0d22675e312b50a7040e584bf6b41bd82902008001d33c849fb737f7187cff4",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,573,639.42040186",
+    "hash": "0x0c6e6873f7752683894d2a83656785144cac39af03a8305bd686ed6cc8763f18",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,355.008156",
+    "hash": "0x1ba6ad3c4085765a27b12f0284ace8b72d9cec40dfe0468b5424cf2a3812c81c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "230,625.23605177",
+    "hash": "0x6aa991f20b254a75968a82166817c79f2d608bc4d7a2305cc27135beb4bfc452",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,919.44755662",
+    "hash": "0x57eff16c5dc913171f1928b22c3c214c395a4e1f39f19da01caaab12844e402b",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,522.58877651",
+    "hash": "0xb03d081a1cc4984356ef6e25089d1f034215e45a847c7c634403d2613b7253f7",
+    "token": "Strike Token (STRK)"
   }
 ]
