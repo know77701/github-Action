@@ -664,5 +664,35 @@
     "value": "100,985.499999999999984272",
     "hash": "0x3c7beed97d9dc5a225ccea727feb264eecedd0a4b911215c5884e9549a65ac4e",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "163,232.955",
+    "hash": "0xc7ab3fc57681b43998b603577ce4d2f297f3af9fabd380f0566670780e3d85b1",
+    "token": "Yield Guild ... (YGG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "70,015",
+    "hash": "0x368d0b3bd45a87c6ed291fd218d5adc58b376f310c54b2fe4f8dea3bb2bd84d9",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,000",
+    "hash": "0xf65cadd3dc6338eccdf18e26fc41029a14522526b732d4a35e832e4e17690f03",
+    "token": "Orbs (ORBS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "283,004.18106554",
+    "hash": "0x268a0b0ded8cab77f1965d507ceea195738d9a13de8fdaa3ab49ddca0302d5f1",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,544.8818",
+    "hash": "0x4d302407a1961e38030b024bd106e2cc9325b8cf58529d0af486a29ae1b420ef",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
