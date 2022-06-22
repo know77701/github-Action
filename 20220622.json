@@ -718,5 +718,17 @@
     "value": "118,770.2583314",
     "hash": "0x9fc183262a6713aafe9744f164453a3c8d004211aa740daef246278acca63dd1",
     "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,063.2013",
+    "hash": "0x6070436e2ead05f2c3fd92b715860e18892fb00a2088358d4b73a6a7831ffa2c",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "162,024.7864",
+    "hash": "0x29dcb7abe666675a5a1d23cbc6e08edb980930bd1326f5038a021f5b013b2d48",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
