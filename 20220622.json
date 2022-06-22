@@ -880,5 +880,35 @@
     "value": "299,222.03007842",
     "hash": "0x2d8244f61a034d39d519ae44c8bd13c5d97016d285242f7e8a4d3a7c7e54313e",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,245.35718618",
+    "hash": "0x3ca23ff15924d99872759e8455e2b5c73022a07690b2fb379da9803b026b1641",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "50,978.47768714",
+    "hash": "0x4979f95d6a3719ebc234e16fad73ef898c89f1b0c3692ac50008d2ed4c9bfb55",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,065",
+    "hash": "0x737435e761508be9118b62ea181069ca22ecb5c560f271b5828472850e6dfd9f",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,900",
+    "hash": "0x6c40366ed1042632683207031b9c230141a1478dc3ea46cfbeee1c5a5ce9b8b8",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,120.861704",
+    "hash": "0x78c407630f4daa2744b6859b4ed93c1cd31605ff1aabe259e740ed4f794af904",
+    "token": "NuCypher (NU)"
   }
 ]
