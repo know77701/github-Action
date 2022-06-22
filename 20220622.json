@@ -1192,5 +1192,11 @@
     "value": "3,235.4",
     "hash": "0x3f5ab9141f4b5b3c50f32d20eb88375bac919ca98ae0c4e5229ab38fcbaa7289",
     "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "709,697",
+    "hash": "0x8f814d37fad120410d268109b9627aa3097bcd7434b640ce5bf3d671e1324f9d",
+    "token": "Ankr Network (ANKR)"
   }
 ]
