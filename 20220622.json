@@ -208,5 +208,41 @@
     "value": "4,500",
     "hash": "0x01c845d8458e8ad333e06d440d694bc5373102967e6e16c0f162bb7d9eb02595",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,472",
+    "hash": "0xea18f1af2c734caa82484a134e2f78af929b1932caca2ad6903122ffa25d9afd",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,091.92256292",
+    "hash": "0x7b12170f3699d348177cd6224561a816dc7638382e76696d97b7d342fc2f8253",
+    "token": "OriginToken (OGN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281.29377099",
+    "hash": "0x0f52278ccf36a1733d0878a92d76e68ff9940876cef2b7385e602e0ac699acb9",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "546",
+    "hash": "0x1d3578f45dc224f01e30d9a228a48bd267dd406de5ee9c59bb7f4b4a2af6518c",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93,764.97808618",
+    "hash": "0xd618bc221397d78cd593c6a3186367ce1751d64523052dd4e6c34cab1693c494",
+    "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,553.453",
+    "hash": "0xff70c4699d8f60088ead0f787ad19fd4ff406838c19626ca9e25353358eb353e",
+    "token": "Reputation (REPv2)"
   }
 ]
