@@ -910,5 +910,41 @@
     "value": "25,120.861704",
     "hash": "0x78c407630f4daa2744b6859b4ed93c1cd31605ff1aabe259e740ed4f794af904",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,036.73562888",
+    "hash": "0x58778994aa0ee9729c81fc70e183c2d84a07660a85b154a8eef755af738aa6b2",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,999.99",
+    "hash": "0xd0936ada4d85def826fccf4e102df536b97d89fd44dd4df9a6de6db699ab3843",
+    "token": "OMG Network (OMG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "550.70234184",
+    "hash": "0xf7a471f3e93c7ace58d6eb4854a9b991ba929eacdd7dda59d1b86ab0037da7c9",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "281,527.17211916",
+    "hash": "0x62bbdb5dc3ac192592db02eb6923e77781ac34785aaf992e1425678d2c458feb",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,000.03837911",
+    "hash": "0x2215e96e5f3c52c105bda052bbb6ea3b89f54a95672ceabc90a46d5e9da249fe",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "499.95434218",
+    "hash": "0x39ddcc8db5fc1ac3f32b039ef7e4a61a32324e1502f1a4f364d28f36e1264354",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
