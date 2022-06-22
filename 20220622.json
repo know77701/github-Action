@@ -346,5 +346,53 @@
     "value": "34,070.297037",
     "hash": "0x72b54a3f21a03b38d77d73051ba69e8e36dfd07ffdc59e78f5bea09cba7930e3",
     "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "177,386.97988152",
+    "hash": "0xb0e62abfaf56ffaf1834784f62a379fb3cb09361270799b1b1e71c01495ae33b",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,807.9",
+    "hash": "0xa36d71d5b7b8d55d4226163f7676f460f85bf895c00ebd64e647cad623c3965d",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,314.310456",
+    "hash": "0x4a2b4994407d7d9b59a4ea8cfd98b88bba3123f11771e5843737d879d41a8f9f",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,705.403932",
+    "hash": "0x79144785e46db722ba4092910dc2d0db6a95d1ba2db2e83ec4a3837bb4a1e79b",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "140.9699775",
+    "hash": "0x9b5ea8b84257cf4fda32012a99c1d31b623f66257f80c4cd6caf77f66eec3f9a",
+    "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,939.5999465",
+    "hash": "0x2e87eaf6482153c9941b41a31ddbcbff83d883f54d9fa0a665ae72439670b2a9",
+    "token": "Livepeer Tok... (LPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,358.076125436061297506",
+    "hash": "0xef9a3be15e5d3e41d3e17f63b69c9a7cb5240ef4996f1f03905d7b775a4f1000",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "285.87864433",
+    "hash": "0xfd5ae0c9c6f9fb96caf3c013b49a2661b4074b0798e22f6172c256cefb5e7df2",
+    "token": "Compound (COMP)"
   }
 ]
