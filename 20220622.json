@@ -550,5 +550,35 @@
     "value": "9,019.08996603",
     "hash": "0x8b9e0f8f8a1c8601625b73ebc0f6bcdd6bf967d91e074866f6051bd1eefa12c5",
     "token": "Bounce Token (Auctio...)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "949.83940283",
+    "hash": "0xb7129ac9d01a6f9571261c08c4f9ed7ee806b2ce243f5c5b19018d87396684b3",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "65,808",
+    "hash": "0x659f53da50400f8ce2f09d658f29a3e334cc7f557bccd27f8329448a045a25df",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,631.365",
+    "hash": "0x2c1f2eecb657fe30f674706ec627825e8064e8f1a867c2692c9b57395c1e5d99",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,153.9",
+    "hash": "0xbb70dc0a4943561388cedaab9ea03edb63410039052d77d020faeb758732e682",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,471",
+    "hash": "0xfec68960a8649e3ca2b98f008085bf746b3716db791f5c4d16b746df2ac078db",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
