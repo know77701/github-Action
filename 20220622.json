@@ -304,5 +304,47 @@
     "value": "17,948.39752",
     "hash": "0xb46c9ef03ae520cad08ce0849a0f3e8c2cfa90423e11d43b041e2a4a49f6b2ef",
     "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,261.07295734567149",
+    "hash": "0x47b5be99b78e7e88330030a4ba07932beeca06e0f454e24cf6be501e9077a233",
+    "token": "ChainLink To... (LINK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,847,530.99990403",
+    "hash": "0x4311a2e4babde948caf9b14a0b8e5f23e87d20abafe1141960184f28904bd5ff",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "39,993.25",
+    "hash": "0x2ad26b52d6dc817344890923e6142a1bbd1c06c95e9ef95c302be61b9d47a9f6",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,159.444845705031748287",
+    "hash": "0x47ae3980c9b015c7f0525aad994dbae394e117bdb4f14f91e605acc434707eb5",
+    "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,849.39",
+    "hash": "0x4ede161f100fa25f7114c78fd38aeabf7fea82d9b3e3265290eca2f3ae46ec16",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,400.16",
+    "hash": "0xe37bd0c849a4b8c526b0ebf8ed9115f5c0cf4a0cfa46a13b5773aebe23531373",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,070.297037",
+    "hash": "0x72b54a3f21a03b38d77d73051ba69e8e36dfd07ffdc59e78f5bea09cba7930e3",
+    "token": "Serum (SRM)"
   }
 ]
