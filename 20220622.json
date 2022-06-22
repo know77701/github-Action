@@ -610,5 +610,59 @@
     "value": "131,876.99851255",
     "hash": "0x9e95c0828766cb38c8f79f891c53f14075e38585df79d51a683b1b76519f720b",
     "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,159.63070607",
+    "hash": "0x6919538d66e6f4ed533103667be97eec01b4a584c95aa60752346aa020862640",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "300,000",
+    "hash": "0x3ec03eebe507da46846e9ba68f26a73725a1094211f31aee30be9a2f6535d5ff",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,949.08777",
+    "hash": "0x7620f0c76647bfa39d943eccf93502006ca99ff88fb69623f901049f56040ee4",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "57,492",
+    "hash": "0x237e58b319e6537185893ee2064990d9d20054c3ed7f2b485316eb126ceb36de",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "37,296.53797099",
+    "hash": "0x5f0a926e17ec2d416651f0e0f311eeee160631a1c03df1e0cad452683b3eac6e",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41,096",
+    "hash": "0xdd1701b71456f98e2adb746730736ac4fa3014cf8e240dfec2456038017e23b0",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "31,041.099",
+    "hash": "0x98714244c832a37d7b0a8bc2f0ca602b18cf41e2801781b1fc191cf30f890871",
+    "token": "Kyber Networ... (KNC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,105",
+    "hash": "0x4c6d1b7f34ac4061ec6644271a55c5374a3d564387ebdee58040ddb4a4aeb862",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "100,985.499999999999984272",
+    "hash": "0x3c7beed97d9dc5a225ccea727feb264eecedd0a4b911215c5884e9549a65ac4e",
+    "token": "Humanscape (HUM)"
   }
 ]
