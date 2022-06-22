@@ -1270,5 +1270,17 @@
     "value": "70,897.05445857",
     "hash": "0x99452ae522908df91e4b89760444d754c57f58a1813d1eb5c787c6313272a1e9",
     "token": "1INCH Token (1INCH)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "151,451.099476645980144795",
+    "hash": "0x39265387b0314ee36aad82fd45328c83313b73748efb6865447a3c561c612185",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "48,791.799666",
+    "hash": "0xc3f80c9b87a23ff33329ee9d6c0e5d90eba25e6763a67911b98fd6fce213c2d3",
+    "token": "NuCypher (NU)"
   }
 ]
