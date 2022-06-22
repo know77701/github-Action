@@ -142,5 +142,71 @@
     "value": "400,000",
     "hash": "0x090c4b99b0558925a4316dc436071a44d93e8138be8169fc08e9c328d365bacb",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,846.7",
+    "hash": "0xceb55207a2f805fbf7981412d2fd427864ffc006ef46b7a5793827d7dcceb497",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "112,651.110668",
+    "hash": "0xd2f1e578171dbd1f0ed3f1d920c617fb24c3066e43d3f3d561d74f123d86ed14",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "120,823.43518193",
+    "hash": "0x58d4fa0eddd4444ea03e8cc6244f6b6bd7e07991172e6a4086b7171fae7551d2",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,033",
+    "hash": "0xfc782b15458345e1c3953d74cb770952354f92f402ce76a946765fd7236c82fe",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40,250.053",
+    "hash": "0xd21aabe3c2334af5399a98e09fc0cb7468950bae2001d19ea06b49c9ac35e6d0",
+    "token": "Metal (MTL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,000",
+    "hash": "0xc60cdfb9f4d1b78c27630e7830e3f4847a4ad74fe0d18d2f05152f736fb6d81c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0xc58e07a72a6b383a0e748ff333eeacddd1ba327446bb6f822d98a90d2668bc76",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,710,208.13337315",
+    "hash": "0x6084f2794faf40bf46f47ae07aa9389e28bfb5debb3fd6ba19f1a8616ae6b1a9",
+    "token": "STPT (STPT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,400",
+    "hash": "0x0c045231b2b02fd6747ea9b3f2fbdb9c76ac0baadf570509290be94a5ada0d7f",
+    "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,000",
+    "hash": "0xa7ca160f27d10b7c9fdc711fb5c06d4df44078ba4dc594b259702317ee705b1b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,500",
+    "hash": "0x01c845d8458e8ad333e06d440d694bc5373102967e6e16c0f162bb7d9eb02595",
+    "token": "Alpha Quark ... (AQT)"
   }
 ]
