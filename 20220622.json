@@ -1078,5 +1078,47 @@
     "value": "1,270.94257205",
     "hash": "0x3bddb91492087ea7a828375230231d3b67ae8509deefdb002c4b38280ff69b07",
     "token": "Aave Token (AAVE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,200,004",
+    "hash": "0xa9f4784dc461f73b6918f62f479a91a124fef926752ef6843c2bf6965d4904a2",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,710.48292795",
+    "hash": "0x1ade35cc53fd794a39967047b14930d6b96461a00302e0ec49a74bf5323d61f7",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,196.9460666",
+    "hash": "0xe901dc53c20cceb5c93f3cf3c142749939b9ae87ceddac0b9c2c59e98e09a70e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,269,036",
+    "hash": "0x367c444ef6a012ca6f8b04a551f1f743338a87336444df3c8164c66e5ac86a93",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22.5556",
+    "hash": "0x197d011b0086821f14c2588c95fcf8ceb313a955ecc20e8daba08b116d05503b",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,776,176.38822208",
+    "hash": "0x57f396a2361d8079ebaac885253fe9e8352dd201b0096523f78dd00b723fe4f9",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,095.39987409",
+    "hash": "0xeff91a46468d4ea7a9edc3a21f55a132637a903486918d95c86d36bca6ba6696",
+    "token": "Bancor (BNT)"
   }
 ]
