@@ -1378,5 +1378,17 @@
     "value": "3,253",
     "hash": "0x362fce94636df7e2c034efdf0fd9ee00ab79e1dba84446375c566c8d631e6ef4",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "28,005.019",
+    "hash": "0xe5e4b1b963ab262418fcb545d9fe823afe7019885f9d73e0e841d311c8ccb97e",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "135,270",
+    "hash": "0xb175fd2461473e9fd836d57778874671c8674831d95a1e807cda941853418f18",
+    "token": "NuCypher (NU)"
   }
 ]
