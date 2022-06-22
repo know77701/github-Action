@@ -958,5 +958,59 @@
     "value": "21,570.0913",
     "hash": "0x2c6ecd7c32dddd7a8378e452000c12a03cd62f22371c786a5b70f098e6849fbf",
     "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,268.38521855",
+    "hash": "0xb46d150a73b4f96841d0934681b403be792d6d4fd0bb88585d0ec47eb7405fbb",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "114,968.6265",
+    "hash": "0x97b833f8ceca57d903a0db56037b0a0ac1a118a66907858a2eac957fd987c5d2",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "43,986.971042656658138266",
+    "hash": "0x18e14a22782cb430ac3b197ae7b81d62d7dbf02e389bfeff821774046ed20e9a",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "114,722.99994836",
+    "hash": "0xe0fe61803f295c03277ec11b740db8c85590f23da1dd69fddc70c7c5ec02509e",
+    "token": "Cartesi Toke... (CTSI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,890",
+    "hash": "0x53340b9dde7dfa4223fe8cbfdb3392fc7fb0b4c377951b2d56db891db06620fa",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,456.34465546",
+    "hash": "0x6d7d68b591f36066781102121a9fe07ae6bfb19d23a3bce217dd6197e047922b",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "79,990",
+    "hash": "0xea84d4699457f1592166ffc24ed1c402af11cadef22b3af1b3f731d8b8385d9c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "176,467.074167447133210181",
+    "hash": "0xaf41c3c04dfdcaeffc108d9be22873d5b7490d7c2bd06204064ca3263406b8a7",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,454,108",
+    "hash": "0x99e7aa488c6d6d8ab2de398542c1f4430b53c1f903a33d50a8cb24010610af29",
+    "token": "Ankr Network (ANKR)"
   }
 ]
