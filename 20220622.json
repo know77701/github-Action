@@ -1012,5 +1012,71 @@
     "value": "1,454,108",
     "hash": "0x99e7aa488c6d6d8ab2de398542c1f4430b53c1f903a33d50a8cb24010610af29",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "44,000.165",
+    "hash": "0x2c7a35137ce6f00774a4cd3ed2331888591eb2374218ea793b5720cef3854b0e",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "22,298",
+    "hash": "0x3bc63d32f88f5df686debe295f86c0bdd32eebc5c3ab084c2a39e3189b17fc9e",
+    "token": "Gluwa Credit... (G-CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,477,598",
+    "hash": "0xe2f74600a6aa0c909062a98badfce3dade59f7f63e79735c24b714478dd9135f",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,500",
+    "hash": "0x74299185fc89c7770e854ac8888934586735846feb9453c0991abc4c6a49adee",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,023",
+    "hash": "0x8eb7f5381e6059e5c5808927e948fcc61588db1ea2046f21c978763424190313",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,420,066",
+    "hash": "0x8fed564040b37240cb9cc2d723463a4e6061b31368d2cb3bd0de68e35abdfbb9",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,601,830.99998618",
+    "hash": "0x62137ffbaee012f1f641f77679f369338d1dca29bf00fbba1d6d74b88a36350c",
+    "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,005.257421",
+    "hash": "0x0ad12aaa02bc3c1960e502ffbaa2b6cc2ab20f1b2575e6d45daf771c8ad9ce15",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,829.28023425",
+    "hash": "0x4d0b205a073a13fba058a511601492151995cebf8411b2d8213a1f465648bfdd",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "38,900.043",
+    "hash": "0x204c6318d475f9072c38aa7aafa519d6edc7e79b3d8b2fecf63b13e6e3b95ddc",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,270.94257205",
+    "hash": "0x3bddb91492087ea7a828375230231d3b67ae8509deefdb002c4b38280ff69b07",
+    "token": "Aave Token (AAVE)"
   }
 ]
