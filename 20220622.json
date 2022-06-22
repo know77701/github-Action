@@ -1198,5 +1198,29 @@
     "value": "709,697",
     "hash": "0x8f814d37fad120410d268109b9627aa3097bcd7434b640ce5bf3d671e1324f9d",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,298.78",
+    "hash": "0x911ff661e0232e01919f3eb2dfcee585bffa310eb2875cbd80668f3a3b1db009",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,375.144124",
+    "hash": "0x09c9ed97639bfc936be48abdce2896899d1c3d3c5b3d4b10a3d0a067c3e9742b",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "26,618.875",
+    "hash": "0x28775f6b943ba284f8f377a0e8fb1aa1cfa2fe11f6abbe3b8a14f239497bae68",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11,373.50636417",
+    "hash": "0xeb2045498499f603262f4644bcfa588c7167f8389aca28f714e65d6c75244507",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
