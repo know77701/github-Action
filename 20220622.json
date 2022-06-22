@@ -706,5 +706,17 @@
     "value": "11,972,180.9999775",
     "hash": "0x713362578aaaac31fd5627e4c6f1a309f9559ce7688c5d8ef7ee35f0a9cf4663",
     "token": "Mainframe To... (MFT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "101,036.7",
+    "hash": "0x3c292967bdc460f978e2c34a5315527e9054b0c26b5ee4be0c12ee889f11c858",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "118,770.2583314",
+    "hash": "0x9fc183262a6713aafe9744f164453a3c8d004211aa740daef246278acca63dd1",
+    "token": "Pundi X Toke... (PUNDIX)"
   }
 ]
