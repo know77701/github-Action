@@ -1318,5 +1318,23 @@
     "value": "1,631,092",
     "hash": "0x896c95d14b4399714f4b5e33969f8cfd899f7c752554c626ac99955a9b821dbf",
     "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,391.06262491",
+    "hash": "0x9b3746b0cb7e74d1942723cf14a468a3444a13ed64bed7bdc330d352bfe3bf0e",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "163,177.989784424019855205",
+    "hash": "0x159b8af51994db544378eb10ebf8407113bc578db785b8d52d6a23872e9cdf87",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,299.39",
+    "hash": "0xd8fc9617eb8189d85bb3e6172574c51a634a4dbfd952833a371fb5ad4ef38773",
+    "token": "Axie Infinit... (AXS)"
   }
 ]
