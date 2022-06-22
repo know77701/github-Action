@@ -1450,5 +1450,47 @@
     "value": "4,441",
     "hash": "0xcced7acac910399048deafc7f6978e99cd6952f086c8b19b5ad59a667a5bf15e",
     "token": "Alpha Quark ... (AQT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x8260765bb16874421d92e649e0a0cb64cea1002b8c30828bb077d3c5bef9bc18",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,844.088",
+    "hash": "0xe2e101d55890d29011c9e6aa2f9d867d700dbe9acf7d02dbe219c47417daf181",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "149,972",
+    "hash": "0x771b1a7fad23db2f02d8ed81d95428e915d55779bb88b13a4bdcd04a595d8b7c",
+    "token": "Audius (AUDIO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x54a3b827d038b5e4c163a88d88ec9e0c46ad2547c285ac975cd59bd098842074",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,620,083",
+    "hash": "0x5d626a07da0704dfd33daf29d876f659bc2de66234b6c812edc7a7cb9e3ba597",
+    "token": "Ankr Network (ANKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,862.70341",
+    "hash": "0x273182c1f585f0145dcf136cff4f676a5b2106029b7dbbdebc0aad6cd8f396b3",
+    "token": "Immutable X (IMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21,111.548500244652384936",
+    "hash": "0x65b72ab3c7d19b9a694bbc220de83daba7a0e19cc2043cb4ab090d8a79a61589",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
