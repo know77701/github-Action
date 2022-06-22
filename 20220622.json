@@ -394,5 +394,59 @@
     "value": "285.87864433",
     "hash": "0xfd5ae0c9c6f9fb96caf3c013b49a2661b4074b0798e22f6172c256cefb5e7df2",
     "token": "Compound (COMP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,622.71577139",
+    "hash": "0x10bee41f0400d05372b4c1b11a8c220582b21590aecd820789f4e9a7b0593fcf",
+    "token": "Uniswap (UNI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,518.966444553920712256",
+    "hash": "0x4a033476895fcc760bb2f0c813eadb64a3540c1da1289effe4907d2ce188f8da",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "97,200.99",
+    "hash": "0x2272aa89266531988b64b0b82a8419a9ed55c137e0d4e079fa69634a8fb18287",
+    "token": "PowerLedger (POWR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "6,893.904865",
+    "hash": "0x650c45d9691741a059b72c6cf448886fc31bdbec83f309d293c15cfd3a0610eb",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,717.409274017341329889",
+    "hash": "0x7d447e28475230fe4b38d2bc47a1929edcd23cef2266ecf5b1352bd702a1a55a",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,228.78724699",
+    "hash": "0x0168e9496f14b17c20501e53365c8abb0ac379796cf758c89b701637268c063c",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "8,068.78",
+    "hash": "0x631f587403106ce4f7e5b9c5bfbf1f3fcc8a1278779b0a9bc24f0778950b3c8a",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,246",
+    "hash": "0x932559f3833760d0d73d9f41ebbb0440a1fe25885a26408c7391d156a76bfc4d",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "75,268",
+    "hash": "0x86923621952b6ab547abbd7986a69aba7a18c8d2e2ffdacf8691348f50105a09",
+    "token": "Storj (STORJ)"
   }
 ]
