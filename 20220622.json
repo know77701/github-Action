@@ -790,5 +790,59 @@
     "value": "20,000",
     "hash": "0x6bf3e422b0142571e9dd4730f04d36aaec539d357704312e912b068870cae6b4",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,992",
+    "hash": "0xd81f2281b9bfc32b55f80692ec0ee0c0257ca962e25eceb8fc89f3460210d105",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "139,976",
+    "hash": "0x7493413e96127b0c3144704517a87be8f4194c7eb8b0665ccb618130168a23e1",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "489,906",
+    "hash": "0x8e5f1cadf014f21a83d1b87def814f7c7b3328e72e97e3134e9fbb175196d9c4",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "179,076.989026566964296059",
+    "hash": "0xc6ca220577391935de865f2a13facbd715da06c638482d442c299950da449ca9",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "34,462",
+    "hash": "0xa7a88ff254c6c47316a48ec2f532baef885a004d6f266078ed30a46aa0f9a392",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,229,388.3620137",
+    "hash": "0x908ca852b595e588e694d31b302ebd308e7f1295213999710b4ba009c6e13e65",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "49,989.997223",
+    "hash": "0x9bdd900c69b75e6c3e5275f730a75fb01385adeee416e00183fc01aee5a6556f",
+    "token": "Serum (SRM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,796.4482",
+    "hash": "0xbc755c785e6faf4f3b0563f511624f3c8c1a188abe74534b41787423a42c5b6f",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,454.476235061937710938",
+    "hash": "0x14d0bf2f39b78533b9b822fdb9c2172840f478703591d9664dc51ac6c7ba3432",
+    "token": "Render Token (RNDR)"
   }
 ]
