@@ -64,5 +64,83 @@
     "value": "51,193.7040704",
     "hash": "0xf81998b8fa8a965a5aaa0593ae83ea005ae4a41f10367f0c811c81cfbd5db9de",
     "token": "Loom Token (LOOM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,395.24315374",
+    "hash": "0xb2314dd43d5ae7675cff2c1b896ab58e68b91739ddcbdde42db901b3d6561fc4",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,948,683.662726411650324084",
+    "hash": "0x51c196077a0716cb82863de064be61e985df71cdfe75127a3e76dcfc180ae846",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,327.834137",
+    "hash": "0x064966eabf1a19b128b25ec2067cfcaa4ea564e4323c026813004c1737ed8e7e",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,992.149953585347615064",
+    "hash": "0xb5f383946a4234b636b916bccf89f99ebc4cba6cf43d2ab70fdf1174f9225ced",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,395",
+    "hash": "0x15e79a02867701acecc9e4d68ca7f85aa21ef1beae3bb62bf2c0d738b8eb9d15",
+    "token": "SENTINEL PRO... (UPP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "60,521",
+    "hash": "0x0539dbf51cb187c21535a1ebe68199936e5f727db70bfd6c6646d4a5de137446",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,019.66868568",
+    "hash": "0xfe4a64baf77931f150f78b0a96d2708c9a312e8808758fb86d43b6695f1df54d",
+    "token": "Polymath (POLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "278,795.642",
+    "hash": "0xf6137bc8dc598f05a8ab722c45d9fe871e1f70e0f66e3adb8eeaa7e09a69e38c",
+    "token": "ZRX (ZRX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x5d91843cfbe1ed7f2d098b0acfd1b837a428a7548f78365cc0a6636ee553753e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "42,989",
+    "hash": "0x57e7a274b2b52c4e37e41cf2137e4b036202fc9dd8a18bf57fe680b410408447",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "21.99897803",
+    "hash": "0x1918062f48118748417bf5b24aa1d6eba3ed0729a15e1ffdf3c8c31b7e9ccfa5",
+    "token": "Maker (MKR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "24,984.6575",
+    "hash": "0x801b78a86f5fa70a2113e7bdc0116d1c65017e002d70bb24b33044dbd0a2188b",
+    "token": "Bancor (BNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xe13dc8707746fd7c263e592c87087b6143d82f836865b15b31495d4ef35c1dc9",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
