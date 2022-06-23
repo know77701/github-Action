@@ -1,0 +1,68 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "332,740.3296",
+    "hash": "0x9701372751cbdb5ca48adfa90f2b3691483dfc31d50327eeb251b67a781fcf4c",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,983.99990124",
+    "hash": "0x6a0c675aac705033234f4b5770c963eb9394f7672fc16ea610eb24d359fe40c0",
+    "token": "EnjinCoin (ENJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0xfc42501d00c46ac6765ad07cc3575dfa790523cc0eb36463ce5ddbec852f3ce9",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,649,461.13104942",
+    "hash": "0xced10a0a3f4e97eb649785b180ef2b4f37a8624e7906ba498964abe1347185c3",
+    "token": "Reserve Righ... (RSR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xbd44002fcb29beff1b0a9870e4600632aaf4baa65c347174ab24c7e7995e664a",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "94,237",
+    "hash": "0x356368aa6be4729c4e1a36fe28fc7f4f677f3af1c8e20fa193f59779d609a095",
+    "token": "Storj (STORJ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,000",
+    "hash": "0x6363d9c10a5562714479b544e99882ba2ba8410c7a4fa76f0b04ad32bc06ce2e",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,272.15379104",
+    "hash": "0x7033f9b95e6ebcda44685482dd97bd76b57e78c35eaadb132559ff204feb9c8b",
+    "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0xd778e31b4c72b57e09902b8db022cb6abe620721e85fd90a2d601e9da1798fc4",
+    "token": "Curve DAO To... (CRV)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "17,300.77890614",
+    "hash": "0x3f4c100d3cf1ed5a85e1ff4048f2ad791cad1ec504418c4137a26f9d9167d914",
+    "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "51,193.7040704",
+    "hash": "0xf81998b8fa8a965a5aaa0593ae83ea005ae4a41f10367f0c811c81cfbd5db9de",
+    "token": "Loom Token (LOOM)"
+  }
+]
