@@ -1,0 +1,152 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "33.13194044",
+    "hash": "0x46977d86111d5351296d928572d26846a529f5fbb362820a96720e6ba751996b",
+    "token": "SKALE (SKL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,342.883736490420000023",
+    "hash": "0x5681193e20804ec4c7ef13f11fbacdae25a8fab850496203f741cabf22c69132",
+    "token": "UnikoinGold (UKG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "475",
+    "hash": "0x33bb68a400a7cdd1473ad49c4a53e30ece988658b368568cb5161dc8ec1ea03d",
+    "token": "Marlin POND (POND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3",
+    "hash": "0x9d3a415ac72b2cba72987347fab448f15b3bfa9a0ea7a1ded442a640750eb87a",
+    "token": "Tokamak Netw... (TON)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "388",
+    "hash": "0xb9fec0125dae90ba5ec6c976e1f823d97748d760e1bf3981e9c06eeca8eb02b6",
+    "token": "TenXPay (PAY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "5,779",
+    "hash": "0x5fc05482a4132553fb764c6996c8e4470a46d8bfa6212b9f1d52a1d97b257260",
+    "token": "Mass Vehicle... (MVL)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,058.02621833",
+    "hash": "0xbadefe100ad8ee1de6da564a23ad4b275b24d3222ff82ed90e461f17612a6339",
+    "token": "Enigma (ENG)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "80.3839",
+    "hash": "0x96a8bfa04ee00b60b85603e761e13ad379c0770f9f7e8e473b3a3ac2a0f42877",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "295.361",
+    "hash": "0x0dd5093501fae29db5ed84d7b4d551bf66ad2e9a8006026745d116369912dfe5",
+    "token": "AdEx Network (ADX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "93.008",
+    "hash": "0xe8c2390eb7534e404dd6b1932f471cf6de63f16783d12692f4d7d12ad339a843",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "13,970.15816176",
+    "hash": "0x7eb100d84cf3ba7b29952cbab5e99e3ad4dc928915134aeb67701842d1bdb95a",
+    "token": "SIRIN (SRN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "523.46646807",
+    "hash": "0x06d0753a602b2ad28af411e5fd9173cfd1d5b590adaf9bb004b7da7f23301506",
+    "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,733,210.41230757",
+    "hash": "0xa149c960fd8f1bf029c265fc0e523cf24ca14774a607c138912605852024882a",
+    "token": "Crowd Machin... (CMCT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "142,830.43707909",
+    "hash": "0x132e60ae1871c74c271c34c0f13afa4ad53ba1534d1a809e4ebc8f403b74fcb0",
+    "token": "BLOCKv (VEE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "40.5061",
+    "hash": "0x679fea21a2991b1bc4c5ca6d16c425e63977369bdcb7b5fe8808a2f54f5602d2",
+    "token": "MCO (MCO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,623,956.44170016",
+    "hash": "0xfaa6baae8867d1cf762ad5cde4f989aa3ce839e6cd58b563461bdeb8493a7a0b",
+    "token": "Vodi X (VDX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "312,871.76897882",
+    "hash": "0x1812132c5c09f6517d45ae2b7ae38450143b09ec419b092d4d57d54a23c86184",
+    "token": "SpaceChain (SPC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "36,096.46610072",
+    "hash": "0xf74a75d5a856eac86983f577a4ebecd75089830dad670e581ddd4d9e9eb394ca",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "18,572.26781286",
+    "hash": "0x5b9cd0d3df2bcc13b34c6e8813fa0f676e9fa48d1bf1e50abb58d57ec030a136",
+    "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "410,133.88803143",
+    "hash": "0x02b1611ab5dba20ae4c64cbd76d5625c71787966e12a55b8a4b7e79fd4d1cc71",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,395.24315374",
+    "hash": "0xb2314dd43d5ae7675cff2c1b896ab58e68b91739ddcbdde42db901b3d6561fc4",
+    "token": "Strike Token (STRK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,948,683.662726411650324084",
+    "hash": "0x51c196077a0716cb82863de064be61e985df71cdfe75127a3e76dcfc180ae846",
+    "token": "Rally (RLY)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "52,327.834137",
+    "hash": "0x064966eabf1a19b128b25ec2067cfcaa4ea564e4323c026813004c1737ed8e7e",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "66,992.149953585347615064",
+    "hash": "0xb5f383946a4234b636b916bccf89f99ebc4cba6cf43d2ab70fdf1174f9225ced",
+    "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,395",
+    "hash": "0x15e79a02867701acecc9e4d68ca7f85aa21ef1beae3bb62bf2c0d738b8eb9d15",
+    "token": "SENTINEL PRO... (UPP)"
+  }
+]
