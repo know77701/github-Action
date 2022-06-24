@@ -154,5 +154,17 @@
     "value": "145,589,656.942493187220762737",
     "hash": "0xdd87b968255f71ed901ca0c0e76ab02377ea5c5bb1255daa792a5a3b74ebeaf0",
     "token": "Threshold Ne... (T)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "16,876.748942",
+    "hash": "0xc293fae9774a01aa36d5034b504e5df8ac526d4f639acd14a9c2b5ae3dfaf85c",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,672.26631426",
+    "hash": "0x1dae1d48bc62ca072b2f8c855abbe3860a3bfe367f489a7fb878c39b52d6f924",
+    "token": "Strike Token (STRK)"
   }
 ]
