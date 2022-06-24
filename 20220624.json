@@ -148,5 +148,11 @@
     "value": "3,395",
     "hash": "0x15e79a02867701acecc9e4d68ca7f85aa21ef1beae3bb62bf2c0d738b8eb9d15",
     "token": "SENTINEL PRO... (UPP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,589,656.942493187220762737",
+    "hash": "0xdd87b968255f71ed901ca0c0e76ab02377ea5c5bb1255daa792a5a3b74ebeaf0",
+    "token": "Threshold Ne... (T)"
   }
 ]
