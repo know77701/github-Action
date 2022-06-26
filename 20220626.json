@@ -1,0 +1,80 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "19,914",
+    "hash": "0xd81d2546d3a837686e661e82c693ddc1acaf4b8464fb1cc1099291c9e09eb028",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,999",
+    "hash": "0xdd410092a680df790d8cbf1a78aa78be88a9975b6a236454b61a1b977af2e1fb",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,288.80616007",
+    "hash": "0xda474d335647b8aacd5cc6fd4a0f07cfdde7f4b76484144581c4e8fcc86e85f6",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,105.5",
+    "hash": "0x46176905017d2e7a603edd31779d097fb26bc4dd14ffcab9e741eff58fff1cd5",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,644.665071417324599456",
+    "hash": "0x412e96bca5fbd791fe1b9ce7dab6bdb56161a9c0a71aeb2bba55f12487e8972d",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "351.723621767992867016",
+    "hash": "0x9b63d260b529f1fd5dc34825fba2fcecfc7724c4cd82f6767ec5111593bf596c",
+    "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "12,130.203621230165436741",
+    "hash": "0x7cefc264b49e928e7d963ed64865d5bad2080744bff8b78d408c367f6c001a74",
+    "token": "Pundi X Toke... (PUNDIX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,342.61397638042638228",
+    "hash": "0xd35f378b14440f9d2c2d141fe120325412e3d20745c7e59c5309120916647ffa",
+    "token": "API3 (API3)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "29,297.34105785417900032",
+    "hash": "0x70753a947a9c3567cb88b06f6df8a5a529eb0d3ae840d0c6ba1958221b3ff112",
+    "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,927.626847368777093622",
+    "hash": "0xf96c2c214efd1aa3dccefb6842bec8603f7ae872d820591fbde619394df6bae1",
+    "token": "Render Token (RNDR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,970.2284801691615232",
+    "hash": "0x7033cccfc835efa15252c0226f3900b8f947df9316cf832d83220384e6d24bad",
+    "token": "Ocean Token (OCEAN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "325,254.668878136960876544",
+    "hash": "0x15c8501aaa04259d07d6e217f45d7c463f27ca1a8b8a4f60896aa78c8598c14b",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "81,147.918139996685949555",
+    "hash": "0x8fc783d7cc78fcf6165e59e04c4808d7bb668482c373f36626c515a678d1d5c6",
+    "token": "BAT (BAT)"
+  }
+]
