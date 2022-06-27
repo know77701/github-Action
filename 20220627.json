@@ -88,5 +88,11 @@
     "value": "81,147.918139996685949555",
     "hash": "0x8fc783d7cc78fcf6165e59e04c4808d7bb668482c373f36626c515a678d1d5c6",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "337.43343525",
+    "hash": "0x281e3a9664ad39014433d3b8ccc6cd7a5289d258ae643706f3a8868046639150",
+    "token": "NuCypher (NU)"
   }
 ]
