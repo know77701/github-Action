@@ -94,5 +94,11 @@
     "value": "81,147.918139996685949555",
     "hash": "0x8fc783d7cc78fcf6165e59e04c4808d7bb668482c373f36626c515a678d1d5c6",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,626.62079856",
+    "hash": "0x3cce816156aa40f7945ce336cd000c375a7238cbf8be0ccb418912cb9fc283f9",
+    "token": "chiliZ (CHZ)"
   }
 ]
