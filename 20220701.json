@@ -94,5 +94,11 @@
     "value": "325,254.668878136960876544",
     "hash": "0x15c8501aaa04259d07d6e217f45d7c463f27ca1a8b8a4f60896aa78c8598c14b",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,689.3502",
+    "hash": "0xa83ab25780335a17df857babf704b65584f26190dcd7c07849d603f47d439971",
+    "token": "Matic Token (MATIC)"
   }
 ]
