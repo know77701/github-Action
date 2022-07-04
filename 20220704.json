@@ -82,5 +82,11 @@
     "value": "29,297.34105785",
     "hash": "0x70753a947a9c3567cb88b06f6df8a5a529eb0d3ae840d0c6ba1958221b3ff112",
     "token": "Adventure Go... (AGLD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,055.38339732",
+    "hash": "0xa59806c79d028764bf8ce008acdd28eac7e9665d839720e2bb9c6466a628a699",
+    "token": "Numeraire (NMR)"
   }
 ]
