@@ -70,5 +70,23 @@
     "value": "351.72362176",
     "hash": "0x9b63d260b529f1fd5dc34825fba2fcecfc7724c4cd82f6767ec5111593bf596c",
     "token": "Radicle (RAD)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,324.1874048",
+    "hash": "0x2548775268c19983f9bb8062d5d21b589a70a5f9ad8fc1320d1771f687d386f4",
+    "token": "Tranche Fina... (SLICE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76.18983485",
+    "hash": "0x955c6b367df3c26e0fdcab014135093bbd6bcbad4dfefa35a2f3ea7f826c2848",
+    "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "76,470",
+    "hash": "0xc7d6657f2ad5a0c24298d62da1cd49e0a87e6d3fd6cec5b0f94cb396cc6ace3d",
+    "token": "SIRIN (SRN)"
   }
 ]
