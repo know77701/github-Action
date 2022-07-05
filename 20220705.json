@@ -1,0 +1,74 @@
+[
+  {
+    "inAndOut": "OUT",
+    "value": "2,055.38339732",
+    "hash": "0xa59806c79d028764bf8ce008acdd28eac7e9665d839720e2bb9c6466a628a699",
+    "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,689.3502",
+    "hash": "0xa83ab25780335a17df857babf704b65584f26190dcd7c07849d603f47d439971",
+    "token": "Matic Token (MATIC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,626.62079856",
+    "hash": "0x3cce816156aa40f7945ce336cd000c375a7238cbf8be0ccb418912cb9fc283f9",
+    "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "337.43343525",
+    "hash": "0x281e3a9664ad39014433d3b8ccc6cd7a5289d258ae643706f3a8868046639150",
+    "token": "NuCypher (NU)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "919",
+    "hash": "0x5c9df7049731adbc0333755e02129603d4c909869bd8bb6f95be15d3a6b98c31",
+    "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "933.007",
+    "hash": "0xf0d469a7dd6b64e1bf989763e773e1c7ef84ac7f3f4bf7574c08c2a3ce66bfe0",
+    "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "19,914",
+    "hash": "0xd81d2546d3a837686e661e82c693ddc1acaf4b8464fb1cc1099291c9e09eb028",
+    "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "14,999",
+    "hash": "0xdd410092a680df790d8cbf1a78aa78be88a9975b6a236454b61a1b977af2e1fb",
+    "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "83,288.80616007",
+    "hash": "0xda474d335647b8aacd5cc6fd4a0f07cfdde7f4b76484144581c4e8fcc86e85f6",
+    "token": "district0x (DNT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,105.5",
+    "hash": "0x46176905017d2e7a603edd31779d097fb26bc4dd14ffcab9e741eff58fff1cd5",
+    "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "3,644.66507141",
+    "hash": "0x412e96bca5fbd791fe1b9ce7dab6bdb56161a9c0a71aeb2bba55f12487e8972d",
+    "token": "Gitcoin (GTC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "351.72362176",
+    "hash": "0x9b63d260b529f1fd5dc34825fba2fcecfc7724c4cd82f6767ec5111593bf596c",
+    "token": "Radicle (RAD)"
+  }
+]
