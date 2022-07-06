@@ -100,5 +100,11 @@
     "value": "161,440.2499",
     "hash": "0x13e938be82b18f5c06aa9db2fa1ca5dd2ae024c15d69e0781d21799cb35a82fd",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,465.0736",
+    "hash": "0x7d94fcc0f193a93b4c2fc870bfae389813ab3df3722ee80c7de2c4219fc40fe3",
+    "token": "Adventure Go... (AGLD)"
   }
 ]
