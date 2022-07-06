@@ -76,5 +76,11 @@
     "value": "2,105.5",
     "hash": "0x46176905017d2e7a603edd31779d097fb26bc4dd14ffcab9e741eff58fff1cd5",
     "token": "PlayDapp Tok... (PLA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "15,465.0736",
+    "hash": "0x07044a4ac3c86ab12fca39b20c5f2f6f26e919b9573f240c322f7290a7d76985",
+    "token": "ARPA Token (ARPA)"
   }
 ]
