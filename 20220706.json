@@ -88,5 +88,17 @@
     "value": "130,304.5168",
     "hash": "0x88ee2e13ec7e53d9605feeb12e9ced29aca56cd729e28a6b251efb7c0a9d404e",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "310,440.001",
+    "hash": "0xf5eeaf56122c0ae72a6ab9581245bd9f993ebbca630743a599f12ddbd1d732f7",
+    "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "161,440.2499",
+    "hash": "0x13e938be82b18f5c06aa9db2fa1ca5dd2ae024c15d69e0781d21799cb35a82fd",
+    "token": "ARPA Token (ARPA)"
   }
 ]
