@@ -88,5 +88,11 @@
     "value": "19,914",
     "hash": "0xd81d2546d3a837686e661e82c693ddc1acaf4b8464fb1cc1099291c9e09eb028",
     "token": "Onbuff Token (ONIT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "11",
+    "hash": "0x53b11bde41af49d54016e03669ab21c4c42a4cae2149ba7dfa2a6da941488105",
+    "token": "Dai Stableco... (DAI)"
   }
 ]
