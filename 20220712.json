@@ -88,5 +88,11 @@
     "value": "933.007",
     "hash": "0xf0d469a7dd6b64e1bf989763e773e1c7ef84ac7f3f4bf7574c08c2a3ce66bfe0",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,000",
+    "hash": "0x1e775c558cafd27bc4282ee470252b15ee82e7c9a86029619f8f7affac601a38",
+    "token": "Aergo (AERGO)"
   }
 ]
