@@ -88,5 +88,11 @@
     "value": "919",
     "hash": "0x5c9df7049731adbc0333755e02129603d4c909869bd8bb6f95be15d3a6b98c31",
     "token": "Dawn (DAWN)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "7,993.53",
+    "hash": "0xe2df6fcd8f51b0690d74b368afec4b5efb8f04767beaf6048e54b08b48f75d9a",
+    "token": "Synthetix Ne... (SNX)"
   }
 ]
