@@ -88,5 +88,11 @@
     "value": "3,626.62079856",
     "hash": "0x3cce816156aa40f7945ce336cd000c375a7238cbf8be0ccb418912cb9fc283f9",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "205",
+    "hash": "0x983d7ce3bd0822ece2918b53d3a78676102c137d5165b68f8cc1c00d4e806e6d",
+    "token": "Token Promet... (PROM)"
   }
 ]
