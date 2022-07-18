@@ -94,5 +94,11 @@
     "value": "936.16075748",
     "hash": "0x29a271261c1bc701a23e302171158f6b1771078c78a5fe15a0ae737a989a3877",
     "token": "StormX (STMX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "336.65355157",
+    "hash": "0x50f31e39d27ed7de910337a0434ff855bf8281765c2ee2cf554231ec83e933ec",
+    "token": "Immutable X (IMX)"
   }
 ]
