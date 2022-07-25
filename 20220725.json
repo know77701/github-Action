@@ -94,5 +94,11 @@
     "value": "2,055.38339732",
     "hash": "0xa59806c79d028764bf8ce008acdd28eac7e9665d839720e2bb9c6466a628a699",
     "token": "Numeraire (NMR)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "9,046.12",
+    "hash": "0xcdc22bebdaabbe112a106bd520673a8031dd0ef99597e978ea5b3f5a2ca8767e",
+    "token": "Ethereum Nam... (ENS)"
   }
 ]
