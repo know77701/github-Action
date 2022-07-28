@@ -88,5 +88,11 @@
     "value": "76.18983485",
     "hash": "0x955c6b367df3c26e0fdcab014135093bbd6bcbad4dfefa35a2f3ea7f826c2848",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "600",
+    "hash": "0xd8ca79c56d57aa4856a1fc72eb872cd01e205a4753a872e5901aae5a129d94a0",
+    "token": "Cobak Token (CBK)"
   }
 ]
