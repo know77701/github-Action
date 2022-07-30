@@ -82,5 +82,11 @@
     "value": "15,465.0736",
     "hash": "0x07044a4ac3c86ab12fca39b20c5f2f6f26e919b9573f240c322f7290a7d76985",
     "token": "ARPA Token (ARPA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "145,824.3871",
+    "hash": "0x29afa283ac06f58b38bbc368117c3f31c05735d6eab539fdaf561507eb2a1ab4",
+    "token": "Healthcare A... (SOLVE)"
   }
 ]
