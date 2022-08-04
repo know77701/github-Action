@@ -64,5 +64,11 @@
     "value": "11",
     "hash": "0x53b11bde41af49d54016e03669ab21c4c42a4cae2149ba7dfa2a6da941488105",
     "token": "Dai Stableco... (DAI)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "61,118.22975",
+    "hash": "0xc976774bddf6d23e57be9b8f2a9c287f31b1feb6e89cedb7e079361ca58b5fd0",
+    "token": "Tether USD (USDT)"
   }
 ]
