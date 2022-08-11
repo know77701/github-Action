@@ -70,5 +70,11 @@
     "value": "10,000",
     "hash": "0x1e775c558cafd27bc4282ee470252b15ee82e7c9a86029619f8f7affac601a38",
     "token": "Aergo (AERGO)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "25,000",
+    "hash": "0xf11cd6f780de9583aea2252f3f62b65dd1daf3fd7a4a3eb4f5e6b69d4e448e9b",
+    "token": "Cobak Token (CBK)"
   }
 ]
