@@ -70,5 +70,11 @@
     "value": "7,993.53",
     "hash": "0xe2df6fcd8f51b0690d74b368afec4b5efb8f04767beaf6048e54b08b48f75d9a",
     "token": "Synthetix Ne... (SNX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "262,798.29451654",
+    "hash": "0xb20cd05adab48897b0788c2b81e45ee77e7acf9bb10e154b1555753591c50c79",
+    "token": "CarryToken (CRE)"
   }
 ]
