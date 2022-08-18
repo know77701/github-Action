@@ -64,5 +64,11 @@
     "value": "205",
     "hash": "0x983d7ce3bd0822ece2918b53d3a78676102c137d5165b68f8cc1c00d4e806e6d",
     "token": "Token Promet... (PROM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "45,220",
+    "hash": "0xf245e5aa3af977fe161f7c9bdf61be569efe57ec45cc1df21bfc032ecbb43360",
+    "token": "Civic (CVC)"
   }
 ]
