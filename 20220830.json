@@ -64,5 +64,11 @@
     "value": "9,046.12",
     "hash": "0xcdc22bebdaabbe112a106bd520673a8031dd0ef99597e978ea5b3f5a2ca8767e",
     "token": "Ethereum Nam... (ENS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "30,183.782328",
+    "hash": "0xc7245b1c755b7c18d4e4add54f60590b6726fd7475e8239788dbc43cb246eb61",
+    "token": "Tether USD (USDT)"
   }
 ]
