@@ -58,5 +58,11 @@
     "value": "4,993.88098",
     "hash": "0x7013c3afc077fc09cca53ca2db80cade19ef1de93d0d48255bb064239aa38f7b",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "68,539.2",
+    "hash": "0x96573d77ee8fa4d2663a21f0dd07701f6ca2eb9da83a6e5dcfdf76ea1df40635",
+    "token": "dKargo (DKA)"
   }
 ]
