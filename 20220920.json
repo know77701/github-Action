@@ -64,5 +64,11 @@
     "value": "4,993.88098",
     "hash": "0x7013c3afc077fc09cca53ca2db80cade19ef1de93d0d48255bb064239aa38f7b",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "500,000",
+    "hash": "0x2dec62d8ce917c3ea99d831fa95e542f0d8b12af7e1b3bfee1508f2ad41caf07",
+    "token": "Humanscape (HUM)"
   }
 ]
