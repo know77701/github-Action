@@ -58,5 +58,11 @@
     "value": "25,000",
     "hash": "0xf11cd6f780de9583aea2252f3f62b65dd1daf3fd7a4a3eb4f5e6b69d4e448e9b",
     "token": "Cobak Token (CBK)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "2,624",
+    "hash": "0x4ba115ff9e1557af8146607d93beb85f6d6cb118e5bc62a5eaa260bc861b461c",
+    "token": "Decentraland (MANA)"
   }
 ]
