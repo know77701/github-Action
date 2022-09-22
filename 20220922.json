@@ -58,5 +58,11 @@
     "value": "262,798.29451654",
     "hash": "0xb20cd05adab48897b0788c2b81e45ee77e7acf9bb10e154b1555753591c50c79",
     "token": "CarryToken (CRE)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "91,333.03",
+    "hash": "0x75f1b899b0cbfa4adbf034dfef720934fbd431db0e0107adad6004b399a7ead4",
+    "token": "1INCH Token (1INCH)"
   }
 ]
