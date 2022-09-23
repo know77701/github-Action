@@ -58,5 +58,11 @@
     "value": "45,220",
     "hash": "0xf245e5aa3af977fe161f7c9bdf61be569efe57ec45cc1df21bfc032ecbb43360",
     "token": "Civic (CVC)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "399,996.8",
+    "hash": "0x363a4608db095b825f6deb22b8c8500146aa4610a56ce130f3cf6fd35fabc65f",
+    "token": "Function X (FX)"
   }
 ]
