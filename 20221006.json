@@ -58,5 +58,11 @@
     "value": "2,526.01381689",
     "hash": "0xd2ab96939c6a989fdaffd33c08b395f95f41326ba25b9c3bde99fd4fb658b9ba",
     "token": "Axie Infinit... (AXS)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "445",
+    "hash": "0x7502e1915efcdcdd68c06bc29d373ec77378443ed5b214375442ab383f0e19f9",
+    "token": "chiliZ (CHZ)"
   }
 ]
