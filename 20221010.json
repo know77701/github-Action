@@ -64,5 +64,11 @@
     "value": "1,915",
     "hash": "0x009342747de6007711b6c0ee9103c4c86bbc778a60cb661911d3f57b13eec3f8",
     "token": "BAT (BAT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "273,539",
+    "hash": "0x4580e937248a41e16d93b98d8c4d674522f4075b58ef1b02a74d96705c395bbb",
+    "token": "dKargo (DKA)"
   }
 ]
