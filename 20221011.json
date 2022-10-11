@@ -64,5 +64,11 @@
     "value": "30,183.782328",
     "hash": "0xc7245b1c755b7c18d4e4add54f60590b6726fd7475e8239788dbc43cb246eb61",
     "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,280",
+    "hash": "0xacad67da3cf838fb3a8ac7e0a6a9121ac357d1e8eb3b51a9d6317bbc5a2f2d1a",
+    "token": "Aergo (AERGO)"
   }
 ]
