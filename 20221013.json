@@ -70,5 +70,11 @@
     "value": "30,183.782328",
     "hash": "0xc7245b1c755b7c18d4e4add54f60590b6726fd7475e8239788dbc43cb246eb61",
     "token": "Tether USD (USDT)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "380.90413095",
+    "hash": "0x9064a6ac3e15e30a7d66a1e79c2e04b93338516cd77f7d9fbd81cae99e6fb586",
+    "token": "Render Token (RNDR)"
   }
 ]
