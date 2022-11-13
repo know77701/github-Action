@@ -70,5 +70,11 @@
     "value": "500,000",
     "hash": "0x2dec62d8ce917c3ea99d831fa95e542f0d8b12af7e1b3bfee1508f2ad41caf07",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "150,000",
+    "hash": "0x2978b2472db752e60f927d2a17abbef71122c965e1bf91cc6ba3e1f637aedc79",
+    "token": "Humanscape (HUM)"
   }
 ]
