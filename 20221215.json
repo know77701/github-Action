@@ -70,5 +70,11 @@
     "value": "6,517",
     "hash": "0x88a7fe1959accc2c55f5998e0813a7f1e80f31a7007153c586e33fc72a2fad1d",
     "token": "SAND (SAND)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "41.8028",
+    "hash": "0xf75820536952b75e5b9edc2d79549e72d1b0d543b5bb264a50f3edf8f9e75897",
+    "token": "Reputation (REPv2)"
   }
 ]
