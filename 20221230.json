@@ -70,5 +70,17 @@
     "value": "2,624",
     "hash": "0x4ba115ff9e1557af8146607d93beb85f6d6cb118e5bc62a5eaa260bc861b461c",
     "token": "Decentraland (MANA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "4,753.16062521",
+    "hash": "0x0618d62c52426a46b8ca51b2a1323b1d2177fc7ff6d8c48984688a018de0989a",
+    "token": "SENTINEL PRO... (UPP)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32,805.36464",
+    "hash": "0x818e297378c4fe8e14eae7fdd8606262d23afa04434e72e578d990b6b67873bb",
+    "token": "Cobak Token (CBK)"
   }
 ]
