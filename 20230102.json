@@ -70,5 +70,11 @@
     "value": "399,996.8",
     "hash": "0x363a4608db095b825f6deb22b8c8500146aa4610a56ce130f3cf6fd35fabc65f",
     "token": "Function X (FX)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "32.76223732",
+    "hash": "0x67e90478b2871276f8e4bce6d2824ab88c348b893619e6ac6f70b52b3d40a21b",
+    "token": "Compound (COMP)"
   }
 ]
