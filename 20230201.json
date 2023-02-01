@@ -70,5 +70,11 @@
     "value": "445",
     "hash": "0x7502e1915efcdcdd68c06bc29d373ec77378443ed5b214375442ab383f0e19f9",
     "token": "chiliZ (CHZ)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "708.70836594",
+    "hash": "0x2ac006c5ea4479ace3ba108ccb8e41665f3872f2dea6841ccea938095c73db0a",
+    "token": "Humanscape (HUM)"
   }
 ]
