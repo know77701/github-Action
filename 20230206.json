@@ -70,5 +70,17 @@
     "value": "11,893",
     "hash": "0xb92a4f7b364b131c9ed45bdfb727695fe8e62482a8e6bcfc4a4d1d92b7d22540",
     "token": "dKargo (DKA)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "0",
+    "hash": "0x2a874398d00f4a6b511929cfd0c84cbac1ec16644e84f94d4f05e23db84065ab",
+    "token": "SHIBA INU (SHIB)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,178,251,079.83503958",
+    "hash": "0x140a39969b180683c511c37d1e3dba057c355b7cef5a2baddee508741bc0f55f",
+    "token": "SHIBA INU (SHIB)"
   }
 ]
