@@ -88,5 +88,11 @@
     "value": "1,178,251,079.83503958",
     "hash": "0xd80cd7d99850cdaae353078a5b58192f1017d7b82eb5a62c51e0636dceec27dc",
     "token": "SHIBA INU (SHIB)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "1,280.31225343",
+    "hash": "0x5d17bf42fbd06050c2697211092ff2f4489ad2c20a4bd4bf94cc862156ae598b",
+    "token": "Reputation (REPv2)"
   }
 ]
