@@ -94,5 +94,11 @@
     "value": "1,280.31225343",
     "hash": "0x5d17bf42fbd06050c2697211092ff2f4489ad2c20a4bd4bf94cc862156ae598b",
     "token": "Reputation (REPv2)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "622",
+    "hash": "0xea3a3bd2d256444d087727894f7f385f376259ee77c4b68464883f8ac436ab65",
+    "token": "Ocean Token (OCEAN)"
   }
 ]
