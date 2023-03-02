@@ -70,5 +70,11 @@
     "value": "150,000",
     "hash": "0x2978b2472db752e60f927d2a17abbef71122c965e1bf91cc6ba3e1f637aedc79",
     "token": "Humanscape (HUM)"
+  },
+  {
+    "inAndOut": "OUT",
+    "value": "10,198.82163009",
+    "hash": "0xe2bdaf2e3336ca95a548470e889fccd2e3165444f7b4fe967e1f8a2a1d7221cc",
+    "token": "Bifrost (BFC)"
   }
 ]
